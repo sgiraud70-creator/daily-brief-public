@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import datetime as dt
 from typing import Optional
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -120,11 +121,13 @@ def normalize(raw: dict, tz: str) -> dict:
             "tmin": round(daily["temperature_2m_min"][j]),
         })
 
+    # Nuit calculée en heure LOCALE (Paris), pas en heure du serveur (UTC)
+    local_hour = dt.datetime.now(ZoneInfo(tz)).hour
     current = {
         "temp": round(cur.get("temperature_2m", daily["temperature_2m_max"][0])),
         "feels": round(cur.get("apparent_temperature", cur.get("temperature_2m", 0))),
         "code": int(cur.get("weather_code", daily["weather_code"][0])),
-        "is_night": _is_night(dt.datetime.now().hour),
+        "is_night": _is_night(local_hour),
         "tmax": round(daily["temperature_2m_max"][0]),
         "tmin": round(daily["temperature_2m_min"][0]),
         "precip_prob": int(daily.get("precipitation_probability_max", [0])[0] or 0),
