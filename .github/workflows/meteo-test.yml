@@ -1,0 +1,55 @@
+name: Test météo (réel)
+
+# Workflow temporaire de validation : exécute la vraie collecte Open-Meteo sur
+# les runners GitHub (réseau ouvert), puis publie l'image réelle sur la branche
+# de travail et en artefact. Se déclenche à chaque push sur la branche (sauf
+# quand seul public/ change → le commit du bot ne se redéclenche pas de toute
+# façon, GITHUB_TOKEN ne déclenche pas de workflow).
+
+on:
+  push:
+    branches: [claude/project-overview-kalf7c]
+    paths-ignore: ["public/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meteo-test
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Collecte météo RÉELLE (Open-Meteo)
+        run: python -m scripts.build_weather
+
+      - name: Artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: weather
+          path: |
+            public/weather.png
+            public/weather_table.html
+            public/weather_alt.txt
+
+      - name: Publier l'image réelle sur la branche
+        run: |
+          git config user.name  "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add public/
+          if git diff --cached --quiet; then
+            echo "Rien à publier."
+          else
+            git commit -m "test: bloc météo généré avec données réelles Open-Meteo"
+            git push
+          fi
