@@ -1,0 +1,178 @@
+{
+  "date_str": "Lundi 14 septembre 2026",
+  "audio_minutes": 11,
+  "read_minutes": 4,
+  "rubriques": [
+    {
+      "label": "Fête du jour",
+      "fete": "Aujourd'hui, on souhaite leur fête aux Aimé."
+    },
+    {
+      "label": "Actualité locale", "volume": "Loulans-Verchamp & alentours",
+      "sujets": [
+        {
+          "title": "Rioz : la déviation de la RN57 rouvre après travaux",
+          "bullets": [
+            "La circulation est rétablie dans les deux sens depuis ce week-end.",
+            "Les riverains d'Aubertans et Montbozon retrouvent un accès direct.",
+            "Des ralentissements ponctuels restent possibles cette semaine."
+          ],
+          "sources": [{"name": "Préfecture de la Haute-Saône", "url": "https://www.haute-saone.gouv.fr/"}]
+        },
+        {
+          "title": "Haute-Saône : appel aux bénévoles pour les vendanges",
+          "bullets": [
+            "Plusieurs exploitations du secteur cherchent des saisonniers.",
+            "La récolte est avancée d'une semaine après l'été chaud.",
+            "Contact via les mairies et la chambre d'agriculture."
+          ],
+          "sources": [{"name": "France Bleu Besançon", "url": "https://www.francebleu.fr/besancon"}]
+        }
+      ]
+    },
+    {
+      "label": "France", "volume": "5 sujets",
+      "sujets": [
+        {
+          "title": "Canicules : la croissance amputée de 0,1 point en 2026",
+          "bullets": [
+            "Les trois vagues de chaleur de l'été pèsent sur l'activité.",
+            "Le recul de la production agricole est le principal facteur.",
+            "L'impact reste limité à l'échelle de l'économie nationale."
+          ],
+          "sources": [{"name": "Euronews — 14 sept. 2026", "url": "https://fr.euronews.com/video/2026/09/14/linfo-du-jour-14-septembre-2026-matin"}]
+        },
+        {
+          "title": "JO 2030 : Vincent Roberti assure l'intérim",
+          "bullets": [
+            "Il prend la tête du comité d'organisation après la démission d'Edgard Grospiro.",
+            "La recherche d'un président pérenne est lancée.",
+            "Le calendrier de préparation n'est pas modifié à ce stade."
+          ],
+          "sources": [{"name": "Euronews — 14 sept. 2026", "url": "https://fr.euronews.com/video/2026/09/14/linfo-du-jour-14-septembre-2026-matin"}]
+        },
+        {
+          "title": "Mouvement de grève : programmes perturbés",
+          "bullets": [
+            "Des perturbations sont signalées les 13 et 14 septembre.",
+            "Plusieurs services et grilles de programmes sont touchés.",
+            "Un retour à la normale est attendu en début de semaine."
+          ],
+          "sources": [{"name": "Euronews — 13 sept. 2026", "url": "https://fr.euronews.com/video/2026/09/13/linfo-du-jour-13-septembre-2026-soir"}]
+        }
+      ]
+    },
+    {
+      "label": "International", "volume": "5 sujets",
+      "sujets": [
+        {
+          "title": "Conférence de sécurité de Munich : ouverture des travaux",
+          "bullets": [
+            "Les dossiers de défense européenne dominent l'agenda.",
+            "Plusieurs chefs de la diplomatie sont attendus.",
+            "Des annonces de coopération sont espérées en clôture."
+          ],
+          "sources": [{"name": "Euronews International", "url": "https://www.euronews.com/news/international"}]
+        }
+      ]
+    },
+    {
+      "label": "IA & nouvelles technologies", "volume": "≤ 7",
+      "sujets": [
+        {
+          "title": "Les modèles multimodaux embarqués se généralisent",
+          "bullets": [
+            "Plusieurs acteurs annoncent des modèles tournant sur appareil.",
+            "L'enjeu : confidentialité et fonctionnement hors-ligne.",
+            "Les usages visés : assistants, photo, accessibilité."
+          ],
+          "sources": [{"name": "Exemple (à sourcer)", "url": "https://example.com"}]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation", "volume": "≤ 7",
+      "sujets": [
+        {
+          "title": "Idée projet : un agent de veille RSS → e-mail",
+          "bullets": [
+            "Assembler flux RSS, filtrage et résumé automatique.",
+            "Opportunité : lettres d'information de niche.",
+            "Réalisable à budget nul avec des outils gratuits."
+          ],
+          "sources": [{"name": "Exemple (à sourcer)", "url": "https://example.com"}]
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D", "volume": "≤ 7",
+      "sujets": [
+        {
+          "title": "Résine : de nouveaux profils basse odeur arrivent",
+          "bullets": [
+            "Des fabricants mettent en avant des résines moins irritantes.",
+            "Compatibles avec la plupart des imprimantes LCD récentes.",
+            "Le post-traitement reste identique."
+          ],
+          "sources": [{"name": "Exemple (à sourcer)", "url": "https://example.com"}]
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique", "volume": "2 à 4",
+      "sujets": [
+        {
+          "title": "Énergie : nouveaux repères tarifaires cet automne",
+          "bullets": [
+            "Des évolutions de tarifs entrent en vigueur.",
+            "Vérifier son contrat et les offres de marché.",
+            "Attention aux démarchages abusifs."
+          ],
+          "sources": [{"name": "Service-Public", "url": "https://www.service-public.fr/"}]
+        }
+      ]
+    },
+    {
+      "label": "Sport — général", "volume": "bref",
+      "sujets": [
+        {
+          "title": "Tennis : un top 10 ATP sans Djokovic, Nadal ni Federer",
+          "bullets": [
+            "Une première depuis octobre 2002.",
+            "Le renouvellement générationnel se confirme.",
+            "Le classement rebat les têtes de série."
+          ],
+          "sources": [{"name": "Euronews — 14 sept. 2026", "url": "https://fr.euronews.com/video/2026/09/14/linfo-du-jour-14-septembre-2026-matin"}]
+        }
+      ]
+    },
+    {
+      "label": "Pittsburgh Steelers", "volume": "détaillé",
+      "sujets": [
+        {
+          "title": "Prochain match : Steelers @ adversaire (exemple)",
+          "bullets": [
+            "Compétition : NFL, saison régulière.",
+            "Date et heure françaises : à confirmer selon calendrier réel.",
+            "Lieu : à domicile / à l'extérieur — à confirmer.",
+            "Diffusion : aucune chaîne annoncée sans vérification."
+          ],
+          "sources": [{"name": "ESPN (à brancher)", "url": "https://www.espn.com/nfl/team/_/name/pit"}]
+        }
+      ]
+    },
+    {
+      "label": "PSG", "volume": "bref",
+      "sujets": [
+        {
+          "title": "Prochain match du PSG (exemple)",
+          "bullets": [
+            "Compétition, adversaire, date et heure : à brancher sur données réelles.",
+            "Classement du PSG et de l'adversaire quand la compétition s'y prête."
+          ],
+          "sources": [{"name": "ESPN (à brancher)", "url": "https://www.espn.com/soccer/team/_/id/160/paris-saint-germain"}]
+        }
+      ]
+    }
+  ]
+}
