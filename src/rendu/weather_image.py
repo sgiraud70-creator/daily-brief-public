@@ -24,8 +24,12 @@ GOLD_HI = (231, 205, 134)
 GOLD_DEEP = (143, 111, 44)
 PAPER = (241, 237, 228)
 MUTED = (164, 159, 147)
-STEEL = (143, 183, 214)   # précipitations
+STEEL = (140, 178, 214)   # précipitations
 CRIT = (207, 107, 92)
+SUN = (255, 200, 51)      # vrai jaune soleil
+SUN_EDGE = (243, 176, 26)
+CLOUD = (214, 219, 228)   # nuage clair (blanc cassé bleuté)
+CLOUD_SH = (176, 184, 199)  # ombre basse du nuage
 
 SS = 2  # supersampling
 W, H = 760, 468
@@ -42,49 +46,61 @@ def _px(v: int) -> int:
 
 
 # ---------------------------------------------------------------- icônes ----
-def _sun(d, cx, cy, r, col=GOLD, rays=True):
-    lw = max(2, 2 * SS)
+# Toutes les icônes tiennent dans une boîte de côté ~= `size`, centrée en
+# (cx, cy). Les rayons du soleil sont proportionnels au rayon pour NE JAMAIS
+# déborder au-delà de la boîte (donc jamais sur le texte au-dessus).
+
+def _sun(d, cx, cy, r, col=SUN, rays=True):
     if rays:
+        lw = max(2, int(r * 0.30))
+        inner = r + max(2 * SS, int(r * 0.30))
+        outer = r + max(5 * SS, int(r * 0.75))
         for k in range(8):
             a = k * math.pi / 4
-            x1, y1 = cx + math.cos(a) * (r + 4 * SS), cy + math.sin(a) * (r + 4 * SS)
-            x2, y2 = cx + math.cos(a) * (r + 11 * SS), cy + math.sin(a) * (r + 11 * SS)
+            x1, y1 = cx + math.cos(a) * inner, cy + math.sin(a) * inner
+            x2, y2 = cx + math.cos(a) * outer, cy + math.sin(a) * outer
             d.line([(x1, y1), (x2, y2)], fill=col, width=lw)
+            d.ellipse([x2 - lw / 2, y2 - lw / 2, x2 + lw / 2, y2 + lw / 2], fill=col)  # bout arrondi
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=col, outline=SUN_EDGE, width=max(1, SS))
+
+
+def _moon(d, cx, cy, r, col=(245, 240, 220)):
     d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=col)
+    off = int(r * 0.65)
+    d.ellipse([cx - r + off, cy - r - off // 2, cx + r + off, cy + r - off // 2], fill=INK)
 
 
-def _moon(d, cx, cy, r, col=GOLD_HI):
-    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=col)
-    off = int(r * 0.7)
-    d.ellipse([cx - r + off, cy - r - off // 2,
-               cx + r + off, cy + r - off // 2], fill=INK)
-
-
-def _cloud(d, cx, cy, w, outline=PAPER, fill=PANEL2):
-    lw = max(2, 2 * SS)
-    r = w // 4
-    # trois bosses + base
-    d.ellipse([cx - w // 2, cy - r, cx - w // 2 + int(r * 1.6), cy + r], fill=fill, outline=outline, width=lw)
-    d.ellipse([cx - r, cy - int(r * 1.4), cx + r, cy + r], fill=fill, outline=outline, width=lw)
-    d.ellipse([cx + w // 2 - int(r * 1.6), cy - r, cx + w // 2, cy + r], fill=fill, outline=outline, width=lw)
-    d.rectangle([cx - w // 2 + 2, cy, cx + w // 2 - 2, cy + r], fill=fill)
-    d.line([(cx - w // 2 + int(r * 0.4), cy + r), (cx + w // 2 - int(r * 0.4), cy + r)], fill=outline, width=lw)
+def _cloud(d, cx, cy, w, fill=CLOUD):
+    """Nuage tout en rondeurs (silhouette pleine, sans contour dur)."""
+    r = max(4 * SS, w // 4)
+    # petite ombre basse pour le relief
+    d.ellipse([cx - w // 2, cy + r // 2, cx + w // 2, cy + r + r // 3], fill=CLOUD_SH)
+    bumps = [
+        (cx - w // 2, cy - r // 3, cx - w // 2 + int(r * 1.9), cy + r + r // 3),
+        (cx - int(r * 1.2), cy - int(r * 1.6), cx + int(r * 1.2), cy + r),
+        (cx + w // 2 - int(r * 1.9), cy - r // 3, cx + w // 2, cy + r + r // 3),
+    ]
+    d.rectangle([cx - w // 2 + r // 2, cy, cx + w // 2 - r // 2, cy + r + r // 4], fill=fill)
+    for b in bumps:
+        d.ellipse(b, fill=fill)
 
 
 def _drops(d, cx, cy, n=3, col=STEEL):
-    lw = max(2, 2 * SS)
+    span = (n - 1) * 7 * SS
     for k in range(n):
-        x = cx - (n - 1) * 5 * SS // 2 + k * 5 * SS
-        d.line([(x, cy), (x - 3 * SS, cy + 8 * SS)], fill=col, width=lw)
+        x = cx - span // 2 + k * 7 * SS
+        d.ellipse([x - 2 * SS, cy, x + 2 * SS, cy + 7 * SS], fill=col)          # goutte
+        d.polygon([(x - 2 * SS, cy + 2 * SS), (x + 2 * SS, cy + 2 * SS), (x, cy - 3 * SS)], fill=col)
 
 
-def _flakes(d, cx, cy, n=3, col=PAPER):
+def _flakes(d, cx, cy, n=3, col=(245, 248, 252)):
+    span = (n - 1) * 8 * SS
     for k in range(n):
-        x = cx - (n - 1) * 6 * SS // 2 + k * 6 * SS
+        x = cx - span // 2 + k * 8 * SS
         d.ellipse([x - 2 * SS, cy - 2 * SS, x + 2 * SS, cy + 2 * SS], fill=col)
 
 
-def _bolt(d, cx, cy, col=GOLD_HI):
+def _bolt(d, cx, cy, col=SUN):
     s = 5 * SS
     pts = [(cx, cy - 2 * s), (cx - s, cy + s), (cx, cy + s),
            (cx - s // 2, cy + 3 * s), (cx + s, cy - s // 2), (cx, cy - s // 2)]
@@ -95,32 +111,33 @@ def draw_icon(d, key, cx, cy, size, is_night=False):
     """Dessine une icône météo centrée en (cx, cy), gabarit ~ size px (échelle SS déjà appliquée)."""
     r = size // 3
     if key in ("clear", "mostly_clear"):
-        (_moon if is_night else _sun)(d, cx, cy, r)
+        (_moon if is_night else _sun)(d, cx, cy, int(r * 0.9))
     elif key == "partly":
+        off = int(r * 0.75)
         if is_night:
-            _moon(d, cx - r, cy - r, int(r * 0.8))
+            _moon(d, cx - off, cy - off, int(r * 0.75))
         else:
-            _sun(d, cx - r, cy - r, int(r * 0.7), rays=True)
-        _cloud(d, cx + 2 * SS, cy + 3 * SS, size - 6 * SS)
+            _sun(d, cx - off, cy - off, int(r * 0.68))
+        _cloud(d, cx + 3 * SS, cy + 5 * SS, size - 8 * SS)
     elif key == "overcast":
-        _cloud(d, cx, cy, size - 4 * SS)
+        _cloud(d, cx, cy, size - 6 * SS)
     elif key == "fog":
-        _cloud(d, cx, cy - 4 * SS, size - 8 * SS)
+        _cloud(d, cx, cy - 5 * SS, size - 10 * SS)
         lw = max(2, 2 * SS)
         for k in range(3):
-            yy = cy + 8 * SS + k * 5 * SS
-            d.line([(cx - size // 3, yy), (cx + size // 3, yy)], fill=MUTED, width=lw)
+            yy = cy + 7 * SS + k * 5 * SS
+            d.line([(cx - size // 4, yy), (cx + size // 4, yy)], fill=CLOUD_SH, width=lw)
     elif key in ("rain", "drizzle"):
-        _cloud(d, cx, cy - 5 * SS, size - 6 * SS)
-        _drops(d, cx, cy + 10 * SS, n=3 if key == "rain" else 2)
+        _cloud(d, cx, cy - 6 * SS, size - 8 * SS)
+        _drops(d, cx, cy + 9 * SS, n=3 if key == "rain" else 2)
     elif key == "snow":
-        _cloud(d, cx, cy - 5 * SS, size - 6 * SS)
-        _flakes(d, cx, cy + 11 * SS, n=3)
+        _cloud(d, cx, cy - 6 * SS, size - 8 * SS)
+        _flakes(d, cx, cy + 10 * SS, n=3)
     elif key == "thunder":
-        _cloud(d, cx, cy - 5 * SS, size - 6 * SS)
-        _bolt(d, cx, cy + 11 * SS)
+        _cloud(d, cx, cy - 6 * SS, size - 8 * SS)
+        _bolt(d, cx, cy + 10 * SS)
     else:
-        _cloud(d, cx, cy, size - 4 * SS)
+        _cloud(d, cx, cy, size - 6 * SS)
 
 
 # ---------------------------------------------------------------- texte ----
@@ -209,18 +226,19 @@ def render(data: dict, out_path: str, place: str = "Loulans-Verchamp",
         cx = int(M + colw * i + colw / 2)
         if i > 0:
             d.line([(int(M + colw * i), row_top + _px(2)),
-                    (int(M + colw * i), row_top + _px(96))], fill=LINE, width=1)
+                    (int(M + colw * i), row_top + _px(104))], fill=LINE, width=1)
         _text(d, (cx, row_top), s["hh"], f_hh, MUTED, anchor="ma")
-        draw_icon(d, icon_for(s["code"]), cx, row_top + _px(34),
-                  _px(30), is_night=s["is_night"])
-        _text(d, (cx, row_top + _px(54)), f"{s['temp']}°", f_val, GOLD_HI, anchor="ma")
+        # icône bien en dessous du libellé horaire (aucun recouvrement)
+        draw_icon(d, icon_for(s["code"]), cx, row_top + _px(42),
+                  _px(26), is_night=s["is_night"])
+        _text(d, (cx, row_top + _px(62)), f"{s['temp']}°", f_val, GOLD_HI, anchor="ma")
         pr = f"{s['precip']:.1f}".rstrip("0").rstrip(".")
-        _text(d, (cx, row_top + _px(74)),
+        _text(d, (cx, row_top + _px(82)),
               (f"{pr} mm" if s["precip"] > 0 else "—"), f_small,
               STEEL if s["precip"] > 0 else MUTED, anchor="ma")
-        _text(d, (cx, row_top + _px(88)), f"{s['wind']} km/h", f_small, MUTED, anchor="ma")
+        _text(d, (cx, row_top + _px(96)), f"{s['wind']} km/h", f_small, MUTED, anchor="ma")
 
-    y = row_top + _px(112)
+    y = row_top + _px(120)
     hr(y)
     y += _px(14)
     _text(d, (M, y), "PROCHAINS JOURS", f_sec, GOLD, tracking=2)
@@ -234,9 +252,9 @@ def render(data: dict, out_path: str, place: str = "Loulans-Verchamp",
         if i > 0:
             d.line([(int(M + colw * i), y), (int(M + colw * i), y + _px(78))], fill=LINE, width=1)
         _text(d, (cx, y), dd["name"], f_day, GOLD, anchor="ma")
-        draw_icon(d, icon_for(dd["code"]), cx, y + _px(34), _px(30))
-        _text(d, (cx, y + _px(54)), f"{dd['tmax']}°", f_val, PAPER, anchor="ma")
-        _text(d, (cx + d.textlength(f"{dd['tmax']}°", font=f_val) // 2 + _px(6), y + _px(56)),
+        draw_icon(d, icon_for(dd["code"]), cx, y + _px(40), _px(26))
+        _text(d, (cx, y + _px(60)), f"{dd['tmax']}°", f_val, PAPER, anchor="ma")
+        _text(d, (cx + d.textlength(f"{dd['tmax']}°", font=f_val) // 2 + _px(6), y + _px(62)),
               f"{dd['tmin']}°", f_small, MUTED, anchor="la")
 
     # --- pied ---

@@ -90,9 +90,9 @@ def normalize(raw: dict, tz: str) -> dict:
     times = [dt.datetime.fromisoformat(t) for t in hourly["time"]]
     today = times[0].date()
 
-    # Tranches de 2 h sur la journée en cours : 06,08,...,20 h (EF-17c)
+    # Tranches de 2 h sur la journée en cours : 07,09,...,23 h (EF-17c)
     steps = []
-    wanted = [6, 8, 10, 12, 14, 16, 18, 20]
+    wanted = [7, 9, 11, 13, 15, 17, 19, 21, 23]
     for i, t in enumerate(times):
         if t.date() != today or t.hour not in wanted:
             continue
@@ -167,14 +167,15 @@ def _parse_vigilance(payload: dict, departement: str) -> Optional[dict]:
 # --- Données d'exemple (pour le rendu hors-ligne / dev, réseau externe bloqué) ---
 def sample_data() -> dict:
     steps = [
-        {"hh": "06h", "code": 45, "is_night": True, "temp": 12, "precip": 0.0, "wind": 6},
-        {"hh": "08h", "code": 2, "is_night": False, "temp": 15, "precip": 0.0, "wind": 9},
-        {"hh": "10h", "code": 1, "is_night": False, "temp": 19, "precip": 0.0, "wind": 11},
-        {"hh": "12h", "code": 0, "is_night": False, "temp": 22, "precip": 0.0, "wind": 12},
-        {"hh": "14h", "code": 2, "is_night": False, "temp": 24, "precip": 0.0, "wind": 14},
-        {"hh": "16h", "code": 61, "is_night": False, "temp": 22, "precip": 1.2, "wind": 15},
-        {"hh": "18h", "code": 80, "is_night": False, "temp": 19, "precip": 2.4, "wind": 13},
-        {"hh": "20h", "code": 3, "is_night": True, "temp": 17, "precip": 0.2, "wind": 9},
+        {"hh": "07h", "code": 45, "is_night": False, "temp": 13, "precip": 0.0, "wind": 6},
+        {"hh": "09h", "code": 2, "is_night": False, "temp": 16, "precip": 0.0, "wind": 9},
+        {"hh": "11h", "code": 1, "is_night": False, "temp": 20, "precip": 0.0, "wind": 11},
+        {"hh": "13h", "code": 0, "is_night": False, "temp": 23, "precip": 0.0, "wind": 12},
+        {"hh": "15h", "code": 2, "is_night": False, "temp": 24, "precip": 0.0, "wind": 14},
+        {"hh": "17h", "code": 61, "is_night": False, "temp": 22, "precip": 1.2, "wind": 15},
+        {"hh": "19h", "code": 80, "is_night": False, "temp": 19, "precip": 2.4, "wind": 13},
+        {"hh": "21h", "code": 3, "is_night": True, "temp": 17, "precip": 0.2, "wind": 9},
+        {"hh": "23h", "code": 0, "is_night": True, "temp": 15, "precip": 0.0, "wind": 7},
     ]
     days = [
         {"name": "Mar", "code": 2, "tmax": 24, "tmin": 13},
