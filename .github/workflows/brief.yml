@@ -1,0 +1,67 @@
+name: Brief quotidien
+
+on:
+  # Deux créneaux UTC encadrant 07:00 Paris été/hiver ; une étape ne laisse
+  # passer QUE l'exécution correspondant à 07 h locales (gère le changement
+  # d'heure, EF-01) et absorbe les retards de déclencheur (R-03).
+  schedule:
+    - cron: "5 4 * * *"   # 06:05 hiver / 07:05 été (Paris)
+    - cron: "5 5 * * *"   # 07:05 hiver / 08:05 été (Paris)
+  workflow_dispatch:       # déclenchement manuel de rattrapage (EF-04)
+
+concurrency:               # jamais deux exécutions concurrentes (EF-45)
+  group: brief
+  cancel-in-progress: false
+
+permissions:
+  contents: write          # committer public/ (MP3, image)
+
+jobs:
+  meteo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Est-il 07 h à Paris ?
+        id: gate
+        run: |
+          HEURE=$(TZ=Europe/Paris date +%H)
+          echo "Heure locale Paris : ${HEURE}h"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$HEURE" = "07" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=false" >> "$GITHUB_OUTPUT"
+            echo "Hors créneau 07 h — arrêt sans erreur."
+          fi
+
+      - name: Checkout
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/checkout@v4
+
+      - name: Python
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Dépendances
+        if: steps.gate.outputs.go == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Bloc météo (PNG + repli HTML)
+        if: steps.gate.outputs.go == 'true'
+        env:
+          METEOFRANCE_APP_ID: ${{ secrets.METEOFRANCE_APP_ID }}
+        run: python -m scripts.build_weather
+
+      - name: Publier public/
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name  "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add public/
+          if git diff --cached --quiet; then
+            echo "Rien à publier."
+          else
+            git commit -m "chore: mise à jour du bloc météo"
+            git push
+          fi

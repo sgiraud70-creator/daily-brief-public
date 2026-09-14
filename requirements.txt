@@ -1,0 +1,11 @@
+# Brief quotidien — dépendances
+# Collecte
+requests>=2.31
+PyYAML>=6.0
+feedparser>=6.0
+# Rendu
+Pillow>=10.0
+Jinja2>=3.1
+premailer>=3.10
+# Audio (maillon ultérieur)
+# edge-tts>=6.1

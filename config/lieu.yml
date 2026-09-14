@@ -1,0 +1,6 @@
+# Lieu de référence du brief
+commune: Loulans-Verchamp
+departement: "70"        # Haute-Saône (pour la vigilance Météo-France)
+latitude: 47.47
+longitude: 6.13
+timezone: Europe/Paris
