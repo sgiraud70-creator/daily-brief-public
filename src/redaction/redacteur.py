@@ -79,8 +79,16 @@ def _coerce(raw: str, allowed_urls: set[str]) -> list[dict]:
         for s in (r.get("sujets") or [])[:MAX_SUJETS]:
             if not isinstance(s, dict):
                 continue
-            # le modèle peut renvoyer un nombre ou autre : on convertit tout en texte
-            bullets = [str(b).strip() for b in (s.get("bullets") or []) if str(b).strip()][:MAX_BULLETS]
+            # le modèle peut renvoyer un nombre ou autre : on convertit tout en texte,
+            # et on retire une éventuelle puce en tête ("- ", "• "…) pour éviter les doublons
+            bullets = []
+            for b in (s.get("bullets") or []):
+                t = str(b).strip()
+                while t[:1] in "-•–—*":
+                    t = t[1:].strip()
+                if t:
+                    bullets.append(t)
+            bullets = bullets[:MAX_BULLETS]
             sources = [{"name": str(src.get("name", "")).strip(), "url": src.get("url")}
                        for src in (s.get("sources") or [])
                        if isinstance(src, dict) and src.get("url") in allowed_urls]  # anti-URL inventée (EF-18)
