@@ -250,6 +250,11 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
         return None
 
     html = data["parse"]["text"]
+    try:  # DEBUG temporaire : dump du HTML pour analyser la structure hors-ligne
+        with open("public/_psg_debug.html", "w", encoding="utf-8") as _f:
+            _f.write(html)
+    except Exception:  # noqa: BLE001
+        pass
     parser = _RowParser()
     parser.feed(html)
 
