@@ -1,42 +1,68 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 5,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Pêcheurs bloquent un dépôt pétrolier à Fos-sur-Mer",
+          "title": "Présidentielle 2027 : la course à la candidature s’intensifie",
           "bullets": [
-            "Les comités régionaux des pêches et syndicats de pêcheurs du sud de la France bloquent depuis mardi l’accès à un dépôt pétrolier à Fos-sur-Mer.",
-            "La protestation vise la hausse des coûts des carburants et des matières premières pour les professionnels de la pêche.",
-            "Les pêcheurs réclament des mesures concrètes pour réduire les prix et améliorer leur rentabilité.",
-            "Le blocage perturbe l’approvisionnement en carburant pour les navires et les activités portuaires locales."
+            "Plusieurs figures politiques comme Xavier Bertrand, Jean-Louis Borloo, François Hollande ou Thierry Breton sont en lice pour la primaire des Républicains.",
+            "Le contexte politique est marqué par une fragmentation des ambitions et une incertitude sur les alliances possibles.",
+            "Les candidats doivent concilier réformes économiques et enjeux sociétaux dans un paysage politique fragmenté.",
+            "Les sondages restent volatils, avec une montée des attentes en matière de souveraineté et de compétitivité industrielle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/15/prix-des-carburants-des-pecheurs-bloquent-l-acces-a-un-depot-petrolier-de-fos-sur-mer_6774346_3224.html"
-            },
-            {
-              "name": "France24",
-              "url": "https://www.france24.com/fr/france/20260915-prix-carburant-p%C3%AAcheurs-m%C3%A9contents-bloquent-d%C3%A9p%C3%B4t-p%C3%A9trolier-fos-sur-mer"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/15/l-automne-s-annonce-comme-un-triangle-des-bermudes-ou-plus-d-une-ambition-presidentielle-pourrait-se-perdre_6774397_823448.html"
             }
           ]
         },
         {
-          "title": "Les grandes entreprises françaises versent des dividendes records en Europe",
+          "title": "Débat sur la souveraineté populaire et l’État de droit",
           "bullets": [
-            "Les entreprises françaises cotées ont distribué 61 milliards d’euros de dividendes entre avril et juin 2026.",
-            "Ce montant représente le plus haut niveau de dividendes versés en Europe au deuxième trimestre 2026.",
-            "Les secteurs de l’énergie, des télécoms et de la finance sont les plus généreux en rémunération actionnariale.",
-            "Cette abondance de dividendes reflète une santé financière robuste des grandes entreprises françaises."
+            "Alain Madelin et Jean-Philippe Feldman critiquent les attaques contre l’État de droit, jugées excessives par certains candidats.",
+            "Leur tribune plaide pour une limitation de la souveraineté populaire afin d’éviter les dérives populistes.",
+            "Leur argumentation s’inscrit dans un débat plus large sur les limites de la démocratie directe et la protection des institutions.",
+            "Cette prise de position intervient dans un contexte de montée des tensions politiques en France."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/les-grandes-entreprises-francaises-ont-verse-le-montant-de-dividendes-le-plus-eleve-d-europe-au-deuxieme-trimestre_6774017_3235.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/09/14/alain-madelin-et-jean-philippe-feldman-la-souverainete-populaire-peut-et-doit-etre-limitee-n-en-deplaise-aux-populistes-de-tout-poil_6773877_3232.html"
+            }
+          ]
+        },
+        {
+          "title": "Innovation industrielle : Cocorico mise sur l’automatisation pour réduire les coûts",
+          "bullets": [
+            "La marque Cocorico, basée dans le Lot, utilise des robots pour produire des tee-shirts à bas prix et concurrencer les géants asiatiques.",
+            "L’usine automatisée vise un chiffre d’affaires de 100 millions d’euros d’ici 2027.",
+            "Cette stratégie s’inscrit dans une dynamique de relocalisation et de compétitivité industrielle en France.",
+            "L’entreprise crée des emplois locaux tout en optimisant ses coûts de production."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/15/grace-a-des-robots-cocorico-fabrique-des-tee-shirts-a-petits-prix-dans-le-lot_6774398_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "IA : alerte sur les risques non maîtrisés",
+          "bullets": [
+            "Les progrès rapides de l’intelligence artificielle dépassent la compréhension des risques associés, selon un éditorial du *Monde*.",
+            "Les auteurs soulignent la nécessité de réguler ces technologies pour éviter des dérives sociétales et économiques.",
+            "L’urgence est de repenser les cadres légaux et éthiques autour de l’IA avant qu’il ne soit trop tard.",
+            "Ce débat intervient dans un contexte de compétition internationale accrue sur les innovations technologiques."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/15/ia-l-imperieuse-necessite-de-reprendre-la-main_6774396_3232.html"
             }
           ]
         }
@@ -46,77 +72,47 @@
       "label": "International",
       "sujets": [
         {
-          "title": "L’Ukraine propose des mesures de désescalade si la Russie fait de même",
+          "title": "Crise diplomatique : démission du directeur de la Maison de l’Argentine à Paris",
           "bullets": [
-            "Le président ukrainien Volodymyr Zelensky affirme que son pays est prêt à prendre des mesures de désescalade.",
-            "Cette proposition intervient dans un contexte de tensions persistantes sur le front militaire.",
-            "L’Ukraine attend une réponse concrète de la Russie pour avancer vers une réduction des hostilités.",
-            "Les négociations indirectes via des intermédiaires internationaux restent en cours."
-          ],
-          "sources": [
-            {
-              "name": "France24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20260915-l-ukraine-prendra-des-mesures-de-d%C3%A9sescalade-si-la-russie-fait-de-m%C3%AAme-affirme-zelensky"
-            }
-          ]
-        },
-        {
-          "title": "ONG accuse Israël de vouloir « éliminer » les Palestiniens en Cisjordanie",
-          "bullets": [
-            "Une ONG israélienne dénonce une politique visant à réduire la présence palestinienne en Cisjordanie occupée.",
-            "Les mesures incluent des restrictions administratives, des expulsions et des projets de colonisation.",
-            "Cette politique est qualifiée d’« ethnic cleansing » par les défenseurs des droits humains.",
-            "Les autorités israéliennes rejettent ces accusations et invoquent la sécurité nationale."
-          ],
-          "sources": [
-            {
-              "name": "France24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20260915-cisjordanie-occup%C3%A9e-une-ong-accuse-isra%C3%ABl-de-vouloir-%C3%A9liminer-les-palestiniens"
-            }
-          ]
-        },
-        {
-          "title": "Cour suprême américaine rejette un projet de restriction du vote par correspondance",
-          "bullets": [
-            "La Cour suprême des États-Unis rejette une initiative de Donald Trump visant à restreindre le vote par correspondance.",
-            "Les juges estiment que l’application rapide de ces restrictions pourrait nuire à l’intégrité électorale.",
-            "Cette décision intervient à six semaines des élections de mi-mandat (midterms).",
-            "Les démocrates saluent la décision, tandis que les républicains dénoncent une ingérence judiciaire."
+            "Le directeur de la Maison de l’Argentine à la Cité universitaire de Paris, proche des milieux conservateurs, démissionne avant la visite du président argentin Javier Milei.",
+            "Sa nomination en 2024 avait suscité des critiques pour son manque de légitimité académique et ses liens politiques controversés.",
+            "Cette démission s’inscrit dans un contexte de tensions croissantes entre la France et l’Argentine sous Milei.",
+            "L’incident pourrait affecter les relations culturelles et diplomatiques entre les deux pays."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/donald-trump-voit-son-projet-de-restriction-du-vote-par-correspondance-rejete-par-la-cour-supreme-a-six-semaines-des-midterms_6774151_3211.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/15/le-polemique-directeur-de-la-maison-de-l-argentine-de-la-cite-u-de-paris-demissionne-avant-la-visite-de-javier-milei_6774344_3210.html"
             }
           ]
         },
         {
-          "title": "Cambriolage spectaculaire d’un million d’euros dans un palace parisien",
+          "title": "États-Unis : pénurie de munitions due à la guerre en Iran",
           "bullets": [
-            "Un homme d’affaires malien, Oumar Gambi, est victime d’un cambriolage dans son chambre au Plaza Athénée.",
-            "Les voleurs ont escaladé la façade pour s’introduire dans la chambre.",
-            "Le vol, estimé à un million d’euros, inclut des bijoux et des objets de valeur.",
-            "La police parisienne enquête sur les modalités de l’intrusion et les auteurs présumés."
+            "Le Pentagone reconnaît une pénurie critique de munitions après sept mois de conflit avec l’Iran.",
+            "Cette situation met en lumière les faiblesses des stocks militaires américains et les risques de sous-estimation des besoins en armement.",
+            "Les conséquences pourraient inclure des retards dans les livraisons aux alliés et une pression accrue sur l’industrie de défense.",
+            "Le rapport souligne la nécessité de réévaluer les stratégies d’approvisionnement et de production."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/un-homme-d-affaires-malien-victime-d-un-spectaculaire-cambriolage-a-un-million-d-euros-dans-un-palace-parisien_6774337_3210.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-manque-munitions-guerre-iran-pentagone-defense"
             }
           ]
         },
         {
-          "title": "Ballon d’Or 2026 : la campagne des favoris s’intensifie",
+          "title": "L’écrivain Olivier Grondeau, ancien prisonnier iranien, sélectionné pour le Goncourt",
           "bullets": [
-            "Kylian Mbappé, Jamal Musiala, Ousmane Dembélé et Harry Kane sont parmi les principaux candidats.",
-            "Les joueurs et leurs clubs multiplient les apparitions médiatiques pour renforcer leur visibilité.",
-            "Les réseaux sociaux jouent un rôle clé dans la stratégie de communication des favoris.",
-            "La clôture des votes approche à deux semaines."
+            "Olivier Grondeau, auteur de *Joseph dans la nuit*, raconte son expérience carcérale en Iran après son arrestation en 2022.",
+            "Son livre, basé sur ses deux ans et demi de détention, a été primé et retenu pour la première sélection du prix Goncourt.",
+            "Ce succès littéraire met en lumière la répression des opposants en Iran et les conditions de détention dans le pays.",
+            "Grondeau devient ainsi une voix majeure pour dénoncer les violations des droits humains en Iran."
           ],
           "sources": [
             {
-              "name": "France24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-la-campagne-pour-le-ballon-d-or-bat-son-plein"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/moyen-orient/20260915-olivier-grondeau-de-l-enfer-des-prisons-iraniennes-%C3%A0-la-premi%C3%A8re-s%C3%A9lection-du-goncourt"
             }
           ]
         }
@@ -126,67 +122,32 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Accident mortel impliquant un utilitaire et deux poids lourds en Haute-Saône",
+          "title": "Accident mortel à Vesoul : un conducteur alcoolisé blesse gravement un adolescent",
           "bullets": [
-            "Un homme de 33 ans décède dans une collision entre un utilitaire et deux poids lourds près de Vesoul.",
-            "L’accident s’est produit sur une route fréquentée, entraînant une perturbation du trafic.",
-            "Les causes exactes de l’accident sont encore en cours d’enquête par les autorités locales.",
-            "Les secours ont été rapidement mobilisés pour secourir les victimes."
+            "Un conducteur positif à l’alcool a percuté des barrières à Vesoul, blessant gravement un adolescent de 16 ans.",
+            "L’accident s’est produit dans la nuit du 14 au 15 septembre, sur une route fréquentée.",
+            "Les secours ont été rapidement mobilisés, mais l’adolescent est dans un état critique.",
+            "Les autorités locales renforcent les contrôles routiers en réponse à cet incident."
           ],
           "sources": []
         },
         {
-          "title": "Explosion d’un DAB endommage gravement un magasin à Vesoul",
+          "title": "Explosion d’un DAB endommage gravement le Majestic à Vesoul",
           "bullets": [
-            "Une explosion dans un distributeur automatique de billets (DAB) a endommagé le Majestic, un magasin local.",
-            "Les pompiers ont été appelés sur place pour sécuriser les lieux et éviter tout risque d’incendie.",
-            "Les causes de l’explosion sont en cours d’enquête par les autorités compétentes.",
-            "Les commerçants locaux appellent à une vigilance accrue sur les infrastructures bancaires."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Report de donation : intérêt fiscal à anticiper pour 2027",
-          "bullets": [
-            "Les contribuables peuvent reporter leur donation pour 2027 pour optimiser leur fiscalité.",
-            "Ce report permet de réduire le montant imposable des revenus en 2026.",
-            "Les familles doivent vérifier leur éligibilité et les conditions spécifiques à leur situation.",
-            "Les notaires et conseillers fiscaux recommandent de consulter un expert pour une stratégie personnalisée."
+            "Une explosion survenue dans un distributeur automatique de billets (DAB) a endommagé le Majestic, un cinéma emblématique de Vesoul.",
+            "Les vitres ont été soufflées et des dégâts matériels importants ont été constatés dans le bâtiment.",
+            "Les autorités locales enquêtent pour déterminer l’origine de l’explosion.",
+            "Le cinéma devrait être fermé pour des réparations pendant plusieurs semaines."
           ],
           "sources": []
         },
         {
-          "title": "Dernières corrections possibles pour la déclaration de revenus 2026",
+          "title": "Récolte de maïs en Haute-Saône : perte financière majeure pour les agriculteurs",
           "bullets": [
-            "Il est encore possible de corriger sa déclaration de revenus pour 2026 via le site des impôts.",
-            "Les contribuables peuvent modifier des informations erronées ou omises jusqu’à la date limite.",
-            "Les corrections peuvent concerner les revenus, les charges déductibles ou les réductions d’impôt.",
-            "Les erreurs non corrigées peuvent entraîner des redressements fiscaux."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au CPF : comment protéger son compte formation ?",
-          "bullets": [
-            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, notamment via des offres frauduleuses.",
-            "Les escrocs proposent souvent des formations gratuites ou des remboursements abusifs.",
-            "Pour se protéger, il est conseillé de vérifier les organismes certifiés et de ne pas partager ses identifiants.",
-            "En cas de suspicion, il faut signaler l’arnaque sur le site officiel du CPF ou auprès de la DGCCRF."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Délai de redressement fiscal pour les impôts locaux passe à 3 ans",
-          "bullets": [
-            "Le délai pour que l’administration fiscale puisse redresser une erreur ou une omission sur les impôts locaux passe de 1 à 3 ans.",
-            "Cette mesure vise à renforcer la sécurité juridique des contribuables.",
-            "Les impôts locaux concernés incluent la taxe foncière et la taxe d’habitation.",
-            "Les contribuables doivent conserver leurs justificatifs pendant cette période."
+            "Les agriculteurs de Haute-Saône subissent des pertes estimées à 20 000 euros par hectare en raison de conditions climatiques défavorables.",
+            "La récolte de maïs, déjà compromise par la sécheresse, est devenue un cauchemar pour les producteurs locaux.",
+            "Les associations agricoles appellent à une intervention rapide des pouvoirs publics pour compenser ces pertes.",
+            "Cette crise agricole pourrait avoir des répercussions sur les prix des denrées et l’économie locale."
           ],
           "sources": []
         }
@@ -196,41 +157,86 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Repoussement de la sortie de *Rayman Legends Retold* malgré un développement terminé",
+          "title": "Avengers: Secret Wars : Thomas Jane pourrait revenir en tant que Punisher",
           "bullets": [
-            "Le jeu *Rayman Legends Retold* est repoussé malgré l’achèvement de son développement.",
-            "Les développeurs évoquent des ajustements techniques et des tests supplémentaires.",
-            "Ce report intervient dans un contexte de rentrée 2026 chargée en sorties de jeux.",
-            "Les fans attendent désormais une date de sortie définitive."
+            "Thomas Jane, connu pour son rôle dans *The Punisher* en 2004, pourrait réapparaître dans l’univers Marvel avec *Avengers: Secret Wars*.",
+            "Un teaser laisse entrevoir un retour du personnage emblématique dans un contexte multiversel.",
+            "Cette annonce suscite l’intérêt des fans et relance les discussions sur les futures adaptations cinématographiques.",
+            "Le film, prévu pour 2027, pourrait marquer un tournant pour les personnages secondaires de Marvel."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2333137-la-sortie-de-rayman-legends-retold-est-repoussee-alors-que-son-developpement-est-termine.html"
+              "url": "https://www.numerama.com/pop-culture/2332891-avengers-secret-wars-thomas-jane-tease-t-il-le-retour-de-son-punisher-de-2004.html"
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Quadient reconnu comme leader dans l’automatisation des comptes fournisseurs",
+          "bullets": [
+            "Quadient, spécialiste des solutions logicielles, est mis en avant pour son expertise dans l’automatisation des processus financiers.",
+            "La société propose des outils innovants pour optimiser la gestion des comptes fournisseurs et réduire les erreurs.",
+            "Cette reconnaissance intervient dans un contexte de digitalisation croissante des entreprises.",
+            "Quadient vise à accélérer les transactions et améliorer l’efficacité opérationnelle pour ses clients."
+          ],
+          "sources": []
         },
         {
-          "title": "Lave-linge intelligent automatisé par l’IA pour optimiser les lessives",
+          "title": "Axa développe son Hub IA pour des agents sécurisés et rapides",
           "bullets": [
-            "Un nouveau lave-linge utilise l’IA pour automatiser et optimiser les cycles de lavage.",
-            "L’appareil analyse la nature des tissus et ajuste automatiquement la température et le temps de lavage.",
-            "Cette technologie vise à réduire la consommation d’eau et d’énergie.",
-            "Les fabricants promettent une meilleure efficacité et un gain de temps pour les utilisateurs."
+            "Axa a lancé son Hub IA pour accélérer la création d’agents virtuels sécurisés et adaptés à ses besoins métiers.",
+            "Cette plateforme permet de déployer rapidement des solutions d’IA sans compromettre la sécurité des données.",
+            "Le groupe vise à améliorer l’expérience client et à optimiser ses processus internes grâce à l’automatisation.",
+            "Cette initiative s’inscrit dans une stratégie globale de transformation digitale et d’innovation."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "Applications · no-code · automatisation",
+      "label": "Impression 3D",
       "sujets": [],
       "note": "source indisponible ce matin"
     },
     {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Délai de redressement fiscal étendu à 3 ans pour les impôts locaux",
+          "bullets": [
+            "Les contribuables disposent désormais de trois ans pour contester un redressement fiscal concernant les impôts locaux.",
+            "Cette mesure vise à offrir plus de protection aux citoyens face aux erreurs ou abus de l’administration fiscale.",
+            "Les associations de consommateurs saluent cette extension, qui renforce les droits des contribuables.",
+            "Les impôts locaux concernés incluent la taxe d’habitation résiduelle et la cotisation foncière des entreprises."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Correction possible jusqu’au 15 octobre pour la déclaration de revenus 2026",
+          "bullets": [
+            "Les contribuables peuvent encore corriger leur déclaration de revenus 2026 jusqu’au 15 octobre 2026.",
+            "Cette période supplémentaire permet de rectifier d’éventuelles erreurs ou omissions.",
+            "Les déclarations en ligne restent la méthode la plus simple et sécurisée pour effectuer ces corrections.",
+            "Les services fiscaux rappellent l’importance de vérifier ses informations pour éviter tout redressement ultérieur."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Protection contre les arnaques au CPF",
+          "bullets": [
+            "Le gouvernement rappelle les risques liés aux arnaques au Compte Personnel de Formation (CPF).",
+            "Les escrocs demandent souvent des paiements pour des formations non existantes ou frauduleuses.",
+            "Les utilisateurs sont invités à vérifier les sites officiels et à ne jamais partager leurs identifiants.",
+            "Les victimes peuvent signaler les tentatives d’arnaque sur le site officiel de la sécurité sociale."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
@@ -246,8 +252,8 @@
           ],
           "sources": [
             {
-              "name": "ESPN",
-              "url": "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers"
+              "name": "TheSportsDB",
+              "url": "https://www.thesportsdb.com/team/134925"
             }
           ]
         }

@@ -2,6 +2,13 @@
   "rubriques": {
     "France": [
       {
+        "title": "« L’automne s’annonce comme un triangle des Bermudes, où plus d’une ambition présidentielle pourrait se perdre »",
+        "url": "https://www.lemonde.fr/politique/article/2026/09/15/l-automne-s-annonce-comme-un-triangle-des-bermudes-ou-plus-d-une-ambition-presidentielle-pourrait-se-perdre_6774397_823448.html",
+        "source": "lemonde.fr",
+        "summary": "Xavier Bertrand, Jean-Louis Borloo, François Hollande, Thierry Breton ou encore Bernard Cazeneuve... Nombre de candidats tournent autour du ring sans y monter. Chacun attend qu’une place se libère, écrit, dans sa chronique, Solenn de Royer, journaliste au « Monde ».",
+        "published": "2026-09-15T09:30:06"
+      },
+      {
         "title": "Alain Madelin et Jean-Philippe Feldman : « La souveraineté populaire peut et doit être limitée, n’en déplaise aux populistes de tout poil »",
         "url": "https://www.lemonde.fr/idees/article/2026/09/14/alain-madelin-et-jean-philippe-feldman-la-souverainete-populaire-peut-et-doit-etre-limitee-n-en-deplaise-aux-populistes-de-tout-poil_6773877_3232.html",
         "source": "lemonde.fr",
@@ -9,32 +16,25 @@
         "published": "2026-09-14T18:00:10"
       },
       {
+        "title": "Grâce à des robots, Cocorico fabrique des tee-shirts à petits prix dans le Lot",
+        "url": "https://www.lemonde.fr/economie/article/2026/09/15/grace-a-des-robots-cocorico-fabrique-des-tee-shirts-a-petits-prix-dans-le-lot_6774398_3234.html",
+        "source": "lemonde.fr",
+        "summary": "La marque d’habillement fondée en 2017 a ouvert un atelier de confection à Frayssinet-le-Gelat, dans le Lot. Elle vise 100 millions d’euros de chiffre d’affaires en 2030.",
+        "published": "2026-09-15T09:30:08"
+      },
+      {
+        "title": "IA : l’impérieuse nécessité de reprendre la main",
+        "url": "https://www.lemonde.fr/idees/article/2026/09/15/ia-l-imperieuse-necessite-de-reprendre-la-main_6774396_3232.html",
+        "source": "lemonde.fr",
+        "summary": "Le fait que les capacités de l’intelligence artificielle progressent plus vite que notre compréhension des risques qu’elle induit doit alerter. Pour être crédibles, des règles devront être fixées par la puissance publique et non laissées aux seuls acteurs ayant le plus à gagner d’une poursuite de la compétition.",
+        "published": "2026-09-15T09:30:05"
+      },
+      {
         "title": "Fusion Euronext-Deutsche Börse : « L’arrimage de Francfort aux autres Bourses européennes ne réduirait pas la fragmentation des marchés du Vieux Continent »",
         "url": "https://www.lemonde.fr/idees/article/2026/09/15/fusion-euronext-deutsche-borse-l-arrimage-de-francfort-aux-autres-bourses-europeennes-ne-reduirait-pas-la-fragmentation-des-marches-du-vieux-continent_6774361_3232.html",
         "source": "lemonde.fr",
         "summary": "Le patron de la plateforme boursière paneuropéenne plaide pour un rapprochement avec son grand rival allemand Deutsche Börse. Une déclaration un peu audacieuse, mais qui pose la question, légitime, de l’avancement de l’Europe financière, estime Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
         "published": "2026-09-15T09:00:09"
-      },
-      {
-        "title": "Prix des carburants : le dépôt pétrolier de Fos-sur-Mer de nouveau accessible, après un blocage des pêcheurs",
-        "url": "https://www.lemonde.fr/societe/article/2026/09/15/prix-des-carburants-des-pecheurs-bloquent-l-acces-a-un-depot-petrolier-de-fos-sur-mer_6774346_3224.html",
-        "source": "lemonde.fr",
-        "summary": "Les comités régionaux des pêches du sud de la France, les organisations de producteurs de Méditerranée et des syndicats de la profession ont lancé lundi un mouvement commun pour protester contre la hausse des coûts d’exploitation.",
-        "published": "2026-09-15T07:03:38"
-      },
-      {
-        "title": "Dividendes : les grandes entreprises françaises ont versé le montant le plus élevé d’Europe au deuxième trimestre",
-        "url": "https://www.lemonde.fr/economie/article/2026/09/15/les-grandes-entreprises-francaises-ont-verse-le-montant-de-dividendes-le-plus-eleve-d-europe-au-deuxieme-trimestre_6774017_3235.html",
-        "source": "lemonde.fr",
-        "summary": "Les principales entreprises cotées dans l’Hexagone ont distribué 61 milliards d’euros à leurs actionnaires entre avril et juin, selon le gestionnaire d’actifs Janus Henderson Investors. Le pays se place ainsi deuxième au niveau mondial, derrière les Etats-Unis.",
-        "published": "2026-09-15T05:23:17"
-      },
-      {
-        "title": "Le travail universitaire peut-il être créatif ?",
-        "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/15/le-travail-universitaire-peut-il-etre-creatif_6774328_6768900.html",
-        "source": "lemonde.fr",
-        "summary": "Dans un écosystème où les organisations que sont les universités peuvent paraître figées, le renouvellement des disciplines et des méthodes de travail est pourtant nécessaire pour relever les défis contemporains, décrit, dans sa chronique, le chercheur en sciences de gestion Armand Hatchuel.",
-        "published": "2026-09-15T04:00:21"
       }
     ],
     "International": [
@@ -44,48 +44,6 @@
         "source": "lemonde.fr",
         "summary": "Nommé en décembre 2024, alors qu’il était déjà en fonctions depuis cinq mois, ce proche des milieux conservateurs argentins et européens était critiqué en raison d’une série de décisions controversées, dont l’expulsion de résidents pour des raisons politiques.",
         "published": "2026-09-15T06:52:22"
-      },
-      {
-        "title": "Donald Trump voit son projet de restriction du vote par correspondance rejeté par la Cour suprême, à six semaines des midterms",
-        "url": "https://www.lemonde.fr/international/article/2026/09/15/donald-trump-voit-son-projet-de-restriction-du-vote-par-correspondance-rejete-par-la-cour-supreme-a-six-semaines-des-midterms_6774151_3211.html",
-        "source": "lemonde.fr",
-        "summary": "Les juges n’ont pas statué sur le fond mais ont considéré, dans une décision rendue lundi, qu’une application aussi rapide de l’encadrement strict demandé par le président républicain aurait pu perturber le scrutin.",
-        "published": "2026-09-15T05:10:38"
-      },
-      {
-        "title": "Un homme d’affaires malien, Oumar Gambi, victime d’un spectaculaire cambriolage à un million d’euros dans un palace parisien",
-        "url": "https://www.lemonde.fr/international/article/2026/09/15/un-homme-d-affaires-malien-victime-d-un-spectaculaire-cambriolage-a-un-million-d-euros-dans-un-palace-parisien_6774337_3210.html",
-        "source": "lemonde.fr",
-        "summary": "Des voleurs se sont introduits, en escaladant la façade du Plaza Athénée, dans la chambre de M. Gambi, un entrepreneur malien célèbre dans son pays et qui gravite dans l’entourage du président congolais, Denis Sassou Nguesso.",
-        "published": "2026-09-15T05:00:04"
-      },
-      {
-        "title": "Mbappé, Yamal, Dembélé, Kane ? La campagne pour le Ballon d'or bat son plein",
-        "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-la-campagne-pour-le-ballon-d-or-bat-son-plein",
-        "source": "france24.com",
-        "summary": "À deux semaines de la clôture des votes pour le Ballon d’Or, les principaux candidats au titre de meilleur joueur de l'année font campagne.",
-        "published": "2026-09-15T07:39:28"
-      },
-      {
-        "title": "L'Ukraine prendra des \"mesures de désescalade\" si la Russie fait de même, affirme Zelensky",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260915-l-ukraine-prendra-des-mesures-de-d%C3%A9sescalade-si-la-russie-fait-de-m%C3%AAme-affirme-zelensky",
-        "source": "france24.com",
-        "summary": "Le président Volodymyr Zelensky a affirmé lundi que l'Ukraine était prête à prendre des \"mesures de désescalade\" si la Russie en faisait de même, sans confirmer l'affirmation de Donald Trump selon laquelle Moscou et Kiev ont accepté de ne plus frapper d'infrastructures énergétiques.",
-        "published": "2026-09-15T07:22:39"
-      },
-      {
-        "title": "Cisjordanie occupée : une ONG accuse Israël de vouloir \"éliminer\" les Palestiniens",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260915-cisjordanie-occup%C3%A9e-une-ong-accuse-isra%C3%ABl-de-vouloir-%C3%A9liminer-les-palestiniens",
-        "source": "france24.com",
-        "summary": "Une ONG israélienne a accusé lundi les autorités israéliennes de mener une politique visant à \"éliminer\" les Palestiniens en tant que peuple, en multipliant notamment les violences et les restrictions en Cisjordanie occupée.",
-        "published": "2026-09-15T07:20:29"
-      },
-      {
-        "title": "Prix du carburant : des pêcheurs mécontents bloquent un dépôt pétrolier à Fos-sur-Mer",
-        "url": "https://www.france24.com/fr/france/20260915-prix-carburant-p%C3%AAcheurs-m%C3%A9contents-bloquent-d%C3%A9p%C3%B4t-p%C3%A9trolier-fos-sur-mer",
-        "source": "france24.com",
-        "summary": "Un dépôt pétrolier à Fos-sur-Mer est bloqué depuis mardi matin par des dizaines de pêcheurs. La profession proteste contre \"la hausse des coûts d'exploitation et du carburant\", liée au conflit au Moyen-Orient.",
-        "published": "2026-09-15T06:35:30"
       },
       {
         "title": "Donald Trump Junior, mariage à la russe",
@@ -190,13 +148,6 @@
         "published": "2026-09-15T08:00:00"
       },
       {
-        "title": "La sortie de Rayman Legends Retold est repoussée, alors que son développement est terminé",
-        "url": "https://www.numerama.com/pop-culture/2333137-la-sortie-de-rayman-legends-retold-est-repoussee-alors-que-son-developpement-est-termine.html",
-        "source": "numerama.com",
-        "summary": "Parmi les nombreux jeux à sortir en cette rentrée 2026, et jusqu’au très attendu « vous savez qui », Rayman Legends Retold a décidé de souffler un bon coup et d’annoncer son report de deux mois, le temps de peaufiner le jeu, selon Ubisoft.",
-        "published": "2026-09-15T07:45:31"
-      },
-      {
         "title": "Avengers: Secret Wars : Thomas Jane tease-t-il le retour de son Punisher de 2004 ?",
         "url": "https://www.numerama.com/pop-culture/2332891-avengers-secret-wars-thomas-jane-tease-t-il-le-retour-de-son-punisher-de-2004.html",
         "source": "numerama.com",
@@ -234,18 +185,18 @@
         "published": "2026-09-15T06:56:01"
       },
       {
-        "title": "Quadient : reconnu sur le marché de l'automatisation des comptes fournisseurs",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWNkUFIzWXdZY200SG4ySFRldVZmbmp2RVY4YXVSakZOTV9EWE9rTnEwc2tzZHBVTEV1cC0tWC14UG95SnM2cndYaTBRb2ZPcEZkWjdCSmpVMGd0eHl4RmNjUTVidHZUS1drZUxMTTk1LXQ3VzVhYUk0VFJwYjZBQnlGZWhvTVBpdFphU3F5U0tZSWRvUGpLU1Z0b3RkS3JVcG0yWUxtUU5ia1ltaWd3b05YamhxaFlVdUo1TzkxU1JnYnVvZ3pKZU1ERHh2NFZUdlE?oc=5",
-        "source": "Boursier.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWNkUFIzWXdZY200SG4ySFRldVZmbmp2RVY4YXVSakZOTV9EWE9rTnEwc2tzZHBVTEV1cC0tWC14UG95SnM2cndYaTBRb2ZPcEZkWjdCSmpVMGd0eHl4RmNjUTVidHZUS1drZUxMTTk1LXQ3VzVhYUk0VFJwYjZBQnlGZWhvTVBpdFphU3F5U0tZSWRvUGpLU1Z0b3RkS3JVcG0yWUxtUU5ia1ltaWd3b05YamhxaFlVdUo1TzkxU1JnYnVvZ3pKZU1ERHh2NFZUdlE?oc=5\" target=\"_blank\">Quadient : reconnu sur le marché de l'automa",
-        "published": "2026-09-14T14:40:00"
-      },
-      {
         "title": "IA ET SOIGNANTS : L'automatisation pourrait bien augmenter les personnels de santé",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUZCSXYzQm05OVpoaHZ1czR4eUoxYWIxbjFIWFRSS3Q0OVFwWTd0MWJKenFVd3ZHblVHb19Cd0w1QjZrX25seWdfZUx5cU5IclFjdEhHS3Vwd0p2dExsTUZWTjRzWkpxdTFUTlNMbTh0aEhXVG1EZ2h3a2pfXzFQUWlPVENqSnQ3dWg3cWpKV0xZSFBSN0RkWDFFdmZYYnlUazBOSFVJdm9mb05Ock95M0lLZUdFdw?oc=5",
         "source": "Santé log",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUZCSXYzQm05OVpoaHZ1czR4eUoxYWIxbjFIWFRSS3Q0OVFwWTd0MWJKenFVd3ZHblVHb19Cd0w1QjZrX25seWdfZUx5cU5IclFjdEhHS3Vwd0p2dExsTUZWTjRzWkpxdTFUTlNMbTh0aEhXVG1EZ2h3a2pfXzFQUWlPVENqSnQ3dWg3cWpKV0xZSFBSN0RkWDFFdmZYYnlUazBOSFVJdm9mb05Ock95M0lLZUdFdw?oc=5\" target=\"_blank\">IA ET SOIGNANTS : L'automatisation pourrait bien augmenter les personnels de sant",
         "published": "2026-09-15T07:00:00"
+      },
+      {
+        "title": "Quadient : reconnu sur le marché de l'automatisation des comptes fournisseurs",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWNkUFIzWXdZY200SG4ySFRldVZmbmp2RVY4YXVSakZOTV9EWE9rTnEwc2tzZHBVTEV1cC0tWC14UG95SnM2cndYaTBRb2ZPcEZkWjdCSmpVMGd0eHl4RmNjUTVidHZUS1drZUxMTTk1LXQ3VzVhYUk0VFJwYjZBQnlGZWhvTVBpdFphU3F5U0tZSWRvUGpLU1Z0b3RkS3JVcG0yWUxtUU5ia1ltaWd3b05YamhxaFlVdUo1TzkxU1JnYnVvZ3pKZU1ERHh2NFZUdlE?oc=5",
+        "source": "Boursier.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWNkUFIzWXdZY200SG4ySFRldVZmbmp2RVY4YXVSakZOTV9EWE9rTnEwc2tzZHBVTEV1cC0tWC14UG95SnM2cndYaTBRb2ZPcEZkWjdCSmpVMGd0eHl4RmNjUTVidHZUS1drZUxMTTk1LXQ3VzVhYUk0VFJwYjZBQnlGZWhvTVBpdFphU3F5U0tZSWRvUGpLU1Z0b3RkS3JVcG0yWUxtUU5ia1ltaWd3b05YamhxaFlVdUo1TzkxU1JnYnVvZ3pKZU1ERHh2NFZUdlE?oc=5\" target=\"_blank\">Quadient : reconnu sur le marché de l'automa",
+        "published": "2026-09-14T14:40:00"
       },
       {
         "title": "Le Hub IA, la recette d’Axa pour disposer rapidement d’agent IA sécurisés à l’échelle",
@@ -343,18 +294,18 @@
         "published": "2026-09-15T08:36:15"
       },
       {
-        "title": "Francastel. Arnaqué par une société de plomberie, un couple appelle à la méfiance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80VGFQSW5taWk0UXZNOWVNdmtmMjBjaGVYY0N3bXdESGNoTVJpVUFPbmNibDVIdVVZZkMzYzNSMlF4NEttaXhnSmU4bTF0Q0sya1pFSU5mX1owTTZyWC1JcUdzS1VGTThIUnhaUlE2SDY5TFhuc2dLUTFBa1JnZw?oc=5",
-        "source": "Oise Hebdo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80VGFQSW5taWk0UXZNOWVNdmtmMjBjaGVYY0N3bXdESGNoTVJpVUFPbmNibDVIdVVZZkMzYzNSMlF4NEttaXhnSmU4bTF0Q0sya1pFSU5mX1owTTZyWC1JcUdzS1VGTThIUnhaUlE2SDY5TFhuc2dLUTFBa1JnZw?oc=5\" target=\"_blank\">Francastel. Arnaqué par une société de plomberie, un couple appelle à la méfiance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oise Hebdo</font>",
-        "published": "2026-09-14T17:26:32"
-      },
-      {
         "title": "Impôts 2026 : le Fisc va prendre de l’argent sur votre compte en banque dans 10 jours",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb25iUHV2N0dfSUZPcmVrV1UtYmQwSnNieVZYVjZCSk1peHU4dHR5anV0SnpfRDVQM3FuYm5fRUs0NzRfVHNQTGZBU1hZQU1qWVJTRWE5ejlQSWl1MEJTN2V0aW91SklaWl8wdmZmYmdPT0NuV210cERIbmpVUlIzaHUtZFg0WVYxX0RUMTFrNnhMM2dMRHZJVlB4enJDQ1JNR3AwQkk3MVN3cTUzZXZhZHU3UQ?oc=5",
         "source": "Presse-citron",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNb25iUHV2N0dfSUZPcmVrV1UtYmQwSnNieVZYVjZCSk1peHU4dHR5anV0SnpfRDVQM3FuYm5fRUs0NzRfVHNQTGZBU1hZQU1qWVJTRWE5ejlQSWl1MEJTN2V0aW91SklaWl8wdmZmYmdPT0NuV210cERIbmpVUlIzaHUtZFg0WVYxX0RUMTFrNnhMM2dMRHZJVlB4enJDQ1JNR3AwQkk3MVN3cTUzZXZhZHU3UQ?oc=5\" target=\"_blank\">Impôts 2026 : le Fisc va prendre de l’argent sur votre compte en banque dans 10 jours",
         "published": "2026-09-15T06:54:03"
+      },
+      {
+        "title": "Impôts 2026 : il est encore possible de corriger sa déclaration de revenus -",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVhPZkNJWk41cVVUMTVDTzBJbmlPMFdUbWd1U1RXRlZuRjlaYTNWYWh2VEw5cE01YnpIRnlrZV9pdnJkbktWbzNnZ2N0LW91b1E0eEd6QXFRRUJNbUdLeG1xQnZaSHZfc0hxX1pveFdSLUFUNk5HdFFvalpRa1N2cGpZNE9kdmFUQWxfUkZZcUZfQWxYNnJCRXg4elg3bFUzb0RJVXktcjEzZmpTWkltY3Z1Snd6cC1Sb1NNYjVZSmhwQmlJTXRPZlYyRHRVeFpyQ2FF?oc=5",
+        "source": "La Baule.maville.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVhPZkNJWk41cVVUMTVDTzBJbmlPMFdUbWd1U1RXRlZuRjlaYTNWYWh2VEw5cE01YnpIRnlrZV9pdnJkbktWbzNnZ2N0LW91b1E0eEd6QXFRRUJNbUdLeG1xQnZaSHZfc0hxX1pveFdSLUFUNk5HdFFvalpRa1N2cGpZNE9kdmFUQWxfUkZZcUZfQWxYNnJCRXg4elg3bFUzb0RJVXktcjEzZmpTWkltY3Z1Snd6cC1Sb1NNYjVZSmhwQmlJTXRPZlYyRHRVeFpyQ2FF?oc=5\" target=\"_blank\">Impôts 2026 : il est encore possible de cor",
+        "published": "2026-09-15T08:15:00"
       },
       {
         "title": "Arnaque au panier Too Good To Go : il utilise de fausses photos de tartes moisies pour se faire rembourser",
@@ -379,5 +330,5 @@
       "error": "Remote end closed connection without response"
     }
   ],
-  "generated_at": "2026-09-15T09:28:22"
+  "generated_at": "2026-09-15T09:41:52"
 }
