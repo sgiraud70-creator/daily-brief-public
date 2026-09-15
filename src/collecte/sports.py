@@ -71,24 +71,24 @@ def _next_event(idteam: str, mon_equipe: str) -> dict | None:
     }
 
 
-def _next(nom: str, mon_equipe: str) -> dict | None:
-    idteam = _team_id(nom)
-    if not idteam:
-        return None
-    return _next_event(idteam, mon_equipe)
+def _next_multi(noms: list[str], mon_equipe: str) -> dict | None:
+    """Essaie plusieurs libellés d'équipe (les noms varient dans la base)."""
+    for nom in noms:
+        try:
+            idteam = _team_id(nom)
+            if not idteam:
+                continue
+            res = _next_event(idteam, mon_equipe)
+            if res:
+                return res
+        except Exception as e:  # noqa: BLE001
+            print(f"⚠ {mon_equipe} TheSportsDB [{nom}]: {e!r}")
+    return None
 
 
 def steelers_next() -> dict | None:
-    try:
-        return _next("Pittsburgh Steelers", "Steelers")
-    except Exception as e:  # noqa: BLE001
-        print(f"⚠ Steelers TheSportsDB: {e!r}")
-        return None
+    return _next_multi(["Pittsburgh Steelers"], "Steelers")
 
 
 def psg_next() -> dict | None:
-    try:
-        return _next("Paris Saint-Germain", "Paris")
-    except Exception as e:  # noqa: BLE001
-        print(f"⚠ PSG TheSportsDB: {e!r}")
-        return None
+    return _next_multi(["Paris Saint-Germain", "Paris SG", "PSG"], "Paris")

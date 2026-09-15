@@ -16,8 +16,15 @@ concurrency:               # jamais deux exécutions concurrentes (EF-45)
 permissions:
   contents: write          # committer public/ (MP3, image)
 
+env:
+  METEOFRANCE_APP_ID: ${{ secrets.METEOFRANCE_APP_ID }}
+  MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+  GMAIL_USER: ${{ secrets.GMAIL_USER }}
+  GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+  MAIL_TO: ${{ secrets.MAIL_TO }}
+
 jobs:
-  meteo:
+  brief:
     runs-on: ubuntu-latest
     steps:
       - name: Est-il 07 h à Paris ?
@@ -35,33 +42,51 @@ jobs:
       - name: Checkout
         if: steps.gate.outputs.go == 'true'
         uses: actions/checkout@v4
-
       - name: Python
         if: steps.gate.outputs.go == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: pip
-
       - name: Dépendances
         if: steps.gate.outputs.go == 'true'
         run: pip install -r requirements.txt
 
-      - name: Bloc météo (PNG + repli HTML)
+      - name: Météo (PNG + repli HTML + données)
         if: steps.gate.outputs.go == 'true'
-        env:
-          METEOFRANCE_APP_ID: ${{ secrets.METEOFRANCE_APP_ID }}
         run: python -m scripts.build_weather
 
-      - name: Publier public/
+      - name: Collecte actualités (RSS + sports)
+        if: steps.gate.outputs.go == 'true'
+        run: python -m scripts.build_collecte
+
+      - name: Rédaction (LLM + sports déterministes)
+        if: steps.gate.outputs.go == 'true'
+        run: python -m scripts.build_redaction
+
+      - name: Rendu e-mail
+        if: steps.gate.outputs.go == 'true'
+        run: python -m scripts.build_email --brief data/brief.json
+
+      - name: Audio MP3 (edge-tts → repli Piper)
+        if: steps.gate.outputs.go == 'true'
+        continue-on-error: true
+        timeout-minutes: 6
+        run: python -m scripts.build_audio
+
+      - name: Publier public/ (image, MP3, e-mail) AVANT l'envoi
         if: steps.gate.outputs.go == 'true'
         run: |
           git config user.name  "brief-bot"
           git config user.email "brief-bot@users.noreply.github.com"
-          git add public/
+          git add public/ data/collected.json data/brief.json data/history.json data/script_audio.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Rien à publier."
           else
-            git commit -m "chore: mise à jour du bloc météo"
+            git commit -m "chore: publication du brief quotidien"
             git push
           fi
+
+      - name: Envoi e-mail (si secrets Gmail présents)
+        if: steps.gate.outputs.go == 'true'
+        run: python -m scripts.send_email
