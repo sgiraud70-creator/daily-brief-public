@@ -4,17 +4,19 @@
   datacenter (contrairement à ESPN qui renvoie 403 depuis les IP GitHub).
 - PSG : Wikipédia FR (source française, demandée par l'utilisateur) —
   l'article « Saison AAAA-AAAA du Paris Saint-Germain » agrège tout le
-  calendrier (Ligue 1, Ligue des champions, Coupe de France) et son accès
-  depuis un datacenter est fiable.
+  calendrier (Ligue 1, Ligue des champions, Coupe de France). On lit le
+  tableau récapitulatif : « Compétition Jn <date> Domicile [score] Extérieur ».
+  Un match à venir n'a pas de score : « Domicile - Extérieur » (tiret entouré
+  d'espaces). L'heure et le diffuseur TV viennent de la fiche détaillée.
 
-On ne fabrique JAMAIS d'information : la diffusion TV n'est indiquée que si la
-source la fournit, sinon « à confirmer ».
+On ne fabrique JAMAIS d'information : le diffuseur n'est indiqué que si la
+source le fournit, sinon « à confirmer ».
 """
 from __future__ import annotations
 
 import datetime as dt
 import re
-from html.parser import HTMLParser
+from html import unescape
 from zoneinfo import ZoneInfo
 
 import requests
@@ -29,6 +31,11 @@ JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
 _MOIS_IDX = {m: i + 1 for i, m in enumerate(MOIS)}
+
+
+def _fr_date(d: dt.date, hh: int | None, mm: int | None) -> str:
+    base = f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]}"
+    return f"{base} à {hh:02d}h{(mm or 0):02d}" if hh is not None else base
 
 
 # ─────────────────────────── Steelers : TheSportsDB ────────────────────────
@@ -46,14 +53,13 @@ def _fr_datetime(e: dict) -> str:
         try:
             d = dt.datetime.fromisoformat(ts.replace("Z", "")).replace(
                 tzinfo=dt.timezone.utc).astimezone(PARIS)
-            return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} à {d.hour:02d}h{d.minute:02d}"
+            return _fr_date(d.date(), d.hour, d.minute)
         except ValueError:
             pass
     de = e.get("dateEvent")
     if de:
         try:
-            d = dt.date.fromisoformat(de)
-            return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]}"
+            return _fr_date(dt.date.fromisoformat(de), None, None)
         except ValueError:
             pass
     return "date à confirmer"
@@ -107,13 +113,8 @@ _COMPETS = [
     "Ligue des champions", "Ligue 1", "Coupe de France", "Trophée des champions",
     "Supercoupe d'Europe", "Ligue Europa", "Coupe du monde des clubs",
 ]
-_STADE_MOTS = ("stade", "parc des princes", "arena", "stadium", "park",
-               "allianz", "san siro", "signal iduna", "wembley")
-_DATE_RE = re.compile(
-    r"(\d{1,2})\s+(janvier|février|mars|avril|mai|juin|juillet|août|"
-    r"septembre|octobre|novembre|décembre)\s+(\d{4})", re.I)
-_HEURE_RE = re.compile(r"\b(\d{1,2})\s*[:h]\s*(\d{2})\b")
-_NOTE_RE = re.compile(r"\[\d+\]|\[n\s*\d+\]")
+_MO = "|".join(MOIS)
+_RECAP_DATE = re.compile(rf"(\d{{1,2}})(?:er)?\s+({_MO})\s+(\d{{4}})")
 
 
 def _season_query(today: dt.date) -> str:
@@ -122,8 +123,8 @@ def _season_query(today: dt.date) -> str:
 
 
 def _resolve_title(query: str) -> str | None:
-    """Trouve le titre exact de l'article via la recherche Wikipédia (robuste
-    aux variations « FC » / « Football Club » / tiret spécial)."""
+    """Titre exact de l'article via la recherche Wikipédia (robuste aux
+    variantes « FC » / « Football Club »)."""
     r = requests.get(WIKI, params={
         "action": "query", "list": "search", "srsearch": query,
         "srlimit": 5, "format": "json", "formatversion": 2,
@@ -137,56 +138,6 @@ def _resolve_title(query: str) -> str | None:
     return hits[0]["title"] if hits else None
 
 
-class _RowParser(HTMLParser):
-    """Extrait chaque ligne de tableau : texte concaténé + titres des liens."""
-
-    def __init__(self) -> None:
-        super().__init__()
-        self.rows: list[dict] = []
-        self._in_row = False
-        self._text: list[str] = []
-        self._links: list[str] = []
-
-    def handle_starttag(self, tag, attrs):
-        if tag == "tr":
-            self._in_row, self._text, self._links = True, [], []
-        elif tag == "a" and self._in_row:
-            d = dict(attrs)
-            if d.get("title"):
-                self._links.append(d["title"])
-
-    def handle_endtag(self, tag):
-        if tag == "tr" and self._in_row:
-            self.rows.append({"text": " ".join(self._text),
-                              "links": self._links})
-            self._in_row = False
-
-    def handle_data(self, data):
-        if self._in_row and data.strip():
-            self._text.append(data.strip())
-
-
-def _parse_date(texte: str) -> tuple[dt.date, int | None, int | None] | None:
-    m = _DATE_RE.search(texte)
-    if not m:
-        return None
-    try:
-        d = dt.date(int(m.group(3)), _MOIS_IDX[m.group(2).lower()], int(m.group(1)))
-    except ValueError:
-        return None
-    hm = _HEURE_RE.search(texte)
-    if hm:
-        h, mn = int(hm.group(1)), int(hm.group(2))
-        if 0 <= h <= 23 and 0 <= mn <= 59:
-            return d, h, mn
-    return d, None, None
-
-
-def _fr_date(d: dt.date, hh: int | None, mm: int | None) -> str:
-    base = f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]}"
-    return f"{base} à {hh:02d}h{(mm or 0):02d}" if hh is not None else base
-
-
 def _competition(texte: str) -> str:
     low = texte.lower()
     for c in _COMPETS:
@@ -195,38 +146,8 @@ def _competition(texte: str) -> str:
     return ""
 
 
-def _opponent(links: list[str]) -> str:
-    for t in links:
-        low = t.lower()
-        if "paris saint-germain" in low or low.startswith("paris sg"):
-            continue
-        if any(s in low for s in _STADE_MOTS):
-            continue
-        if any(c.lower() in low for c in _COMPETS):
-            continue
-        if low.startswith("saison ") or low in _MOIS_IDX:
-            continue
-        if re.fullmatch(r"\d{4}", t) or "championnat" in low:
-            continue
-        return _NOTE_RE.sub("", t).strip()
-    return "à préciser"
-
-
-def _venue_home(texte: str, links: list[str]) -> tuple[str, str]:
-    """(domicile/extérieur, stade). PSG à domicile ⇒ Parc des Princes."""
-    hay = (texte + " " + " ".join(links)).lower()
-    stade = ""
-    for t in links:
-        if any(s in t.lower() for s in _STADE_MOTS):
-            stade = _NOTE_RE.sub("", t).strip()
-            break
-    if "parc des princes" in hay:
-        return "à domicile", stade or "Parc des Princes"
-    if re.search(r"\bext(?:érieur|\.)\b", hay) or "à l'extérieur" in hay:
-        return "à l'extérieur", stade
-    if re.search(r"\bdom(?:icile|\.)\b", hay):
-        return "à domicile", stade or "Parc des Princes"
-    return "lieu à confirmer", stade
+def _clean(fragment: str) -> str:
+    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", fragment))).strip()
 
 
 def _wiki_psg_next(today: dt.date) -> dict | None:
@@ -249,48 +170,61 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
         print(f"  (article introuvable : {title!r})")
         return None
 
-    html = data["parse"]["text"]
-    try:  # DEBUG temporaire : dump du HTML pour analyser la structure hors-ligne
-        with open("public/_psg_debug.html", "w", encoding="utf-8") as _f:
-            _f.write(html)
-    except Exception:  # noqa: BLE001
-        pass
-    parser = _RowParser()
-    parser.feed(html)
-
-    best: tuple[dt.date, int | None, int | None, dict] | None = None
-    futures = 0
-    for row in parser.rows:
-        parsed = _parse_date(row["text"])
-        if not parsed:
+    raw = data["parse"]["text"]
+    best: tuple[dt.date, str, str, str] | None = None
+    for tr in re.findall(r"<tr[^>]*>.*?</tr>", raw, re.S):
+        t = _clean(tr)
+        if "Paris SG" not in t:
             continue
-        d, hh, mm = parsed
+        dm = _RECAP_DATE.search(t)
+        if not dm:
+            continue
+        try:
+            d = dt.date(int(dm.group(3)), _MOIS_IDX[dm.group(2)], int(dm.group(1)))
+        except (ValueError, KeyError):
+            continue
         if d < today:
-            continue  # matchs passés / dates de naissance : ignorés
-        futures += 1
-        # une ligne de calendrier PSG a au moins un lien vers un club adverse
-        if not row["links"]:
+            continue  # matchs passés
+        after = t[dm.end():].strip()
+        # match à venir : « Domicile - Extérieur » (tiret espacé, sans score)
+        mo = re.match(r"(.+?)\s-\s(.+)$", after)
+        if not mo:
             continue
-        if best is None or d < best[0] or (d == best[0] and (hh or 0) < (best[1] or 0)):
-            best = (d, hh, mm, row)
+        home = mo.group(1).strip()
+        away = re.sub(r"\s+\d+\s*e\b.*$", "", mo.group(2)).strip()
+        if best is None or d < best[0]:
+            best = (d, home, away, t)
 
     if best is None:
-        print(f"  (article {title!r} : {len(parser.rows)} lignes, "
-              f"{futures} dates futures, aucun match exploitable)")
+        print(f"  (aucun match futur PSG repéré dans {title!r})")
         return None
 
-    d, hh, mm, row = best
-    dom, stade = _venue_home(row["text"], row["links"])
-    adversaire = _opponent(row["links"])
-    print(f"  → PSG : {adversaire} le {_fr_date(d, hh, mm)} ({dom}) "
-          f"[liens: {row['links'][:5]}]")
+    d, home, away, t = best
+    psg_home = "paris" in home.lower()
+    adversaire = away if psg_home else home
+    domicile = "à domicile" if psg_home else "à l'extérieur"
+
+    # Heure + diffuseur TV depuis la fiche détaillée (ancrée sur jour + date)
+    full = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", raw)))
+    anc = (rf"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} {d.year}"
+           r"\s*(\d{1,2})h(\d{2})")
+    hm = re.search(anc, full, re.I)
+    hh = int(hm.group(1)) if hm else None
+    mm = int(hm.group(2)) if hm else None
+    # anc porte déjà 2 groupes (heure, minute) → le diffuseur est le groupe 3
+    dif = re.search(anc + r".{0,60}?Diffuseur\s*:?\s*([^\[]+?)\s*(?:\[|Stade|Parc|$)",
+                    full, re.I)
+    diffusion = dif.group(3).strip() if dif else None
+
+    print(f"  → PSG : {adversaire} le {_fr_date(d, hh, mm)} ({domicile}), "
+          f"diffuseur {diffusion or 'à confirmer'}")
     return {
         "adversaire": adversaire,
-        "domicile": dom,
-        "competition": _competition(row["text"]),
+        "domicile": domicile,
+        "competition": _competition(t),
         "date_txt": _fr_date(d, hh, mm),
-        "stade": stade,
-        "diffusion": None,  # Wikipédia ne fournit pas la chaîne TV
+        "stade": "Parc des Princes" if psg_home else "",
+        "diffusion": diffusion,
         "source_name": "Wikipédia",
         "source_url": "https://fr.wikipedia.org/wiki/" + title.replace(" ", "_"),
     }
