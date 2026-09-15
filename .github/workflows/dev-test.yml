@@ -49,6 +49,7 @@ jobs:
       - name: Audio MP3 (edge-tts) — n'interrompt pas le run si le TTS échoue
         if: ${{ env.MISTRAL_API_KEY != '' }}
         continue-on-error: true
+        timeout-minutes: 6
         run: python -m scripts.build_audio
 
       - name: Artefacts
