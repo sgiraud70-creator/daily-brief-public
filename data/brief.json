@@ -7,64 +7,39 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : la course à la candidature s’intensifie",
+          "title": "Euronext et Deutsche Börse : un rapprochement pour renforcer l’Europe financière",
           "bullets": [
-            "Plusieurs figures politiques comme Xavier Bertrand, Jean-Louis Borloo, François Hollande ou Thierry Breton sont en lice pour la primaire des Républicains.",
-            "Le contexte politique est marqué par une fragmentation des ambitions et une incertitude sur les alliances possibles.",
-            "Les candidats doivent concilier réformes économiques et enjeux sociétaux dans un paysage politique fragmenté.",
-            "Les sondages restent volatils, avec une montée des attentes en matière de souveraineté et de compétitivité industrielle."
+            "Le patron d’Euronext plaide pour un rapprochement avec Deutsche Börse, son rival allemand, afin de réduire la fragmentation des marchés européens.",
+            "L’alliance vise à positionner Francfort comme un hub central pour les échanges financiers paneuropéens.",
+            "Les critiques soulignent que cette fusion ne suffirait pas à elle seule à éliminer les disparités persistantes entre les places boursières européennes.",
+            "Les acteurs du secteur attendent des annonces concrètes sur les modalités et le calendrier de cette fusion."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/15/l-automne-s-annonce-comme-un-triangle-des-bermudes-ou-plus-d-une-ambition-presidentielle-pourrait-se-perdre_6774397_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/09/15/fusion-euronext-deutsche-borse-l-arrimage-de-francfort-aux-autres-bourses-europeennes-ne-reduirait-pas-la-fragmentation-des-marches-du-vieux-continent_6774361_3232.html"
             }
           ]
         },
         {
-          "title": "Débat sur la souveraineté populaire et l’État de droit",
+          "title": "Haute-Saône : accident mortel impliquant un utilitaire et deux poids lourds",
           "bullets": [
-            "Alain Madelin et Jean-Philippe Feldman critiquent les attaques contre l’État de droit, jugées excessives par certains candidats.",
-            "Leur tribune plaide pour une limitation de la souveraineté populaire afin d’éviter les dérives populistes.",
-            "Leur argumentation s’inscrit dans un débat plus large sur les limites de la démocratie directe et la protection des institutions.",
-            "Cette prise de position intervient dans un contexte de montée des tensions politiques en France."
+            "Un homme de 33 ans est décédé dans une collision entre un utilitaire et deux poids lourds sur une route de Haute-Saône.",
+            "L’accident s’est produit dans la nuit du 14 au 15 septembre près de Vesoul, selon les sources locales.",
+            "Les circonstances précises de l’accident sont encore en cours d’enquête par les autorités.",
+            "Les secours ont été mobilisés rapidement, mais le bilan humain reste lourd."
           ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/14/alain-madelin-et-jean-philippe-feldman-la-souverainete-populaire-peut-et-doit-etre-limitee-n-en-deplaise-aux-populistes-de-tout-poil_6773877_3232.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Innovation industrielle : Cocorico mise sur l’automatisation pour réduire les coûts",
+          "title": "Vesoul : explosion d’un DAB endommage gravement un commerce local",
           "bullets": [
-            "La marque Cocorico, basée dans le Lot, utilise des robots pour produire des tee-shirts à bas prix et concurrencer les géants asiatiques.",
-            "L’usine automatisée vise un chiffre d’affaires de 100 millions d’euros d’ici 2027.",
-            "Cette stratégie s’inscrit dans une dynamique de relocalisation et de compétitivité industrielle en France.",
-            "L’entreprise crée des emplois locaux tout en optimisant ses coûts de production."
+            "L’explosion d’un distributeur automatique de billets (DAB) a causé d’importants dégâts au Majestic, un commerce de Vesoul.",
+            "Les pompiers ont été alertés vers 10h00 et ont sécurisé la zone rapidement.",
+            "Les causes de l’explosion sont en cours d’enquête par les autorités locales.",
+            "Les commerçants locaux appellent à une vigilance accrue sur les infrastructures bancaires."
           ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/grace-a-des-robots-cocorico-fabrique-des-tee-shirts-a-petits-prix-dans-le-lot_6774398_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "IA : alerte sur les risques non maîtrisés",
-          "bullets": [
-            "Les progrès rapides de l’intelligence artificielle dépassent la compréhension des risques associés, selon un éditorial du *Monde*.",
-            "Les auteurs soulignent la nécessité de réguler ces technologies pour éviter des dérives sociétales et économiques.",
-            "L’urgence est de repenser les cadres légaux et éthiques autour de l’IA avant qu’il ne soit trop tard.",
-            "Ce débat intervient dans un contexte de compétition internationale accrue sur les innovations technologiques."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/15/ia-l-imperieuse-necessite-de-reprendre-la-main_6774396_3232.html"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -72,47 +47,17 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Crise diplomatique : démission du directeur de la Maison de l’Argentine à Paris",
+          "title": "Tensions accrues au Moyen-Orient : paralysie du détroit d’Ormuz et hausse brutale du prix du pétrole",
           "bullets": [
-            "Le directeur de la Maison de l’Argentine à la Cité universitaire de Paris, proche des milieux conservateurs, démissionne avant la visite du président argentin Javier Milei.",
-            "Sa nomination en 2024 avait suscité des critiques pour son manque de légitimité académique et ses liens politiques controversés.",
-            "Cette démission s’inscrit dans un contexte de tensions croissantes entre la France et l’Argentine sous Milei.",
-            "L’incident pourrait affecter les relations culturelles et diplomatiques entre les deux pays."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/le-polemique-directeur-de-la-maison-de-l-argentine-de-la-cite-u-de-paris-demissionne-avant-la-visite-de-javier-milei_6774344_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "États-Unis : pénurie de munitions due à la guerre en Iran",
-          "bullets": [
-            "Le Pentagone reconnaît une pénurie critique de munitions après sept mois de conflit avec l’Iran.",
-            "Cette situation met en lumière les faiblesses des stocks militaires américains et les risques de sous-estimation des besoins en armement.",
-            "Les conséquences pourraient inclure des retards dans les livraisons aux alliés et une pression accrue sur l’industrie de défense.",
-            "Le rapport souligne la nécessité de réévaluer les stratégies d’approvisionnement et de production."
+            "Les cours du pétrole ont connu une hausse spectaculaire en raison de la paralysie partielle du détroit d’Ormuz, stratégique pour le trafic maritime mondial.",
+            "Les Houthis ont intensifié leurs attaques dans la région, perturbant les échanges commerciaux et alimentant les craintes d’une escalade régionale.",
+            "Les pays exportateurs, dont l’Arabie Saoudite, ont réagi en renforçant leurs patrouilles maritimes pour sécuriser la zone.",
+            "Les conséquences économiques pourraient peser sur les prix de l’énergie à l’échelle mondiale."
           ],
           "sources": [
             {
               "name": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-manque-munitions-guerre-iran-pentagone-defense"
-            }
-          ]
-        },
-        {
-          "title": "L’écrivain Olivier Grondeau, ancien prisonnier iranien, sélectionné pour le Goncourt",
-          "bullets": [
-            "Olivier Grondeau, auteur de *Joseph dans la nuit*, raconte son expérience carcérale en Iran après son arrestation en 2022.",
-            "Son livre, basé sur ses deux ans et demi de détention, a été primé et retenu pour la première sélection du prix Goncourt.",
-            "Ce succès littéraire met en lumière la répression des opposants en Iran et les conditions de détention dans le pays.",
-            "Grondeau devient ainsi une voix majeure pour dénoncer les violations des droits humains en Iran."
-          ],
-          "sources": [
-            {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20260915-olivier-grondeau-de-l-enfer-des-prisons-iraniennes-%C3%A0-la-premi%C3%A8re-s%C3%A9lection-du-goncourt"
+              "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260915-donald-trump-junior-mariage-%C3%A0-la-russe"
             }
           ]
         }
@@ -122,32 +67,22 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Accident mortel à Vesoul : un conducteur alcoolisé blesse gravement un adolescent",
+          "title": "Haute-Saône : un homme jugé pour agression envers des pompiers ivre",
           "bullets": [
-            "Un conducteur positif à l’alcool a percuté des barrières à Vesoul, blessant gravement un adolescent de 16 ans.",
-            "L’accident s’est produit dans la nuit du 14 au 15 septembre, sur une route fréquentée.",
-            "Les secours ont été rapidement mobilisés, mais l’adolescent est dans un état critique.",
-            "Les autorités locales renforcent les contrôles routiers en réponse à cet incident."
+            "Un homme de Vesoul a été jugé pour avoir agressé des pompiers qui tentaient de réanimer son père, sous l’effet de l’alcool.",
+            "L’incident s’est déroulé en présence de témoins, qui ont alerté les secours.",
+            "La justice a appliqué une mesure de tolérance zéro, reflétant une politique de fermeté envers les violences envers les secours.",
+            "L’affaire a été jugée en cour criminelle départementale, distincte des assises."
           ],
           "sources": []
         },
         {
-          "title": "Explosion d’un DAB endommage gravement le Majestic à Vesoul",
+          "title": "Vesoul : différences entre cour d’assises et cour criminelle départementale",
           "bullets": [
-            "Une explosion survenue dans un distributeur automatique de billets (DAB) a endommagé le Majestic, un cinéma emblématique de Vesoul.",
-            "Les vitres ont été soufflées et des dégâts matériels importants ont été constatés dans le bâtiment.",
-            "Les autorités locales enquêtent pour déterminer l’origine de l’explosion.",
-            "Le cinéma devrait être fermé pour des réparations pendant plusieurs semaines."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Récolte de maïs en Haute-Saône : perte financière majeure pour les agriculteurs",
-          "bullets": [
-            "Les agriculteurs de Haute-Saône subissent des pertes estimées à 20 000 euros par hectare en raison de conditions climatiques défavorables.",
-            "La récolte de maïs, déjà compromise par la sécheresse, est devenue un cauchemar pour les producteurs locaux.",
-            "Les associations agricoles appellent à une intervention rapide des pouvoirs publics pour compenser ces pertes.",
-            "Cette crise agricole pourrait avoir des répercussions sur les prix des denrées et l’économie locale."
+            "Les habitants de Vesoul s’interrogent sur les distinctions entre les cours d’assises et les cours criminelles départementales.",
+            "Les assises sont compétentes pour juger les crimes les plus graves, tandis que les cours criminelles départementales traitent les délits.",
+            "Cette distinction permet une spécialisation des juridictions selon la gravité des infractions.",
+            "Les deux types de cours fonctionnent sous l’autorité de la justice pénale française."
           ],
           "sources": []
         }
@@ -157,17 +92,47 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Avengers: Secret Wars : Thomas Jane pourrait revenir en tant que Punisher",
+          "title": "Emmy Awards 2026 : les séries incontournables à ne pas manquer",
           "bullets": [
-            "Thomas Jane, connu pour son rôle dans *The Punisher* en 2004, pourrait réapparaître dans l’univers Marvel avec *Avengers: Secret Wars*.",
-            "Un teaser laisse entrevoir un retour du personnage emblématique dans un contexte multiversel.",
-            "Cette annonce suscite l’intérêt des fans et relance les discussions sur les futures adaptations cinématographiques.",
-            "Le film, prévu pour 2027, pourrait marquer un tournant pour les personnages secondaires de Marvel."
+            "La 78e cérémonie des Emmy Awards a mis en lumière des séries marquantes, dont le succès surprise d’Apple TV.",
+            "Matthew Rhys a remporté deux prix pour son interprétation dans une série historique.",
+            "Les séries de HBO restent des valeurs sûres, confirmant leur influence dans le paysage audiovisuel.",
+            "Les récompenses ont également mis en avant des innovations narratives et techniques dans le domaine des séries."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2332891-avengers-secret-wars-thomas-jane-tease-t-il-le-retour-de-son-punisher-de-2004.html"
+              "url": "https://www.numerama.com/pop-culture/2333181-emmy-awards-2026-la-liste-des-series-a-rattraper-durgence-et-les-pepites-a-ne-pas-manquer.html"
+            }
+          ]
+        },
+        {
+          "title": "Lies of P : une suite possible inspirée du Magicien d’Oz",
+          "bullets": [
+            "Le jeu vidéo Lies of P, salué pour son originalité, pourrait explorer de nouveaux univers dans sa suite.",
+            "Une scène post-générique a laissé entrevoir une piste narrative liée au Magicien d’Oz.",
+            "Les développeurs ont confirmé leur intention de poursuivre l’aventure avec des éléments fantastiques et des références culturelles.",
+            "Les fans attendent avec impatience les annonces officielles concernant le développement de cette suite."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2333159-apres-pinocchio-la-suite-de-lies-of-p-pourrait-sinteresser-au-magicien-doz.html"
+            }
+          ]
+        },
+        {
+          "title": "Le Moustache Lundi 27 : un vélo plus léger et abordable",
+          "bullets": [
+            "Le modèle Le Moustache Lundi 27 a été repensé pour être plus léger et moins cher.",
+            "Cette évolution vise à le rendre accessible à un public plus large, tout en conservant ses performances.",
+            "Les innovations technologiques et ergonomiques ont été optimisées pour améliorer l’expérience utilisateur.",
+            "Le vélo est présenté comme un choix idéal pour les trajets quotidiens."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2298733-le-moustache-lundi-27-devient-plus-leger-et-moins-cher-le-daily-ideal.html"
             }
           ]
         }
@@ -177,22 +142,32 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Quadient reconnu comme leader dans l’automatisation des comptes fournisseurs",
+          "title": "Knapp automatise la logistique de Cummins en Suède",
           "bullets": [
-            "Quadient, spécialiste des solutions logicielles, est mis en avant pour son expertise dans l’automatisation des processus financiers.",
-            "La société propose des outils innovants pour optimiser la gestion des comptes fournisseurs et réduire les erreurs.",
-            "Cette reconnaissance intervient dans un contexte de digitalisation croissante des entreprises.",
-            "Quadient vise à accélérer les transactions et améliorer l’efficacité opérationnelle pour ses clients."
+            "Knapp a mis en place une solution d’automatisation pour optimiser la logistique sur un site de Cummins en Suède.",
+            "Cette automatisation vise à améliorer l’efficacité opérationnelle et à réduire les coûts logistiques.",
+            "Le projet s’inscrit dans une démarche globale de modernisation des processus industriels.",
+            "Les résultats attendus incluent une meilleure gestion des stocks et une fluidité accrue des flux de production."
           ],
           "sources": []
         },
         {
-          "title": "Axa développe son Hub IA pour des agents sécurisés et rapides",
+          "title": "Automatisation et IA : vers la fin de la veille traditionnelle ?",
           "bullets": [
-            "Axa a lancé son Hub IA pour accélérer la création d’agents virtuels sécurisés et adaptés à ses besoins métiers.",
-            "Cette plateforme permet de déployer rapidement des solutions d’IA sans compromettre la sécurité des données.",
-            "Le groupe vise à améliorer l’expérience client et à optimiser ses processus internes grâce à l’automatisation.",
-            "Cette initiative s’inscrit dans une stratégie globale de transformation digitale et d’innovation."
+            "Les avancées en automatisation et en intelligence artificielle pourraient révolutionner les méthodes de veille stratégique.",
+            "Les outils d’IA permettent désormais d’analyser et de synthétiser des données en temps réel.",
+            "Les entreprises pourraient réduire leurs coûts et gagner en efficacité grâce à ces technologies.",
+            "Cependant, des défis éthiques et techniques restent à relever pour une adoption large."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Quadient reconnu pour son expertise en automatisation des comptes fournisseurs",
+          "bullets": [
+            "Quadient a été salué pour ses solutions innovantes en automatisation des processus de gestion des comptes fournisseurs.",
+            "L’entreprise propose des outils permettant de simplifier et d’accélérer les transactions financières.",
+            "Cette reconnaissance s’inscrit dans une dynamique de transformation digitale des entreprises.",
+            "Quadient vise à devenir un acteur clé dans le domaine de l’automatisation des workflows financiers."
           ],
           "sources": []
         }
@@ -207,32 +182,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
+          "title": "Impôts 2026 : correction possible de sa déclaration de revenus jusqu’au 15 septembre",
+          "bullets": [
+            "Les contribuables ont encore la possibilité de corriger leur déclaration de revenus jusqu’au 15 septembre 2026.",
+            "Cette mesure permet de rectifier d’éventuelles erreurs ou omissions pour éviter des pénalités.",
+            "Les déclarations en ligne restent la méthode la plus simple et rapide pour effectuer ces corrections.",
+            "Les services fiscaux encouragent les contribuables à vérifier leurs informations avant la clôture du délai."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaques au CPF : comment protéger son compte formation ?",
+          "bullets": [
+            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, incitant les usagers à redoubler de vigilance.",
+            "Les escrocs utilisent souvent des méthodes de phishing pour voler les identifiants des comptes.",
+            "Le gouvernement recommande de vérifier systématiquement l’authenticité des emails et sites avant toute transaction.",
+            "Les victimes sont invitées à signaler les tentatives d’arnaque sur le site officiel du CPF."
+          ],
+          "sources": []
+        },
+        {
           "title": "Délai de redressement fiscal étendu à 3 ans pour les impôts locaux",
           "bullets": [
-            "Les contribuables disposent désormais de trois ans pour contester un redressement fiscal concernant les impôts locaux.",
-            "Cette mesure vise à offrir plus de protection aux citoyens face aux erreurs ou abus de l’administration fiscale.",
-            "Les associations de consommateurs saluent cette extension, qui renforce les droits des contribuables.",
-            "Les impôts locaux concernés incluent la taxe d’habitation résiduelle et la cotisation foncière des entreprises."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Correction possible jusqu’au 15 octobre pour la déclaration de revenus 2026",
-          "bullets": [
-            "Les contribuables peuvent encore corriger leur déclaration de revenus 2026 jusqu’au 15 octobre 2026.",
-            "Cette période supplémentaire permet de rectifier d’éventuelles erreurs ou omissions.",
-            "Les déclarations en ligne restent la méthode la plus simple et sécurisée pour effectuer ces corrections.",
-            "Les services fiscaux rappellent l’importance de vérifier ses informations pour éviter tout redressement ultérieur."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Protection contre les arnaques au CPF",
-          "bullets": [
-            "Le gouvernement rappelle les risques liés aux arnaques au Compte Personnel de Formation (CPF).",
-            "Les escrocs demandent souvent des paiements pour des formations non existantes ou frauduleuses.",
-            "Les utilisateurs sont invités à vérifier les sites officiels et à ne jamais partager leurs identifiants.",
-            "Les victimes peuvent signaler les tentatives d’arnaque sur le site officiel de la sécurité sociale."
+            "Le délai pour contester un redressement fiscal concernant les impôts locaux a été allongé de 1 à 3 ans.",
+            "Cette mesure vise à offrir plus de protection aux contribuables en cas d’erreur ou de contestation.",
+            "Les contribuables disposent désormais de davantage de temps pour engager des recours administratifs.",
+            "Cette extension s’inscrit dans une volonté de simplifier les démarches fiscales."
           ],
           "sources": []
         }
@@ -263,11 +238,19 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "le PSG — prochain match",
+          "title": "Prochain match : le PSG lieu à confirmer contre à préciser",
           "bullets": [
-            "Information indisponible ce matin."
+            "Adversaire : à préciser (lieu à confirmer)",
+            "Compétition : Ligue 1",
+            "Date : dimanche 20 septembre à 20h45 (heure de Paris)",
+            "Diffusion : à confirmer"
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
+            }
+          ]
         }
       ]
     }
