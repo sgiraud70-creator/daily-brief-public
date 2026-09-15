@@ -1,9 +1,10 @@
 """Synthèse vocale à double moteur (EF-34).
 
-Moteur principal : edge-tts (voix françaises, gratuit). Voix tirée au hasard
-chaque jour (choix utilisateur). Repli : Piper (local, sans quota) — activé si
-edge-tts échoue (R-02 : erreurs 403 constatées). Piper nécessite un modèle de
-voix ; s'il est absent, on lève une erreur claire (à compléter au maillon Piper).
+- Moteur principal : edge-tts (voix FR variées). Souvent bloqué depuis une IP de
+  datacenter (R-02) → essai court, puis bascule.
+- Repli : Piper (local, open-source, sans quota, jamais bloqué). Voix FR tirée
+  au hasard chaque jour ; modèle téléchargé depuis HuggingFace si absent.
+- Conversion WAV→MP3 via ffmpeg fourni par imageio-ffmpeg (aucune install système).
 """
 from __future__ import annotations
 
@@ -13,78 +14,78 @@ import random
 import subprocess
 import urllib.request
 
-# Voix Piper (repli local). Modèle téléchargé depuis HuggingFace si absent.
-PIPER_VOICE = "fr_FR-siwis-medium"
-PIPER_BASE = ("https://huggingface.co/rhasspy/piper-voices/resolve/main/"
-              "fr/fr_FR/siwis/medium/")
-PIPER_DIR = os.path.join(os.path.expanduser("~"), ".cache", "piper")
-
-# Voix FR de qualité (tirage aléatoire quotidien)
-VOICES = [
-    "fr-FR-DeniseNeural",
-    "fr-FR-HenriNeural",
-    "fr-FR-EloiseNeural",
-    "fr-FR-RemyMultilingualNeural",
-    "fr-FR-VivienneMultilingualNeural",
+# Voix edge-tts (utilisées quand le service répond)
+EDGE_VOICES = [
+    "fr-FR-DeniseNeural", "fr-FR-HenriNeural", "fr-FR-EloiseNeural",
+    "fr-FR-RemyMultilingualNeural", "fr-FR-VivienneMultilingualNeural",
 ]
 
+# Voix Piper (repli fiable). Tirage aléatoire quotidien.
+PIPER_VOICES = ["fr_FR-siwis-medium", "fr_FR-tom-medium", "fr_FR-gilles-low"]
+PIPER_DIR = os.path.join(os.path.expanduser("~"), ".cache", "piper")
+HF = "https://huggingface.co/rhasspy/piper-voices/resolve/main/fr/fr_FR/"
 
-def _edge(text: str, out_path: str, voice: str, timeout: int = 120) -> None:
+
+# ------------------------------------------------------------------ edge ----
+def _edge(text: str, out_path: str, voice: str, timeout: int = 20) -> None:
     import edge_tts
 
     async def _run() -> None:
-        # timeout dur : edge-tts peut se bloquer (R-02) — on n'attend jamais indéfiniment
         await asyncio.wait_for(edge_tts.Communicate(text, voice).save(out_path),
                                timeout=timeout)
 
     asyncio.run(_run())
 
 
-def synth(text: str, out_path: str) -> dict:
-    """Génère le MP3. Renvoie {moteur, voix}. Lève si tous les moteurs échouent."""
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    voice = random.choice(VOICES)
-    # edge-tts (voix variées) — souvent bloqué sur IP datacenter (R-02) :
-    # 2 essais courts, puis on bascule vite sur Piper.
-    last = None
-    for _ in range(2):
-        try:
-            _edge(text, out_path, voice, timeout=60)
-            if os.path.getsize(out_path) > 1000:
-                return {"moteur": "edge-tts", "voix": voice}
-        except Exception as e:  # noqa: BLE001
-            last = e
-            print(f"  edge-tts indisponible ({e!r}) → repli Piper")
-            break
-    # repli local Piper (toujours disponible)
-    try:
-        return _piper(text, out_path)
-    except Exception as e:  # noqa: BLE001
-        raise RuntimeError(f"Échec TTS (edge: {last!r} ; piper: {e!r})")
+# ----------------------------------------------------------------- piper ----
+def _voice_urls(voice: str) -> tuple[str, str]:
+    _, name, quality = voice.split("-")            # fr_FR-siwis-medium
+    base = f"{HF}{name}/{quality}/{voice}"
+    return base + ".onnx", base + ".onnx.json"
 
 
-def _ensure_piper_voice() -> str:
-    """Télécharge le modèle de voix Piper si absent ; renvoie le chemin du .onnx."""
+def _ensure_piper_voice(voice: str) -> str:
     os.makedirs(PIPER_DIR, exist_ok=True)
-    onnx = os.path.join(PIPER_DIR, f"{PIPER_VOICE}.onnx")
-    cfg = onnx + ".json"
-    for path, url in [(onnx, PIPER_BASE + f"{PIPER_VOICE}.onnx"),
-                      (cfg, PIPER_BASE + f"{PIPER_VOICE}.onnx.json")]:
+    onnx = os.path.join(PIPER_DIR, f"{voice}.onnx")
+    url_onnx, url_cfg = _voice_urls(voice)
+    for path, url in [(onnx, url_onnx), (onnx + ".json", url_cfg)]:
         if not os.path.exists(path) or os.path.getsize(path) < 1000:
             urllib.request.urlretrieve(url, path)
     return onnx
 
 
+def _ffmpeg() -> str:
+    import imageio_ffmpeg
+    return imageio_ffmpeg.get_ffmpeg_exe()
+
+
 def _piper(text: str, out_path: str) -> dict:
-    """Repli local Piper (sans quota, sans blocage) → WAV puis MP3 via ffmpeg."""
-    onnx = _ensure_piper_voice()
+    voice = random.choice(PIPER_VOICES)
+    onnx = _ensure_piper_voice(voice)
     wav = out_path[:-4] + ".wav" if out_path.endswith(".mp3") else out_path + ".wav"
-    subprocess.run(["piper", "-m", onnx, "-f", wav],
-                   input=text.encode("utf-8"), check=True,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    subprocess.run(["ffmpeg", "-y", "-i", wav, "-ac", "1", "-ar", "24000",
-                    "-b:a", "48k", out_path], check=True,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    if os.path.exists(wav):
-        os.remove(wav)
-    return {"moteur": "piper", "voix": PIPER_VOICE}
+    try:
+        subprocess.run(["piper", "-m", onnx, "-f", wav],
+                       input=text.encode("utf-8"), check=True,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        subprocess.run([_ffmpeg(), "-y", "-i", wav, "-ac", "1", "-ar", "24000",
+                        "-b:a", "48k", out_path], check=True,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    finally:
+        if os.path.exists(wav):
+            os.remove(wav)
+    return {"moteur": "piper", "voix": voice}
+
+
+# ------------------------------------------------------------------ api ----
+def synth(text: str, out_path: str) -> dict:
+    """Génère le MP3. Renvoie {moteur, voix}. Lève si tous les moteurs échouent."""
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    # 1) edge-tts (essai court : souvent bloqué en datacenter)
+    try:
+        _edge(text, out_path, random.choice(EDGE_VOICES), timeout=20)
+        if os.path.getsize(out_path) > 1000:
+            return {"moteur": "edge-tts", "voix": "fr-FR"}
+    except Exception as e:  # noqa: BLE001
+        print(f"  edge-tts indisponible ({e!r}) → repli Piper")
+    # 2) repli Piper (fiable)
+    return _piper(text, out_path)
