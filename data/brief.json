@@ -1,72 +1,68 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 4,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : Marine Le Pen en tête dans toutes les configurations",
+          "title": "La Finlande rejoint la dissuasion nucléaire européenne proposée par la France",
           "bullets": [
-            "Marine Le Pen créditée d’au moins un tiers des intentions de vote dans toutes les configurations testées par une enquête électorale.",
-            "L’enquête révèle un profond désir de changement après les deux mandats d’Emmanuel Macron.",
-            "Les préoccupations économiques dominent les priorités des électeurs.",
-            "Les sondages montrent une polarisation croissante entre les candidats de gauche et de droite.",
-            "Cette enquête marque un tournant dans la campagne présidentielle française."
+            "La Finlande devient le dixième partenaire européen à adhérer à l’initiative française de dissuasion nucléaire avancée.",
+            "Cette coopération vise à renforcer la sécurité énergétique et la stabilité stratégique en Europe face aux tensions géopolitiques.",
+            "La Finlande s’engage à participer à des exercices et à des échanges technologiques sous supervision française.",
+            "Le gouvernement finlandais souligne l’importance de cette alliance pour contrer les risques liés à la guerre en Ukraine et aux ambitions nucléaires russes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-suivez-les-derniers-developpements-de-la-campagne_6770586_823448.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/14/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france-aux-pays-europeens_6773746_3210.html"
             }
           ]
         },
         {
-          "title": "Colère des policiers de Mayotte et La Réunion pour l’oubli dans la liste des médaillés post-cyclone Chido",
+          "title": "Tourisme : les ONG dénoncent l’impact climatique de la surfréquentation en France",
           "bullets": [
-            "Plusieurs centaines de policiers ont été oubliés dans la liste des médaillés pour leur engagement lors du passage du cyclone Chido en 2024.",
-            "La médaille de la sécurité intérieure leur était promise pour récompenser leur action.",
-            "Les forces de l’ordre dénoncent un manque de reconnaissance institutionnelle.",
-            "Cette omission suscite une vague de protestations et de critiques envers les autorités locales.",
-            "Les syndicats de police appellent à une rectification rapide."
+            "Le Réseau Action Climat et d’autres associations pointent du doigt l’augmentation des touristes étrangers, dépassant désormais 100 millions par an.",
+            "Les émissions liées au tourisme représentent 8 % des émissions nationales de gaz à effet de serre.",
+            "Les ONG réclament des mesures urgentes pour limiter les vols low-cost et promouvoir un tourisme durable.",
+            "Le gouvernement français évoque des plans pour réduire l’empreinte carbone du secteur, mais les associations jugent les mesures insuffisantes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/14/a-mayotte-et-a-la-reunion-la-colere-des-policiers-oublies-de-la-liste-des-medailles-pour-leur-engagement-lors-du-passage-du-cyclone-chido_6773781_3224.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/09/14/tourisme-les-ong-qui-luttent-contre-le-dereglement-climatique-denoncent-la-course-aux-visiteurs-etrangers-en-france_6773873_3234.html"
             }
           ]
         },
         {
-          "title": "Versements de dividendes : la France en tête en Europe au T2 2026",
+          "title": "Grève des électriciens et gaziers : défense du tarif agent face à une possible révision",
           "bullets": [
-            "Les entreprises françaises ont distribué 70,4 milliards de dollars à leurs actionnaires entre avril et juin 2026.",
-            "La France dépasse ainsi les autres pays européens en termes de versements de dividendes.",
-            "Ce chiffre reflète une bonne santé financière des grandes entreprises cotées.",
-            "Les actionnaires français bénéficient d’une performance économique notable.",
-            "Cette tendance pourrait influencer les stratégies financières des entreprises européennes."
+            "Les syndicats CGT, CFE-CGC, CFDT et FO appellent à une grève mardi pour défendre le tarif agent, un avantage fiscal pour les agents publics.",
+            "Les syndicats craignent une suppression ou une réduction de ce tarif, qui représente un avantage financier non négligeable pour les salariés.",
+            "Les grèves pourraient perturber les services publics et les entreprises dépendantes de l’énergie.",
+            "Le gouvernement étudie une réforme des tarifs préférentiels, mais n’a pas encore communiqué de décision définitive."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/versements-de-dividendes-la-france-en-tete-en-europe-au-deuxieme-trimestre-2026_6774017_3234.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/09/14/les-electriciens-et-les-gaziers-en-greve-pour-la-defense-de-leur-tarif-preferentiel-sur-les-factures_6773842_3234.html"
             }
           ]
         },
         {
-          "title": "Autoroute A69 : amende de 800 000 € pour travaux illégaux",
+          "title": "Présidentielle 2027 : un fort désir de changement parmi les Français",
           "bullets": [
-            "Le concessionnaire de l’autoroute A69 a été condamné à une amende de plus de 800 000 € pour des travaux hors périmètre autorisé.",
-            "Les travaux concernaient des modifications non conformes aux règles environnementales et administratives.",
-            "Un collectif d’opposants dénonce une somme « complètement insuffisante » pour réparer les dégâts.",
-            "Cette décision pourrait avoir des répercussions sur les projets futurs de construction routière en France.",
-            "Les associations environnementales appellent à une meilleure régulation des concessions autoroutières."
+            "Une majorité des Français expriment un souhait de rupture après deux mandats d’Emmanuel Macron.",
+            "Les préoccupations économiques dominent les attentes des électeurs, devant les questions sociétales ou géopolitiques.",
+            "Les sondages révèlent une montée des aspirations à un renouvellement politique et une remise en cause des politiques actuelles.",
+            "Les partis traditionnels, y compris la majorité présidentielle, pourraient subir une défiance accrue lors des prochaines élections."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/09/14/autoroute-a69-le-concessionnaire-condamne-a-une-amende-de-plus-de-800-000-euros-pour-des-travaux-hors-du-perimetre-autorise_6773879_3244.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/09/14/presidentielle-2027-un-profond-desir-de-changement_6773605_3232.html"
             }
           ]
         }
@@ -78,80 +74,60 @@
         {
           "title": "Ukraine : proposition de cessez-le-feu sur les infrastructures énergétiques russes",
           "bullets": [
-            "L’Ukraine propose de suspendre les bombardements sur les infrastructures énergétiques russes en échange d’une réciprocité de Moscou.",
-            "Volodymyr Zelensky a évoqué cette possibilité lors d’une réunion avec ses alliés.",
-            "Cette proposition vise à désamorcer une escalade militaire et à faciliter des négociations de paix.",
-            "Les États-Unis et l’UE soutiennent une désescalade, mais la Russie reste sceptique.",
-            "La situation reste tendue en mer Noire et dans les régions frontalières."
+            "Kiev propose de suspendre les bombardements des infrastructures énergétiques russes en échange d’une réciprocité de Moscou.",
+            "Cette initiative vise à éviter une escalade supplémentaire et à stabiliser la situation humanitaire et énergétique en Europe.",
+            "Les alliés de l’Ukraine sont appelés à soutenir cette proposition lors des négociations en cours.",
+            "La Russie n’a pas encore réagi officiellement, mais les tensions persistent dans la région."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/europe/20260914-ukraine-mesures-desescalade-russie-zelensky-infrastructures-energetiques-trump"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-kiev-se-dit-pret-a-ne-plus-bombarder-les-infrastructures-energetiques-russes-a-condition-d-une-reciprocite-de-moscou_6772184_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : la Cour suprême rejette une attaque de Trump contre le vote par correspondance",
+          "title": "Baril de pétrole à plus de 100 dollars : tension accrue au Moyen-Orient",
           "bullets": [
-            "La Cour suprême des États-Unis a rejeté une tentative de Donald Trump de limiter le vote par correspondance.",
-            "Cette décision intervient à quelques semaines des élections de mi-mandat.",
-            "Trump accusait les États de favoriser le vote à distance, une pratique qu’il juge frauduleuse.",
-            "Les démocrates saluent cette décision comme un pas vers une élection plus équitable.",
-            "Les tensions politiques restent vives autour des réformes électorales."
+            "Le prix du baril dépasse les 100 dollars en raison des attaques houthis contre l’Arabie saoudite et du contrôle du détroit de Bab El-Mandeb.",
+            "Les rebelles houthis ont intensifié leurs frappes contre les infrastructures pétrolières saoudiennes, perturbant les flux énergétiques mondiaux.",
+            "Les pays occidentaux et arabes appellent à une désescalade pour éviter une crise économique mondiale.",
+            "Les réserves stratégiques sont surveillées de près pour anticiper une éventuelle pénurie."
           ],
           "sources": [
             {
               "name": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-la-cour-supr%C3%AAme-rejette-une-attaque-de-trump-contre-le-vote-par-correspondance"
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260914-le-baril-de-p%C3%A9trole-%C3%A0-plus-de-100-dollars-alors-que-la-tension-monte-au-moyen-orient"
             }
           ]
         },
         {
-          "title": "Venezuela invité au G20 énergie sous l’impulsion des États-Unis",
+          "title": "Fausses vidéos amplifient les attaques houthis en Arabie saoudite",
           "bullets": [
-            "Le Venezuela participe à la réunion des ministres de l’Énergie du G20 à Houston, sur invitation américaine.",
-            "Cette participation s’inscrit dans une stratégie de Donald Trump pour renforcer les relations avec Caracas.",
-            "Le pays fait face à des défis économiques majeurs, notamment dans le secteur pétrolier.",
-            "Les États-Unis cherchent à diversifier leurs partenariats énergétiques en Amérique latine.",
-            "Cette initiative pourrait avoir des répercussions sur les relations internationales et régionales."
+            "Des vidéos truquées montrent des frappes houthis contre des cibles saoudiennes, amplifiant la désinformation sur le conflit.",
+            "Ces contenus falsifiés visent à justifier des représailles ou à semer la panique dans l’opinion publique.",
+            "Les plateformes sociales et les médias locaux démentent ces vidéos et appellent à la vigilance.",
+            "Les autorités saoudiennes renforcent la surveillance des réseaux pour limiter la propagation de ces fausses informations."
           ],
           "sources": [
             {
               "name": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20260914-invit%C3%A9-par-washington-le-venezuela-va-participer-au-g20-consacr%C3%A9-%C3%A0-l-%C3%A9nergie"
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260914-des-fausses-vid%C3%A9os-pour-illustrer-les-frappes-houthis-en-arabie-saoudite"
             }
           ]
         },
         {
-          "title": "Houthis : contrôle accru de la mer Rouge et menaces sur le trafic maritime",
+          "title": "Algérie et Mali renforcent leur coopération bilatérale",
           "bullets": [
-            "Les Houthis, soutenus par l’Iran, ont pris le contrôle d’une grande partie du littoral yéménite.",
-            "Cette offensive menace la sécurité du trafic maritime dans la mer Rouge et le golfe d’Aden.",
-            "Les pays occidentaux et arabes craignent des attaques contre les navires commerciaux.",
-            "La situation pourrait entraîner une hausse des assurances maritimes et des coûts logistiques.",
-            "Les Nations unies appellent à une désescalade pour éviter une crise humanitaire et économique."
+            "Le Premier ministre algérien, Sidi Ghrieb, se rend à Bamako pour discuter de la relance des échanges économiques et sécuritaires.",
+            "Les deux pays explorent des partenariats dans les domaines énergétique, agricole et sécuritaire, notamment face aux défis régionaux.",
+            "Cette visite intervient dans un contexte de tensions persistantes dans la région du Sahel.",
+            "Les Algériens et les Malien cherchent à stabiliser leurs relations après des années de tensions diplomatiques."
           ],
           "sources": [
             {
               "name": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260914-houthis-les-nouveaux-ma%C3%AEtres-de-la-mer-rouge"
-            }
-          ]
-        },
-        {
-          "title": "États-Unis : confirmation officielle de la présence d’armes en orbite",
-          "bullets": [
-            "L’US Space Force a confirmé détenir des « systèmes de contrôle spatial armés » pour défendre ses forces en orbite.",
-            "Cette annonce intervient dans un contexte de tensions croissantes dans l’espace extra-atmosphérique.",
-            "La Russie et la Chine développent également des capacités militaires spatiales.",
-            "Les experts craignent une course aux armements dans l’espace pouvant menacer les satellites civils.",
-            "Cette décision pourrait relancer les débats sur la régulation internationale de l’espace."
-          ],
-          "sources": [
-            {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9co-tech/20260914-espace-etats-unis-confirment-deploye-armes-orbit-us-space-force"
+              "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260914-mali-le-premier-ministre-alg%C3%A9rien-sifi-ghrieb-%C3%A0-bamako-pour-relancer-la-coop%C3%A9ration"
             }
           ]
         }
@@ -161,13 +137,12 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Elections sénatoriales 2026 : candidats en Haute-Saône, Doubs et Territoire de Belfort",
+          "title": "Chimiothérapie à domicile : une première en Haute-Saône avec le GH70",
           "bullets": [
-            "Découverte des profils des candidats aux élections sénatoriales dans les départements de la Haute-Saône, du Doubs et du Territoire de Belfort.",
-            "Les candidats représentent divers partis politiques, reflétant la diversité du paysage politique local.",
-            "Les enjeux locaux incluent les questions économiques, sociales et environnementales.",
-            "Les débats et meetings se multiplient avant le scrutin.",
-            "Les électeurs sont invités à s’informer sur les programmes des candidats."
+            "Le Groupe Hospitalier de Haute-Saône (GH70) propose désormais des séances de chimiothérapie à domicile pour certains patients.",
+            "Cette innovation vise à améliorer la qualité de vie des malades en réduisant les déplacements et les temps d’attente.",
+            "Le service est réservé aux patients stables et sous surveillance médicale renforcée.",
+            "Cette initiative s’inscrit dans une dynamique de modernisation des soins en milieu rural."
           ],
           "sources": []
         }
@@ -175,40 +150,18 @@
     },
     {
       "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Tesla FSD : une conduite autonome au bord du précipice",
-          "bullets": [
-            "Un propriétaire slovène de Tesla a partagé une vidéo montrant sa voiture en mode FSD (Full Self-Driving) roulant près d’un ravin.",
-            "La voiture a démontré une capacité à éviter des obstacles et à maintenir une trajectoire précise.",
-            "Cette démonstration soulève des questions sur les limites et la fiabilité des systèmes autonomes.",
-            "Les experts en sécurité routière appellent à une régulation plus stricte des technologies autonomes.",
-            "Les constructeurs automobiles et les régulateurs doivent collaborer pour garantir la sécurité des usagers."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2332597-au-bord-du-precipice-cette-tesla-en-fsd-conduit-mieux-que-vous-la-preuve-en-video.html"
-            }
-          ]
-        },
-        {
-          "title": "La Bataille de Gaulle : succès continu et nouvelle suite en préparation",
-          "bullets": [
-            "Le diptyque événement *La Bataille de Gaulle* a déjà dépassé 5,5 millions d’entrées en salles.",
-            "La sortie en SVOD (Streaming Video On Demand) est prévue pour élargir son audience.",
-            "Antonin Baudry prépare une suite qui pourrait être candidate aux Oscars.",
-            "Ce succès confirme l’intérêt du public pour les films historiques et dramatiques.",
-            "Les producteurs envisagent de développer d’autres projets similaires."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2332589-la-bataille-de-gaulle-le-succes-continue-avec-la-sortie-svod-et-la-course-aux-oscars.html"
-            }
-          ]
-        }
-      ]
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "À savoir · vie pratique",
@@ -216,33 +169,20 @@
         {
           "title": "Arnaques au CPF : comment protéger son compte formation ?",
           "bullets": [
-            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, ciblant les détenteurs de crédits.",
-            "Les escrocs utilisent des faux sites ou des appels téléphoniques pour voler les informations personnelles.",
-            "Le gouvernement recommande de vérifier systématiquement l’authenticité des plateformes avant toute transaction.",
-            "Les victimes sont invitées à signaler les tentatives d’arnaque sur le site officiel du CPF.",
-            "Des conseils pratiques sont disponibles pour sécuriser son compte et éviter les pièges."
+            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, avec des escrocs proposant des formations fictives.",
+            "Les victimes sont souvent sollicitées par des appels ou des messages frauduleux promettant des formations gratuites ou subventionnées.",
+            "Le gouvernement rappelle de vérifier systématiquement l’identité des organismes et de consulter le site officiel du CPF.",
+            "Les plaintes pour escroquerie ont augmenté de 30 % cette année, selon les services de police."
           ],
           "sources": []
         },
         {
-          "title": "Délai de redressement des impôts locaux prolongé à 3 ans",
+          "title": "Délai de redressement pour les impôts locaux passe à 3 ans",
           "bullets": [
-            "Le délai pour contester les impôts locaux passe de 1 à 3 ans, offrant plus de temps aux contribuables.",
-            "Cette mesure vise à faciliter les recours en cas d’erreur ou de désaccord sur les évaluations.",
-            "Les collectivités locales doivent désormais justifier leurs décisions de manière plus transparente.",
-            "Les associations de consommateurs saluent cette évolution pour plus de justice fiscale.",
-            "Les contribuables sont encouragés à vérifier leurs évaluations et à contester en cas de besoin."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaques immobilières : vigilance accrue pour les locations",
-          "bullets": [
-            "Les arnaques liées à la location immobilière se multiplient, avec des escrocs proposant des biens inexistants.",
-            "Les victimes sont souvent sollicitées via des annonces en ligne ou des faux agents immobiliers.",
-            "Les plateformes de location en ligne renforcent leurs vérifications pour limiter ces pratiques.",
-            "Les consommateurs sont invités à vérifier systématiquement l’identité des propriétaires et des intermédiaires.",
-            "Les associations de locataires et les médias alertent sur les signes révélateurs d’une arnaque."
+            "La loi modifie le délai de redressement pour les impôts locaux, passant de 1 à 3 ans pour les erreurs ou omissions.",
+            "Cette mesure vise à offrir plus de sécurité juridique aux contribuables et aux collectivités locales.",
+            "Les impôts locaux concernés incluent la taxe foncière et la taxe d’habitation pour les résidences secondaires.",
+            "Les experts fiscaux soulignent que cette extension pourrait entraîner une hausse des contentieux."
           ],
           "sources": []
         }
