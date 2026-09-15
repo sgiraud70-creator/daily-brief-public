@@ -40,6 +40,7 @@ def fetch_feed(url: str) -> list[dict]:
     parsed = feedparser.parse(url, agent=UA)
     if parsed.bozo and not parsed.entries:
         raise RuntimeError(parsed.get("bozo_exception", "flux illisible"))
+    is_gnews = "news.google.com" in url
     items = []
     now = dt.datetime.now()
     for e in parsed.entries[:MAX_PER_FEED]:
@@ -50,11 +51,17 @@ def fetch_feed(url: str) -> list[dict]:
         when = _entry_datetime(e)
         if when and (now - when) > dt.timedelta(hours=MAX_AGE_HOURS):
             continue
+        # Google Actualités : le vrai média est en suffixe du titre (« Titre - Le Progrès »)
+        if is_gnews and " - " in title:
+            title, source = title.rsplit(" - ", 1)
+            source = source.strip()
+        else:
+            source = "Google Actualités" if is_gnews else _source_name(url)
         summary = (e.get("summary") or "").strip()
         items.append({
-            "title": title,
+            "title": title.strip(),
             "url": link,
-            "source": _source_name(url),
+            "source": source,
             "summary": summary[:400],
             "published": when.isoformat() if when else None,
         })
