@@ -27,7 +27,7 @@ HF = "https://huggingface.co/rhasspy/piper-voices/resolve/main/fr/fr_FR/"
 
 
 # ------------------------------------------------------------------ edge ----
-def _edge(text: str, out_path: str, voice: str, timeout: int = 20) -> None:
+def _edge(text: str, out_path: str, voice: str, timeout: int = 8) -> None:
     import edge_tts
 
     async def _run() -> None:
@@ -96,7 +96,7 @@ def synth(text: str, out_path: str) -> dict:
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     # 1) edge-tts (essai court : souvent bloqué en datacenter)
     try:
-        _edge(text, out_path, random.choice(EDGE_VOICES), timeout=20)
+        _edge(text, out_path, random.choice(EDGE_VOICES), timeout=8)
         if os.path.getsize(out_path) > 1000:
             return {"moteur": "edge-tts", "voix": "fr-FR"}
     except Exception as e:  # noqa: BLE001

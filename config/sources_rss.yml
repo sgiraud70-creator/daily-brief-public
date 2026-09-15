@@ -25,6 +25,14 @@ Applications · no-code · automatisation:
 
 Impression 3D:
   - https://www.3dnatives.com/feed/
+  # Renfort : la recherche Google Actualités garantit des sujets frais quand le flux principal est pauvre
+  - 'https://news.google.com/rss/search?q=%22impression%203D%22%20OR%20%22fabrication%20additive%22%20OR%20%22imprimante%203D%22&hl=fr&gl=FR&ceid=FR:fr'
 
 À savoir · vie pratique:
   - 'https://news.google.com/rss/search?q=%22ch%C3%A8que%20%C3%A9nergie%22%20OR%20%22d%C3%A9marches%20administratives%22%20OR%20arnaque%20OR%20imp%C3%B4ts&hl=fr&gl=FR&ceid=FR:fr'
+
+# Placé en dernier : apparaît juste avant les rubriques sport déterministes
+# (Steelers, PSG) ajoutées en fin de brief.
+Sport général:
+  - https://www.lequipe.fr/rss/actu_rss.xml   # peut être bloqué en datacenter → repli ci-dessous
+  - 'https://news.google.com/rss/search?q=rugby%20OR%20tennis%20OR%20cyclisme%20OR%20basket%20OR%20%22Formule%201%22%20OR%20handball%20OR%20athl%C3%A9tisme&hl=fr&gl=FR&ceid=FR:fr'
