@@ -1,68 +1,48 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Accident mortel en Haute-Saône : un homme de 33 ans décède dans une collision impliquant un utilitaire et deux poids lourds",
+          "title": "Accident mortel en Haute-Saône : un trentenaire décède dans une collision entre un utilitaire et deux poids lourds",
           "bullets": [
-            "Décès d’un homme de 33 ans dans un accident survenu en Haute-Saône.",
-            "Implication d’un utilitaire et de deux poids lourds dans la collision.",
-            "Enquête en cours pour déterminer les circonstances exactes.",
-            "La route concernée pourrait faire l’objet de mesures de sécurité renforcées."
+            "Un homme de 33 ans est décédé dans un accident survenu près de Vesoul (Haute-Saône).",
+            "L’accident impliquait un utilitaire et deux poids lourds, survenu sur une route départementale.",
+            "Les causes exactes de la collision sont encore en cours d’enquête.",
+            "Les secours ont été mobilisés rapidement, mais le conducteur de l’utilitaire n’a pas survécu."
           ],
           "sources": []
         },
         {
-          "title": "Agriculteurs en Haute-Saône : fauchage des regains pour limiter les pertes après une sécheresse prolongée",
+          "title": "Explosion d’un DAB endommage gravement le Majestic de Vesoul",
           "bullets": [
-            "Les agriculteurs de la région tentent de sauver la saison agricole après des mois de sécheresse.",
-            "Fauchage des regains pour éviter des pertes totales dans les champs.",
-            "Appel à la solidarité régionale et à des aides financières pour compenser les pertes.",
-            "Impact économique sur les exploitations locales, déjà fragilisées par les aléas climatiques."
+            "Un distributeur automatique de billets (DAB) a explosé devant le cinéma Majestic à Vesoul.",
+            "L’explosion a causé des dégâts matériels importants, notamment des vitres brisées et des dégradations sur la façade.",
+            "Aucune victime n’est à déplorer, mais les pompiers ont été appelés pour sécuriser les lieux.",
+            "Les causes de l’explosion sont en cours d’enquête par les autorités locales."
           ],
           "sources": []
         },
         {
-          "title": "Élections sénatoriales 2026 : liste des candidats dans le Doubs, la Haute-Saône et le Territoire de Belfort",
+          "title": "Agriculteurs en Haute-Saône : les regains fauchés pour limiter les pertes liées à la sécheresse",
           "bullets": [
-            "Publication officielle des candidats pour les élections sénatoriales dans ces trois départements.",
-            "Divers profils politiques en lice, incluant des figures locales et des personnalités nationales.",
-            "Campagnes en cours pour mobiliser les électeurs avant le scrutin de 2026.",
-            "Enjeux locaux et nationaux en jeu, notamment sur les questions économiques et environnementales."
+            "Face à la sécheresse persistante, les agriculteurs de la région fauchent les regains pour limiter les pertes de récoltes.",
+            "Cette mesure exceptionnelle vise à préserver une partie de la saison agricole malgré les conditions climatiques défavorables.",
+            "Les associations agricoles appellent à une meilleure prise en compte des aides pour les agriculteurs touchés.",
+            "Les regains fauchés ne pourront pas être utilisés pour l’alimentation animale ou humaine."
           ],
           "sources": []
         },
         {
-          "title": "Vesoul : explosion d’un DAB endommageant gravement le Majestic, un cinéma local",
+          "title": "Impôts 2026 : correction possible de sa déclaration de revenus jusqu’au 25 septembre",
           "bullets": [
-            "Explosion d’un distributeur automatique de billets (DAB) devant le cinéma Majestic à Vesoul.",
-            "Endommagement majeur de la façade et des vitrines du cinéma.",
-            "Fermeture temporaire du cinéma pour évaluation des dégâts et travaux de réparation.",
-            "Enquête en cours pour déterminer l’origine de l’incident."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Vesoul : conducteur ivre blesse gravement un adolescent après avoir percuté des barrières",
-          "bullets": [
-            "Un conducteur positif à l’alcool a percuté des barrières à Vesoul, blessant gravement un adolescent.",
-            "L’accident s’est produit dans une zone résidentielle, entraînant des perturbations locales.",
-            "Le conducteur a été interpellé par les forces de l’ordre et placé en garde à vue.",
-            "L’adolescent, hospitalisé dans un état grave, fait l’objet de soins intensifs."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Vesoul : un homme jugé pour avoir agressé les pompiers tentant de réanimer son père sous l’emprise de l’alcool",
-          "bullets": [
-            "Un homme de Vesoul a été jugé pour avoir agressé des pompiers intervenus pour réanimer son père.",
-            "L’incident s’est déroulé sous l’emprise de l’alcool, aggravant les tensions.",
-            "Le père de l’accusé est décédé des suites de ses blessures.",
-            "Condamnation prononcée pour violences sur secours et ivresse au volant."
+            "Les contribuables ont encore jusqu’au 25 septembre pour corriger leur déclaration de revenus 2026.",
+            "Cette période de correction permet d’ajuster les informations déclarées pour éviter des erreurs ou omissions.",
+            "Les corrections peuvent être faites en ligne via le site des impôts ou en se rendant en centre des finances publiques.",
+            "Les modifications peuvent concerner les revenus, les charges déductibles ou les réductions d’impôt."
           ],
           "sources": []
         }
@@ -70,29 +50,69 @@
     },
     {
       "label": "International",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Mondiaux d’athlétisme 2029 : Nairobi accueillera pour la première fois un événement majeur en Afrique",
+          "bullets": [
+            "Nairobi, au Kenya, organisera les championnats du monde d’athlétisme en 2029.",
+            "Il s’agit de la première fois qu’un pays africain accueille cette compétition majeure.",
+            "Cette décision marque une avancée pour le continent africain dans l’organisation d’événements sportifs internationaux.",
+            "Les organisateurs prévoient des infrastructures adaptées pour accueillir des athlètes du monde entier."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Canada vs France en Coupe Davis 2026 : programme et modalités de suivi annoncés",
+          "bullets": [
+            "La France affronte le Canada en Coupe Davis 2026, compétition majeure de tennis par équipes.",
+            "Les dates, horaires et modalités de diffusion en direct seront communiqués prochainement.",
+            "Les matchs se dérouleront dans un cadre international, avec des joueurs de haut niveau en lice.",
+            "Les supporters pourront suivre les rencontres via des plateformes dédiées ou en présentiel."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Haute-Saône : deux accidents mortels en quelques jours",
+          "title": "Accident grave à Vesoul : un adolescent blessé après une collision avec un conducteur alcoolisé",
           "bullets": [
-            "Décès d’un homme de 33 ans dans une collision impliquant un utilitaire et deux poids lourds.",
-            "Un autre accident mortel impliquant un trentenaire dans une violente collision avec un utilitaire et deux poids lourds.",
-            "Enquêtes en cours pour déterminer les causes et les responsabilités.",
-            "Appel à la vigilance sur les routes locales et renforcement des contrôles."
+            "Un conducteur alcoolisé a percuté des barrières à Vesoul, blessant gravement un adolescent.",
+            "Les secours ont été alertés rapidement et ont transporté la victime vers un établissement hospitalier.",
+            "L’enquête en cours vise à déterminer les circonstances précises de l’accident.",
+            "Le conducteur a été contrôlé positif à l’alcool et sera poursuivi pour conduite en état d’ivresse."
           ],
           "sources": []
         },
         {
-          "title": "Vesoul : un couple retrouve par hasard la maison de leur enfance lors d’une location",
+          "title": "Élections sénatoriales 2026 : les candidats connus dans le Doubs, la Haute-Saône et le Territoire de Belfort",
           "bullets": [
-            "Un couple louant une maison à Vesoul tombe sur celle de leur enfance.",
-            "Découverte fortuite lors d’une visite, déclenchant des souvenirs et des émotions.",
-            "Retour aux racines et exploration des lieux familiers après des années d’absence.",
-            "Partage d’anecdotes et de souvenirs avec les voisins et les anciens propriétaires."
+            "Les candidats aux élections sénatoriales de 2026 dans le Doubs, la Haute-Saône et le Territoire de Belfort ont été désignés.",
+            "Les listes incluent des profils politiques divers, reflétant les dynamiques locales.",
+            "Les candidats devront se présenter aux électeurs lors des élections prévues en septembre 2026.",
+            "Les enjeux locaux et nationaux seront au cœur des campagnes électorales."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Agriculteurs en colère : blocage du centre des impôts de Limoges pour exiger des aides supplémentaires",
+          "bullets": [
+            "Les agriculteurs de la FDSEA ont bloqué le centre des impôts de Limoges pour protester contre l’insuffisance des aides face à la sécheresse.",
+            "Ils dénoncent un manque de soutien de la part des collectivités locales et de l’État.",
+            "La mobilisation vise à attirer l’attention sur les difficultés rencontrées par les exploitations agricoles.",
+            "Les négociations avec les autorités locales sont en cours pour trouver une solution."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Protéger son compte CPF : vigilance contre les arnaques en ligne",
+          "bullets": [
+            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, incitant à la vigilance.",
+            "Les escrocs utilisent des techniques de phishing pour voler les identifiants des utilisateurs.",
+            "Les autorités recommandent de vérifier les sources avant de fournir ses informations personnelles.",
+            "En cas de suspicion, il est conseillé de signaler l’incident sur le site officiel du CPF."
           ],
           "sources": []
         }
@@ -101,58 +121,38 @@
     {
       "label": "IA & nouvelles technologies",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Knapp automatise la logistique de Cummins sur un site en Suède",
+          "title": "Knapp automatise la logistique de Cummins en Suède avec une solution innovante",
           "bullets": [
-            "Knapp a mis en place une solution d’automatisation pour optimiser la logistique de Cummins en Suède.",
-            "Réduction des coûts et amélioration de l’efficacité opérationnelle sur le site concerné.",
-            "Intégration de robots et de systèmes intelligents pour gérer les flux de marchandises.",
-            "Objectif de modernisation des processus industriels pour répondre aux défis logistiques actuels."
+            "Knapp a mis en place une solution d’automatisation pour optimiser la logistique de Cummins sur un site en Suède.",
+            "Cette automatisation vise à améliorer l’efficacité et la productivité des opérations industrielles.",
+            "Le projet intègre des technologies avancées pour une gestion optimisée des flux de marchandises.",
+            "Knapp et Cummins collaborent pour des solutions durables et adaptées aux besoins industriels."
           ],
           "sources": []
         },
         {
           "title": "Precisely étend l’automatisation des workflows SAP S/4HANA avec Automate Evolve 25.2",
           "bullets": [
-            "Precisely lance une nouvelle version de son outil d’automatisation pour SAP S/4HANA.",
-            "Amélioration des processus métiers et réduction des erreurs grâce à l’intégration de l’IA.",
-            "Solution conçue pour optimiser la gestion des flux de travail et la productivité des entreprises.",
-            "Disponibilité mondiale pour les clients utilisant SAP S/4HANA."
+            "Precisely a annoncé une extension de son outil Automate Evolve pour SAP S/4HANA.",
+            "Cette mise à jour vise à automatiser davantage les processus métiers et à améliorer l’efficacité des workflows.",
+            "Les entreprises peuvent ainsi optimiser leurs opérations et réduire les erreurs manuelles.",
+            "Automate Evolve 25.2 intègre des fonctionnalités avancées pour une meilleure intégration avec SAP."
           ],
           "sources": []
         },
         {
-          "title": "L’automatisation pourrait-elle mettre fin à la veille stratégique ?",
+          "title": "L’automatisation pourrait réduire le besoin en veille stratégique",
           "bullets": [
-            "L’IA et l’automatisation transforment les méthodes traditionnelles de veille stratégique.",
-            "Réduction du temps et des ressources nécessaires pour collecter et analyser les données.",
-            "Risques de dépendance technologique et perte de compétences humaines dans l’analyse critique.",
-            "Les entreprises doivent adapter leurs stratégies pour concilier innovation et expertise humaine."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Leonardo remporte un contrat pour l’automatisation des bagages à l’aéroport de Médine",
-          "bullets": [
-            "Leonardo, en partenariat avec Mafa et Beltcon, remporte un contrat pour automatiser les systèmes de bagages.",
-            "Projet visant à améliorer l’efficacité et la sécurité des processus de manutention à l’aéroport de Médine.",
-            "Utilisation de technologies avancées pour optimiser le traitement des bagages et réduire les délais.",
-            "Contribution à la modernisation des infrastructures aéroportuaires et à l’expérience voyageur."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Quadient reconnu comme leader sur le marché de l’automatisation des comptes fournisseurs",
-          "bullets": [
-            "Quadient se positionne comme un acteur clé dans l’automatisation des processus financiers.",
-            "Solution innovante pour gérer les comptes fournisseurs et optimiser les flux de trésorerie.",
-            "Réduction des erreurs et amélioration de la collaboration avec les fournisseurs.",
-            "Reconnaissance par les analystes du secteur pour son expertise et ses performances."
+            "L’essor de l’IA et de l’automatisation pourrait diminuer la nécessité de la veille stratégique traditionnelle.",
+            "Les outils automatisés permettent de traiter et analyser des données en temps réel.",
+            "Cela pourrait transformer les méthodes de travail et réduire la charge de travail des analystes.",
+            "Cependant, l’humain reste indispensable pour interpréter les résultats et prendre des décisions stratégiques."
           ],
           "sources": []
         }
@@ -162,42 +162,22 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "La fabrication additive dans les Hauts-de-France : un écosystème en pleine expansion",
+          "title": "JORCAR Titanium : un modèle intégré pour le recyclage du titane et l’impression 3D",
           "bullets": [
-            "Découverte des acteurs majeurs de l’impression 3D dans la région des Hauts-de-France.",
-            "Développement de technologies innovantes et applications industrielles variées.",
-            "Soutien aux startups et aux entreprises locales pour renforcer leur compétitivité.",
-            "Focus sur les projets concrets et les retombées économiques pour la région."
+            "JORCAR Titanium développe un modèle intégré pour recycler le titane et le réutiliser en impression 3D.",
+            "Cette approche vise à réduire l’impact environnemental de la production industrielle.",
+            "Le recyclage du titane permet de créer des pièces plus légères et plus résistantes.",
+            "L’entreprise cherche à innover dans les matériaux et les procédés de fabrication additive."
           ],
           "sources": []
         },
         {
-          "title": "JORCAR Titanium : un modèle intégré du recyclage du titane à l’impression 3D",
+          "title": "Lynxter célèbre ses dix ans et se positionne comme leader mondial de l’impression 3D silicone",
           "bullets": [
-            "JORCAR Titanium développe une approche intégrée pour recycler le titane et le réutiliser en impression 3D.",
-            "Réduction des déchets industriels et optimisation des coûts de production.",
-            "Collaboration avec des partenaires pour promouvoir une économie circulaire dans le secteur aéronautique.",
-            "Innovation technologique visant à améliorer la durabilité et la performance des pièces imprimées."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Lynxter : dix ans d’innovation et leader mondial de l’impression 3D silicone",
-          "bullets": [
-            "Lynxter célèbre son dixième anniversaire en consolidant sa position de leader mondial en impression 3D silicone.",
-            "Développement de matériaux avancés et de technologies pour répondre aux besoins industriels.",
-            "Expansion internationale et partenariats stratégiques pour renforcer sa présence sur le marché.",
-            "Focus sur les applications médicales, automobiles et autres secteurs clés."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Dreame lance AtomForm : une imprimante 3D pour concurrencer le marché des robots aspirateurs",
-          "bullets": [
-            "Dreame, spécialiste des robots aspirateurs, se diversifie avec AtomForm, une imprimante 3D grand public.",
-            "Objectif de démocratiser l’impression 3D avec une solution accessible et performante.",
-            "Intégration de technologies innovantes pour faciliter l’utilisation et réduire les coûts.",
-            "Stratégie de croissance pour conquérir un nouveau marché et renforcer sa position technologique."
+            "Lynxter fête ses dix ans d’existence dans le domaine de l’impression 3D.",
+            "L’entreprise s’impose comme le numéro un mondial pour l’impression 3D de silicone.",
+            "Cette technologie est utilisée dans divers secteurs, notamment la santé et l’automobile.",
+            "Lynxter continue d’innover pour répondre aux besoins croissants en matériaux souples et performants."
           ],
           "sources": []
         }
@@ -207,62 +187,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Impôts 2026 : correction possible de sa déclaration de revenus jusqu’au 25 septembre",
+          "title": "Impôts : qui sera prélevé à partir du 25 septembre sur son compte ?",
           "bullets": [
-            "Possibilité de corriger sa déclaration de revenus 2025 jusqu’au 25 septembre 2026.",
-            "Procédure en ligne accessible via le site des impôts pour ajuster les informations déclarées.",
-            "Erreurs courantes concernent les revenus exceptionnels, les charges déductibles ou les réductions d’impôt.",
-            "Attention aux délais pour éviter des pénalités ou des redressements."
+            "À partir du 25 septembre, certains contribuables verront un prélèvement automatique sur leur compte bancaire.",
+            "Cela concerne principalement les personnes ayant des impôts à payer ou des crédits d’impôt à régulariser.",
+            "Les prélèvements concernent aussi les non-résidents fiscaux en France.",
+            "Les montants prélevés dépendent des déclarations de revenus et des éventuels ajustements."
           ],
           "sources": []
         },
         {
-          "title": "Donation : intérêt à reporter sa donation à 2027 pour optimiser la fiscalité",
+          "title": "Impôts locaux : le délai de redressement passe de 1 à 3 ans",
           "bullets": [
-            "Report d’une donation à 2027 peut permettre une optimisation fiscale avantageuse.",
-            "Réduction des droits de donation grâce à l’évolution des seuils et abattements.",
-            "Stratégie à étudier en fonction de la situation patrimoniale et familiale.",
-            "Conseils fiscaux recommandés pour maximiser les avantages et éviter les pièges."
+            "Le délai pour contester un redressement fiscal en matière d’impôts locaux passe de 1 à 3 ans.",
+            "Cette mesure vise à offrir plus de temps aux contribuables pour vérifier et contester les décisions administratives.",
+            "Les contribuables peuvent désormais engager des recours plus tardivement.",
+            "Cette extension du délai vise à renforcer la protection des droits des contribuables."
           ],
           "sources": []
         },
         {
-          "title": "Prélèvement à la source : qui sera concerné dès le 25 septembre ?",
+          "title": "Impôts : les constructions non déclarées ciblées par l’administration fiscale",
           "bullets": [
-            "Prélèvement à la source sur les revenus exceptionnels ou différés dès le 25 septembre.",
-            "Concernés : les revenus de plus de 15 000 € perçus en 2026, comme les indemnités de licenciement ou les plus-values.",
-            "Montant prélevé à la source calculé en fonction du taux personnalisé ou neutre.",
-            "Possibilité de contester ou ajuster le prélèvement via son espace particulier sur impots.gouv.fr."
-          ],
-          "sources": []
-        },
-        {
-          "title": "FDSEA : blocage du centre des impôts de Limoges pour exiger des aides supplémentaires contre la sécheresse",
-          "bullets": [
-            "Agriculteurs de la FDSEA bloquent le centre des impôts de Limoges pour protester contre l’insuffisance des aides sécheresse.",
-            "Exigence de mesures urgentes et de compensations financières pour couvrir les pertes agricoles.",
-            "Mobilisation régionale pour alerter sur la crise agricole et demander un soutien accru de la Région et du Département.",
-            "Risque de dégradation des conditions de vie et de survie des exploitations locales."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au CPF : comment protéger son compte formation ?",
-          "bullets": [
-            "Augmentation des tentatives d’arnaque sur les comptes CPF (Compte Personnel de Formation).",
-            "Méthodes courantes : faux emails, appels téléphoniques ou sites frauduleux imitant Pôle Emploi ou la Caisse des Dépôts.",
-            "Conseils pour sécuriser son compte : vérifier les sources, ne pas communiquer ses identifiants, signaler les tentatives d’escroquerie.",
-            "Plateforme officielle pour vérifier l’authenticité des organismes de formation agréés."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Impôts locaux : délai de redressement passé de 1 à 3 ans",
-          "bullets": [
-            "Le délai pour contester un redressement fiscal par l’administration passe de 1 à 3 ans.",
-            "Mesure visant à renforcer les droits des contribuables et à simplifier les procédures de réclamation.",
-            "Possibilité de demander un délai supplémentaire pour fournir des preuves ou des justificatifs.",
-            "Conseils pour bien gérer les recours et éviter les erreurs administratives."
+            "L’administration fiscale cible désormais les constructions non déclarées, comme les piscines ou les extensions.",
+            "Ces constructions peuvent entraîner des redressements fiscaux et des pénalités.",
+            "Les propriétaires sont invités à régulariser leur situation pour éviter des sanctions.",
+            "Les contrôles se renforcent pour lutter contre l’évasion fiscale et les abus."
           ],
           "sources": []
         }
@@ -272,32 +222,12 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "La Nuit du Rugby revient le 28 septembre à l’Olympia pour sa 22ème édition",
+          "title": "Nuit du Rugby 2026 : cérémonie de remise des trophées à l’Olympia le 28 septembre",
           "bullets": [
-            "Cérémonie de remise des trophées pour la saison 2025-2026 le 28 septembre à l’Olympia.",
-            "Événement annuel célébrant les performances des clubs et des joueurs de rugby en France.",
-            "Présence attendue des clubs du Top 14 et des joueurs emblématiques.",
-            "Programme incluant des discours, des performances sportives et des moments conviviaux."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Mondiaux d’athlétisme 2029 : Nairobi devient la première ville africaine à organiser l’événement",
-          "bullets": [
-            "Nairobi a été désignée pour accueillir les Championnats du Monde d’athlétisme en 2029.",
-            "Première fois qu’un pays africain organise cet événement majeur du sport mondial.",
-            "Préparation en cours pour accueillir des athlètes et des spectateurs du monde entier.",
-            "Enjeux de développement sportif et économique pour le Kenya et le continent africain."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Rugby : décès tragique d’un jeune homme de 19 ans après un accident en Ariège",
-          "bullets": [
-            "Décès d’un jeune homme de 19 ans passionné de rugby après un accident en Ariège.",
-            "Passionné de rugby, connu pour son joie de vivre et son engagement sportif local.",
-            "Enquête en cours pour déterminer les circonstances précises de l’accident.",
-            "Hommages et soutien à sa famille dans la communauté sportive et locale."
+            "La Nuit du Rugby revient pour sa 22ème édition le 28 septembre à l’Olympia.",
+            "Cet événement célèbre les performances des clubs du Top 14 lors de la saison 2025-2026.",
+            "La cérémonie de remise des trophées honorera les équipes et les joueurs ayant marqué la saison.",
+            "Les supporters pourront assister à une soirée festive et sportive."
           ],
           "sources": []
         }
