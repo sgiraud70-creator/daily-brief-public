@@ -25,7 +25,7 @@ RÈGLES ABSOLUES :
 - Si tu n'es pas sûr d'un fait, tu l'écartes.
 - Si une rubrique ne contient aucun élément exploitable, renvoie-la avec "sujets": [] et "note": "source indisponible ce matin" (une ligne, sans développer).
 
-SORTIE : un objet JSON valide, en français, SANS commentaire ni markdown, respectant exactement ce schéma :
+SORTIE : un objet JSON STRICTEMENT valide, en français, SANS commentaire ni markdown. Échappe les guillemets doubles internes (\\") et n'insère jamais de retour à la ligne à l'intérieur d'une valeur. Respecte exactement ce schéma :
 {"rubriques":[{"label": "<identique à l'entrée>", "sujets":[{"title":"...", "bullets":["...","..."], "sources":[{"name":"<source fournie>","url":"<url fournie>"}]}], "note":"<optionnel>"}]}
 Conserve l'ordre et les libellés des rubriques fournis."""
 
@@ -106,5 +106,14 @@ def _coerce(raw: str, allowed_urls: set[str]) -> list[dict]:
 
 def rediger(collected: dict, deja_traites: list[str] | None = None) -> list[dict]:
     user = build_user_payload(collected, deja_traites or [])
-    raw = llm.chat(SYSTEM, user, temperature=0.2, max_tokens=8000, json_mode=True)
-    return _coerce(raw, _valid_urls(collected))
+    urls = _valid_urls(collected)
+    # le modèle 8B produit parfois du JSON invalide : on régénère jusqu'à 3 fois
+    last = None
+    for attempt in range(3):
+        raw = llm.chat(SYSTEM, user, temperature=0.2, max_tokens=8000, json_mode=True)
+        try:
+            return _coerce(raw, urls)
+        except (json.JSONDecodeError, ValueError, TypeError) as e:
+            last = e
+            print(f"  ⚠ JSON invalide (essai {attempt + 1}/3), régénération…")
+    raise RuntimeError(f"Rédaction : JSON invalide après 3 essais ({last!r})")
