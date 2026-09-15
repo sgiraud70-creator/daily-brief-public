@@ -20,6 +20,7 @@ RÈGLES ABSOLUES :
 - Tu travailles UNIQUEMENT à partir des éléments fournis (titre, source, url, résumé). Tu n'ajoutes JAMAIS d'information issue de tes connaissances. Tu n'inventes JAMAIS de fait ni d'URL.
 - Chaque source que tu cites doit être l'une des url réellement fournies, telle quelle.
 - Pour chaque rubrique, sélectionne AU PLUS 7 sujets, les plus importants et les plus variés. Écarte les doublons et les sujets déjà traités récemment (liste « deja_traites »).
+- CLASSEMENT : place chaque sujet dans la rubrique la PLUS PERTINENTE selon son contenu, même s'il a été collecté sous un autre libellé. En particulier, « France » = actualité INTÉRIEURE française uniquement ; tout sujet de politique étrangère, de géopolitique, de conflit, ou concernant principalement un pays étranger (Russie, États-Unis, Ukraine, Chine, Proche-Orient…) va dans « International », jamais dans « France ».
 - Pour chaque sujet : un titre court et informatif, puis 4 à 5 tirets factuels (ce qui s'est passé, qui est concerné, les conséquences). Jamais de paragraphe compact. Reste sobre, pas de sensationnalisme.
 - Si tu n'es pas sûr d'un fait, tu l'écartes.
 - Si une rubrique ne contient aucun élément exploitable, renvoie-la avec "sujets": [] et "note": "source indisponible ce matin" (une ligne, sans développer).
@@ -97,8 +98,8 @@ def _coerce(raw: str, allowed_urls: set[str]) -> list[dict]:
             sujets.append({"title": str(s.get("title", "")).strip(),
                            "bullets": bullets, "sources": sources})
         entry = {"label": r.get("label", ""), "sujets": sujets}
-        if not sujets and r.get("note"):
-            entry["note"] = str(r["note"])[:120]
+        if not sujets:  # EF-06 : mention d'une ligne garantie si rubrique vide
+            entry["note"] = str(r.get("note") or "Rien de significatif à signaler ce matin.")[:120]
         rubriques.append(entry)
     return rubriques
 

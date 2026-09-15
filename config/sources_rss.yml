@@ -4,8 +4,10 @@
 # est extrait du titre à la collecte.
 
 France:
-  - https://www.lemonde.fr/rss/une.xml
-  - https://www.francetvinfo.fr/titres.rss
+  - https://www.lemonde.fr/politique/rss_full.xml
+  - https://www.lemonde.fr/economie/rss_full.xml
+  - https://www.lemonde.fr/societe/rss_full.xml
+  - https://www.francetvinfo.fr/france.rss           # à valider
 
 International:
   - https://www.lemonde.fr/international/rss_full.xml

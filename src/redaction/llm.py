@@ -26,8 +26,8 @@ def _mistral(system: str, user: str, *, temperature: float, max_tokens: int,
     key = os.environ.get("MISTRAL_API_KEY")
     if not key:
         raise LLMError("MISTRAL_API_KEY manquant")
-    # ministral-8b : 625 000 jetons/min (vs 20 000 pour small/medium) → pas de 429
-    model = os.environ.get("MISTRAL_MODEL", "ministral-8b-2512")
+    # mistral-large : meilleure plume, 250 000 jetons/min (marge confortable)
+    model = os.environ.get("MISTRAL_MODEL", "mistral-large-2512")
     payload = {
         "model": model,
         "messages": [{"role": "system", "content": system},
