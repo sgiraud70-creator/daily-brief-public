@@ -31,8 +31,20 @@ def _epeler(m: re.Match) -> str:
     return " ".join(_LETTRE.get(c, c) for c in lettres) + " "
 
 
+def _heure(m: re.Match) -> str:
+    """« 20h45 » → « 20 heures 45 » ; « 20h00 »/« 20h » → « 20 heures »."""
+    h = int(m.group(1))
+    mot = "heure" if h == 1 else "heures"
+    mn = m.group(2)
+    if not mn or mn == "00":
+        return f"{h} {mot}"
+    return f"{h} {mot} {int(mn)}"
+
+
 def speakable(texte: str) -> str:
-    """Adapte le texte à l'oral : épelle les sigles (P.S.G → « pé esse gé »)."""
+    """Adapte le texte à l'oral : heures parlées (20h45 → « 20 heures 45 ») et
+    sigles épelés (P.S.G → « pé esse gé »)."""
+    texte = re.sub(r"\b(\d{1,2})\s*h\s*(\d{2})?\b", _heure, texte)  # heures
     texte = _SIGLE.sub(_epeler, texte)
     texte = re.sub(r"\s+([.,;:!?])", r"\1", texte)   # pas d'espace avant ponctuation
     texte = re.sub(r"[ \t]{2,}", " ", texte)          # espaces multiples
@@ -74,11 +86,14 @@ def build_script(brief: dict, weather: dict | None) -> str:
             continue  # à l'oral, on passe les rubriques vides
         lignes.append(f"Rubrique {r['label']}.")
         for s in sujets:
+            # Un sujet = UNE ligne fluide (titre + points), car Piper synthétise
+            # ligne par ligne : trop de lignes courtes = lecture hachée.
             titre = s.get("title", "").rstrip(".")
-            lignes.append(f"{titre}.")
+            parts = [f"{titre}."]
             for b in s.get("bullets", []):
-                lignes.append(b if b.endswith(".") else b + ".")
+                parts.append(b if b.endswith(".") else b + ".")
+            lignes.append(" ".join(parts))
 
     lignes.append("C'était votre brief du matin. Très bonne journée.")
-    # une phrase par ligne = pauses naturelles ; sigles épelés pour l'oral
+    # sigles épelés + heures parlées ; regroupement en lignes fluides
     return speakable("\n".join(lignes))

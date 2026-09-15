@@ -19,6 +19,7 @@ concurrency:
 
 env:
   MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+  GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
   BRANCH_RAW: https://raw.githubusercontent.com/sgiraud70-creator/daily-brief-public/claude/project-overview-kalf7c/public
 
 jobs:

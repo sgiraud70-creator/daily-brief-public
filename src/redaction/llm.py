@@ -39,9 +39,19 @@ def _mistral(system: str, user: str, *, temperature: float, max_tokens: int,
     if json_mode:
         payload["response_format"] = {"type": "json_object"}
     for attempt in range(RETRIES + 1):
-        r = requests.post("https://api.mistral.ai/v1/chat/completions",
-                          headers={"Authorization": f"Bearer {key}"},
-                          json=payload, timeout=TIMEOUT)
+        try:
+            r = requests.post("https://api.mistral.ai/v1/chat/completions",
+                              headers={"Authorization": f"Bearer {key}"},
+                              json=payload, timeout=TIMEOUT)
+        except requests.exceptions.RequestException as e:
+            # timeout / coupure réseau : aléa transitoire → on réessaie
+            if attempt < RETRIES:
+                wait = BACKOFF[min(attempt, len(BACKOFF) - 1)]
+                print(f"  Mistral réseau ({e.__class__.__name__}) → nouvel essai "
+                      f"dans {wait}s ({attempt + 1}/{RETRIES})")
+                time.sleep(wait)
+                continue
+            raise LLMError(f"Mistral réseau: {e!r}") from e
         if r.status_code < 400:
             return r.json()["choices"][0]["message"]["content"]
         # 429 = limite de débit, 5xx = indisponibilité → on réessaie
