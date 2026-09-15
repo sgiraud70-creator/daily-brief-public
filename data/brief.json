@@ -1,38 +1,61 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 7,
   "rubriques": [
+    {
+      "label": "Fête du jour",
+      "sujets": [
+        {
+          "title": "Aujourd'hui, on souhaite la fête : Dolorès et Roland",
+          "bullets": [],
+          "sources": [
+            {
+              "name": "Nominis",
+              "url": "https://nominis.cef.fr/contenus/fetes/15/9/2026/15-Septembre-2026.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Décès de Catherine Ringer, icône de Rita Mitsouko",
+          "title": "Accident mortel à Vesoul : un conducteur alcoolisé percute des barrières et blesse gravement un adolescent",
           "bullets": [
-            "La chanteuse française Catherine Ringer est décédée d’un cancer le 14 septembre 2026 à l’âge de 68 ans.",
-            "Elle était surtout connue pour avoir fondé et animé le groupe Rita Mitsouko, emblématique des années 1980.",
-            "Son départ marque la fin d’une voix majeure de la chanson française, saluée pour son style unique et son influence culturelle."
+            "Un conducteur de 33 ans, positif à l'alcool, a percuté des barrières à Vesoul (Haute-Saône) dans la nuit du 14 septembre.",
+            "Un adolescent de 17 ans a été gravement blessé et hospitalisé dans un état critique.",
+            "Les secours ont été alertés vers 23h30, et les investigations policières sont en cours pour déterminer les circonstances exactes."
           ],
-          "sources": [
-            {
-              "name": "france24.com",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260915-france-d%C3%A9c%C3%A8s-de-catherine-ringer-la-voix-des-rita-mitsouko"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Bloquage d’un dépôt pétrolier à Fos-sur-Mer par des pêcheurs",
+          "title": "Agriculteurs en Haute-Saône : la sécheresse force à fauchage précoce des regains pour sauver la saison",
           "bullets": [
-            "Des pêcheurs ont bloqué un dépôt pétrolier à Fos-sur-Mer le 15 septembre 2026 pour protester contre la hausse des prix du carburant.",
-            "Cette action s’inscrit dans un mouvement plus large de mécontentement face à la précarité économique des professionnels de la mer.",
-            "Les autorités locales ont été sollicitées pour trouver une issue pacifique à ce conflit."
+            "Les agriculteurs de la région font face à une sécheresse persistante, réduisant drastiquement les réserves d’eau.",
+            "Des regains (jeunes pousses) sont fauchés précocement pour limiter les pertes, une pratique exceptionnelle cette saison.",
+            "Les associations agricoles appellent à une intervention rapide des pouvoirs publics pour éviter une crise agricole majeure."
           ],
-          "sources": [
-            {
-              "name": "france24.com",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260915-france-un-d%C3%A9p%C3%B4t-p%C3%A9trolier-bloqu%C3%A9-par-des-p%C3%AAcheurs-%C3%A0-fos-sur-mer"
-            }
-          ]
+          "sources": []
+        },
+        {
+          "title": "Explosion d’un DAB au Majestic de Vesoul : dégâts matériels importants dans le centre-ville",
+          "bullets": [
+            "Une explosion s’est produite dans la nuit du 14 septembre dans un distributeur automatique de billets (DAB) du Majestic à Vesoul.",
+            "Les vitrines et façades des commerces voisins ont été endommagées, nécessitant des travaux d’urgence.",
+            "Les causes de l’explosion sont en cours d’enquête par les autorités locales."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Élections sénatoriales 2026 : liste des candidats dans le Doubs, la Haute-Saône et le Territoire de Belfort",
+          "bullets": [
+            "Les candidats aux élections sénatoriales du 28 septembre ont été désignés dans ces trois départements.",
+            "Parmi eux, des figures locales issues de la majorité présidentielle, de la NUPES et du Rassemblement National.",
+            "Les enjeux incluent la réforme des retraites et la gestion des territoires ruraux."
+          ],
+          "sources": []
         }
       ]
     },
@@ -40,44 +63,30 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Coopération saoudo-égyptienne pour sécuriser la mer Rouge après la prise du détroit de Bab Al-Mandab",
+          "title": "Nicolas Guillou, juge français à la CPI : « La souveraineté ne se gagne pas en abandonnant la justice internationale »",
           "bullets": [
-            "Les dirigeants saoudien et égyptien ont appelé à garantir la liberté et la sécurité de la navigation en mer Rouge.",
-            "Cette déclaration intervient après la prise du détroit de Bab Al-Mandab par les Houthis, perturbant le trafic maritime international.",
-            "L’Égypte et l’Arabie saoudite renforcent leur alliance pour contrer les menaces régionales et protéger les routes commerciales."
+            "Nicolas Guillou, juge français à la Cour pénale internationale (CPI), dénonce le déclin de l’État de droit international depuis la Seconde Guerre mondiale.",
+            "Il souligne que les tensions géopolitiques actuelles menacent les mécanismes de justice internationale, notamment face aux crimes de guerre.",
+            "Pour lui, la souveraineté ne se construit pas par un retrait des institutions internationales, mais par leur renforcement."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/les-dirigeants-saoudien-et-egyptien-appellent-a-garantir-la-liberte-et-la-securite-de-la-navigation-en-mer-rouge-apres-la-prise-du-detroit-de-bab-al-mandab-par-les-houthistes_6774438_3210.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/09/15/nicolas-guillou-juge-francais-de-la-cpi-ce-n-est-pas-en-abandonnant-la-justice-et-le-droit-international-que-nous-retrouverons-davantage-de-souverainete_6774422_3232.html"
             }
           ]
         },
         {
-          "title": "Les Doms de Bénarès, gardiens traditionnels des bûchers funéraires en Inde",
+          "title": "Ballon d’Or 2026 : Mbappé, Yamal, Dembélé et Kane en lice pour le titre de meilleur joueur",
           "bullets": [
-            "Les Doms, une caste intouchable, assurent la gestion des bûchers funéraires le long des ghats de Bénarès, sur les rives du Gange.",
-            "Ils sont exclus des rituels sacrés mais indispensables pour les crémations, un rôle souvent méprisé et sous-payé.",
-            "Leur condition reflète les inégalités sociales persistantes en Inde malgré les réformes légales."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/les-doms-de-benares-impurs-gardiens-des-buchers-mortuaires-indiens_6774437_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Enquête sur l’usage présumé d’armes chimiques par l’armée soudanaise",
-          "bullets": [
-            "L’armée soudanaise est à nouveau accusée d’avoir utilisé des armes chimiques, selon des articles du *New York Times* et d’autres médias.",
-            "Ces accusations surviennent dans un contexte de conflit prolongé et de violations massives des droits humains.",
-            "La communauté internationale appelle à une enquête indépendante pour établir les responsabilités."
+            "Kylian Mbappé, Jamal Musiala, Ousmane Dembélé et Harry Kane sont parmi les favoris pour remporter le Ballon d’Or 2026.",
+            "Les campagnes des joueurs se concentrent sur les votes des médias et des supporters à travers le monde.",
+            "Les performances récentes en Ligue des Champions et en sélection nationale influencent fortement les pronostics."
           ],
           "sources": [
             {
               "name": "france24.com",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260915-soudan-enqu%C3%AAte-sur-l-usage-d-armes-chimiques-par-l-arm%C3%A9e"
+              "url": "http://www.france24.com/fr/%C3%A9missions/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-la-campagne-pour-le-ballon-d-or-bat-son-plein"
             }
           ]
         }
@@ -87,38 +96,20 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Accident mortel impliquant un conducteur alcoolisé à Vesoul (Haute-Saône)",
+          "title": "Haute-Saône : un trentenaire décède dans une collision entre un utilitaire et deux poids lourds",
           "bullets": [
-            "Un conducteur alcoolisé a percuté des barrières à Vesoul, blessant gravement un adolescent.",
-            "L’accident s’est produit dans la matinée du 15 septembre 2026, entraînant des conséquences dramatiques pour la victime.",
-            "Les autorités enquêtent sur les circonstances exactes de ce drame."
+            "Un homme de 33 ans est décédé dans un accident impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
+            "L’accident s’est produit dans la nuit du 13 septembre, entraînant une fermeture prolongée de la voie.",
+            "Les causes de l’accident sont en cours d’enquête par la gendarmerie."
           ],
           "sources": []
         },
         {
-          "title": "Explosion d’un DAB au Majestic de Vesoul endommageant le bâtiment",
+          "title": "Haute-Saône : un homme jugé pour avoir agressé ivre les pompiers tentant de réanimer son père",
           "bullets": [
-            "Une explosion survenue dans un distributeur automatique de billets (DAB) a endommagé le Majestic, un cinéma de Vesoul.",
-            "Les causes de l’incident sont encore en cours d’enquête, mais les dégâts matériels sont importants.",
-            "Les autorités locales évaluent l’impact sur la sécurité et la réouverture du lieu."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Agriculteurs en Haute-Saône fauchent les regains pour sauver la saison après la sécheresse",
-          "bullets": [
-            "Face à la sécheresse persistante, des agriculteurs de Haute-Saône tentent de sauver leurs récoltes en fauchant les regains.",
-            "Cette pratique extrême, souvent critiquée pour son impact environnemental, reflète la crise agricole actuelle.",
-            "Les autorités locales et régionales cherchent des solutions pour atténuer les pertes économiques."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Élections sénatoriales 2026 : candidats connus dans le Doubs, la Haute-Saône et le Territoire de Belfort",
-          "bullets": [
-            "Les candidats aux élections sénatoriales de 2026 dans le Doubs, la Haute-Saône et le Territoire de Belfort ont été désignés.",
-            "Cette élection sénatoriale intervient dans un contexte politique marqué par des enjeux locaux et nationaux.",
-            "Les candidats s’affrontent pour représenter les intérêts des territoires respectifs."
+            "Un homme de Vesoul a été jugé pour avoir agressé des pompiers qui tentaient de réanimer son père, sous l’emprise de l’alcool.",
+            "L’incident s’est déroulé en août 2026, et l’accusé a été placé sous contrôle judiciaire.",
+            "Les pompiers ont été blessés lors de l’intervention, nécessitant des soins médicaux."
           ],
           "sources": []
         }
@@ -128,32 +119,41 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Le remake de *Tomb Raider* repart de zéro après la disparition du code original",
+          "title": "Les Emmy Awards 2026 redéfinissent les stratégies de streaming : quelles plateformes choisir ?",
           "bullets": [
-            "Crystal Dynamics a dû créer *Tomb Raider: Legacy of Atlantis* en repartant de zéro, le code original ayant disparu.",
-            "Cette décision a entraîné des retards et des défis techniques majeurs pour le développement du jeu.",
-            "Le studio a expliqué que cette approche garantissait une meilleure qualité et une expérience plus immersive."
+            "Les récompenses des Emmy Awards 2026 ont mis en lumière des séries exclusives à Netflix, Disney+, et HBO Max.",
+            "Les abonnés doivent évaluer les coûts et les contenus pour optimiser leurs abonnements.",
+            "Les plateformes comme Amazon Prime Video et Apple TV+ gagnent en visibilité grâce à des séries primées."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2333497-le-remake-du-premier-tomb-raider-a-du-repartir-de-zero-le-code-original-ayant-disparu.html"
+              "url": "https://www.numerama.com/pop-culture/2333373-quelle-plateforme-de-streaming-choisir-pour-voir-les-series-les-plus-recompensees-en-2026.html"
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Precisely étend son automatisation pour SAP S/4HANA avec Automate Evolve 25.2",
+          "bullets": [
+            "Precisely lance une nouvelle version de son outil d’automatisation pour SAP S/4HANA, visant à optimiser les workflows métiers.",
+            "Automate Evolve 25.2 intègre des fonctionnalités avancées pour réduire les délais et les erreurs dans les processus.",
+            "Cette mise à jour s’adresse aux entreprises cherchant à moderniser leurs systèmes ERP."
+          ],
+          "sources": []
         },
         {
-          "title": "Far Cry : tout savoir sur la série TV à venir",
+          "title": "Leonardo et partenaires automatisent les bagages à l’aéroport de Médine",
           "bullets": [
-            "La franchise *Far Cry* bascule sur le petit écran avec une série TV en préparation.",
-            "Les détails sur la date de sortie, l’histoire et le casting restent encore confidentiels.",
-            "Cette adaptation pourrait attirer un large public, fidèle à l’univers des jeux vidéo."
+            "Leonardo, en partenariat avec Mafa et Beltcon, a remporté un contrat pour automatiser le tri des bagages à l’aéroport de Médine.",
+            "Le système permettra une gestion plus efficace et sécurisée des bagages, réduisant les délais de traitement.",
+            "Ce projet s’inscrit dans une tendance mondiale d’automatisation des infrastructures aéroportuaires."
           ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2333509-far-cry-date-de-sortie-histoire-casting-tout-savoir-sur-la-serie-tv-a-venir.html"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -161,20 +161,11 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "Test de la Flashforge AD5X : impression 3D multicolore à haute vitesse",
+          "title": "Lynxter célèbre ses 10 ans et se positionne comme leader mondial de l’impression 3D silicone",
           "bullets": [
-            "La Flashforge AD5X se distingue par sa capacité à imprimer en multicolore à une vitesse élevée.",
-            "Ce modèle cible les utilisateurs professionnels et amateurs cherchant des performances optimisées.",
-            "Les tests soulignent une qualité d’impression et une polyvalence remarquables."
-          ],
-          "sources": []
-        },
-        {
-          "title": "JORCAR Titanium : recyclage du titane et impression 3D intégrée",
-          "bullets": [
-            "JORCAR Titanium propose un modèle intégré combinant recyclage du titane et impression 3D.",
-            "Cette approche vise à réduire l’impact environnemental tout en optimisant la production industrielle.",
-            "Le modèle pourrait révolutionner les industries aéronautique et médicale."
+            "Lynxter, spécialiste français de l’impression 3D de silicone, fête son anniversaire avec une croissance significative.",
+            "L’entreprise a développé des technologies innovantes pour répondre aux besoins industriels et médicaux.",
+            "Son positionnement sur le marché mondial renforce son influence dans le secteur de la fabrication additive."
           ],
           "sources": []
         }
@@ -184,29 +175,29 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Impôts 2026 : possibilité de corriger sa déclaration de revenus jusqu’au 15 octobre",
+          "title": "Impôts 2026 : le Fisc prélève automatiquement sur les comptes bancaires dès le 25 septembre",
           "bullets": [
-            "Les contribuables ont encore jusqu’au 15 octobre 2026 pour corriger leur déclaration de revenus.",
-            "Cette période permet de rectifier d’éventuelles erreurs ou omissions pour éviter des pénalités.",
-            "Les services fiscaux encouragent les déclarants à vérifier leurs informations avant la date limite."
+            "Les contribuables ayant des dettes fiscales impayées seront prélevés automatiquement sur leurs comptes bancaires à partir du 25 septembre.",
+            "Cette mesure concerne les impôts sur le revenu, les cotisations sociales et les taxes locales non réglées.",
+            "Le Trésor public a envoyé des notifications aux concernés pour les informer de cette procédure."
           ],
           "sources": []
         },
         {
-          "title": "Prélèvement à la source : le Fisc va prélever sur les comptes bancaires dès le 25 septembre",
+          "title": "« Je pleure tous les jours » : une victime d’arnaque à la voyance perd 96 000 $",
           "bullets": [
-            "À partir du 25 septembre 2026, le fisc procédera à des prélèvements automatiques sur les comptes bancaires pour régulariser les impôts dus.",
-            "Cette mesure vise à réduire les impayés et à sécuriser le recouvrement des créances fiscales.",
-            "Les contribuables concernés recevront une notification avant l’opération."
+            "Une femme a perdu 96 000 dollars dans une arnaque à la voyance en ligne, via une plateforme frauduleuse.",
+            "Elle a partagé son histoire pour sensibiliser les autres à ce type de pratiques criminelles.",
+            "Les autorités judiciaires enquêtent pour retrouver les responsables et récupérer une partie des fonds."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque de voyance : une victime perd 96 000 dollars et sombre dans la dépression",
+          "title": "Délai de redressement fiscal passé de 1 à 3 ans pour les impôts locaux",
           "bullets": [
-            "Une personne a perdu 96 000 dollars dans une arnaque de voyance, plongeant dans une profonde détresse psychologique.",
-            "Les arnaques en ligne ciblent de plus en plus les victimes vulnérables, exploitant leur désespoir ou leur quête de réponses.",
-            "Les autorités appellent à la vigilance et à signaler ces pratiques frauduleuses."
+            "Le délai pour contester un redressement fiscal concernant les impôts locaux a été allongé de 1 à 3 ans.",
+            "Cette mesure vise à offrir plus de temps aux contribuables pour rassembler les preuves et contester les décisions.",
+            "Les collectivités locales et les agents du fisc doivent s’adapter à cette nouvelle procédure."
           ],
           "sources": []
         }
@@ -216,20 +207,38 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Les Mondiaux d’athlétisme 2029 à Nairobi : une première pour l’Afrique",
+          "title": "Mondiaux d’athlétisme 2029 à Nairobi : une première pour l’Afrique",
           "bullets": [
-            "Le Kenya accueillera les championnats du monde d’athlétisme en 2029, une première pour le continent africain.",
-            "Cette décision marque une reconnaissance croissante de l’Afrique dans le domaine sportif international.",
+            "Le Kenya accueillera les championnats du monde d’athlétisme en 2029, marquant une première pour le continent africain.",
+            "Cette organisation s’inscrit dans une dynamique de développement sportif et touristique pour Nairobi.",
             "Les athlètes africains espèrent en profiter pour briller sur la scène mondiale."
           ],
           "sources": []
         },
         {
-          "title": "La nuit du rugby revient pour sa 22ème édition le 28 septembre à l’Olympia",
+          "title": "Pôle France basket : plusieurs membres sanctionnés après des violences lors d’un bizutage",
           "bullets": [
-            "La Nuit du Rugby, événement annuel dédié au Top 14, se déroulera le 28 septembre 2026 à l’Olympia.",
-            "Cette soirée mettra en avant les clubs et les joueurs avec des animations et des rencontres exclusives.",
-            "Un public fidèle se rassemblera pour célébrer ce rendez-vous incontournable du rugby français."
+            "Un joueur a été exclu et d’autres suspendus après des violences commises lors d’un bizutage au sein du Pôle France basket.",
+            "Les faits remontent à plusieurs mois et ont été portés à la connaissance de la Fédération française de basket-ball.",
+            "Cette affaire soulève des questions sur la prévention des violences dans les structures sportives de formation."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Crise au sein de la Fédération française de handball : accusations de « putsch » dans le comité de l’Oise",
+          "bullets": [
+            "La Fédération française de handball est au cœur d’une crise après des accusations de manipulation interne au comité de l’Oise.",
+            "Des membres du comité dénoncent une prise de pouvoir illégitime par un groupe minoritaire.",
+            "Cette affaire pourrait avoir des répercussions sur la gouvernance et la crédibilité de la fédération."
+          ],
+          "sources": []
+        },
+        {
+          "title": "La Nuit du Rugby 2026 : 22ème édition le 28 septembre à l’Olympia",
+          "bullets": [
+            "La Nuit du Rugby revient pour sa 22ème édition le 28 septembre à l’Olympia, avec des matchs du Top 14 en direct.",
+            "Cette soirée festive rassemble fans et clubs autour de moments sportifs et culturels.",
+            "Les billets sont déjà disponibles pour les passionnés de rugby."
           ],
           "sources": []
         }
