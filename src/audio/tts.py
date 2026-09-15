@@ -76,8 +76,10 @@ def _gtts(text: str, out_path: str, timeout: int = 90) -> dict:
 
     from gtts import gTTS
 
+    tld = os.environ.get("GTTS_TLD", "fr")   # "fr" = France, "ca" = Canada
+
     def _run() -> None:
-        gTTS(text=text, lang="fr", tld="fr").save(out_path)
+        gTTS(text=text, lang="fr", tld=tld).save(out_path)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=1) as ex:
         ex.submit(_run).result(timeout=timeout)
