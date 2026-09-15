@@ -1,8 +1,8 @@
 """Collecte sportive déterministe (sans LLM) : prochain match Steelers et PSG.
 
-Source : API publique ESPN. On ne fabrique JAMAIS d'information : la diffusion
-TV n'est indiquée que si ESPN la fournit, sinon « à confirmer » (exigence du
-cahier des charges).
+Source : TheSportsDB (API gratuite, non bloquée en datacenter — contrairement à
+ESPN qui renvoie 403 depuis les IP GitHub). On ne fabrique JAMAIS d'information :
+la diffusion TV n'est indiquée que si l'API la fournit, sinon « à confirmer ».
 """
 from __future__ import annotations
 
@@ -13,90 +13,82 @@ import requests
 
 TIMEOUT = 25
 PARIS = ZoneInfo("Europe/Paris")
+UA = {"User-Agent": "DailyBriefBot/1.0"}
+BASE = "https://www.thesportsdb.com/api/v1/json/3"   # clé de test gratuite
+
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
 
-NFL_STEELERS = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/pit/schedule"
-# PSG : id ESPN 160 ; le calendrier renvoie les événements toutes compétitions
-PSG = "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/teams/160/schedule"
+
+def _team_id(nom: str) -> str | None:
+    r = requests.get(f"{BASE}/searchteams.php", params={"t": nom},
+                     headers=UA, timeout=TIMEOUT)
+    r.raise_for_status()
+    teams = r.json().get("teams") or []
+    return teams[0].get("idTeam") if teams else None
 
 
-def _fr_datetime(iso: str) -> tuple[str, dt.datetime]:
-    d = dt.datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(PARIS)
-    txt = f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} à {d.hour:02d}h{d.minute:02d}"
-    return txt, d
-
-
-def _next_event(events: list[dict]) -> dict | None:
-    now = dt.datetime.now(dt.timezone.utc)
-    futurs = []
-    for e in events:
-        iso = e.get("date")
-        if not iso:
-            continue
+def _fr_datetime(e: dict) -> str:
+    ts = e.get("strTimestamp")
+    if ts:
         try:
-            when = dt.datetime.fromisoformat(iso.replace("Z", "+00:00"))
+            d = dt.datetime.fromisoformat(ts.replace("Z", "")).replace(
+                tzinfo=dt.timezone.utc).astimezone(PARIS)
+            return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} à {d.hour:02d}h{d.minute:02d}"
         except ValueError:
-            continue
-        state = (e.get("competitions", [{}])[0].get("status", {})
-                 .get("type", {}).get("state"))
-        if when >= now or state == "pre":
-            futurs.append((when, e))
-    if not futurs:
-        return None
-    futurs.sort(key=lambda x: x[0])
-    return futurs[0][1]
+            pass
+    # à défaut : date seule
+    de = e.get("dateEvent")
+    if de:
+        try:
+            d = dt.date.fromisoformat(de)
+            return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]}"
+        except ValueError:
+            pass
+    return "date à confirmer"
 
 
-def _parse(events: list[dict], team_name: str) -> dict | None:
-    e = _next_event(events)
-    if not e:
+def _next_event(idteam: str, mon_equipe: str) -> dict | None:
+    r = requests.get(f"{BASE}/eventsnext.php", params={"id": idteam},
+                     headers=UA, timeout=TIMEOUT)
+    r.raise_for_status()
+    events = r.json().get("events") or []
+    if not events:
         return None
-    comp = e.get("competitions", [{}])[0]
-    competitors = comp.get("competitors", [])
-    me = next((c for c in competitors if team_name.lower() in
-               c.get("team", {}).get("displayName", "").lower()), None)
-    opp = next((c for c in competitors if c is not me), None)
-    home_away = "à domicile" if (me or {}).get("homeAway") == "home" else "à l'extérieur"
-    date_txt, _ = _fr_datetime(e["date"])
-    # diffusion : uniquement si fournie
-    diffs = []
-    for b in comp.get("broadcasts", []) or []:
-        diffs += b.get("names", []) or []
-    for b in comp.get("geoBroadcasts", []) or []:
-        nm = b.get("media", {}).get("shortName")
-        if nm:
-            diffs.append(nm)
+    e = events[0]  # déjà trié : prochain match
+    home = e.get("strHomeTeam") or ""
+    away = e.get("strAwayTeam") or ""
+    is_home = mon_equipe.lower() in home.lower()
+    tv = (e.get("strTVStation") or "").strip()
     return {
-        "adversaire": (opp or {}).get("team", {}).get("displayName", "à préciser"),
-        "domicile": home_away,
-        "competition": (e.get("season", {}).get("slug") or comp.get("type", {}).get("text")
-                        or e.get("shortName") or ""),
-        "date_txt": date_txt,
-        "stade": comp.get("venue", {}).get("fullName", ""),
-        "diffusion": ", ".join(dict.fromkeys(diffs)) if diffs else None,
+        "adversaire": (away if is_home else home) or "à préciser",
+        "domicile": "à domicile" if is_home else "à l'extérieur",
+        "competition": (e.get("strLeague") or "").strip(),
+        "date_txt": _fr_datetime(e),
+        "stade": (e.get("strVenue") or "").strip(),
+        "diffusion": tv or None,
     }
 
 
-def _fetch(url: str) -> list[dict]:
-    r = requests.get(url, timeout=TIMEOUT,
-                     headers={"User-Agent": "DailyBriefBot/1.0"})
-    r.raise_for_status()
-    return r.json().get("events", []) or []
+def _next(nom: str, mon_equipe: str) -> dict | None:
+    idteam = _team_id(nom)
+    if not idteam:
+        return None
+    return _next_event(idteam, mon_equipe)
 
 
 def steelers_next() -> dict | None:
     try:
-        return _parse(_fetch(NFL_STEELERS), "Steelers")
+        return _next("Pittsburgh Steelers", "Steelers")
     except Exception as e:  # noqa: BLE001
-        print(f"⚠ Steelers ESPN: {e!r}")
+        print(f"⚠ Steelers TheSportsDB: {e!r}")
         return None
 
 
 def psg_next() -> dict | None:
     try:
-        return _parse(_fetch(PSG), "Paris Saint-Germain")
+        return _next("Paris Saint-Germain", "Paris")
     except Exception as e:  # noqa: BLE001
-        print(f"⚠ PSG ESPN: {e!r}")
+        print(f"⚠ PSG TheSportsDB: {e!r}")
         return None
