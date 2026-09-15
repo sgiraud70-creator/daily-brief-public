@@ -68,6 +68,17 @@ jobs:
         if: steps.gate.outputs.go == 'true'
         run: python -m scripts.build_email --brief data/brief.json
 
+      - name: Cache des voix Piper (évite un retéléchargement HuggingFace)
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/piper
+          key: piper-voices-v1
+
+      - name: Pré-téléchargement des voix (une seule fois, puis cache)
+        if: steps.gate.outputs.go == 'true'
+        run: python -c "from src.audio.tts import prefetch_voices; prefetch_voices()"
+
       - name: Audio MP3 (edge-tts → repli Piper)
         if: steps.gate.outputs.go == 'true'
         continue-on-error: true

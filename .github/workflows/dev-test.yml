@@ -46,6 +46,17 @@ jobs:
         if: ${{ env.MISTRAL_API_KEY != '' }}
         run: python -m scripts.build_email --brief data/brief.json --weather-url "$BRANCH_RAW/weather.png" --mp3-url "$BRANCH_RAW/brief.mp3"
 
+      - name: Cache des voix Piper (évite un retéléchargement HuggingFace)
+        if: ${{ env.MISTRAL_API_KEY != '' }}
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/piper
+          key: piper-voices-v1
+
+      - name: Pré-téléchargement des voix (une seule fois, puis cache)
+        if: ${{ env.MISTRAL_API_KEY != '' }}
+        run: python -c "from src.audio.tts import prefetch_voices; prefetch_voices()"
+
       - name: Audio MP3 (edge-tts) — n'interrompt pas le run si le TTS échoue
         if: ${{ env.MISTRAL_API_KEY != '' }}
         continue-on-error: true

@@ -54,6 +54,20 @@ def _ensure_piper_voice(voice: str) -> str:
     return onnx
 
 
+def prefetch_voices() -> None:
+    """Pré-télécharge toutes les voix Piper dans PIPER_DIR (pour le cache CI).
+
+    Idempotent : ne retélécharge pas une voix déjà présente. Une voix qui
+    échoue n'interrompt pas les autres (le repli au runtime gère le reste).
+    """
+    for voice in PIPER_VOICES:
+        try:
+            _ensure_piper_voice(voice)
+            print(f"  ✓ voix Piper prête : {voice}")
+        except Exception as e:  # noqa: BLE001
+            print(f"  ⚠ voix Piper {voice} indisponible : {e!r}")
+
+
 def _ffmpeg() -> str:
     import imageio_ffmpeg
     return imageio_ffmpeg.get_ffmpeg_exe()
