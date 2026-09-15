@@ -1,22 +1,20 @@
-name: Test météo (réel)
+name: Test dev (réel)
 
-# Workflow temporaire de validation : exécute la vraie collecte Open-Meteo sur
-# les runners GitHub (réseau ouvert), puis publie l'image réelle sur la branche
-# de travail et en artefact. Se déclenche à chaque push sur la branche (sauf
-# quand seul public/ change → le commit du bot ne se redéclenche pas de toute
-# façon, GITHUB_TOKEN ne déclenche pas de workflow).
+# Workflow temporaire de validation : exécute la vraie collecte (météo + RSS)
+# sur les runners GitHub (réseau ouvert), publie les résultats sur la branche
+# et en artefacts. Remplace l'ancien meteo-test.yml.
 
 on:
   push:
     branches: [claude/project-overview-kalf7c]
-    paths-ignore: ["public/**"]
+    paths-ignore: ["public/**", "data/collected.json", "data/history.json"]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: meteo-test
+  group: dev-test
   cancel-in-progress: true
 
 jobs:
@@ -30,26 +28,28 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
 
-      - name: Collecte météo RÉELLE (Open-Meteo)
+      - name: Météo réelle (Open-Meteo)
         run: python -m scripts.build_weather
 
-      - name: Artefact
+      - name: Collecte actualités réelle (RSS)
+        run: python -m scripts.build_collecte
+
+      - name: Artefacts
         uses: actions/upload-artifact@v4
         with:
-          name: weather
+          name: collecte
           path: |
             public/weather.png
-            public/weather_table.html
-            public/weather_alt.txt
+            data/collected.json
 
-      - name: Publier l'image réelle sur la branche
+      - name: Publier sur la branche
         run: |
           git config user.name  "brief-bot"
           git config user.email "brief-bot@users.noreply.github.com"
-          git add public/
+          git add public/ data/collected.json
           if git diff --cached --quiet; then
             echo "Rien à publier."
           else
-            git commit -m "test: bloc météo généré avec données réelles Open-Meteo"
+            git commit -m "test: météo + collecte RSS (données réelles)"
             git push
           fi
