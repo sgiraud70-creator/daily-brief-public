@@ -100,19 +100,19 @@
       "name": "Ven",
       "code": 3,
       "tmax": 21,
-      "tmin": 11
+      "tmin": 12
     },
     {
       "name": "Sam",
-      "code": 45,
-      "tmax": 22,
-      "tmin": 9
+      "code": 3,
+      "tmax": 24,
+      "tmin": 10
     },
     {
       "name": "Dim",
       "code": 3,
       "tmax": 25,
-      "tmin": 12
+      "tmin": 11
     },
     {
       "name": "Lun",
