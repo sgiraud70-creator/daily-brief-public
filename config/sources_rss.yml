@@ -1,0 +1,30 @@
+# Flux RSS par rubrique. Plusieurs flux par rubrique = résilience (ENF-08).
+# Pour le local et la vie pratique, on s'appuie sur le flux de RECHERCHE de
+# Google Actualités (très fiable, cible une requête précise). Le vrai média
+# est extrait du titre à la collecte.
+
+France:
+  - https://www.lemonde.fr/politique/rss_full.xml
+  - https://www.lemonde.fr/economie/rss_full.xml
+  - https://www.lemonde.fr/societe/rss_full.xml
+  - https://www.francetvinfo.fr/france.rss           # à valider
+
+International:
+  - https://www.lemonde.fr/international/rss_full.xml
+  - https://www.france24.com/fr/rss
+
+Actualité locale:
+  - 'https://news.google.com/rss/search?q=%22Haute-Sa%C3%B4ne%22%20OR%20Rioz%20OR%20Vesoul%20OR%20%22Loulans-Verchamp%22%20OR%20Montbozon&hl=fr&gl=FR&ceid=FR:fr'
+  - https://www.haute-saone.gouv.fr/syndication/listexport   # secondaire, à valider
+
+IA & nouvelles technologies:
+  - https://www.numerama.com/feed/
+
+Applications · no-code · automatisation:
+  - 'https://news.google.com/rss/search?q=%22no-code%22%20OR%20automatisation%20OR%20n8n%20OR%20%22agent%20IA%22&hl=fr&gl=FR&ceid=FR:fr'
+
+Impression 3D:
+  - https://www.3dnatives.com/feed/
+
+À savoir · vie pratique:
+  - 'https://news.google.com/rss/search?q=%22ch%C3%A8que%20%C3%A9nergie%22%20OR%20%22d%C3%A9marches%20administratives%22%20OR%20arnaque%20OR%20imp%C3%B4ts&hl=fr&gl=FR&ceid=FR:fr'

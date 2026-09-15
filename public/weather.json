@@ -1,0 +1,127 @@
+{
+  "current": {
+    "temp": 26,
+    "feels": 27,
+    "code": 2,
+    "is_night": false,
+    "tmax": 30,
+    "tmin": 12,
+    "precip_prob": 0,
+    "wind": 14
+  },
+  "steps": [
+    {
+      "hh": "07h",
+      "code": 45,
+      "is_night": false,
+      "temp": 12,
+      "precip": 0.0,
+      "wind": 2
+    },
+    {
+      "hh": "09h",
+      "code": 0,
+      "is_night": false,
+      "temp": 15,
+      "precip": 0.0,
+      "wind": 2
+    },
+    {
+      "hh": "11h",
+      "code": 1,
+      "is_night": false,
+      "temp": 23,
+      "precip": 0.0,
+      "wind": 2
+    },
+    {
+      "hh": "13h",
+      "code": 1,
+      "is_night": false,
+      "temp": 28,
+      "precip": 0.0,
+      "wind": 6
+    },
+    {
+      "hh": "15h",
+      "code": 1,
+      "is_night": false,
+      "temp": 30,
+      "precip": 0.0,
+      "wind": 10
+    },
+    {
+      "hh": "17h",
+      "code": 1,
+      "is_night": false,
+      "temp": 29,
+      "precip": 0.0,
+      "wind": 14
+    },
+    {
+      "hh": "19h",
+      "code": 1,
+      "is_night": false,
+      "temp": 28,
+      "precip": 0.0,
+      "wind": 10
+    },
+    {
+      "hh": "21h",
+      "code": 2,
+      "is_night": true,
+      "temp": 22,
+      "precip": 0.0,
+      "wind": 4
+    },
+    {
+      "hh": "23h",
+      "code": 1,
+      "is_night": true,
+      "temp": 20,
+      "precip": 0.0,
+      "wind": 3
+    }
+  ],
+  "days": [
+    {
+      "name": "Mer",
+      "code": 61,
+      "tmax": 20,
+      "tmin": 12
+    },
+    {
+      "name": "Jeu",
+      "code": 45,
+      "tmax": 21,
+      "tmin": 7
+    },
+    {
+      "name": "Ven",
+      "code": 3,
+      "tmax": 21,
+      "tmin": 12
+    },
+    {
+      "name": "Sam",
+      "code": 3,
+      "tmax": 24,
+      "tmin": 10
+    },
+    {
+      "name": "Dim",
+      "code": 3,
+      "tmax": 25,
+      "tmin": 11
+    },
+    {
+      "name": "Lun",
+      "code": 3,
+      "tmax": 25,
+      "tmin": 12
+    }
+  ],
+  "source": "Open-Meteo",
+  "vigilance": null,
+  "place": "Loulans-Verchamp"
+}

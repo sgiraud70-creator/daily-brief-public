@@ -1,0 +1,127 @@
+{#- Gabarit e-mail « Le Brief » — charte noir & doré.
+    Une seule colonne, largeur ≤ 760 px (EF-20). Tableaux + styles (inlinés au
+    build par premailer, EF-21). Aucun SVG, aucun JS, aucune police externe
+    indispensable : Georgia (serif) + Arial (sans) sont universelles (EF-26).
+    Compréhensible images bloquées : la météo porte un texte alternatif, tout
+    le reste est du texte (EF-21). -#}
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<style>
+  body{margin:0;padding:0;background:#08080a;}
+  a{color:#e7cd86;text-decoration:none;}
+  .wrap{max-width:760px;margin:0 auto;background:#0d0d0f;}
+  .pad{padding-left:34px;padding-right:34px;}
+  .serif{font-family:Georgia,'Times New Roman',serif;}
+  .sans{font-family:Arial,Helvetica,sans-serif;}
+  .eyebrow{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold;
+    letter-spacing:3px;text-transform:uppercase;color:#c9a24b;}
+  .h1{font-family:Georgia,'Times New Roman',serif;font-size:46px;font-weight:bold;
+    color:#f1ede4;margin:8px 0 2px;}
+  .h1 i{color:#c9a24b;font-weight:normal;}
+  .dateline{font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:2px;
+    text-transform:uppercase;color:#a49f93;}
+  .btn{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;
+    color:#1a1508;background:#d8b354;padding:15px 32px;border-radius:3px;display:inline-block;}
+  .sub{font-family:Arial,Helvetica,sans-serif;font-size:12px;letter-spacing:1px;
+    text-transform:uppercase;color:#6f6b62;}
+  .rlabel{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;
+    letter-spacing:2.5px;text-transform:uppercase;color:#c9a24b;}
+  .rvol{font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#6f6b62;letter-spacing:1px;}
+  .title{font-family:Georgia,'Times New Roman',serif;font-size:23px;font-weight:bold;
+    color:#f1ede4;line-height:1.3;}
+  .bullets{font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#d5cfc2;
+    line-height:1.7;margin:8px 0 0;padding-left:20px;}
+  .source{font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#a49f93;}
+  .source a{color:#a49f93;border-bottom:1px solid #4a4740;}
+  .fete{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:19px;color:#e7cd86;}
+  .footer{font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#6f6b62;line-height:1.7;}
+  @media (max-width:600px){
+    .h1{font-size:34px!important;}
+    .pad{padding-left:18px!important;padding-right:18px!important;}
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background:#08080a;">
+<span style="display:none;max-height:0;overflow:hidden;opacity:0;">
+  Votre brief du {{ date_str }} — à lire et à écouter.</span>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#08080a;">
+<tr><td align="center" style="padding:16px 8px;">
+
+<table role="presentation" width="760" cellpadding="0" cellspacing="0" class="wrap" style="max-width:760px;background:#0d0d0f;">
+
+  {# ---------- EN-TÊTE ---------- #}
+  <tr><td class="pad" align="center" style="padding-top:34px;padding-bottom:8px;">
+    <div class="eyebrow">Votre rendez-vous quotidien</div>
+    <div class="h1 serif">Le <i>Brief</i></div>
+    <div class="dateline">{{ date_str }}</div>
+  </td></tr>
+
+  <tr><td align="center" style="padding:14px 0 6px;">
+    <a href="{{ mp3_url }}" class="btn">&#9654;&nbsp;&nbsp;Écouter le brief · {{ audio_minutes }} min</a>
+    <div class="sub" style="margin-top:12px;">ou lisez-le ci-dessous · {{ read_minutes }} min</div>
+  </td></tr>
+
+  {# ---------- MÉTÉO (image + texte alternatif) ---------- #}
+  <tr><td class="pad" style="padding-top:18px;padding-bottom:6px;">
+    <img src="{{ weather_url }}" width="692" alt="{{ weather_alt }}"
+         style="display:block;width:100%;max-width:692px;height:auto;border:0;border-radius:6px;">
+  </td></tr>
+
+  {# ---------- RUBRIQUES ---------- #}
+  {% for r in rubriques %}
+  <tr><td class="pad" style="padding-top:32px;padding-bottom:4px;">
+    {# séparateur doré orné : trait atténué + losange central (façon maquette) #}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+      <td style="border-bottom:1px solid #6e561f;font-size:0;line-height:0;height:9px;">&nbsp;</td>
+      <td style="width:26px;text-align:center;color:#c9a24b;font-family:Arial,Helvetica,sans-serif;font-size:12px;padding:0 9px;vertical-align:middle;">&#9670;</td>
+      <td style="border-bottom:1px solid #6e561f;font-size:0;line-height:0;height:9px;">&nbsp;</td>
+    </tr></table>
+    <div style="padding-top:20px;">
+      <span class="rlabel">{{ r.label }}</span>
+      {% if r.volume %}<span class="rvol">&nbsp;&nbsp;·&nbsp;&nbsp;{{ r.volume }}</span>{% endif %}
+    </div>
+
+    {% if r.fete %}
+      <div class="fete" style="margin-top:10px;">{{ r.fete }}</div>
+    {% endif %}
+
+    {% for it in r.get('sujets', []) %}
+      <div style="margin-top:{{ 22 if not loop.first else 14 }}px;">
+        <div class="title">{{ it.title }}</div>
+        <ul class="bullets">
+          {% for b in it.bullets %}<li>{{ b }}</li>{% endfor %}
+        </ul>
+        {% if it.sources %}
+        <div class="source" style="margin-top:8px;">Source&nbsp;:
+          {% for s in it.sources %}<a href="{{ s.url }}">{{ s.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+    {% if r.note and not r.get('sujets') %}
+      <div style="font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:16px;color:#77726a;margin-top:12px;">{{ r.note }}</div>
+    {% endif %}
+  </td></tr>
+  {% endfor %}
+
+  {# ---------- PIED ---------- #}
+  <tr><td class="pad" align="center" style="padding:26px 34px;">
+    <div style="border-top:1px solid #2c2c34;padding-top:22px;">
+      <a href="{{ mp3_url }}" class="btn">&#9654;&nbsp;&nbsp;Réécouter le brief</a>
+      <div class="serif" style="font-size:18px;color:#c9a24b;margin-top:16px;">Le Brief</div>
+      <div class="footer" style="margin-top:6px;">
+        Votre synthèse quotidienne, à lire et à écouter.<br>
+        Loulans-Verchamp · {{ date_str }}
+      </div>
+    </div>
+  </td></tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>

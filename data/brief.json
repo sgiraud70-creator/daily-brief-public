@@ -1,0 +1,253 @@
+{
+  "date_str": "Mardi 15 septembre 2026",
+  "audio_minutes": 11,
+  "read_minutes": 6,
+  "rubriques": [
+    {
+      "label": "France",
+      "sujets": [
+        {
+          "title": "Haute-Saône : accident mortel impliquant un utilitaire et deux poids lourds",
+          "bullets": [
+            "Un homme de 33 ans est décédé dans une collision entre un utilitaire et deux poids lourds sur une route de Haute-Saône.",
+            "L’accident s’est produit dans la nuit du 14 au 15 septembre près de Vesoul.",
+            "Les circonstances précises sont encore en cours d’enquête par les autorités locales.",
+            "Les secours ont été mobilisés rapidement, mais le conducteur de l’utilitaire n’a pu être sauvé."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Sécheresse agricole : les agriculteurs tentent de sauver la récolte en Haute-Saône",
+          "bullets": [
+            "Les agriculteurs de Haute-Saône fauchent les regains pour limiter les pertes après une sécheresse prolongée.",
+            "La récolte de maïs est particulièrement menacée, avec des pertes estimées à 20 000 euros par exploitant en moyenne.",
+            "Les conditions climatiques ont réduit les rendements et fragilisé les cultures.",
+            "Les professionnels appellent à une intervention rapide pour éviter une crise économique majeure dans le secteur."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Vesoul : explosion d’un DAB endommage gravement un cinéma historique",
+          "bullets": [
+            "L’explosion d’un distributeur automatique de billets (DAB) a causé d’importants dégâts au cinéma Majestic de Vesoul.",
+            "Les vitres ont été brisées et des éléments de la façade ont été endommagés.",
+            "Les causes de l’explosion sont en cours d’enquête par les autorités locales.",
+            "Le cinéma, symbole culturel de la ville, devrait faire l’objet de réparations urgentes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Vesoul : un homme jugé pour avoir agressé ivre les pompiers tentant de réanimer son père",
+          "bullets": [
+            "Un homme de Vesoul a été jugé pour avoir agressé des pompiers alors qu’ils tentaient de réanimer son père, sous l’effet de l’alcool.",
+            "Les secours avaient été appelés en urgence pour une situation médicale grave.",
+            "La justice a appliqué une mesure de tolérance zéro envers les agressions envers les secours.",
+            "L’affaire illustre les risques liés à la consommation d’alcool en situation d’urgence."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "International",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [
+        {
+          "title": "Haute-Saône : un conducteur ivre percute des barrières et blesse gravement un adolescent",
+          "bullets": [
+            "Un conducteur positif à l’alcool a percuté des barrières à Vesoul, blessant gravement un adolescent de 16 ans.",
+            "L’accident s’est produit dans la nuit du 13 septembre sur une route de la ville.",
+            "L’adolescent a été transporté en urgence à l’hôpital pour des soins intensifs.",
+            "Les autorités locales ont lancé une enquête pour déterminer les circonstances exactes de l’accident."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Vesoul : une famille redécouvre par hasard la maison de leur enfance",
+          "bullets": [
+            "Une famille a loué une maison à Vesoul et y a retrouvé, par hasard, celle où ils ont grandi.",
+            "Ce retour inattendu a ravivé des souvenirs d’enfance et renforcé les liens familiaux.",
+            "Les propriétaires actuels ont été touchés par cette histoire et ont partagé leur surprise.",
+            "Cette anecdote illustre le charme des petites villes et la magie des rencontres fortuites."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Knapp automatise la logistique de Cummins en Suède avec une solution innovante",
+          "bullets": [
+            "Knapp a mis en place une solution d’automatisation complète pour le site de Cummins en Suède.",
+            "Cette automatisation vise à optimiser la gestion des stocks et des flux logistiques.",
+            "Le projet intègre des technologies avancées pour améliorer l’efficacité opérationnelle.",
+            "Cummins bénéficie désormais d’une logistique plus fluide et réactive."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Precisely étend l’automatisation des workflows SAP S/4HANA avec Automate Evolve 25.2",
+          "bullets": [
+            "Precisely lance une nouvelle version de son outil d’automatisation pour SAP S/4HANA.",
+            "Automate Evolve 25.2 permet d’automatiser davantage les processus métiers et de réduire les erreurs.",
+            "Cette solution vise à améliorer la productivité et la cohérence des données dans les entreprises.",
+            "Les clients SAP peuvent désormais bénéficier d’une automatisation plus poussée et adaptée à leurs besoins."
+          ],
+          "sources": []
+        },
+        {
+          "title": "L’automatisation pourrait augmenter les personnels de santé grâce à l’IA",
+          "bullets": [
+            "L’automatisation, couplée à l’IA, pourrait soulager les soignants en prenant en charge des tâches répétitives.",
+            "Cette évolution permettrait de libérer du temps pour des soins plus personnalisés et humains.",
+            "Les hôpitaux pourraient ainsi réduire les charges de travail et améliorer la qualité des soins.",
+            "Les professionnels de santé pourraient se concentrer davantage sur la relation patient."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Quadient reconnu pour son expertise en automatisation des comptes fournisseurs",
+          "bullets": [
+            "Quadient a été salué pour son innovation dans l’automatisation des processus de gestion des comptes fournisseurs.",
+            "Cette solution permet aux entreprises de réduire les coûts et les erreurs administratives.",
+            "Quadient se positionne comme un acteur clé dans le domaine de la transformation digitale des finances.",
+            "Les entreprises peuvent ainsi optimiser leur trésorerie et leur relation avec leurs fournisseurs."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Axa développe son Hub IA pour accélérer la création d’agents IA sécurisés",
+          "bullets": [
+            "Axa a mis en place un Hub IA pour créer rapidement des agents intelligents et sécurisés.",
+            "Cette initiative vise à intégrer l’IA dans ses processus métiers tout en garantissant la conformité et la sécurité.",
+            "Le Hub IA permet de déployer des solutions personnalisées et adaptées aux besoins de l’assurance.",
+            "Axa renforce ainsi sa position dans l’innovation technologique et la transformation digitale."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Lave-linge intelligent automatisé grâce à l’IA : entre science et fiction",
+          "bullets": [
+            "Un lave-linge intelligent utilise l’IA pour optimiser les cycles de lavage et réduire la consommation d’eau et d’énergie.",
+            "Cette innovation permet de personnaliser les programmes en fonction des types de tissus et des charges.",
+            "L’objectif est de rendre le lavage plus écologique et efficace.",
+            "Cette technologie pourrait révolutionner les habitudes de consommation des ménages."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Report de donation : faut-il attendre 2027 pour optimiser sa fiscalité ?",
+          "bullets": [
+            "Les particuliers peuvent reporter leur donation jusqu’en 2027 pour bénéficier d’un avantage fiscal potentiel.",
+            "Cette option permet de réduire l’impôt sur la fortune ou de transmettre un patrimoine plus important.",
+            "Les conditions et avantages dépendent de la situation personnelle et du montant des donations.",
+            "Il est conseillé de consulter un expert-comptable pour évaluer l’opportunité de ce report."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Dernière chance pour corriger sa déclaration de revenus 2026",
+          "bullets": [
+            "Il est encore possible de corriger sa déclaration de revenus pour l’année 2026 avant la date limite.",
+            "Les erreurs ou omissions peuvent entraîner des redressements fiscaux ou des pénalités.",
+            "Les contribuables doivent vérifier leurs informations et les mettre à jour via leur espace personnel en ligne.",
+            "Cette correction peut éviter des désagréments avec l’administration fiscale."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaques au CPF : comment protéger son compte formation ?",
+          "bullets": [
+            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, avec des tentatives de piratage ou de fraude.",
+            "Les victimes sont souvent sollicitées par des tiers proposant des formations non reconnues ou des services frauduleux.",
+            "Il est recommandé de vérifier les sources et de ne jamais communiquer son numéro de CPF ou ses identifiants.",
+            "Le gouvernement rappelle les risques et conseille de signaler toute tentative d’arnaque."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Impôts locaux : délai de redressement allongé à 3 ans",
+          "bullets": [
+            "Le délai pour redresser une erreur ou une omission sur les impôts locaux passe de 1 à 3 ans.",
+            "Cette mesure vise à offrir plus de sécurité aux contribuables et à faciliter les corrections.",
+            "Les collectivités locales peuvent désormais agir plus tardivement en cas de manquement.",
+            "Cette extension du délai peut aussi encourager les déclarations plus précises."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Chèque énergie 2026 : vérifiez votre éligibilité via le simulateur officiel",
+          "bullets": [
+            "Le simulateur officiel permet de vérifier si vous êtes éligible au chèque énergie pour 2026.",
+            "Cette aide vise à soutenir les ménages modestes dans la gestion de leurs dépenses énergétiques.",
+            "Les critères d’éligibilité sont basés sur les revenus et la composition du foyer.",
+            "Il est conseillé de consulter le site officiel pour obtenir une réponse précise."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport — Pittsburgh Steelers",
+      "sujets": [
+        {
+          "title": "Prochain match : les Steelers à l'extérieur contre New England Patriots",
+          "bullets": [
+            "Adversaire : New England Patriots (à l'extérieur)",
+            "Compétition : NFL",
+            "Date : dimanche 20 septembre à 19h00 (heure de Paris)",
+            "Stade : Gillette Stadium",
+            "Diffusion : à confirmer"
+          ],
+          "sources": [
+            {
+              "name": "TheSportsDB",
+              "url": "https://www.thesportsdb.com/team/134925"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sport — PSG",
+      "sujets": [
+        {
+          "title": "Prochain match : le PSG à l'extérieur contre Olympique de Marseille",
+          "bullets": [
+            "Adversaire : Olympique de Marseille (à l'extérieur)",
+            "Compétition : Ligue 1",
+            "Date : dimanche 20 septembre à 20h45 (heure de Paris)",
+            "Diffusion : Ligue 1+"
+          ],
+          "sources": [
+            {
+              "name": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
