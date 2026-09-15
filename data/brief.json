@@ -1,72 +1,68 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 2,
   "rubriques": [
+    {
+      "label": "Fête du jour",
+      "sujets": [
+        {
+          "title": "Aujourd'hui, on souhaite la fête : Notre-Dame des sept Douleurs - Mémoire liturgique",
+          "bullets": [],
+          "sources": [
+            {
+              "name": "Nominis",
+              "url": "https://nominis.cef.fr/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Condamnation pour agressions sexuelles sur neuf enfants : un animateur périscolaire parisien écroué",
+          "title": "Loi SRU : Marine Le Pen critique les assouplissements et propose une révision",
           "bullets": [
-            "Michaël M., 38 ans, a été condamné à cinq ans de prison dont un ferme par le tribunal correctionnel de Paris.",
-            "Il est reconnu coupable d’agressions sexuelles sur des élèves âgés de 5 à 10 ans à l’école Vigée-Le Brun.",
-            "L’affaire a été jugée après plusieurs mois d’enquête et des auditions des victimes.",
-            "La peine inclut une interdiction de travailler dans un établissement scolaire ou périscolaire.",
-            "Cette affaire relance le débat sur la sécurité dans les espaces périscolaires."
+            "La loi Solidarité et Renouvellement Urbain (SRU), imposant des quotas de logements sociaux dans 2 000 communes, a été assouplie par le gouvernement.",
+            "Marine Le Pen dénonce ces modifications et promet une révision pour renforcer les obligations locales.",
+            "Les communes concernées pourraient voir leurs quotas réduits ou supprimés sous pression politique.",
+            "Cette attaque s’inscrit dans la campagne pour la présidentielle de 2027, où le logement est un enjeu majeur."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/15/a-paris-un-animateur-periscolaire-condamne-a-cinq-ans-de-prison-dont-un-ferme-pour-agressions-sexuelles-sur-neuf-enfants_6774421_3224.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/09/15/logement-social-la-loi-sru-deja-fragilisee-dans-le-viseur-de-marine-le-pen_6774436_3224.html"
             }
           ]
         },
         {
-          "title": "Radio France : nouvelle journée de grève prévue le 21 septembre",
+          "title": "Budget contre les violences sexistes et sexuelles : 1,5 milliard d’euros annoncés pour 2027",
           "bullets": [
-            "Les salariés du groupe public se mobilisent contre le recrutement de Charles Sapin, ancien responsable de *Valeurs actuelles*.",
-            "Une nouvelle journée de grève est votée pour le lundi 21 septembre, en plus des actions déjà engagées.",
-            "Les grévistes dénoncent un choix politique et une menace pour l’indépendance éditoriale de Radio France.",
-            "Les audiences et émissions pourraient être perturbées, notamment sur France Inter et France Culture.",
-            "Cette mobilisation s’inscrit dans un contexte de tensions récurrentes au sein du groupe public."
+            "Sébastien Lecornu, Premier ministre, annonce une trajectoire pluriannuelle avec un socle de 1,5 milliard d’euros pour 2027.",
+            "Cette mesure suit le meurtre de Lyhanna, une jeune femme victime de violences sexistes et sexuelles.",
+            "L’engagement vise à renforcer les moyens de prévention, de protection et de répression.",
+            "Le gouvernement table sur une augmentation progressive du budget dans les années à venir."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/radio-france-une-nouvelle-journee-de-greve-votee-pour-le-lundi-21-septembre_6774425_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/15/sebastien-lecornu-premier-ministre-la-mort-de-lyhanna-nous-oblige-nous-proposerons-une-trajectoire-pluriannuelle-avec-1-5-milliard-d-euros-contre-les-violences-sexistes-et-sexuelles-des-2027_6774429_3232.html"
             }
           ]
         },
         {
-          "title": "Échec de la « méthode Notre-Dame » à Mayotte : l’État réévalue sa stratégie de reconstruction",
+          "title": "Collectif citoyen propose un plan pour une renaissance industrielle avant la présidentielle",
           "bullets": [
-            "Inspirée du chantier de la cathédrale Notre-Dame, cette méthode n’a pas permis d’avancer significativement à Mayotte.",
-            "Les retards et difficultés logistiques ont freiné les travaux de reconstruction post-cyclone.",
-            "L’État envisage désormais une approche plus adaptée aux spécificités locales et aux contraintes budgétaires.",
-            "Les habitants et élus locaux critiquent un manque de coordination et de moyens.",
-            "Cette situation illustre les défis persistants dans la gestion des catastrophes naturelles en outre-mer."
+            "Un groupe d’économistes, universitaires et industriels présente un manifeste pour sortir de la logique de déclin industriel.",
+            "Les propositions incluent des mesures fiscales incitatives, une relocalisation des chaînes de valeur et un renforcement de la formation professionnelle.",
+            "Le collectif plaide pour une approche coordonnée entre État, entreprises et territoires.",
+            "Ce plan vise à stimuler l’innovation et la compétitivité des secteurs stratégiques."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/15/a-mayotte-l-echec-de-la-methode-notre-dame-choisie-par-l-etat-pour-la-reconstruction_6774428_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Violences dans le périscolaire parisien : Anne Hidalgo évoque un « échec collectif »",
-          "bullets": [
-            "Lors d’une audition devant la commission d’enquête sénatoriale, l’ancienne maire de Paris a reconnu des lacunes dans la prévention des violences.",
-            "Les incidents récurrents dans les espaces périscolaires concernent aussi bien les élèves que les enseignants.",
-            "Elle appelle à une refonte des dispositifs de sécurité et de médiation.",
-            "Les propositions incluent un renforcement des effectifs et une meilleure formation des personnels.",
-            "Cette prise de parole intervient après plusieurs affaires médiatisées, dont celle de l’animateur condamné."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/15/violences-dans-le-periscolaire-parisien-anne-hidalgo-renvoie-a-un-echec-collectif_6774417_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/15/un-collectif-citoyen-pour-une-renaissance-industrielle-liste-ses-propositions-avant-la-presidentielle_6774433_3234.html"
             }
           ]
         }
@@ -76,258 +72,29 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Yémen : 100 000 déplacés par les combats dans l’ouest du pays",
+          "title": "Épidémie d’Ebola en RDC : propagation exponentielle dans le Nord-Kivu",
           "bullets": [
-            "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) alerte sur une crise humanitaire majeure.",
-            "Les déplacements concernent à la fois des populations internes et des Yéménites fuyant vers Djibouti.",
-            "Les combats entre factions ont aggravé une situation déjà fragile, avec des besoins accrus en aide humanitaire.",
-            "L’ONU appelle à un cessez-le-feu immédiat pour permettre un accès sécurisé aux zones touchées.",
-            "Cette crise s’ajoute aux défis sanitaires et alimentaires persistants dans le pays."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/yemen-au-moins-100-000-personnes-deplacees-par-les-combats-dans-l-ouest-du-pays-alerte-le-haut-commissariat-des-nations-unies-pour-les-refugies_6774424_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Ukraine : Zelensky propose des « mesures de désescalade » si la Russie cède",
-          "bullets": [
-            "Le président ukrainien Volodymyr Zelensky a évoqué une volonté de désamorcer les tensions militaires.",
-            "Cette proposition intervient dans un contexte de gel des négociations directes avec Moscou.",
-            "L’Ukraine insiste sur la nécessité de protéger les infrastructures civiles et énergétiques.",
-            "Les États-Unis et l’UE soutiennent une approche diplomatique, mais les combats se poursuivent.",
-            "La Russie maintient une posture défensive tout en intensifiant ses frappes sur les zones frontalières."
-          ],
-          "sources": [
-            {
-              "name": "france24.com",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260915-l-ukraine-prendra-des-mesures-de-d%C3%A9sescalade-si-la-russie-fait-de-m%C3%AAme-affirme-zelensky"
-            }
-          ]
-        },
-        {
-          "title": "Canada–États-Unis : Ottawa durcit sa réponse aux droits de douane américains",
-          "bullets": [
-            "Une nouvelle série de droits de douane américains frappe des produits canadiens, notamment l’acier et l’aluminium.",
-            "Ottawa annonce des contre-mesures ciblant des secteurs clés comme l’agriculture et l’automobile.",
-            "Cette escalade commerciale s’inscrit dans un contexte de tensions géopolitiques accrues.",
-            "Les exportations canadiennes vers les États-Unis pourraient subir des pertes significatives.",
-            "Les deux pays cherchent à éviter une guerre commerciale totale, mais les tensions persistent."
-          ],
-          "sources": [
-            {
-              "name": "france24.com",
-              "url": "http://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260915-canada%E2%80%93%C3%A9tats-unis-l-escalade-commerciale-pousse-ottawa-%C3%A0-changer-de-cap"
-            }
-          ]
-        },
-        {
-          "title": "En Chine, la fronde des jeunes diplômés force un géant de l’automobile à reculer",
-          "bullets": [
-            "Le fabricant de phares automobiles Xingyu a dû annuler des licenciements après une mobilisation massive de jeunes recrues.",
-            "107 diplômés fraîchement embauchés ont protesté contre des conditions de travail jugées précaires.",
-            "Cette révolte reflète un mécontentement plus large dans le secteur industriel chinois face aux licenciements massifs.",
-            "Xingyu a été contraint de revoir sa politique de gestion des ressources humaines.",
-            "L’affaire illustre les tensions croissantes entre jeunes générations et entreprises dans un contexte économique incertain."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-chine-la-fronde-de-jeunes-recrues-fait-plier-un-geant-de-l-industrie-automobile_6774415_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Accord militaire AUKUS : l’Australie prépare l’arrivée de sous-marins nucléaires américains",
-          "bullets": [
-            "Cinq ans après la signature de l’accord AUKUS, l’Australie se prépare à intégrer des sous-marins nucléaires américains.",
-            "Ce partenariat stratégique inclut aussi une coopération renforcée en cybersécurité et en renseignement.",
-            "Les critiques soulignent les risques géopolitiques et les coûts exorbitants pour Canberra.",
-            "La Chine dénonce une menace pour la stabilité régionale dans l’Indo-Pacifique.",
-            "L’Australie cherche à équilibrer ses alliances tout en maintenant sa souveraineté."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/en-australie-l-accord-militaire-avec-le-royaume-uni-et-les-etats-unis-prend-forme-soulevant-les-craintes-d-une-partie-de-la-population_6774423_3210.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Haute-Saône : un trentenaire décède dans une collision entre un utilitaire et deux poids lourds",
-          "bullets": [
-            "Un homme de 33 ans est mort dans un accident impliquant un utilitaire et deux poids lourds près de Vesoul.",
-            "Les circonstances précises de l’accident sont encore en cours d’enquête par les autorités.",
-            "Les secours ont été alertés rapidement, mais les victimes n’ont pu être secourues à temps.",
-            "Cet accident rappelle l’importance de la vigilance sur les routes et des contrôles renforcés.",
-            "Les familles des victimes sont en deuil, tandis que les associations de sécurité routière appellent à la prudence."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Haute-Saône : explosion d’un DAB au Majestic de Vesoul endommageant le bâtiment",
-          "bullets": [
-            "Un distributeur automatique de billets (DAB) a explosé dans la nuit au Majestic, un cinéma de Vesoul.",
-            "L’incident a causé des dégâts matériels importants, notamment aux murs et aux vitres du bâtiment.",
-            "Les pompiers et la police ont été mobilisés pour sécuriser la zone et enquêter sur les causes de l’explosion.",
-            "Le cinéma a dû fermer temporairement pour des raisons de sécurité.",
-            "Les responsables du cinéma et les assurances évaluent désormais l’ampleur des dommages."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Haute-Saône : sécheresse persistante pousse les agriculteurs à fauchage des regains pour sauver la saison",
-          "bullets": [
-            "Les agriculteurs de la région font face à une sécheresse prolongée, réduisant drastiquement les récoltes.",
-            "Des mesures drastiques, comme le fauchage des regains, sont mises en place pour limiter les pertes.",
-            "Les associations agricoles appellent à une aide financière urgente de la part de l’État et de la Région.",
-            "Cette crise agricole menace l’économie locale et la sécurité alimentaire.",
-            "Les agriculteurs dénoncent un manque de soutien face à une situation climatique extrême."
+            "Le nombre de morts hebdomadaires a presque doublé dans le Nord-Kivu, avec une transmission accélérée.",
+            "L’OMS alerte sur une situation épidémiologique"
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Télescope Roman de la NASA : une manœuvre réussie prolonge sa durée de vie de plusieurs années",
-          "bullets": [
-            "Une manœuvre de correction orbitale a permis d’économiser du carburant et d’allonger la mission du télescope.",
-            "La NASA estime que cette manœuvre pourrait prolonger la durée de vie du télescope de plusieurs années.",
-            "Le télescope Nancy Grace Roman, lancé en 2027, est conçu pour étudier l’expansion de l’univers et l’énergie noire.",
-            "Cette réussite technique renforce les espoirs des scientifiques dans les observations spatiales futures.",
-            "Le projet est un pilier de la stratégie de la NASA pour explorer les mystères cosmiques."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/sciences/2333179-grace-a-une-manoeuvre-parfaite-le-telescope-roman-de-la-nasa-vient-de-gagner-des-annees-de-vie.html"
-            }
-          ]
-        },
-        {
-          "title": "Compte officiel de HBO Max piraté : diffusion de malwares sur Reddit",
-          "bullets": [
-            "Des pirates ont détourné le compte Reddit officiel de HBO Max pour diffuser des publicités malveillantes.",
-            "La technique utilisée, appelée ClickFi, a permis de propager des malwares à des milliers d’utilisateurs.",
-            "HBO Max a réagi rapidement en bloquant l’accès au compte compromis et en alertant les utilisateurs.",
-            "Cette attaque souligne les vulnérabilités des comptes officiels sur les réseaux sociaux.",
-            "Les plateformes et les utilisateurs sont appelés à renforcer leurs mesures de sécurité."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/cyberguerre/2333429-pirate-le-compte-officiel-de-hbo-max-a-servi-a-diffuser-des-malwares-sur-reddit.html"
-            }
-          ]
-        }
-      ]
+      "label": "",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Impôts 2026 : prélevements sur comptes bancaires dès le 25 septembre",
-          "bullets": [
-            "Le fisc va procéder à des prélèvements automatiques sur les comptes bancaires des contribuables en retard.",
-            "Cette mesure concerne les déclarations de revenus non réglées ou partiellement réglées.",
-            "Les prélèvements concernent les sommes dues au titre de l’impôt sur le revenu et des cotisations sociales.",
-            "Les contribuables peuvent encore régulariser leur situation avant le 25 septembre pour éviter ces prélèvements.",
-            "Cette action vise à accélérer le recouvrement des créances fiscales."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Aides sécheresse : les agriculteurs de la FDSEA bloquent le centre des impôts de Limoges",
-          "bullets": [
-            "Les agriculteurs de la FDSEA en Limousin protestent contre le manque d’aides face à la sécheresse.",
-            "Ils bloquent le centre des impôts de Limoges pour exiger une intervention urgente de la Région et du Département.",
-            "Les agriculteurs dénoncent des pertes économiques importantes et un manque de soutien gouvernemental.",
-            "Cette action fait suite à des mois de sécheresse ayant réduit les récoltes et les revenus agricoles.",
-            "Les autorités locales et régionales sont appelées à trouver des solutions rapides pour soutenir le secteur."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Délai de redressement fiscal passé de 1 à 3 ans",
-          "bullets": [
-            "Le délai pour contester un redressement fiscal a été allongé de 1 à 3 ans.",
-            "Cette mesure vise à offrir plus de temps aux contribuables pour régulariser leur situation.",
-            "Les experts en fiscalité soulignent que cette extension peut faciliter les recours contentieux.",
-            "Les contribuables doivent désormais agir plus rapidement pour éviter des pénalités accrues.",
-            "Cette modification s’inscrit dans une volonté de simplifier les procédures administratives."
-          ],
-          "sources": []
-        }
-      ]
+      "label": "",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Nairobi accueille les Mondiaux d’athlétisme 2029 : une première pour l’Afrique",
-          "bullets": [
-            "La capitale kényane a été désignée ville hôte des championnats du monde d’athlétisme en 2029.",
-            "Il s’agit de la première fois qu’un pays africain organise cet événement majeur.",
-            "Cette décision reflète la croissance du sport africain et l’engagement du Kenya dans le développement sportif.",
-            "Les athlètes et les fédérations internationales saluent cette opportunité pour mettre en lumière le continent.",
-            "Les préparatifs devraient commencer dès 2027 pour accueillir des milliers de participants et spectateurs."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Nuit du Rugby 2026 : cérémonie des trophées à l’Olympia le 28 septembre",
-          "bullets": [
-            "La 22ème édition de la Nuit du Rugby se tiendra le 28 septembre à l’Olympia à Paris.",
-            "Cette soirée célèbre les performances des clubs du Top 14 lors de la saison 2025-2026.",
-            "Les trophées récompenseront les meilleurs joueurs, entraîneurs et équipes de la compétition.",
-            "Les organisateurs prévoient un spectacle sportif et culturel pour marquer l’événement.",
-            "Cette cérémonie est un moment clé pour la communauté rugbystique française."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Fabrication additive dans les Hauts-de-France : dynamisme des acteurs locaux",
-          "bullets": [
-            "La région des Hauts-de-France se positionne comme un hub pour l’impression 3D et la fabrication additive.",
-            "Des entreprises locales innovent dans des secteurs variés, comme l’aéronautique, la santé et l’automobile.",
-            "Les acteurs régionaux collaborent avec des centres de recherche pour développer de nouvelles technologies.",
-            "Cette dynamique renforce l’attractivité économique et technologique de la région.",
-            "Les Hauts-de-France misent sur l’innovation pour rester compétitifs sur le marché international."
-          ],
-          "sources": [
-            {
-              "name": "3dnatives.com",
-              "url": "https://www.3dnatives.com/impression-3d-hauts-de-france-15092026/"
-            }
-          ]
-        },
-        {
-          "title": "Bechtle acquiert l’activité impression 3D de Kaut-Bullinger",
-          "bullets": [
-            "Le groupe Bechtle a annoncé l’acquisition de l’activité impression 3D de Kaut-Bullinger.",
-            "Cette acquisition renforce la position de Bechtle sur le marché de l’impression 3D industrielle en Europe.",
-            "Kaut-Bullinger, spécialisé dans les solutions d’impression 3D pour l’industrie, apporte une expertise technique et commerciale.",
-            "Bechtle prévoit d’intégrer rapidement cette activité à son portefeuille de services.",
-            "Cette opération s’inscrit dans une stratégie de diversification et de croissance pour Bechtle."
-          ],
-          "sources": []
-        }
-      ]
+      "label": "",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Sport — Pittsburgh Steelers",
@@ -359,7 +126,7 @@
             "Adversaire : Olympique de Marseille (à l'extérieur)",
             "Compétition : Ligue 1",
             "Date : dimanche 20 septembre à 20h45 (heure de Paris)",
-            "Diffusion : Ligue 1+"
+            "Diffusion : Ligue 1+ Arbitrage : François Letexier"
           ],
           "sources": [
             {

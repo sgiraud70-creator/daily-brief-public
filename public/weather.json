@@ -1,8 +1,8 @@
 {
   "current": {
     "temp": 30,
-    "feels": 29,
-    "code": 2,
+    "feels": 28,
+    "code": 1,
     "is_night": false,
     "tmax": 30,
     "tmin": 12,
