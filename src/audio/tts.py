@@ -20,8 +20,9 @@ EDGE_VOICES = [
     "fr-FR-RemyMultilingualNeural", "fr-FR-VivienneMultilingualNeural",
 ]
 
-# Voix Piper (repli fiable). Tirage aléatoire quotidien.
-PIPER_VOICES = ["fr_FR-siwis-medium", "fr_FR-tom-medium", "fr_FR-gilles-low"]
+# Voix Piper (repli fiable). On garde uniquement une voix medium naturelle
+# (siwis, féminine) : les voix « low » (gilles) sonnent robotiques/saccadées.
+PIPER_VOICES = ["fr_FR-siwis-medium"]
 PIPER_DIR = os.path.join(os.path.expanduser("~"), ".cache", "piper")
 HF = "https://huggingface.co/rhasspy/piper-voices/resolve/main/fr/fr_FR/"
 
