@@ -27,7 +27,7 @@
       {
         "title": "Haute-Saône : un trentenaire perd la vie dans une violente collision entre un utilitaire et deux poids lourds",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmNhbzN2ZWRIOVl2NXN2SFNVNE5MSUhrUHNTek80eUdPcm81T2tEUHVLQlBodlo3Z2NBb3pvUWlQNEZncDU3cVAxc3FMU2ozUWxjOVljMno5SjRyX1J2UmwzSXdITHpndWo4WU5TWGRhQ3haR1ZCeGxfcDZIWW9NV1IwUG5PeFhPbGlzQ25BQTNfdEZIMjcyZnFPTXNEVXZsZVJ4b2ZZN25BMmQ5ZmpVbzd1WjZWNmVTNU9qWmlaMWoxWktmRzJTODZtUWNwMkxDcm1zN3RoRUZudHVNTlhqZllOQQ?oc=5",
-        "source": "lesaffichesdelahautesaone.fr",
+        "source": "Les Affiches de la Haute-Saône",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmNhbzN2ZWRIOVl2NXN2SFNVNE5MSUhrUHNTek80eUdPcm81T2tEUHVLQlBodlo3Z2NBb3pvUWlQNEZncDU3cVAxc3FMU2ozUWxjOVljMno5SjRyX1J2UmwzSXdITHpndWo4WU5TWGRhQ3haR1ZCeGxfcDZIWW9NV1IwUG5PeFhPbGlzQ25BQTNfdEZIMjcyZnFPTXNEVXZsZVJ4b2ZZN25BMmQ5ZmpVbzd1WjZWNmVTNU9qWmlaMWoxWktmRzJTODZtUWNwMkxDcm1zN3RoRUZudHVNTlhqZllOQQ?oc=5\" target=\"_blank\">Haute-Saône : un tren",
         "published": "2026-09-15T06:46:25"
       },
@@ -60,15 +60,7 @@
         "published": "2026-09-15T04:32:48"
       }
     ],
-    "IA & nouvelles technologies": [
-      {
-        "title": "La Nasa vient d’économiser des années de carburant pour son télescope Roman, grâce à une manœuvre ultra-précise",
-        "url": "https://www.numerama.com/sciences/2333179-la-nasa-vient-deconomiser-des-annees-de-carburant-pour-son-telescope-roman-grace-a-une-manoeuvre-ultra-precise.html",
-        "source": "numerama.com",
-        "summary": "La première manœuvre corrigeant la trajectoire du télescope Nancy Grace Roman dans l'espace s'est très bien passée. Tellement bien que la Nasa a économisé énormément de carburant, ce qui devrait rallonger la durée de la mission de cet observatoire spatial.",
-        "published": "2026-09-15T09:50:25"
-      }
-    ],
+    "IA & nouvelles technologies": [],
     "Applications · no-code · automatisation": [
       {
         "title": "Knapp automatise la logistique de Cummins sur l'un de ses sites en Suède",
@@ -87,7 +79,7 @@
       {
         "title": "Precisely étend l'automatisation des processus de workflow pour SAP S/4HANA avec Automate Evolve 25.2",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGVETU5UX1E4RS1CNHF6ZHZfOGpwUHhfQXlraWNOTnFONFpwYW5faVpVbkljOHRNaEhha1FXVHFwRWEzQi1ka1dqendycUNNUTJQWDF5MWM5OGU1TmtYdHRqaWFGeDZTX19TUHBJcldQd2sxWE5SRkR1WjlkWUo2VnZUdDhuRTVWZTljT0dIVlIyWk4teTdFMWlkNkpfam1TaGJUWTItVkZIRG92MGhaSTZxSlFaX21nMXpKcnpNUXdSLXVzZ2U4YUd4NUtzSTRDUzBQb3NvX1RNZVhJblQzV3kzeDU?oc=5",
-        "source": "precisely.com",
+        "source": "Precisely",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGVETU5UX1E4RS1CNHF6ZHZfOGpwUHhfQXlraWNOTnFONFpwYW5faVpVbkljOHRNaEhha1FXVHFwRWEzQi1ka1dqendycUNNUTJQWDF5MWM5OGU1TmtYdHRqaWFGeDZTX19TUHBJcldQd2sxWE5SRkR1WjlkWUo2VnZUdDhuRTVWZTljT0dIVlIyWk4teTdFMWlkNkpfam1TaGJUWTItVkZIRG92MGhaSTZxSlFaX21nMXpKcnpNUXdSLXVzZ2U4YUd4NUtzSTRDUzBQb3NvX1RNZVhJblQzV3kzeDU?oc=5\" target=\"_blank\">Precisely étend l'au",
         "published": "2026-09-14T19:02:29"
       },
@@ -101,7 +93,7 @@
       {
         "title": "IA ET SOIGNANTS : L'automatisation pourrait bien augmenter les personnels de santé",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUZCSXYzQm05OVpoaHZ1czR4eUoxYWIxbjFIWFRSS3Q0OVFwWTd0MWJKenFVd3ZHblVHb19Cd0w1QjZrX25seWdfZUx5cU5IclFjdEhHS3Vwd0p2dExsTUZWTjRzWkpxdTFUTlNMbTh0aEhXVG1EZ2h3a2pfXzFQUWlPVENqSnQ3dWg3cWpKV0xZSFBSN0RkWDFFdmZYYnlUazBOSFVJdm9mb05Ock95M0lLZUdFdw?oc=5",
-        "source": "Santé log",
+        "source": "santelog.com",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUZCSXYzQm05OVpoaHZ1czR4eUoxYWIxbjFIWFRSS3Q0OVFwWTd0MWJKenFVd3ZHblVHb19Cd0w1QjZrX25seWdfZUx5cU5IclFjdEhHS3Vwd0p2dExsTUZWTjRzWkpxdTFUTlNMbTh0aEhXVG1EZ2h3a2pfXzFQUWlPVENqSnQ3dWg3cWpKV0xZSFBSN0RkWDFFdmZYYnlUazBOSFVJdm9mb05Ock95M0lLZUdFdw?oc=5\" target=\"_blank\">IA ET SOIGNANTS : L'automatisation pourrait bien augmenter les personnels de sant",
         "published": "2026-09-15T07:00:00"
       },
@@ -115,7 +107,7 @@
       {
         "title": "Le Hub IA, la recette d’Axa pour disposer rapidement d’agent IA sécurisés à l’échelle",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWtyQkRYNS1yM0NUdWJWTUR4WmFKRUFhYVRWeTRWZDU2MVBDMzY3TlBBT3VYNnA2NE50UW16cnBaQmtEVm04N3VIS3JPZ0hGTWpHVF9jdEdBLU5zcFp5ZFpXZlJDbWJ4X0pNdExOLTd2UFRGc3NGMU43MlBUcEpXV3JvNjlYSGtYeTVZNU1kRC1fTHR4RE51aXB0UklibnlWVjMzc0NDdjNjWmhCc3VOeDBfTldPeWExbGt5TmVQV2R5UQ?oc=5",
-        "source": "ZDNET",
+        "source": "zdnet.fr",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWtyQkRYNS1yM0NUdWJWTUR4WmFKRUFhYVRWeTRWZDU2MVBDMzY3TlBBT3VYNnA2NE50UW16cnBaQmtEVm04N3VIS3JPZ0hGTWpHVF9jdEdBLU5zcFp5ZFpXZlJDbWJ4X0pNdExOLTd2UFRGc3NGMU43MlBUcEpXV3JvNjlYSGtYeTVZNU1kRC1fTHR4RE51aXB0UklibnlWVjMzc0NDdjNjWmhCc3VOeDBfTldPeWExbGt5TmVQV2R5UQ?oc=5\" target=\"_blank\">Le Hub IA, la recette d’Axa pour disposer rapidement d’agent IA s",
         "published": "2026-09-14T12:21:38"
       },
@@ -166,18 +158,18 @@
     ],
     "À savoir · vie pratique": [
       {
+        "title": "Impôts : avez-vous intérêt à reporter votre donation à 2027 ?",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnVDeUVFUFczaGpkQzBDbWVyaTc5X25CQWF6TVBSZ1RfQ1RDQWJqU3BfQTNhNEthM1B5bGo3T0pCcjg4NVYta3hhV3dfSzRRN3NHWGF0ampBWEZSNG9oYlpFb1hYRDU4a3plQzRUOXBCa0QtOEVHWEJ0ZjlRSG9UWjQ1V2R3eklZSHNoUTdnVkdySEtKdGkzT3ZtVTNyRWU2RFZHUFY4bUEwN1E?oc=5",
+        "source": "Les Echos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnVDeUVFUFczaGpkQzBDbWVyaTc5X25CQWF6TVBSZ1RfQ1RDQWJqU3BfQTNhNEthM1B5bGo3T0pCcjg4NVYta3hhV3dfSzRRN3NHWGF0ampBWEZSNG9oYlpFb1hYRDU4a3plQzRUOXBCa0QtOEVHWEJ0ZjlRSG9UWjQ1V2R3eklZSHNoUTdnVkdySEtKdGkzT3ZtVTNyRWU2RFZHUFY4bUEwN1E?oc=5\" target=\"_blank\">Impôts : avez-vous intérêt à reporter votre donation à 2027 ?</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+        "published": "2026-09-15T05:15:07"
+      },
+      {
         "title": "Impôts 2026 : il est encore possible de corriger sa déclaration de revenus",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSFduWGFYZEhBQ3luTjVzcHV5SDhSdHE1ak5JeFVuY19Ob1hBTmVBVEpUV1ZiWjVUTTFDaW9NbzhnNWNzb2tBd2NZRDdJaEE1U0dlcGtmZlR1UGJNTWlUeWlXNGF4ZW5weFRtQktOZGp4RDJRSDl4ekNtNHFFM0dneWVCSTJDbXpNZzRUQVJoS2ZGckx1b2FwMWkydFdFUWZqT3JVMUttNExmeGxXQjRzdFl0cGw1VEE5cDJxdTAyUlpTQUd0WFd5SjRvNmU3YXBhNjNPa0FsX0V0dFFESEs3NDhqQ1JmVFNqRnhTRkVBbWtaUGNaTW9MdHRKSTZIb2c?oc=5",
         "source": "Ouest-France",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSFduWGFYZEhBQ3luTjVzcHV5SDhSdHE1ak5JeFVuY19Ob1hBTmVBVEpUV1ZiWjVUTTFDaW9NbzhnNWNzb2tBd2NZRDdJaEE1U0dlcGtmZlR1UGJNTWlUeWlXNGF4ZW5weFRtQktOZGp4RDJRSDl4ekNtNHFFM0dneWVCSTJDbXpNZzRUQVJoS2ZGckx1b2FwMWkydFdFUWZqT3JVMUttNExmeGxXQjRzdFl0cGw1VEE5cDJxdTAyUlpTQUd0WFd5SjRvNmU3YXBhNjNPa0FsX0V0dFFESEs3NDhqQ1JmVFNqRnhTRkVBbWtaUGNaTW9MdHRKSTZIb2c?oc=5\" ",
         "published": "2026-09-15T08:15:00"
-      },
-      {
-        "title": "Impôts : avez-vous intérêt à reporter votre donation à 2027 ?",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnVDeUVFUFczaGpkQzBDbWVyaTc5X25CQWF6TVBSZ1RfQ1RDQWJqU3BfQTNhNEthM1B5bGo3T0pCcjg4NVYta3hhV3dfSzRRN3NHWGF0ampBWEZSNG9oYlpFb1hYRDU4a3plQzRUOXBCa0QtOEVHWEJ0ZjlRSG9UWjQ1V2R3eklZSHNoUTdnVkdySEtKdGkzT3ZtVTNyRWU2RFZHUFY4bUEwN1E?oc=5",
-        "source": "lesechos.fr",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnVDeUVFUFczaGpkQzBDbWVyaTc5X25CQWF6TVBSZ1RfQ1RDQWJqU3BfQTNhNEthM1B5bGo3T0pCcjg4NVYta3hhV3dfSzRRN3NHWGF0ampBWEZSNG9oYlpFb1hYRDU4a3plQzRUOXBCa0QtOEVHWEJ0ZjlRSG9UWjQ1V2R3eklZSHNoUTdnVkdySEtKdGkzT3ZtVTNyRWU2RFZHUFY4bUEwN1E?oc=5\" target=\"_blank\">Impôts : avez-vous intérêt à reporter votre donation à 2027 ?</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-        "published": "2026-09-15T05:15:07"
       },
       {
         "title": "La FDSEA devant le centre des impôts de Limoges : \"dites à la Région et au Département qu'on va bientôt passer les voir\"",
@@ -231,7 +223,7 @@
       {
         "title": "Les impôts des couples mariés sèment à nouveau la pagaille au parlement",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOU5uQWYwRXhWc2NZb1BDbnAtLXg5b2hUUEFscXB1bDFISS1OSEZPZ0tNTFR3aVpma1E4RXhac1Vzdy1OOE9XOTloV3N5SzJSeklvM1QteVNfbEF6RVdhbFdFSENoeHJ4dXNvVy13ZzNIb01BUHBLMUxYT2FYR1FwWmdJMGRFMGprQ3RRMTZWaUVCZ2NrU0xBODQ5VDJFekdXdWh3?oc=5",
-        "source": "letemps.ch",
+        "source": "Le Temps",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOU5uQWYwRXhWc2NZb1BDbnAtLXg5b2hUUEFscXB1bDFISS1OSEZPZ0tNTFR3aVpma1E4RXhac1Vzdy1OOE9XOTloV3N5SzJSeklvM1QteVNfbEF6RVdhbFdFSENoeHJ4dXNvVy13ZzNIb01BUHBLMUxYT2FYR1FwWmdJMGRFMGprQ3RRMTZWaUVCZ2NrU0xBODQ5VDJFekdXdWh3?oc=5\" target=\"_blank\">Les impôts des couples mariés sèment à nouveau la pagaille au parlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
         "published": "2026-09-15T09:43:43"
       }
@@ -244,5 +236,5 @@
       "error": "Remote end closed connection without response"
     }
   ],
-  "generated_at": "2026-09-15T09:51:02"
+  "generated_at": "2026-09-15T09:57:46"
 }
