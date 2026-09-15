@@ -1,78 +1,131 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Haute-Saône : accident mortel impliquant un utilitaire et deux poids lourds",
+          "title": "Procès en appel des assistants parlementaires européens du MoDem : la défense dénonce des « accusations mensongères »",
           "bullets": [
-            "Un homme de 33 ans est décédé dans une collision entre un utilitaire et deux poids lourds sur une route de Haute-Saône.",
-            "L’accident s’est produit dans la nuit du 14 au 15 septembre près de Vesoul.",
-            "Les circonstances précises sont encore en cours d’enquête par les autorités locales.",
-            "Les secours ont été mobilisés rapidement, mais le conducteur de l’utilitaire n’a pu être sauvé."
+            "Patrick Mignola, avocat des deux entités juridiques (UDF et MoDem), affirme que leurs clients n’ont jamais commis les actes reprochés.",
+            "L’affaire concerne des soupçons de détournement de fonds publics et de conflits d’intérêts dans le cadre de leur mandat européen.",
+            "Les assistants visés sont accusés d’avoir utilisé des ressources publiques à des fins personnelles ou partisanes.",
+            "Le procès en appel s’inscrit dans une procédure judiciaire déjà engagée depuis 2024.",
+            "Les conséquences pourraient impacter la crédibilité des institutions politiques françaises au niveau européen."
           ],
-          "sources": []
-        },
-        {
-          "title": "Sécheresse agricole : les agriculteurs tentent de sauver la récolte en Haute-Saône",
-          "bullets": [
-            "Les agriculteurs de Haute-Saône fauchent les regains pour limiter les pertes après une sécheresse prolongée.",
-            "La récolte de maïs est particulièrement menacée, avec des pertes estimées à 20 000 euros par exploitant en moyenne.",
-            "Les conditions climatiques ont réduit les rendements et fragilisé les cultures.",
-            "Les professionnels appellent à une intervention rapide pour éviter une crise économique majeure dans le secteur."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Vesoul : explosion d’un DAB endommage gravement un cinéma historique",
-          "bullets": [
-            "L’explosion d’un distributeur automatique de billets (DAB) a causé d’importants dégâts au cinéma Majestic de Vesoul.",
-            "Les vitres ont été brisées et des éléments de la façade ont été endommagés.",
-            "Les causes de l’explosion sont en cours d’enquête par les autorités locales.",
-            "Le cinéma, symbole culturel de la ville, devrait faire l’objet de réparations urgentes."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Vesoul : un homme jugé pour avoir agressé ivre les pompiers tentant de réanimer son père",
-          "bullets": [
-            "Un homme de Vesoul a été jugé pour avoir agressé des pompiers alors qu’ils tentaient de réanimer son père, sous l’effet de l’alcool.",
-            "Les secours avaient été appelés en urgence pour une situation médicale grave.",
-            "La justice a appliqué une mesure de tolérance zéro envers les agressions envers les secours.",
-            "L’affaire illustre les risques liés à la consommation d’alcool en situation d’urgence."
-          ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/09/15/au-proces-des-assistants-parlementaires-europeen-du-modem-la-defense-denonce-des-accusations-mensongeres_6774326_3224.html"
+            }
+          ]
         }
       ]
     },
     {
       "label": "International",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "sujets": [
+        {
+          "title": "France et Liban : Emmanuel Macron reçoit le président Aoun pour renforcer le soutien à l’armée libanaise",
+          "bullets": [
+            "Le président français Emmanuel Macron accueille Joseph Aoun à Paris le 17 septembre dans le cadre d’un sommet international.",
+            "L’objectif est de consolider le soutien à l’armée libanaise, en pleine crise politique et sécuritaire au Liban.",
+            "La France cherche à maintenir son influence dans la région, notamment face à l’instabilité régionale et aux tensions géopolitiques.",
+            "Ce sommet intervient après des mois de tensions internes et des pressions externes sur le gouvernement libanais.",
+            "Les discussions porteront sur des questions de sécurité, de stabilité économique et de coopération militaire."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/15/en-accueillant-le-president-aoun-a-paris-la-france-montre-qu-elle-veut-conserver-un-role-dans-le-dossier-libanais_6774412_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Nairobi hôte des Mondiaux d’athlétisme 2029 : une première pour l’Afrique",
+          "bullets": [
+            "La capitale kényane a été désignée ville hôte des championnats du monde d’athlétisme en 2029.",
+            "Cette désignation marque une première pour le continent africain en accueillant une compétition majeure d’athlétisme.",
+            "La fédération internationale d’athlétisme souligne l’engagement du Kenya dans le développement du sport sur le continent.",
+            "Les Mondiaux 2029 devraient attirer des athlètes et des spectateurs du monde entier.",
+            "Cette décision s’inscrit dans une dynamique de diversification des lieux d’accueil des grands événements sportifs internationaux."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/sport/article/2026/09/15/les-mondiaux-d-athletisme-2029-organises-a-nairobi-une-premiere-pour-le-continent-africain_6774411_3242.html"
+            }
+          ]
+        },
+        {
+          "title": "Affaire d’espionnage en Belgique : un ancien cadre Belgo-Chinois arrêté pour avoir transmis des secrets industriels à la Chine",
+          "bullets": [
+            "Le parquet fédéral belge a arrêté un ancien cadre d’une société de semi-conducteurs pour espionnage au profit de la Chine.",
+            "L’individu est soupçonné d’avoir transmis des informations sensibles concernant des technologies de pointe.",
+            "Cette affaire révèle des tensions croissantes autour de la sécurité industrielle et des transferts technologiques illicites.",
+            "Les autorités belges collaborent avec leurs homologues chinoises et européennes pour enquêter sur cette affaire.",
+            "Les conséquences pourraient inclure des sanctions économiques et une surveillance renforcée des échanges technologiques."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "Guerre en Ukraine : contre-offensive ukrainienne dans l’oblast de Donetsk et attaques contre les infrastructures ferroviaires",
+          "bullets": [
+            "Les forces ukrainiennes mènent une contre-offensive dans l’est du pays, notamment dans l’oblast de Donetsk.",
+            "Des frappes ciblent les infrastructures ferroviaires utilisées pour le transport de marchandises militaires russes.",
+            "Les autorités ukrainiennes signalent des pertes matérielles et humaines dans les régions occidentales du pays.",
+            "La Russie répond par des contre-attaques et des frappes sur des zones civiles et militaires.",
+            "La situation reste volatile, avec des risques accrus de prolifération des conflits et d’escalade régionale."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-contre-offensive-ukrainienne-dans-l-oblast-de-donetsk-nouvelles-attaques-contre-les-infrastructures-ferroviaires-dans-l-ouest_6772184_3210.html"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Haute-Saône : un conducteur ivre percute des barrières et blesse gravement un adolescent",
+          "title": "Sécheresse en Bourgogne-Franche-Comté : les agriculteurs fauchent les regains pour sauver la saison agricole",
           "bullets": [
-            "Un conducteur positif à l’alcool a percuté des barrières à Vesoul, blessant gravement un adolescent de 16 ans.",
-            "L’accident s’est produit dans la nuit du 13 septembre sur une route de la ville.",
-            "L’adolescent a été transporté en urgence à l’hôpital pour des soins intensifs.",
-            "Les autorités locales ont lancé une enquête pour déterminer les circonstances exactes de l’accident."
+            "Les agriculteurs de l’Est Républicain tentent de sauver leurs récoltes malgré une sécheresse persistante.",
+            "Des regains de végétation sont fauchés pour limiter les pertes et préserver les sols pour les prochaines cultures.",
+            "Les autorités locales et régionales alertent sur les conséquences économiques et environnementales de cette sécheresse.",
+            "Les agriculteurs expriment leur inquiétude face à l’insuffisance des aides gouvernementales pour faire face à la crise.",
+            "Cette situation pourrait avoir un impact sur les prix des denrées alimentaires et les revenus agricoles."
           ],
           "sources": []
         },
         {
-          "title": "Vesoul : une famille redécouvre par hasard la maison de leur enfance",
+          "title": "Haute-Saône : un accident mortel impliquant un utilitaire et deux poids lourds",
           "bullets": [
-            "Une famille a loué une maison à Vesoul et y a retrouvé, par hasard, celle où ils ont grandi.",
-            "Ce retour inattendu a ravivé des souvenirs d’enfance et renforcé les liens familiaux.",
-            "Les propriétaires actuels ont été touchés par cette histoire et ont partagé leur surprise.",
-            "Cette anecdote illustre le charme des petites villes et la magie des rencontres fortuites."
+            "Un homme de 33 ans est décédé dans une collision impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
+            "Les circonstances de l’accident font l’objet d’une enquête pour déterminer les responsabilités et les causes.",
+            "Les autorités locales et les associations de sécurité routière appellent à une vigilance accrue sur les routes.",
+            "Cet accident rappelle l’importance de la sécurité routière, notamment dans les zones à fort trafic de marchandises.",
+            "Les proches de la victime et les associations locales organisent des hommages pour rendre hommage à sa mémoire."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Élections sénatoriales 2026 : liste des candidats dans le Doubs, la Haute-Saône et le Territoire de Belfort",
+          "bullets": [
+            "Les candidats aux élections sénatoriales de 2026 dans le Doubs, la Haute-Saône et le Territoire de Belfort ont été désignés.",
+            "Les listes incluent des figures politiques locales et régionales, représentant divers partis politiques.",
+            "Les élections sénatoriales auront lieu dans le cadre des élections partielles prévues pour 2026.",
+            "Les enjeux portent sur la représentation des territoires et les politiques publiques à venir.",
+            "Les candidats devront convaincre les grands électeurs lors du scrutin."
           ],
           "sources": []
         }
@@ -80,8 +133,24 @@
     },
     {
       "label": "IA & nouvelles technologies",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "sujets": [
+        {
+          "title": "Amazon réduit le prix de la batterie Ugreen MagFlow Pro à refroidissement liquide",
+          "bullets": [
+            "Amazon propose une offre promotionnelle sur la batterie externe Ugreen MagFlow Pro, équipée d’un système de refroidissement liquide.",
+            "Ce modèle se distingue par sa capacité à maintenir une température optimale et une longue durée de vie.",
+            "La batterie est particulièrement adaptée aux utilisateurs intensifs, comme les professionnels du numérique ou les voyageurs.",
+            "Le prix réduit pourrait inciter à l’achat pour les consommateurs cherchant des solutions de recharge performantes.",
+            "Cette promotion s’inscrit dans une stratégie de diversification des produits technologiques disponibles sur la plateforme."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Applications · no-code · automatisation",
@@ -89,60 +158,60 @@
         {
           "title": "Knapp automatise la logistique de Cummins en Suède avec une solution innovante",
           "bullets": [
-            "Knapp a mis en place une solution d’automatisation complète pour le site de Cummins en Suède.",
-            "Cette automatisation vise à optimiser la gestion des stocks et des flux logistiques.",
-            "Le projet intègre des technologies avancées pour améliorer l’efficacité opérationnelle.",
-            "Cummins bénéficie désormais d’une logistique plus fluide et réactive."
+            "Knapp a mis en place une solution d’automatisation pour optimiser la logistique sur un site de Cummins en Suède.",
+            "Cette automatisation vise à améliorer l’efficacité des processus de stockage et de distribution des pièces.",
+            "L’objectif est de réduire les coûts opérationnels et d’augmenter la productivité sur le site industriel.",
+            "Cette collaboration s’inscrit dans une tendance croissante d’adoption des technologies d’automatisation dans l’industrie.",
+            "Les résultats attendus incluent une meilleure gestion des stocks et une réduction des erreurs humaines."
           ],
           "sources": []
         },
         {
-          "title": "Precisely étend l’automatisation des workflows SAP S/4HANA avec Automate Evolve 25.2",
+          "title": "Precisely étend son automatisation des workflows pour SAP S/4HANA avec Automate Evolve 25.2",
           "bullets": [
-            "Precisely lance une nouvelle version de son outil d’automatisation pour SAP S/4HANA.",
-            "Automate Evolve 25.2 permet d’automatiser davantage les processus métiers et de réduire les erreurs.",
-            "Cette solution vise à améliorer la productivité et la cohérence des données dans les entreprises.",
-            "Les clients SAP peuvent désormais bénéficier d’une automatisation plus poussée et adaptée à leurs besoins."
+            "Precisely annonce une nouvelle version de son outil d’automatisation des processus pour SAP S/4HANA.",
+            "Automate Evolve 25.2 vise à simplifier et accélérer les workflows métiers dans les entreprises utilisant SAP.",
+            "Cette solution permet une meilleure intégration et une réduction des temps d’exécution des tâches répétitives.",
+            "Les entreprises peuvent ainsi améliorer leur efficacité opérationnelle et réduire les coûts liés aux processus manuels.",
+            "Cette mise à jour s’inscrit dans une stratégie de modernisation des outils d’automatisation pour les entreprises."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Impôts 2026 : possibilité de corriger sa déclaration de revenus jusqu’au 15 octobre",
+          "bullets": [
+            "Les contribuables ont encore jusqu’au 15 octobre pour corriger leur déclaration de revenus 2026.",
+            "Cette période supplémentaire permet de rectifier d’éventuelles erreurs ou omissions dans les déclarations initiales.",
+            "Les corrections peuvent concerner des revenus supplémentaires, des réductions d’impôt ou des crédits d’impôt.",
+            "Les contribuables sont invités à vérifier leurs déclarations pour éviter des redressements ou des pénalités.",
+            "Cette mesure vise à faciliter la déclaration des revenus et à réduire les erreurs administratives."
           ],
           "sources": []
         },
         {
-          "title": "L’automatisation pourrait augmenter les personnels de santé grâce à l’IA",
+          "title": "Impôts : qui sera prélevé sur son compte dès le 25 septembre ?",
           "bullets": [
-            "L’automatisation, couplée à l’IA, pourrait soulager les soignants en prenant en charge des tâches répétitives.",
-            "Cette évolution permettrait de libérer du temps pour des soins plus personnalisés et humains.",
-            "Les hôpitaux pourraient ainsi réduire les charges de travail et améliorer la qualité des soins.",
-            "Les professionnels de santé pourraient se concentrer davantage sur la relation patient."
+            "À partir du 25 septembre, certains contribuables verront un prélèvement automatique sur leur compte bancaire.",
+            "Ces prélèvements concernent principalement les impôts sur le revenu et les cotisations sociales non réglées.",
+            "Les personnes concernées sont celles ayant un solde d’impôt ou de cotisations impayé depuis plusieurs mois.",
+            "Les banques sont tenues de coopérer avec l’administration fiscale pour effectuer ces prélèvements.",
+            "Les contribuables peuvent vérifier leur situation sur leur espace personnel en ligne pour anticiper ces prélèvements."
           ],
           "sources": []
         },
         {
-          "title": "Quadient reconnu pour son expertise en automatisation des comptes fournisseurs",
+          "title": "Impôts locaux : délai de redressement passé de 1 à 3 ans",
           "bullets": [
-            "Quadient a été salué pour son innovation dans l’automatisation des processus de gestion des comptes fournisseurs.",
-            "Cette solution permet aux entreprises de réduire les coûts et les erreurs administratives.",
-            "Quadient se positionne comme un acteur clé dans le domaine de la transformation digitale des finances.",
-            "Les entreprises peuvent ainsi optimiser leur trésorerie et leur relation avec leurs fournisseurs."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Axa développe son Hub IA pour accélérer la création d’agents IA sécurisés",
-          "bullets": [
-            "Axa a mis en place un Hub IA pour créer rapidement des agents intelligents et sécurisés.",
-            "Cette initiative vise à intégrer l’IA dans ses processus métiers tout en garantissant la conformité et la sécurité.",
-            "Le Hub IA permet de déployer des solutions personnalisées et adaptées aux besoins de l’assurance.",
-            "Axa renforce ainsi sa position dans l’innovation technologique et la transformation digitale."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Lave-linge intelligent automatisé grâce à l’IA : entre science et fiction",
-          "bullets": [
-            "Un lave-linge intelligent utilise l’IA pour optimiser les cycles de lavage et réduire la consommation d’eau et d’énergie.",
-            "Cette innovation permet de personnaliser les programmes en fonction des types de tissus et des charges.",
-            "L’objectif est de rendre le lavage plus écologique et efficace.",
-            "Cette technologie pourrait révolutionner les habitudes de consommation des ménages."
+            "Le délai pour que l’administration fiscale puisse redresser une déclaration d’impôts locaux passe désormais de 1 à 3 ans.",
+            "Cette extension vise à permettre une vérification plus approfondie des déclarations et à lutter contre la fraude fiscale.",
+            "Les contribuables doivent donc conserver leurs documents justificatifs plus longtemps.",
+            "Cette mesure pourrait entraîner une augmentation des contrôles et des redressements pour les déclarations erronées ou incomplètes.",
+            "Les associations de consommateurs appellent à une vigilance accrue dans la déclaration des impôts locaux."
           ],
           "sources": []
         }
@@ -152,61 +221,6 @@
       "label": "Impression 3D",
       "sujets": [],
       "note": "source indisponible ce matin"
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Report de donation : faut-il attendre 2027 pour optimiser sa fiscalité ?",
-          "bullets": [
-            "Les particuliers peuvent reporter leur donation jusqu’en 2027 pour bénéficier d’un avantage fiscal potentiel.",
-            "Cette option permet de réduire l’impôt sur la fortune ou de transmettre un patrimoine plus important.",
-            "Les conditions et avantages dépendent de la situation personnelle et du montant des donations.",
-            "Il est conseillé de consulter un expert-comptable pour évaluer l’opportunité de ce report."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Dernière chance pour corriger sa déclaration de revenus 2026",
-          "bullets": [
-            "Il est encore possible de corriger sa déclaration de revenus pour l’année 2026 avant la date limite.",
-            "Les erreurs ou omissions peuvent entraîner des redressements fiscaux ou des pénalités.",
-            "Les contribuables doivent vérifier leurs informations et les mettre à jour via leur espace personnel en ligne.",
-            "Cette correction peut éviter des désagréments avec l’administration fiscale."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaques au CPF : comment protéger son compte formation ?",
-          "bullets": [
-            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, avec des tentatives de piratage ou de fraude.",
-            "Les victimes sont souvent sollicitées par des tiers proposant des formations non reconnues ou des services frauduleux.",
-            "Il est recommandé de vérifier les sources et de ne jamais communiquer son numéro de CPF ou ses identifiants.",
-            "Le gouvernement rappelle les risques et conseille de signaler toute tentative d’arnaque."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Impôts locaux : délai de redressement allongé à 3 ans",
-          "bullets": [
-            "Le délai pour redresser une erreur ou une omission sur les impôts locaux passe de 1 à 3 ans.",
-            "Cette mesure vise à offrir plus de sécurité aux contribuables et à faciliter les corrections.",
-            "Les collectivités locales peuvent désormais agir plus tardivement en cas de manquement.",
-            "Cette extension du délai peut aussi encourager les déclarations plus précises."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie 2026 : vérifiez votre éligibilité via le simulateur officiel",
-          "bullets": [
-            "Le simulateur officiel permet de vérifier si vous êtes éligible au chèque énergie pour 2026.",
-            "Cette aide vise à soutenir les ménages modestes dans la gestion de leurs dépenses énergétiques.",
-            "Les critères d’éligibilité sont basés sur les revenus et la composition du foyer.",
-            "Il est conseillé de consulter le site officiel pour obtenir une réponse précise."
-          ],
-          "sources": []
-        }
-      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
