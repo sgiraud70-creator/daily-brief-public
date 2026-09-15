@@ -69,6 +69,21 @@ def prefetch_voices() -> None:
             print(f"  ⚠ voix Piper {voice} indisponible : {e!r}")
 
 
+def _gtts(text: str, out_path: str, timeout: int = 90) -> dict:
+    """Voix Google (naturelle). Appelle translate.google.com → peut être bloqué
+    en datacenter. Garde-temps : si ça n'aboutit pas, on lève et on bascule."""
+    import concurrent.futures
+
+    from gtts import gTTS
+
+    def _run() -> None:
+        gTTS(text=text, lang="fr", tld="fr").save(out_path)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as ex:
+        ex.submit(_run).result(timeout=timeout)
+    return {"moteur": "gTTS", "voix": "google-fr"}
+
+
 def _ffmpeg() -> str:
     import imageio_ffmpeg
     return imageio_ffmpeg.get_ffmpeg_exe()
@@ -95,6 +110,13 @@ def _piper(text: str, out_path: str) -> dict:
 def synth(text: str, out_path: str) -> dict:
     """Génère le MP3. Renvoie {moteur, voix}. Lève si tous les moteurs échouent."""
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    # 0) gTTS (voix Google, plus naturelle) — peut être bloqué en datacenter
+    try:
+        info = _gtts(text, out_path)
+        if os.path.getsize(out_path) > 1000:
+            return info
+    except Exception as e:  # noqa: BLE001
+        print(f"  gTTS indisponible ({e!r}) → essai edge-tts")
     # 1) edge-tts (essai court : souvent bloqué en datacenter)
     try:
         _edge(text, out_path, random.choice(EDGE_VOICES), timeout=8)
