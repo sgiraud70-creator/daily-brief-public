@@ -15,11 +15,7 @@ from zoneinfo import ZoneInfo
 from src.collecte import memoire, sports
 from src.redaction import redacteur
 
-STEELERS_URL = "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers"
-PSG_URL = "https://www.espn.com/soccer/team/_/id/160/paris-saint-germain"
-
-
-def _match_sujet(m: dict | None, equipe: str, page_url: str) -> dict:
+def _match_sujet(m: dict | None, equipe: str) -> dict:
     """Construit un sujet déterministe pour le prochain match (aucune invention)."""
     if not m:
         return {"title": f"{equipe} — prochain match",
@@ -31,13 +27,16 @@ def _match_sujet(m: dict | None, equipe: str, page_url: str) -> dict:
     if m.get("stade"):
         bullets.append(f"Stade : {m['stade']}")
     bullets.append(f"Diffusion : {m['diffusion'] or 'à confirmer'}")
+    sources = []
+    if m.get("source_url"):
+        sources.append({"name": m.get("source_name", "Source"), "url": m["source_url"]})
     return {"title": f"Prochain match : {equipe} {m['domicile']} contre {m['adversaire']}",
-            "bullets": bullets, "sources": [{"name": "ESPN", "url": page_url}]}
+            "bullets": bullets, "sources": sources}
 
 
 def build_sport_rubriques() -> list[dict]:
-    steelers = _match_sujet(sports.steelers_next(), "les Steelers", STEELERS_URL)
-    psg = _match_sujet(sports.psg_next(), "le PSG", PSG_URL)
+    steelers = _match_sujet(sports.steelers_next(), "les Steelers")
+    psg = _match_sujet(sports.psg_next(), "le PSG")
     return [
         {"label": "Sport — Pittsburgh Steelers", "sujets": [steelers]},
         {"label": "Sport — PSG", "sujets": [psg]},
