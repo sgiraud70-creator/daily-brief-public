@@ -1,49 +1,13 @@
 {
   "rubriques": {
-    "France": [
-      {
-        "title": "Au procès en appel des assistants parlementaires européen du MoDem, la défense dénonce des « accusations mensongères »",
-        "url": "https://www.lemonde.fr/societe/article/2026/09/15/au-proces-des-assistants-parlementaires-europeen-du-modem-la-defense-denonce-des-accusations-mensongeres_6774326_3224.html",
-        "source": "lemonde.fr",
-        "summary": "Patrick Mignola, qui représente les deux personnes morales, l’Union pour la démocratie française (UDF) et le MoDem, a assuré qu’ils n’avaient « jamais cherché à alléger les finances des partis en les finançant avec le Parlement européen ».",
-        "published": "2026-09-15T04:00:05"
-      },
-      {
-        "title": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs",
-        "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html",
-        "source": "lemonde.fr",
-        "summary": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges.",
-        "published": "2026-09-15T10:30:07"
-      }
-    ],
+    "France": [],
     "International": [
       {
-        "title": "En accueillant le président Aoun à Paris, la France montre qu’elle veut conserver un rôle dans le dossier libanais",
-        "url": "https://www.lemonde.fr/international/article/2026/09/15/en-accueillant-le-president-aoun-a-paris-la-france-montre-qu-elle-veut-conserver-un-role-dans-le-dossier-libanais_6774412_3210.html",
+        "title": "Nouveau service militaire : Emmanuel Macron annonce que la première promotion portera le nom d’Henri Fertet, résistant fusillé à 16 ans",
+        "url": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html",
         "source": "lemonde.fr",
-        "summary": "Emmanuel Macron reçoit Joseph Aoun, jeudi 17 septembre, dans le cadre d’un sommet international consacré au soutien de l’armée libanaise. Une initiative qui illustre la volonté de Paris de ne pas se laisser marginaliser alors que l’accord de cessez-le-feu conclu sous l’égide américaine peine à produire ses effets sur le terrain.",
-        "published": "2026-09-15T10:58:58"
-      },
-      {
-        "title": "Les Mondiaux d’athlétisme 2029 organisés à Nairobi, une première pour le continent africain",
-        "url": "https://www.lemonde.fr/sport/article/2026/09/15/les-mondiaux-d-athletisme-2029-organises-a-nairobi-une-premiere-pour-le-continent-africain_6774411_3242.html",
-        "source": "lemonde.fr",
-        "summary": "La capitale du Kenya a été désignée, mardi, ville hôte de la compétition reine. Dans un communiqué, la fédération internationale rappelle entre autres que le pays est l’une des « grandes nations de ce sport ».",
-        "published": "2026-09-15T10:51:23"
-      },
-      {
-        "title": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs",
-        "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html",
-        "source": "lemonde.fr",
-        "summary": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges.",
-        "published": "2026-09-15T10:30:07"
-      },
-      {
-        "title": "EN DIRECT, guerre en Ukraine : contre-offensive ukrainienne dans l’oblast de Donetsk ; nouvelles attaques contre les infrastructures ferroviaires dans l’ouest",
-        "url": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-contre-offensive-ukrainienne-dans-l-oblast-de-donetsk-nouvelles-attaques-contre-les-infrastructures-ferroviaires-dans-l-ouest_6772184_3210.html",
-        "source": "lemonde.fr",
-        "summary": "« Dans les régions occidentales d’Ukraine, les frappes contre des infrastructures ferroviaires utilisées pour le transport de marchandises militaires en provenance de pays européens se sont poursuivies », a annoncé dans la matinée le ministère de la défense russe, sans les détailler.",
-        "published": "2026-09-15T10:19:52"
+        "summary": "Le service militaire volontaire, appelé « service national », a été lancé en novembre 2025 par Emmanuel Macron avec l’objectif de « consolider le lien entre les armées et la nation ».",
+        "published": "2026-09-15T11:09:09"
       }
     ],
     "Actualité locale": [
@@ -111,15 +75,7 @@
         "published": "2026-09-15T04:32:48"
       }
     ],
-    "IA & nouvelles technologies": [
-      {
-        "title": "Amazon fait baisser le prix de la première batterie Ugreen à refroidissement liquide",
-        "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html",
-        "source": "numerama.com",
-        "summary": "[Deal du jour] Sortie début septembre 2026, la batterie externe magnétique Ugreen MagFlow Pro mise sur un refroidissement liquide visible pour tenir la charge rapide. Elle passe à 105,99 € au lieu de 129,99 € sur Amazon.",
-        "published": "2026-09-15T10:27:37"
-      }
-    ],
+    "IA & nouvelles technologies": [],
     "Applications · no-code · automatisation": [
       {
         "title": "Knapp automatise la logistique de Cummins sur l'un de ses sites en Suède",
@@ -187,7 +143,7 @@
       {
         "title": "Science ou fiction : ce lave-linge intelligent automatise les lessives grâce à l’IA",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTFQX0p5RnRsSWMzeVdOazA1YXFoaTdsZW5DeVItMnFTRlo1S0RYNTItXy1lRFBVLTJGU3NsaThaMFZ1Z1RPUUp1WmFiN2lvaWhXRkE2Zk5aUWJ3Q1N0ZEgzcXhKdEk0dlNicHpqZ3dKUmlLeHcwWHBCTENQXzBOS3V2Y3Vyc1RiTXozNEVaS202Y0JKUkFBSVVXRlRDdzJlTFhIMmlzN2djVHhib280SVlRZTczdy0yNVRTdEZ6WmZQT2tUaTA5VEVxaWRITkYyS2pxRQ?oc=5",
-        "source": "futura-sciences.com",
+        "source": "Futura, le média qui explore le monde",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTFQX0p5RnRsSWMzeVdOazA1YXFoaTdsZW5DeVItMnFTRlo1S0RYNTItXy1lRFBVLTJGU3NsaThaMFZ1Z1RPUUp1WmFiN2lvaWhXRkE2Zk5aUWJ3Q1N0ZEgzcXhKdEk0dlNicHpqZ3dKUmlLeHcwWHBCTENQXzBOS3V2Y3Vyc1RiTXozNEVaS202Y0JKUkFBSVVXRlRDdzJlTFhIMmlzN2djVHhib280SVlRZTczdy0yNVRTdEZ6WmZQT2tUaTA5VEVxaWRITkYyS2pxRQ?oc=5\" target=\"_blank\">Science ou fiction : ce lave-linge intell",
         "published": "2026-09-15T02:40:00"
       },
@@ -213,6 +169,41 @@
         "source": "3dnatives.com",
         "summary": "On continue notre tour de France et la découverte des acteurs de l&#8217;impression 3D &#8211; cette-fois, direction les Hauts-de-France ! La région, composée de 5 départements, compte aujourd&#8217;hui plus de 6 millions d&#8217;habitants, la plaçant dans les plus peuplées du&#8230;",
         "published": "2026-09-14T22:01:00"
+      },
+      {
+        "title": "La fabrication additive dans les Hauts-de-France",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rZHRCTzF6a3BmOEZDUlBvaGk2Y1phVVE5YlFPZHR4a3Y1ZXZ5cWFVRmtTYUpsb01KTXB2RmVuR0JqVGlRblJiZnBsME5JbXdSS0tWZ3oyNTN4TDZpcVpKak1HbmRyejJ6WkZFQmJMN2hzbzjSAXhBVV95cUxPclR1d1lpMjdCS1RCN3lkYTVZeXRfbGtNbF9nVXdRdHd6UndzUGRFRURWRzh4bzlZTDZ0T1VtMmZNaGRURFNYRnhiSV9QSmh5Y3pYTUVaSGxrNnlqRlBQVy1Xa0hpTUZiOUc2cm5PWDhZdGxRRWR0RXo?oc=5",
+        "source": "3Dnatives",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5rZHRCTzF6a3BmOEZDUlBvaGk2Y1phVVE5YlFPZHR4a3Y1ZXZ5cWFVRmtTYUpsb01KTXB2RmVuR0JqVGlRblJiZnBsME5JbXdSS0tWZ3oyNTN4TDZpcVpKak1HbmRyejJ6WkZFQmJMN2hzbzjSAXhBVV95cUxPclR1d1lpMjdCS1RCN3lkYTVZeXRfbGtNbF9nVXdRdHd6UndzUGRFRURWRzh4bzlZTDZ0T1VtMmZNaGRURFNYRnhiSV9QSmh5Y3pYTUVaSGxrNnlqRlBQVy1Xa0hpTUZiOUc2cm5PWDhZdGxRRWR0RXo?oc=5\" target=\"_blank\">La fabri",
+        "published": "2026-09-14T22:32:34"
+      },
+      {
+        "title": "Du recyclage du titane à l’impression 3D : le modèle intégré de JORCAR Titanium",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXdEdFc4Vlpsa09jU1dabDhWeHhZeDgyTHoydTNmUnFjeE5kN2NjaWhIeHE5cnA5aU5fNV9GTHVLR2JBbzRWRkRSN0dCeFA2VTIycTM2SkVCY2JPQk5pa0VQZkpTWXFYa0liR0J0STV3ZU1jcTRaZllPZnIxVlQydVFMeWFzd3VDaW1Yakk0OFpFSk43OEF6MFpZZTZjb2Z1SWcxYjBwM1JHSDlMTHY1dGlSWTRGaU54SEEw?oc=5",
+        "source": "Le Figaro",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXdEdFc4Vlpsa09jU1dabDhWeHhZeDgyTHoydTNmUnFjeE5kN2NjaWhIeHE5cnA5aU5fNV9GTHVLR2JBbzRWRkRSN0dCeFA2VTIycTM2SkVCY2JPQk5pa0VQZkpTWXFYa0liR0J0STV3ZU1jcTRaZllPZnIxVlQydVFMeWFzd3VDaW1Yakk0OFpFSk43OEF6MFpZZTZjb2Z1SWcxYjBwM1JHSDlMTHY1dGlSWTRGaU54SEEw?oc=5\" target=\"_blank\">Du recyclage du titane à l’impression 3D : le modèle intégré de JORCAR Tita",
+        "published": "2026-09-15T07:00:00"
+      },
+      {
+        "title": "Bazuel : du graveur laser à l’imprimante 3D, Maxence Cambay, 21 ans, est un génie du bricolage high-tech",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXZEYlRvR281enlnNlBlR3FBcFNEQi1vNllsdFpzSlVBNm5aN0ttRTFRZ3BWX3BwMmxQQjUtWjQwR2pFOWNacURCbGQ5dmdCbWN5b05TaGVwdzc0X1c2V2ZjZVpSYXdabVV0Vmxtc0diM3lqMjI1dW5BbmRpLW1zazE1X2VIWkltZEVtU1E4WVYxRGhwOV83dzZjSFkxWThJQ29pNVY1SXdZT3JaRjVVMmZCdzNOMVdCUWIzZllXZ3NKekJzc2t1SFFQNG4?oc=5",
+        "source": "La Voix du Nord",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXZEYlRvR281enlnNlBlR3FBcFNEQi1vNllsdFpzSlVBNm5aN0ttRTFRZ3BWX3BwMmxQQjUtWjQwR2pFOWNacURCbGQ5dmdCbWN5b05TaGVwdzc0X1c2V2ZjZVpSYXdabVV0Vmxtc0diM3lqMjI1dW5BbmRpLW1zazE1X2VIWkltZEVtU1E4WVYxRGhwOV83dzZjSFkxWThJQ29pNVY1SXdZT3JaRjVVMmZCdzNOMVdCUWIzZllXZ3NKekJzc2t1SFFQNG4?oc=5\" target=\"_blank\">Bazuel : du graveur laser à l’imprimante 3D, Maxence",
+        "published": "2026-09-15T09:58:49"
+      },
+      {
+        "title": "Lynxter, imprime ses dix ans et s’impose comme numéro 1 mondial de l’impression 3D silicone",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORUFYck1LRG1EWmNmc3NfdXlzbDJ3TGlONjIyNFluZ0kwUnJHMFp1TFRJQUJEeDJfaEVtWDh1VFdYYWRjaVRueUY4T096ckRTenZ2U1dnQlNyU1lVQzVVTzlidHkyNTlSZERZTUhYdmIwSUtjRjNNa2xZMWdJZXd4d25OMjFZczhuV1JvcW5zOXdZOHhNX2gtWXdRSWhBSFQycjYxU2h1b0N1VWFzNUt6U1EyUVhXSUlBZ0ZBOExhTkNBR1YzSkJ5LWhaX283U0tpMVRDMWVBZnF6Sk9lYnpOSklkWkVyRWR1WTRiR096a2NWVjNSbVF0bjZxZU9jUWttTmJBWXY4STBrM3R4SXpRVGNERVg5YUJlT2JTaXhZMl9CUVpsQXE3TVdIS2FoZw?oc=5",
+        "source": "L'Usine Nouvelle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxORUFYck1LRG1EWmNmc3NfdXlzbDJ3TGlONjIyNFluZ0kwUnJHMFp1TFRJQUJEeDJfaEVtWDh1VFdYYWRjaVRueUY4T096ckRTenZ2U1dnQlNyU1lVQzVVTzlidHkyNTlSZERZTUhYdmIwSUtjRjNNa2xZMWdJZXd4d25OMjFZczhuV1JvcW5zOXdZOHhNX2gtWXdRSWhBSFQycjYxU2h1b0N1VWFzNUt6U1EyUVhXSUlBZ0ZBOExhTkNBR1YzSkJ5LWhaX283U0tpMVRDMWVBZnF6Sk9lYnpOSklkWkVyRWR1WTRiR096a2NWVjNSbVF0bjZxZU9jUWttTmJBWX",
+        "published": "2026-09-14T06:30:00"
+      },
+      {
+        "title": "Dreame le roi de l'aspirateur robot s'attaque au marché de l'impression 3D avec AtomForm",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlFyOERVVjZFZk0xeVRJUEZhaGg2YnlMMTFsWDhfSzZseFh3Q05PcXR5WUI4NDhTVjRkMFp5QTE4Zk8yNE90aHlzczg0TzA2aFJPYmp5SU5zcndiTDBESERTcjBKYm1MeGxuc3dyaGlFeTU4cTVmamUxb3NUQTZQS25mcEl3VnBnbkFJWtIBkgFBVV95cUxORmp5RlkzQ1Q4Y3FaS1ZZQVR5T1ZzalRXSEY3QWhNeTQyMXJBbzVEZVB6cnpGUWNiZnRrbDdlMVlPSTZaOHV3bGE4d3IxcHo1NER0RkNlSlJSVnJteWYwRnI2T2FicGdNSzB2dHZvd2VJTkw1UGdwdGluZzc2THJ6Q2lidmZuZnVtTGNRLV96M3pKZw?oc=5",
+        "source": "Génération NT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlFyOERVVjZFZk0xeVRJUEZhaGg2YnlMMTFsWDhfSzZseFh3Q05PcXR5WUI4NDhTVjRkMFp5QTE4Zk8yNE90aHlzczg0TzA2aFJPYmp5SU5zcndiTDBESERTcjBKYm1MeGxuc3dyaGlFeTU4cTVmamUxb3NUQTZQS25mcEl3VnBnbkFJWtIBkgFBVV95cUxORmp5RlkzQ1Q4Y3FaS1ZZQVR5T1ZzalRXSEY3QWhNeTQyMXJBbzVEZVB6cnpGUWNiZnRrbDdlMVlPSTZaOHV3bGE4d3IxcHo1NER0RkNlSlJSVnJteWYwRnI2T2FicGdNSzB2dHZvd2VJTkw1UG",
+        "published": "2026-09-14T13:30:01"
       }
     ],
     "À savoir · vie pratique": [
@@ -293,6 +284,92 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxQdTRUcVF6U0ZNSmhJVlNaaW5uSmFOUUFnRkZ6eVJuMldGTU5UZVkzTnZ6RldmQ2FoSWxrVkpNNWVGekhCdkpQUHVCUXFvR0daVVhQRzBnOG5PWDVmVWIxVEcyc3FEalpCclRfbFM3V3Rkenl0RXJZUG9XY1dDUmRnTzBucVh5Z0l4YU1kam93cjNDMl9ZTS1EM1dVNm0tQmlzdm11THBPR3lsa1FXSjlhLU1fbFduQlQ3emxWbTg4VzYxcEVFSDBKRW5SVnMxcEM3RndvSEpWLXVnVk9RYUdMZTBwMl9Ec25McldEMzFLeUZzQ1NZM2N3dWlPdmJpTVIySTU0T0",
         "published": "2026-09-14T15:39:07"
       }
+    ],
+    "Sport général": [
+      {
+        "title": "Tennis - Canada - France en Coupe Davis 2026 : Programme, date, heure et comment regarder en direct",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3RFeVhZNDU3d2hKZ0w0Z2ViY25aNDZTODRNT3V2cEI5RDBHUktFS2UzMDJINUNIc2tCR1Iwc0g3OThuYWdnVXBjanlpYXVZWk5YdDFtUlFMdUxYV3U2cDNleTM1dEJmSUN5VnNUaHBsbVJPTm9vRTJtUTJtaGhaeHoxZDRoRXJNZDJmUllPR0l6UWNxZ1N6OXE2M1ZLd0ZpZDFTejZER25lOG5hZU83NWptamo3dlJLT3htdWl3Rm8xWjY0cF9JRXFadnpGcERIUVhtbjc3Vlc1SDljb1hFaTF6RWxxdGJJbTNtMkZR?oc=5",
+        "source": "olympics.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3RFeVhZNDU3d2hKZ0w0Z2ViY25aNDZTODRNT3V2cEI5RDBHUktFS2UzMDJINUNIc2tCR1Iwc0g3OThuYWdnVXBjanlpYXVZWk5YdDFtUlFMdUxYV3U2cDNleTM1dEJmSUN5VnNUaHBsbVJPTm9vRTJtUTJtaGhaeHoxZDRoRXJNZDJmUllPR0l6UWNxZ1N6OXE2M1ZLd0ZpZDFTejZER25lOG5hZU83NWptamo3dlJLT3htdWl3Rm8xWjY0cF9JRXFadnpGcERIUVhtbjc3Vlc1SDljb1hFaTF6RWxxdGJJbTNtMkZR?oc=5\" target=\"_blank\">Tennis ",
+        "published": "2026-09-15T09:26:00"
+      },
+      {
+        "title": "Basket-ball (Coupe de France) : on est passé pas loin d’un Stade Toulousain - Stade Rochelais mais il y a eu changement d’identité",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2lIYVhaTXQzTlhXQVd5RVZLS3oyc0xIbVkzTHhqdmp3NGNJR2ozTEwzWWlUSHc2MnZLSDQteTZnUkM3bVNHcExxeWhBM1NZbTh2Umo2bldXdHZHTHlIOW0xb1ZlYW9ZMUlqZXpBUGpTTHFnZklYRjJzS1k2MGJOZU1UZXR2U18zakdjLTBmYVdEcGd1SGY5MGEybXl0TDJEcWh3dzBOVDVVbVpfYi1PeFFReXRRT2V1UWlSSkhqSFRSamlaN2hVeTdNSGZNMVU3ejhXdTgwYmtZdVUwUGVIaThzcDFRakh0UzhQRU5lcnNxeTRtNWlWWmF3a0lkZk43ZDRBc1lVX0k2Um1jXy1CMmcxcFRiWXJrcHcxdEJTbVpkNmZfcnc?oc=5",
+        "source": "Sud Ouest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2lIYVhaTXQzTlhXQVd5RVZLS3oyc0xIbVkzTHhqdmp3NGNJR2ozTEwzWWlUSHc2MnZLSDQteTZnUkM3bVNHcExxeWhBM1NZbTh2Umo2bldXdHZHTHlIOW0xb1ZlYW9ZMUlqZXpBUGpTTHFnZklYRjJzS1k2MGJOZU1UZXR2U18zakdjLTBmYVdEcGd1SGY5MGEybXl0TDJEcWh3dzBOVDVVbVpfYi1PeFFReXRRT2V1UWlSSkhqSFRSamlaN2hVeTdNSGZNMVU3ejhXdTgwYmtZdVUwUGVIaThzcDFRakh0UzhQRU5lcnNxeTRtNWlWWmF3a0lkZk43ZDRBc1",
+        "published": "2026-09-15T06:00:00"
+      },
+      {
+        "title": "\"Il était très fusionnel avec sa maman\" : passionné de rugby, joie de vivre... Qui est ce jeune homme de 19 ans tragiquement décédé après un accident en Ariège",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQndIMk1rMUp5U2ZfdmdDYm5LYllDUVNJbjNVaHJiTy1GT29iRThPeXhtdnBNNVBUcERQbmRYTVY0Nmw1cXJ4cHNoY1VSa083bHdDSEY2LXdSeFR2R1NGM09Kcmc4bHRLSEVwaDVHZTkyOGM5aWxwcmtGZmFXYkU1S0tlVnFrV2UzVTZ4dDU3VzRhQmZscV9fb1FGaWJDSGlNNlJuYWV3UjJXMkY2YTB4YjhtRW5XQTlkdjA4WXd2MHI0Q1dET1F1UV9QMUJidEVTYU9TUHQxOXEwZ1Vzelo5eXAwS0Vid0RicXJlVGE0T3drejVJZUV4MTlNTnFNYjNHZVp3c1pWeEtmQ0pyck05VGt5WnF1eFJhd3pLRGhn?oc=5",
+        "source": "ladepeche.fr",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQQndIMk1rMUp5U2ZfdmdDYm5LYllDUVNJbjNVaHJiTy1GT29iRThPeXhtdnBNNVBUcERQbmRYTVY0Nmw1cXJ4cHNoY1VSa083bHdDSEY2LXdSeFR2R1NGM09Kcmc4bHRLSEVwaDVHZTkyOGM5aWxwcmtGZmFXYkU1S0tlVnFrV2UzVTZ4dDU3VzRhQmZscV9fb1FGaWJDSGlNNlJuYWV3UjJXMkY2YTB4YjhtRW5XQTlkdjA4WXd2MHI0Q1dET1F1UV9QMUJidEVTYU9TUHQxOXEwZ1Vzelo5eXAwS0Vid0RicXJlVGE0T3drejVJZUV4MTlNTnFNYjNHZVp3c1",
+        "published": "2026-09-15T04:48:00"
+      },
+      {
+        "title": "Les Mondiaux d’athlétisme 2029 organisés à Nairobi, une première pour le continent africain",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMy1TX2NYcW5JeDlDU1NWRkZxMG1IWWhYZzd6THNKWmxfcVNQa00wbE1qOXl1Z01DS01DS004ZVczb2h1RDFsWTZ4a3JJSmxKX2xZekdvdV94NDRtUWY3T1M4TjJlRmdvckFLaWV1dVRPZU5oc2VpbTNrbFhfZVkzX2k5eFBwUTYwUGFTTEYxcW5sYWVobFV0R0Mya296MV9WOUV0ZGY3QjR3UEpEWEtkb3BxTjRqbFpBcDNhLUZLWjFyaV91R2YtaXZiNEQ3SlRNWjNuZVRXR01zUEg1UHlxeEtxVDlXM3lzQ2FIZA?oc=5",
+        "source": "Le Monde.fr",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMy1TX2NYcW5JeDlDU1NWRkZxMG1IWWhYZzd6THNKWmxfcVNQa00wbE1qOXl1Z01DS01DS004ZVczb2h1RDFsWTZ4a3JJSmxKX2xZekdvdV94NDRtUWY3T1M4TjJlRmdvckFLaWV1dVRPZU5oc2VpbTNrbFhfZVkzX2k5eFBwUTYwUGFTTEYxcW5sYWVobFV0R0Mya296MV9WOUV0ZGY3QjR3UEpEWEtkb3BxTjRqbFpBcDNhLUZLWjFyaV91R2YtaXZiNEQ3SlRNWjNuZVRXR01zUEg1UHlxeEtxVDlXM3lzQ2FIZA?oc=5\" target=\"_blank\">Les Mondi",
+        "published": "2026-09-15T10:51:23"
+      },
+      {
+        "title": "La nuit du rugby est de retour pour sa 22ème édition le 28 septembre à l'Olympia - Top 14",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTV9fMEl0Qmp6OVJQaGNzaGpwcEt5cVFYSDZkWDR4OHZLSFh5SlpLLWczU0xmb3FVOWRHVkF1VzNrdjhkQVI2Nm4wY0JMOWs2WnJCcXJoM01qM1ZwcG1Kbk82WHVzTlJ1bW9Sel8ya2xCMFk4cGRvaVlHMUVLOXo3S3FfTmNkajQwMkJvRmM4a2EtS2VaX0YweHhLcG80a3RjbklOQ0h1Ums1QWJNTVVv?oc=5",
+        "source": "Site Officiel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTV9fMEl0Qmp6OVJQaGNzaGpwcEt5cVFYSDZkWDR4OHZLSFh5SlpLLWczU0xmb3FVOWRHVkF1VzNrdjhkQVI2Nm4wY0JMOWs2WnJCcXJoM01qM1ZwcG1Kbk82WHVzTlJ1bW9Sel8ya2xCMFk4cGRvaVlHMUVLOXo3S3FfTmNkajQwMkJvRmM4a2EtS2VaX0YweHhLcG80a3RjbklOQ0h1Ums1QWJNTVVv?oc=5\" target=\"_blank\">La nuit du rugby est de retour pour sa 22ème édition le 28 septembre à l'Olympia</a>&nbsp;&",
+        "published": "2026-09-15T09:03:40"
+      },
+      {
+        "title": "Le rugby à l'honneur le 28 septembre à l'Olympia pour la « Nuit du Rugby », cérémonie de remise des trophées pour la saison 2025-2026",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNTJZTlpTZm4xQ1dIeWxrb0J1Z2ExZHNjSEZvYVlHMUFHUHlFWEdKRktqY0t5WEdXZmRnNzhfc2ZMLWNfYkpjS0VfUHgySDJUQXZSWkJIQklJR19WWElZTU1KUFRkRmZmY1c5b1lHS0lrNVgyaW1TVmUzV3AwNVFLT1B4Nml1LTlOQ1FYaTI3OGRxOFNIdWttVUVQd1VHTWM3UlZYT1NOeEcwNWhzQUo3QTM0cVpKdkozWlF4WHRwMERWekNhTlVBeVlicmRQdE1BN1RsOGdYdmkwR0pDc3JXR1JGbmlwOEpPc0xEUnFkdjJLY3dBYUkxek1EM1lrQ1BUcWRKM1RhNi0?oc=5",
+        "source": "L'Équipe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNTJZTlpTZm4xQ1dIeWxrb0J1Z2ExZHNjSEZvYVlHMUFHUHlFWEdKRktqY0t5WEdXZmRnNzhfc2ZMLWNfYkpjS0VfUHgySDJUQXZSWkJIQklJR19WWElZTU1KUFRkRmZmY1c5b1lHS0lrNVgyaW1TVmUzV3AwNVFLT1B4Nml1LTlOQ1FYaTI3OGRxOFNIdWttVUVQd1VHTWM3UlZYT1NOeEcwNWhzQUo3QTM0cVpKdkozWlF4WHRwMERWekNhTlVBeVlicmRQdE1BN1RsOGdYdmkwR0pDc3JXR1JGbmlwOEpPc0xEUnFkdjJLY3dBYUkxek1EM1lrQ1BUcWRKM1",
+        "published": "2026-09-15T10:15:16"
+      },
+      {
+        "title": "Athlétisme : en 2029, le Kenya deviendra le premier pays africain à accueillir les championnats du monde",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdUF1aU93WXc1Zm1aZ1pZMjNvRHU5Mm1jQWthQkJWUXpYODFWTVZzUTh2Ukc5YWR1b2RRZ2tLc1BMNlZkWm42NHZYMy1qVWZTdTFtNXRCYmRLN3Q1Z1Z3VEt0djhfaDF2MFlRem9aYTRhNWNKdlotckxUQkVYanBiOEd3WnhmalpZOHEzclhqSVItc1NFOURqY3U2c1oxX29rNzFxUmlMVlJoNWRPX3RmQkJscU5BWm96UEVyalJvNmFXa0J4Y0dBMmpYNXJJWXZySFdSaHJiRDNiM3BVWU1tM3hYeE5DWUpMaTNNaFc1VV9MX05MTzA0bHVxMDhNTi1yczU3Z1hqNHY?oc=5",
+        "source": "Libération",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdUF1aU93WXc1Zm1aZ1pZMjNvRHU5Mm1jQWthQkJWUXpYODFWTVZzUTh2Ukc5YWR1b2RRZ2tLc1BMNlZkWm42NHZYMy1qVWZTdTFtNXRCYmRLN3Q1Z1Z3VEt0djhfaDF2MFlRem9aYTRhNWNKdlotckxUQkVYanBiOEd3WnhmalpZOHEzclhqSVItc1NFOURqY3U2c1oxX29rNzFxUmlMVlJoNWRPX3RmQkJscU5BWm96UEVyalJvNmFXa0J4Y0dBMmpYNXJJWXZySFdSaHJiRDNiM3BVWU1tM3hYeE5DWUpMaTNNaFc1VV9MX05MTzA0bHVxMDhNTi1yczU3Z1",
+        "published": "2026-09-15T10:15:29"
+      },
+      {
+        "title": "Le guide de la saison 2026-27 de Maxi-Basket arrive !",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkNKbmpWV2t4RTBjbEpSVVdBTXJxb3U1LXZaeE5fY0hMMGtoa3FJajdnOG90eExkbkxZVHp6Sk0zN253VE9YWWtwQ19uUkxnTVZGZlN4Tllnamo0clM1RmZyaVJDTEFxSWFOeFFHQ3hnOFpBbDkxYm9ZTHVzdHd6WjIwejNFZmNE?oc=5",
+        "source": "BasketEurope.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkNKbmpWV2t4RTBjbEpSVVdBTXJxb3U1LXZaeE5fY0hMMGtoa3FJajdnOG90eExkbkxZVHp6Sk0zN253VE9YWWtwQ19uUkxnTVZGZlN4Tllnamo0clM1RmZyaVJDTEFxSWFOeFFHQ3hnOFpBbDkxYm9ZTHVzdHd6WjIwejNFZmNE?oc=5\" target=\"_blank\">Le guide de la saison 2026-27 de Maxi-Basket arrive !</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketEurope.com</font>",
+        "published": "2026-09-15T08:48:25"
+      },
+      {
+        "title": "Pourquoi les détenteurs d'une carte Visa bénéficieront d’un accès prioritaire aux billets de la Coupe du monde ?",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPU0M0Y0NLZGhWbFFYb2h1ay1ZSlZPQjRmUHBhT3dEU1dTRlU5MVdPTFVGX3NVLW9jT0t3YlVlWGFZckpXcE92SllrS2VuTndOUkQtZUtjSGR0cUlzaXNnbVZXcUNubHRSUmlPTzRqZUItNFpHaTh3MWtBcnlzYlZKcDBBazJuNTB2dWxUWHY3U0VScWwwUnlOUW0zT3NHemN3bTdFRUxndmk0RWVUd0hhTGxQNVRnTE5Tc1JrRlpQZjlRekw3ZFNidUVMeUF4dGRfSzI4Y3VXdl85V2hpOWtVQnFhSDBjUjE2R0d0T1ZCajhSUjljSXFJQWhjMnB4dE9udDE0ZTIxWVZkN3lqMldhc0NVcm5UemhB?oc=5",
+        "source": "Rugbyrama",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPU0M0Y0NLZGhWbFFYb2h1ay1ZSlZPQjRmUHBhT3dEU1dTRlU5MVdPTFVGX3NVLW9jT0t3YlVlWGFZckpXcE92SllrS2VuTndOUkQtZUtjSGR0cUlzaXNnbVZXcUNubHRSUmlPTzRqZUItNFpHaTh3MWtBcnlzYlZKcDBBazJuNTB2dWxUWHY3U0VScWwwUnlOUW0zT3NHemN3bTdFRUxndmk0RWVUd0hhTGxQNVRnTE5Tc1JrRlpQZjlRekw3ZFNidUVMeUF4dGRfSzI4Y3VXdl85V2hpOWtVQnFhSDBjUjE2R0d0T1ZCajhSUjljSXFJQWhjMnB4dE9udDE0ZT",
+        "published": "2026-09-15T06:30:00"
+      },
+      {
+        "title": "Cyclisme. Émilien Jeannière quitte TotalEnergies pour rejoindre Groupama - FDJ United jusqu’en 2029",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMG5LenlnSDR2NHF1RmFtZ19ZNmZwajB4VTlTSXZaQzZPQkprN2hEMmwxa3FMMUxLZGQxa29nVnk1NGxqYW05TWE0YzYtYUtOdmlfQjJ4V3c3TXdEWTJYRXBUOExBM2pvbjFHOEFJUVVFSVVlYURPd01nZFJKc2VqRndYdkh3bXJBODJrakk5VDQ5M2NKTzBxbDhmU21XdGthbl81Ujg4TjRWSHBTSndqaTZhQ2tES24xbEhXMWhLaU9YQmVSdWhxU2hGQ3hSVW9EQklhZ19WbWdRc21CcDgtZ05FMHpBa2xVSGkwblpIc1pRdUxtOVgtTVNNS3FRcHJMMEdRRWF3?oc=5",
+        "source": "Ouest-France",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOMG5LenlnSDR2NHF1RmFtZ19ZNmZwajB4VTlTSXZaQzZPQkprN2hEMmwxa3FMMUxLZGQxa29nVnk1NGxqYW05TWE0YzYtYUtOdmlfQjJ4V3c3TXdEWTJYRXBUOExBM2pvbjFHOEFJUVVFSVVlYURPd01nZFJKc2VqRndYdkh3bXJBODJrakk5VDQ5M2NKTzBxbDhmU21XdGthbl81Ujg4TjRWSHBTSndqaTZhQ2tES24xbEhXMWhLaU9YQmVSdWhxU2hGQ3hSVW9EQklhZ19WbWdRc21CcDgtZ05FMHpBa2xVSGkwblpIc1pRdUxtOVgtTVNNS3FRcHJMMEdRRW",
+        "published": "2026-09-15T11:00:33"
+      },
+      {
+        "title": "Basket-ball. Les Pinks lancent parfaitement leur saison, le CSC Schirrein fait coup double",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXBOUXZ1VVNqb2tmako0NVVBQkN5ajc1dlhsQVY2ZVFSeTF4VUhMS2EzTTNjejJLSHFKM2Y2V1dZOVJUdlEyZmIzUHJCZUU2bUdhLVFrUzFhOGt0VFNVMzY5M1lfNTBQbTRRcVpqLVBQWFp1S2p6OTFaZjNnWl85QjNzY1ItcVFPRzluSVhJbkpEUGFLTjFFMGhaQTRsanFhQTlwajRPTmdtc29tTlNIM0R3?oc=5",
+        "source": "dna.fr",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXBOUXZ1VVNqb2tmako0NVVBQkN5ajc1dlhsQVY2ZVFSeTF4VUhMS2EzTTNjejJLSHFKM2Y2V1dZOVJUdlEyZmIzUHJCZUU2bUdhLVFrUzFhOGt0VFNVMzY5M1lfNTBQbTRRcVpqLVBQWFp1S2p6OTFaZjNnWl85QjNzY1ItcVFPRzluSVhJbkpEUGFLTjFFMGhaQTRsanFhQTlwajRPTmdtc29tTlNIM0R3?oc=5\" target=\"_blank\">Basket-ball. Les Pinks lancent parfaitement leur saison, le CSC Schirrein fait coup dou",
+        "published": "2026-09-15T09:06:05"
+      },
+      {
+        "title": "Rugby : Maxime Lucu meilleur qu’Antoine Dupont ? Les internautes du Figaro donnent leur avis",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRUdLM3VJNnlNX25VZDNla1AzMy1rdmVrUFBTVUF4b1VRVHVfREdIZFRmdl9hYV84eVlVTVp3aEZmRDZZT1ZHYXBSVmpncHVGR2V3dzN3dDZFSXZoV3NnMWczcjlYRFRlTDFPQjdWZGJacDA2RDA0WlNYTjNYemE5WWt0bDFES3JiS3dRNktORXBQdWhWSENGTDItMGRNVFVCbk5xZjN3aFB2UmJ2anFmM1UwQ3VlcU1XMDBFYXN5RU52aWJfckVvMnJVZXZ5NXFOTVhfaGM2dmVyLUUtQl9OeQ?oc=5",
+        "source": "Le Figaro",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRUdLM3VJNnlNX25VZDNla1AzMy1rdmVrUFBTVUF4b1VRVHVfREdIZFRmdl9hYV84eVlVTVp3aEZmRDZZT1ZHYXBSVmpncHVGR2V3dzN3dDZFSXZoV3NnMWczcjlYRFRlTDFPQjdWZGJacDA2RDA0WlNYTjNYemE5WWt0bDFES3JiS3dRNktORXBQdWhWSENGTDItMGRNVFVCbk5xZjN3aFB2UmJ2anFmM1UwQ3VlcU1XMDBFYXN5RU52aWJfckVvMnJVZXZ5NXFOTVhfaGM2dmVyLUUtQl9OeQ?oc=5\" target=\"_blank\">Rugby : Maxime Lucu meill",
+        "published": "2026-09-15T05:17:00"
+      }
     ]
   },
   "failures": [
@@ -300,7 +377,12 @@
       "rubrique": "Actualité locale",
       "feed": "https://www.haute-saone.gouv.fr/syndication/listexport",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "rubrique": "Sport général",
+      "feed": "https://www.lequipe.fr/rss/actu_rss.xml",
+      "error": "<unknown>:2:0: syntax error"
     }
   ],
-  "generated_at": "2026-09-15T11:05:16"
+  "generated_at": "2026-09-15T11:12:39"
 }

@@ -1,24 +1,23 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 10,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Procès en appel des assistants parlementaires européens du MoDem : la défense dénonce des « accusations mensongères »",
+          "title": "Service national : première promotion nommée d’après Henri Fertet, résistant fusillé à 16 ans",
           "bullets": [
-            "Patrick Mignola, avocat des deux entités juridiques (UDF et MoDem), affirme que leurs clients n’ont jamais commis les actes reprochés.",
-            "L’affaire concerne des soupçons de détournement de fonds publics et de conflits d’intérêts dans le cadre de leur mandat européen.",
-            "Les assistants visés sont accusés d’avoir utilisé des ressources publiques à des fins personnelles ou partisanes.",
-            "Le procès en appel s’inscrit dans une procédure judiciaire déjà engagée depuis 2024.",
-            "Les conséquences pourraient impacter la crédibilité des institutions politiques françaises au niveau européen."
+            "Emmanuel Macron annonce que la première promotion du service national volontaire portera le nom d’Henri Fertet, jeune résistant fusillé en 1944.",
+            "Ce choix symbolise l’hommage rendu aux résistants pendant la Seconde Guerre mondiale et renforce le lien entre jeunesse et mémoire nationale.",
+            "Le service national, lancé en novembre 2025, vise à renforcer la cohésion sociale et l’engagement civique des jeunes.",
+            "Les volontaires effectueront des missions dans des domaines comme la sécurité civile, l’environnement ou la culture."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/15/au-proces-des-assistants-parlementaires-europeen-du-modem-la-defense-denonce-des-accusations-mensongeres_6774326_3224.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html"
             }
           ]
         }
@@ -26,106 +25,49 @@
     },
     {
       "label": "International",
-      "sujets": [
-        {
-          "title": "France et Liban : Emmanuel Macron reçoit le président Aoun pour renforcer le soutien à l’armée libanaise",
-          "bullets": [
-            "Le président français Emmanuel Macron accueille Joseph Aoun à Paris le 17 septembre dans le cadre d’un sommet international.",
-            "L’objectif est de consolider le soutien à l’armée libanaise, en pleine crise politique et sécuritaire au Liban.",
-            "La France cherche à maintenir son influence dans la région, notamment face à l’instabilité régionale et aux tensions géopolitiques.",
-            "Ce sommet intervient après des mois de tensions internes et des pressions externes sur le gouvernement libanais.",
-            "Les discussions porteront sur des questions de sécurité, de stabilité économique et de coopération militaire."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/en-accueillant-le-president-aoun-a-paris-la-france-montre-qu-elle-veut-conserver-un-role-dans-le-dossier-libanais_6774412_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Nairobi hôte des Mondiaux d’athlétisme 2029 : une première pour l’Afrique",
-          "bullets": [
-            "La capitale kényane a été désignée ville hôte des championnats du monde d’athlétisme en 2029.",
-            "Cette désignation marque une première pour le continent africain en accueillant une compétition majeure d’athlétisme.",
-            "La fédération internationale d’athlétisme souligne l’engagement du Kenya dans le développement du sport sur le continent.",
-            "Les Mondiaux 2029 devraient attirer des athlètes et des spectateurs du monde entier.",
-            "Cette décision s’inscrit dans une dynamique de diversification des lieux d’accueil des grands événements sportifs internationaux."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/article/2026/09/15/les-mondiaux-d-athletisme-2029-organises-a-nairobi-une-premiere-pour-le-continent-africain_6774411_3242.html"
-            }
-          ]
-        },
-        {
-          "title": "Affaire d’espionnage en Belgique : un ancien cadre Belgo-Chinois arrêté pour avoir transmis des secrets industriels à la Chine",
-          "bullets": [
-            "Le parquet fédéral belge a arrêté un ancien cadre d’une société de semi-conducteurs pour espionnage au profit de la Chine.",
-            "L’individu est soupçonné d’avoir transmis des informations sensibles concernant des technologies de pointe.",
-            "Cette affaire révèle des tensions croissantes autour de la sécurité industrielle et des transferts technologiques illicites.",
-            "Les autorités belges collaborent avec leurs homologues chinoises et européennes pour enquêter sur cette affaire.",
-            "Les conséquences pourraient inclure des sanctions économiques et une surveillance renforcée des échanges technologiques."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Guerre en Ukraine : contre-offensive ukrainienne dans l’oblast de Donetsk et attaques contre les infrastructures ferroviaires",
-          "bullets": [
-            "Les forces ukrainiennes mènent une contre-offensive dans l’est du pays, notamment dans l’oblast de Donetsk.",
-            "Des frappes ciblent les infrastructures ferroviaires utilisées pour le transport de marchandises militaires russes.",
-            "Les autorités ukrainiennes signalent des pertes matérielles et humaines dans les régions occidentales du pays.",
-            "La Russie répond par des contre-attaques et des frappes sur des zones civiles et militaires.",
-            "La situation reste volatile, avec des risques accrus de prolifération des conflits et d’escalade régionale."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-contre-offensive-ukrainienne-dans-l-oblast-de-donetsk-nouvelles-attaques-contre-les-infrastructures-ferroviaires-dans-l-ouest_6772184_3210.html"
-            }
-          ]
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Sécheresse en Bourgogne-Franche-Comté : les agriculteurs fauchent les regains pour sauver la saison agricole",
+          "title": "Agriculteurs en Haute-Saône : fauchage des regains pour sauver la saison après la sécheresse",
           "bullets": [
-            "Les agriculteurs de l’Est Républicain tentent de sauver leurs récoltes malgré une sécheresse persistante.",
-            "Des regains de végétation sont fauchés pour limiter les pertes et préserver les sols pour les prochaines cultures.",
-            "Les autorités locales et régionales alertent sur les conséquences économiques et environnementales de cette sécheresse.",
-            "Les agriculteurs expriment leur inquiétude face à l’insuffisance des aides gouvernementales pour faire face à la crise.",
-            "Cette situation pourrait avoir un impact sur les prix des denrées alimentaires et les revenus agricoles."
+            "Les agriculteurs de la région tentent de sauver leurs récoltes en fauchant les regains, herbes poussant après une sécheresse prolongée.",
+            "La situation hydrique critique menace les cultures et les revenus des exploitants, déjà fragilisés par les aléas climatiques récents.",
+            "Des associations agricoles appellent à des mesures d’urgence pour soutenir les producteurs face à cette crise agricole.",
+            "Les regains, bien que moins nutritifs, permettent de limiter les pertes totales avant l’hiver."
           ],
           "sources": []
         },
         {
-          "title": "Haute-Saône : un accident mortel impliquant un utilitaire et deux poids lourds",
+          "title": "Décès d’un trentenaire dans une collision avec deux poids lourds en Haute-Saône",
           "bullets": [
-            "Un homme de 33 ans est décédé dans une collision impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
-            "Les circonstances de l’accident font l’objet d’une enquête pour déterminer les responsabilités et les causes.",
-            "Les autorités locales et les associations de sécurité routière appellent à une vigilance accrue sur les routes.",
-            "Cet accident rappelle l’importance de la sécurité routière, notamment dans les zones à fort trafic de marchandises.",
-            "Les proches de la victime et les associations locales organisent des hommages pour rendre hommage à sa mémoire."
+            "Un homme de 33 ans est décédé dans un accident impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
+            "Les circonstances de l’accident font l’objet d’une enquête pour déterminer les responsabilités potentielles.",
+            "Les secours ont été alertés rapidement, mais les conditions météo et la complexité de l’accident ont compliqué les opérations de secours.",
+            "La route concernée fait l’objet de contrôles renforcés par les autorités locales."
           ],
           "sources": []
         },
         {
-          "title": "Élections sénatoriales 2026 : liste des candidats dans le Doubs, la Haute-Saône et le Territoire de Belfort",
+          "title": "Explosion d’un DAB endommage gravement le Majestic à Vesoul",
           "bullets": [
-            "Les candidats aux élections sénatoriales de 2026 dans le Doubs, la Haute-Saône et le Territoire de Belfort ont été désignés.",
-            "Les listes incluent des figures politiques locales et régionales, représentant divers partis politiques.",
-            "Les élections sénatoriales auront lieu dans le cadre des élections partielles prévues pour 2026.",
-            "Les enjeux portent sur la représentation des territoires et les politiques publiques à venir.",
-            "Les candidats devront convaincre les grands électeurs lors du scrutin."
+            "Un distributeur automatique de billets (DAB) a explosé dans la nuit, causant d’importants dégâts au Majestic, un cinéma de Vesoul.",
+            "Les pompiers ont sécurisé les lieux et évacué les spectateurs, sans faire état de blessés graves.",
+            "L’origine de l’explosion est en cours d’enquête par les autorités locales et la police judiciaire.",
+            "Le cinéma devrait rester fermé pour des réparations pendant plusieurs jours."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Élections sénatoriales 2026 : candidats connus dans le Doubs, Haute-Saône et Territoire de Belfort",
+          "bullets": [
+            "Les candidats aux élections sénatoriales du 28 septembre sont désormais connus pour les départements du Doubs, de la Haute-Saône et du Territoire de Belfort.",
+            "Les listes incluent des figures locales issues de la majorité présidentielle, de la gauche et des partis régionaux.",
+            "Les enjeux portent sur les politiques environnementales, agricoles et économiques pour ces territoires ruraux et industriels.",
+            "Les débats pré-électoraux débutent avec des meetings et des affiches dans les communes."
           ],
           "sources": []
         }
@@ -133,24 +75,8 @@
     },
     {
       "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Amazon réduit le prix de la batterie Ugreen MagFlow Pro à refroidissement liquide",
-          "bullets": [
-            "Amazon propose une offre promotionnelle sur la batterie externe Ugreen MagFlow Pro, équipée d’un système de refroidissement liquide.",
-            "Ce modèle se distingue par sa capacité à maintenir une température optimale et une longue durée de vie.",
-            "La batterie est particulièrement adaptée aux utilisateurs intensifs, comme les professionnels du numérique ou les voyageurs.",
-            "Le prix réduit pourrait inciter à l’achat pour les consommateurs cherchant des solutions de recharge performantes.",
-            "Cette promotion s’inscrit dans une stratégie de diversification des produits technologiques disponibles sur la plateforme."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html"
-            }
-          ]
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "Applications · no-code · automatisation",
@@ -158,22 +84,95 @@
         {
           "title": "Knapp automatise la logistique de Cummins en Suède avec une solution innovante",
           "bullets": [
-            "Knapp a mis en place une solution d’automatisation pour optimiser la logistique sur un site de Cummins en Suède.",
-            "Cette automatisation vise à améliorer l’efficacité des processus de stockage et de distribution des pièces.",
-            "L’objectif est de réduire les coûts opérationnels et d’augmenter la productivité sur le site industriel.",
-            "Cette collaboration s’inscrit dans une tendance croissante d’adoption des technologies d’automatisation dans l’industrie.",
-            "Les résultats attendus incluent une meilleure gestion des stocks et une réduction des erreurs humaines."
+            "Knapp, spécialiste de l’automatisation, a mis en place un système logistique automatisé pour Cummins sur un site suédois.",
+            "Le projet vise à optimiser les flux de production et à réduire les coûts opérationnels grâce à des robots et des systèmes de transport automatisés.",
+            "Cette automatisation permet une gestion plus précise des stocks et une livraison plus rapide des pièces.",
+            "Knapp collabore avec Cummins pour intégrer des solutions durables et adaptées aux besoins industriels."
           ],
           "sources": []
         },
         {
-          "title": "Precisely étend son automatisation des workflows pour SAP S/4HANA avec Automate Evolve 25.2",
+          "title": "Precisely étend l’automatisation des workflows SAP S/4HANA avec Automate Evolve 25.2",
           "bullets": [
-            "Precisely annonce une nouvelle version de son outil d’automatisation des processus pour SAP S/4HANA.",
-            "Automate Evolve 25.2 vise à simplifier et accélérer les workflows métiers dans les entreprises utilisant SAP.",
-            "Cette solution permet une meilleure intégration et une réduction des temps d’exécution des tâches répétitives.",
-            "Les entreprises peuvent ainsi améliorer leur efficacité opérationnelle et réduire les coûts liés aux processus manuels.",
-            "Cette mise à jour s’inscrit dans une stratégie de modernisation des outils d’automatisation pour les entreprises."
+            "Precisely lance une nouvelle version de son outil Automate Evolve pour automatiser davantage les processus métiers sur SAP S/4HANA.",
+            "Cette solution permet aux entreprises de rationaliser leurs opérations et de réduire les erreurs humaines dans les workflows complexes.",
+            "Les fonctionnalités incluent une meilleure intégration avec les systèmes existants et des outils d’analyse prédictive.",
+            "Les clients de Precisely pourront ainsi optimiser leur productivité et leur conformité réglementaire."
+          ],
+          "sources": []
+        },
+        {
+          "title": "IA et automatisation : vers une réduction de la veille stratégique ?",
+          "bullets": [
+            "Les outils d’IA et d’automatisation pourraient révolutionner la collecte et l’analyse des informations stratégiques pour les entreprises.",
+            "Ces technologies permettent de traiter des volumes massifs de données en temps réel, réduisant ainsi la charge de travail des analystes.",
+            "Les risques incluent une dépendance accrue aux algorithmes et la nécessité de garantir la fiabilité des sources automatisées.",
+            "Les experts soulignent l’importance de combiner l’IA avec un jugement humain pour éviter les biais et les erreurs."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Leonardo remporte un contrat pour l’automatisation des bagages à l’aéroport de Médine",
+          "bullets": [
+            "Leonardo, en partenariat avec Mafa et Beltcon, a remporté un contrat pour automatiser le traitement des bagages à l’aéroport de Médine.",
+            "Le système permettra une gestion plus efficace et sécurisée des bagages, réduisant les délais et les erreurs de livraison.",
+            "Ce projet s’inscrit dans la modernisation des infrastructures aéroportuaires et l’amélioration de l’expérience voyageur.",
+            "L’automatisation vise également à optimiser les ressources humaines et à diminuer les coûts opérationnels."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Automatisation des comptes fournisseurs : Quadient reconnu sur le marché",
+          "bullets": [
+            "Quadient, spécialiste de l’automatisation des processus financiers, est reconnu pour ses solutions innovantes dans la gestion des comptes fournisseurs.",
+            "Son expertise permet aux entreprises de réduire les délais de paiement et d’améliorer leur relation avec leurs fournisseurs.",
+            "Les outils de Quadient intègrent l’IA pour détecter les anomalies et optimiser les flux financiers.",
+            "Cette reconnaissance renforce sa position sur un marché en pleine croissance, notamment dans le secteur bancaire et industriel."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "Fabrication additive dans les Hauts-de-France : acteurs et innovations",
+          "bullets": [
+            "Les Hauts-de-France se positionnent comme un hub régional pour l’impression 3D et la fabrication additive.",
+            "Des acteurs locaux développent des solutions innovantes pour l’industrie, la santé et l’aéronautique.",
+            "Les pôles de compétitivité et les clusters régionaux soutiennent ces initiatives pour renforcer l’attractivité économique.",
+            "Les applications incluent la production de pièces sur mesure, la médecine personnalisée et la réduction des déchets industriels."
+          ],
+          "sources": []
+        },
+        {
+          "title": "JORCAR Titanium : recyclage du titane et impression 3D intégrée",
+          "bullets": [
+            "JORCAR Titanium mise sur un modèle intégré combinant recyclage du titane et impression 3D pour une production durable.",
+            "Cette approche permet de réduire l’impact environnemental tout en optimisant les coûts de production pour les industries aérospatiale et médicale.",
+            "Le recyclage du titane évite l’extraction de nouvelles ressources et limite les émissions de CO₂.",
+            "L’impression 3D permet de créer des pièces légères et résistantes, adaptées aux besoins spécifiques des clients."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Lynxter : dix ans d’impression 3D silicone et leadership mondial",
+          "bullets": [
+            "Lynxter célèbre ses dix ans d’expertise dans l’impression 3D de silicone, devenant le numéro un mondial dans ce domaine.",
+            "L’entreprise propose des solutions innovantes pour les secteurs médical, automobile et électronique.",
+            "Ses technologies permettent de produire des pièces souples et résistantes, adaptées aux applications complexes.",
+            "Lynxter continue d’investir dans la R&D pour élargir son portefeuille de matériaux et de services."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Dreame lance AtomForm : l’aspirateur robot s’attaque à l’impression 3D",
+          "bullets": [
+            "Dreame, connu pour ses aspirateurs robots, diversifie son activité avec AtomForm, une imprimante 3D grand public.",
+            "Cette imprimante vise à démocratiser l’impression 3D grâce à des technologies accessibles et des prix compétitifs.",
+            "AtomForm pourrait s’adresser aux créateurs, éducateurs et amateurs de bricolage, avec des fonctionnalités innovantes.",
+            "L’entreprise mise sur une intégration facile et une qualité de rendu optimisée pour séduire un large public."
           ],
           "sources": []
         }
@@ -183,44 +182,121 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Impôts 2026 : possibilité de corriger sa déclaration de revenus jusqu’au 15 octobre",
+          "title": "Report de donation : intérêt fiscal à attendre 2027 ?",
           "bullets": [
-            "Les contribuables ont encore jusqu’au 15 octobre pour corriger leur déclaration de revenus 2026.",
-            "Cette période supplémentaire permet de rectifier d’éventuelles erreurs ou omissions dans les déclarations initiales.",
-            "Les corrections peuvent concerner des revenus supplémentaires, des réductions d’impôt ou des crédits d’impôt.",
-            "Les contribuables sont invités à vérifier leurs déclarations pour éviter des redressements ou des pénalités.",
-            "Cette mesure vise à faciliter la déclaration des revenus et à réduire les erreurs administratives."
+            "Les donateurs doivent évaluer si le report de leur donation à 2027 leur sera fiscalement avantageux.",
+            "Les règles de déduction fiscale et les seuils de revenus peuvent influencer cette décision.",
+            "Les experts recommandent de consulter un conseiller fiscal pour optimiser la stratégie patrimoniale.",
+            "Les changements législatifs récents peuvent modifier les avantages liés aux donations."
           ],
           "sources": []
         },
         {
-          "title": "Impôts : qui sera prélevé sur son compte dès le 25 septembre ?",
+          "title": "Dernière chance pour corriger sa déclaration de revenus 2026",
           "bullets": [
-            "À partir du 25 septembre, certains contribuables verront un prélèvement automatique sur leur compte bancaire.",
-            "Ces prélèvements concernent principalement les impôts sur le revenu et les cotisations sociales non réglées.",
-            "Les personnes concernées sont celles ayant un solde d’impôt ou de cotisations impayé depuis plusieurs mois.",
-            "Les banques sont tenues de coopérer avec l’administration fiscale pour effectuer ces prélèvements.",
-            "Les contribuables peuvent vérifier leur situation sur leur espace personnel en ligne pour anticiper ces prélèvements."
+            "Les contribuables peuvent encore corriger leur déclaration de revenus pour l’année 2026 via leur espace personnel en ligne.",
+            "Cette correction permet d’éviter des erreurs de calcul ou des oublis pouvant entraîner des redressements fiscaux.",
+            "Les délais pour effectuer ces modifications sont stricts et dépendent des régions et des situations individuelles.",
+            "Les services fiscaux encouragent les déclarants à vérifier leurs informations avant la date limite."
           ],
           "sources": []
         },
         {
-          "title": "Impôts locaux : délai de redressement passé de 1 à 3 ans",
+          "title": "Prélèvement à la source : qui sera concerné dès le 25 septembre ?",
           "bullets": [
-            "Le délai pour que l’administration fiscale puisse redresser une déclaration d’impôts locaux passe désormais de 1 à 3 ans.",
-            "Cette extension vise à permettre une vérification plus approfondie des déclarations et à lutter contre la fraude fiscale.",
-            "Les contribuables doivent donc conserver leurs documents justificatifs plus longtemps.",
-            "Cette mesure pourrait entraîner une augmentation des contrôles et des redressements pour les déclarations erronées ou incomplètes.",
-            "Les associations de consommateurs appellent à une vigilance accrue dans la déclaration des impôts locaux."
+            "Certains contribuables verront un prélèvement à la source effectué sur leur compte dès le 25 septembre 2026.",
+            "Ce prélèvement concerne principalement les revenus exceptionnels ou les plus-values non soumises à un taux personnalisé.",
+            "Les personnes concernées reçoivent une notification avant la date du prélèvement pour les informer.",
+            "Les impôts locaux et les cotisations sociales peuvent également être prélevés simultanément."
+          ],
+          "sources": []
+        },
+        {
+          "title": "FDSEA en Haute-Vienne : blocage du centre des impôts pour exiger des aides sécheresse",
+          "bullets": [
+            "Les agriculteurs de la FDSEA en Haute-Vienne ont bloqué le centre des impôts de Limoges pour protester contre l’insuffisance des aides sécheresse.",
+            "Ils dénoncent un manque de soutien de la part des collectivités locales et de l’État face à la crise agricole.",
+            "Les manifestants exigent des mesures concrètes pour compenser les pertes subies par les exploitations.",
+            "Les autorités locales tentent de négocier une solution pour désamorcer la crise."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Protection du CPF : comment éviter les arnaques ?",
+          "bullets": [
+            "Les usagers doivent redoubler de vigilance face aux arnaques ciblant les comptes CPF (Compte Personnel de Formation).",
+            "Les escrocs utilisent des emails ou appels frauduleux pour voler les identifiants ou les fonds du CPF.",
+            "Les conseils pour se protéger incluent de vérifier les sources officielles et de ne jamais partager ses identifiants.",
+            "En cas de suspicion, il est conseillé de signaler l’incident sur le site officiel du CPF ou via la plateforme Pharos."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Délai de redressement fiscal pour les impôts locaux : passage à 3 ans",
+          "bullets": [
+            "Le délai pour que l’administration fiscale puisse redresser une erreur sur les impôts locaux passe de 1 à 3 ans.",
+            "Cette extension vise à renforcer la sécurité juridique des contribuables et à permettre une meilleure vérification des déclarations.",
+            "Les contribuables doivent conserver leurs justificatifs pendant cette période pour éviter tout litige.",
+            "Les experts recommandent de consulter un expert-comptable pour anticiper d’éventuels redressements."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Administration fiscale cible les constructions non déclarées après les piscines",
+          "bullets": [
+            "L’administration fiscale cible désormais d’autres types de constructions non déclarées, comme les abris de jardin ou les extensions.",
+            "Ces constructions peuvent entraîner des redressements fiscaux et des pénalités pour non-respect des règles d’urbanisme.",
+            "Les propriétaires sont invités à régulariser leur situation pour éviter des sanctions financières.",
+            "Les contrôles se multiplient, notamment dans les zones où les constructions non déclarées sont fréquentes."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Coupe Davis 2026 : France vs Canada, programme et enjeux",
+          "bullets": [
+            "La France affronte le Canada en Coupe Davis 2026, un match crucial pour les deux équipes en quête de qualification.",
+            "Les matchs se dérouleront du 15 au 17 septembre, avec des joueurs comme Lucas Pouille et Arthur Fils en première ligne.",
+            "Les enjeux incluent la préservation du titre pour la France et la montée en puissance du tennis canadien.",
+            "Les fans pourront suivre les matchs en direct sur les plateformes partenaires de la Coupe Davis."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Mondiaux d’athlétisme 2029 : Nairobi accueille une première pour l’Afrique",
+          "bullets": [
+            "Le Kenya organisera les Championnats du monde d’athlétisme 2029 à Nairobi, une première pour le continent africain.",
+            "Cette édition promet d’être historique, avec une forte mobilisation des athlètes africains et internationaux.",
+            "Les infrastructures sportives seront renforcées pour accueillir des compétitions de haut niveau.",
+            "L’événement vise à promouvoir l’athlétisme en Afrique et à attirer un public mondial."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Nuit du Rugby 2026 : cérémonie des trophées à l’Olympia le 28 septembre",
+          "bullets": [
+            "La 22ème édition de la Nuit du Rugby aura lieu le 28 septembre à l’Olympia, avec une cérémonie de remise des trophées pour la saison 2025-2026.",
+            "Les clubs du Top 14 seront mis à l’honneur, avec des récompenses pour les performances sportives et les engagements sociétaux.",
+            "Cette soirée festive rassemble joueurs, entraîneurs et supporters pour célébrer l’esprit du rugby.",
+            "Les billets pour l’événement sont déjà en vente sur le site officiel du Top 14."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Guide de la saison 2026-27 de Maxi-Basket : publication officielle",
+          "bullets": [
+            "Le guide officiel de la saison 2026-27 de Maxi-Basket est désormais disponible pour les fans et les clubs.",
+            "Ce guide détaille les équipes participantes, les calendriers et les règles spécifiques à cette compétition.",
+            "Les organisateurs mettent en avant les innovations et les engagements pour une saison inclusive et dynamique.",
+            "Les clubs peuvent consulter le guide pour préparer leur saison et promouvoir leurs activités."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
