@@ -1,13 +1,13 @@
 name: Test dev (réel)
 
-# Workflow temporaire de validation : exécute la vraie collecte (météo + RSS)
-# sur les runners GitHub (réseau ouvert), publie les résultats sur la branche
-# et en artefacts. Remplace l'ancien meteo-test.yml.
+# Workflow temporaire de validation. Exécute la vraie collecte (météo + RSS) et,
+# si la clé Mistral est présente, la rédaction puis le rendu e-mail avec le vrai
+# contenu. Publie les résultats sur la branche et en artefacts.
 
 on:
   push:
     branches: [claude/project-overview-kalf7c]
-    paths-ignore: ["public/**", "data/collected.json", "data/history.json"]
+    paths-ignore: ["public/**", "data/collected.json", "data/brief.json", "data/history.json"]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +16,10 @@ permissions:
 concurrency:
   group: dev-test
   cancel-in-progress: true
+
+env:
+  MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+  BRANCH_RAW: https://raw.githubusercontent.com/sgiraud70-creator/daily-brief-public/claude/project-overview-kalf7c/public
 
 jobs:
   test:
@@ -34,22 +38,32 @@ jobs:
       - name: Collecte actualités réelle (RSS)
         run: python -m scripts.build_collecte
 
+      - name: Rédaction Mistral (si clé présente)
+        if: ${{ env.MISTRAL_API_KEY != '' }}
+        run: python -m scripts.build_redaction
+
+      - name: Rendu e-mail avec vrai contenu (si brief)
+        if: ${{ env.MISTRAL_API_KEY != '' }}
+        run: python -m scripts.build_email --brief data/brief.json --weather-url "$BRANCH_RAW/weather.png" --mp3-url "$BRANCH_RAW/brief.mp3"
+
       - name: Artefacts
         uses: actions/upload-artifact@v4
         with:
-          name: collecte
+          name: brief
           path: |
             public/weather.png
+            public/email.html
             data/collected.json
+            data/brief.json
 
       - name: Publier sur la branche
         run: |
           git config user.name  "brief-bot"
           git config user.email "brief-bot@users.noreply.github.com"
-          git add public/ data/collected.json
+          git add public/ data/collected.json data/brief.json data/history.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Rien à publier."
           else
-            git commit -m "test: météo + collecte RSS (données réelles)"
+            git commit -m "test: brief réel (collecte + rédaction + e-mail)"
             git push
           fi

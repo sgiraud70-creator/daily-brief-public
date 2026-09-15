@@ -102,6 +102,9 @@
         {% endif %}
       </div>
     {% endfor %}
+    {% if r.note and not r.get('sujets') %}
+      <div style="font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:16px;color:#77726a;margin-top:12px;">{{ r.note }}</div>
+    {% endif %}
   </td></tr>
   {% endfor %}
 
