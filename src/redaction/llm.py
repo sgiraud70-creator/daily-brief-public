@@ -26,8 +26,9 @@ def _mistral(system: str, user: str, *, temperature: float, max_tokens: int,
     key = os.environ.get("MISTRAL_API_KEY")
     if not key:
         raise LLMError("MISTRAL_API_KEY manquant")
-    # mistral-large : meilleure plume, 250 000 jetons/min (marge confortable)
-    model = os.environ.get("MISTRAL_MODEL", "mistral-large-2512")
+    # ministral-8b : seul bon modèle du palier GRATUIT (mistral-large = payant,
+    # renvoie 403 tier_not_allowed). 625 000 jetons/min → pas de 429.
+    model = os.environ.get("MISTRAL_MODEL", "ministral-8b-2512")
     payload = {
         "model": model,
         "messages": [{"role": "system", "content": system},
