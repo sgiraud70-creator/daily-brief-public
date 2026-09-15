@@ -34,16 +34,25 @@ def _urls(d: dt.date) -> list[str]:
     return [f"{base}/{d.day}-{m}-{d.year}.html" for m in variants]
 
 
-def _extract_prenom(page: str) -> str | None:
-    texte = html.unescape(re.sub(r"<[^>]+>", " ", page))
-    texte = re.sub(r"\s+", " ", texte)
-    # 1) formulation explicite « Bonne fête aux Roland »
-    m = re.search(r"Bonne\s+f[êe]te\s+(?:aux?|à)\s+([A-ZÀ-Ý][\wà-ÿ'-]+)", texte)
-    if m:
-        return m.group(1).strip()
-    # 2) à défaut : « Fête du jour : Roland » / « on fête : Roland »
-    m = re.search(r"f[êe]te[^:]{0,20}:\s*([A-ZÀ-Ý][\wà-ÿ'-]+)", texte)
-    return m.group(1).strip() if m else None
+def _extract_prenoms(page: str) -> list[str]:
+    """Prénoms vedettes du jour = liens /contenus/prenom/ID/Nom.html marqués
+    « list-group-item » (les dérivés, eux, sont en class="sexe0")."""
+    from urllib.parse import unquote
+    bruts = re.findall(
+        r'href="/contenus/prenom/\d+/([^."]+)\.html"\s+class="list-group-item',
+        page)
+    prenoms: list[str] = []
+    for b in bruts:
+        nom = unquote(b).replace("-", " ").strip()
+        if nom and nom not in prenoms:
+            prenoms.append(nom)
+    return prenoms
+
+
+def _joindre(prenoms: list[str]) -> str:
+    if len(prenoms) == 1:
+        return prenoms[0]
+    return ", ".join(prenoms[:-1]) + " et " + prenoms[-1]
 
 
 def fete_du_jour() -> dict | None:
@@ -62,14 +71,8 @@ def fete_du_jour() -> dict | None:
     if not page:
         return None
 
-    try:  # DEBUG temporaire : dump pour analyser le format réel
-        with open("public/_fete_debug.html", "w", encoding="utf-8") as f:
-            f.write(page)
-    except Exception:  # noqa: BLE001
-        pass
-
-    prenom = _extract_prenom(page)
-    print(f"  → Fête du jour : prénom = {prenom!r}")
-    if not prenom:
+    prenoms = _extract_prenoms(page)
+    print(f"  → Fête du jour : prénoms vedettes = {prenoms}")
+    if not prenoms:
         return None
-    return {"nom": prenom, "source_name": "Nominis", "source_url": used}
+    return {"nom": _joindre(prenoms), "source_name": "Nominis", "source_url": used}
