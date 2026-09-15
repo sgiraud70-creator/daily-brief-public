@@ -1,10 +1,13 @@
-"""Synthèse vocale à double moteur (EF-34).
+"""Synthèse vocale à moteurs en cascade (EF-34).
 
-- Moteur principal : edge-tts (voix FR variées). Souvent bloqué depuis une IP de
-  datacenter (R-02) → essai court, puis bascule.
-- Repli : Piper (local, open-source, sans quota, jamais bloqué). Voix FR tirée
-  au hasard chaque jour ; modèle téléchargé depuis HuggingFace si absent.
-- Conversion WAV→MP3 via ffmpeg fourni par imageio-ffmpeg (aucune install système).
+Ordre d'essai, du plus naturel au plus fiable :
+1. Google Cloud TTS (voix Neural2, dynamique) si la clé API est fournie.
+2. gTTS (voix Google Traduction, naturelle mais plate).
+3. edge-tts (voix Microsoft) — souvent bloqué en datacenter.
+4. Piper (local, open-source, sans quota, jamais bloqué) — filet de sécurité.
+
+Chaque moteur qui échoue bascule automatiquement sur le suivant : jamais de
+brief sans audio. Conversion/recollage via ffmpeg (imageio-ffmpeg, portable).
 """
 from __future__ import annotations
 
@@ -91,6 +94,75 @@ def _ffmpeg() -> str:
     return imageio_ffmpeg.get_ffmpeg_exe()
 
 
+# ------------------------------------------------------- Google Cloud TTS ----
+def _split_for_tts(text: str, limit: int = 4500) -> list[str]:
+    """Découpe le texte en morceaux ≤ `limit` octets sur les sauts de ligne
+    (Google Cloud TTS accepte 5000 octets max par requête)."""
+    morceaux: list[str] = []
+    cur = ""
+    for ligne in text.split("\n"):
+        cand = f"{cur}\n{ligne}" if cur else ligne
+        if len(cand.encode("utf-8")) > limit and cur:
+            morceaux.append(cur)
+            cur = ligne
+        else:
+            cur = cand
+    if cur:
+        morceaux.append(cur)
+    return morceaux
+
+
+def _google_cloud(text: str, out_path: str, timeout: int = 60) -> dict:
+    """Voix Google Cloud « Neural2 » (dynamique, expressive). Authentifiée par
+    clé API (secret GOOGLE_TTS_API_KEY). Découpe + recolle les morceaux via ffmpeg.
+    Gratuit dans le quota mensuel (1 M caractères Neural2)."""
+    import base64
+    import shutil
+    import tempfile
+
+    key = os.environ.get("GOOGLE_TTS_API_KEY")
+    if not key:
+        raise RuntimeError("GOOGLE_TTS_API_KEY absent")
+    import requests  # dépendance déjà présente (collecte)
+
+    voice = os.environ.get("GOOGLE_TTS_VOICE", "fr-FR-Neural2-A")
+    tmp = tempfile.mkdtemp(prefix="gctts_")
+    parts: list[str] = []
+    try:
+        for i, morceau in enumerate(_split_for_tts(text)):
+            r = requests.post(
+                "https://texttospeech.googleapis.com/v1/text:synthesize",
+                params={"key": key},
+                json={
+                    "input": {"text": morceau},
+                    "voice": {"languageCode": "fr-FR", "name": voice},
+                    "audioConfig": {"audioEncoding": "MP3", "sampleRateHertz": 24000},
+                },
+                timeout=timeout,
+            )
+            r.raise_for_status()
+            audio = base64.b64decode(r.json()["audioContent"])
+            p = os.path.join(tmp, f"part_{i:03d}.mp3")
+            with open(p, "wb") as f:
+                f.write(audio)
+            parts.append(p)
+        if not parts:
+            raise RuntimeError("aucun audio produit")
+        if len(parts) == 1:
+            shutil.move(parts[0], out_path)
+        else:  # recollage sans réencodage
+            liste = os.path.join(tmp, "list.txt")
+            with open(liste, "w", encoding="utf-8") as f:
+                for p in parts:
+                    f.write(f"file '{p}'\n")
+            subprocess.run([_ffmpeg(), "-y", "-f", "concat", "-safe", "0",
+                            "-i", liste, "-c", "copy", out_path], check=True,
+                           stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    return {"moteur": "Google Cloud TTS", "voix": voice}
+
+
 def _piper(text: str, out_path: str) -> dict:
     voice = random.choice(PIPER_VOICES)
     onnx = _ensure_piper_voice(voice)
@@ -112,7 +184,14 @@ def _piper(text: str, out_path: str) -> dict:
 def synth(text: str, out_path: str) -> dict:
     """Génère le MP3. Renvoie {moteur, voix}. Lève si tous les moteurs échouent."""
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    # 0) gTTS (voix Google, plus naturelle) — peut être bloqué en datacenter
+    # 0) Google Cloud TTS (voix Neural2, dynamique) si la clé API est fournie
+    try:
+        info = _google_cloud(text, out_path)
+        if os.path.getsize(out_path) > 1000:
+            return info
+    except Exception as e:  # noqa: BLE001
+        print(f"  Google Cloud TTS indisponible ({e!r}) → essai gTTS")
+    # 1) gTTS (voix Google Traduction, naturelle) — peut être bloqué en datacenter
     try:
         info = _gtts(text, out_path)
         if os.path.getsize(out_path) > 1000:
