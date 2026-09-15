@@ -1,98 +1,72 @@
 {
   "date_str": "Mardi 15 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "France",
       "sujets": [
         {
-          "title": "Fonction publique : les ruptures conventionnelles revues à la baisse",
+          "title": "Présidentielle 2027 : Marine Le Pen en tête dans toutes les configurations",
           "bullets": [
-            "Le gouvernement maintient le dispositif des ruptures conventionnelles pour les fonctionnaires, mais réduit les montants des indemnités versées.",
-            "Cette mesure vise à limiter les coûts pour les finances publiques tout en offrant une alternative aux licenciements.",
-            "Les syndicats dénoncent une mesure qui fragilise les agents publics en difficulté.",
-            "Les détails des nouveaux plafonds et conditions seront précisés dans les prochains jours."
+            "Marine Le Pen créditée d’au moins un tiers des intentions de vote dans toutes les configurations testées par une enquête électorale.",
+            "L’enquête révèle un profond désir de changement après les deux mandats d’Emmanuel Macron.",
+            "Les préoccupations économiques dominent les priorités des électeurs.",
+            "Les sondages montrent une polarisation croissante entre les candidats de gauche et de droite.",
+            "Cette enquête marque un tournant dans la campagne présidentielle française."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/14/fonction-publique-le-dispositif-des-ruptures-conventionnelles-perennise-mais-revu-a-la-baisse_6773874_823448.html"
+              "url": "https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-suivez-les-derniers-developpements-de-la-campagne_6770586_823448.html"
             }
           ]
         },
         {
-          "title": "Marine Le Pen sous le feu des critiques pour ses propositions sur le logement",
+          "title": "Colère des policiers de Mayotte et La Réunion pour l’oubli dans la liste des médaillés post-cyclone Chido",
           "bullets": [
-            "La candidate du Rassemblement National propose la priorité nationale dans le logement social et la suppression de la loi SRU.",
-            "Ces mesures suscitent une vive opposition de responsables politiques et d’associations, qualifiées de « lubie xénophobe ».",
-            "Les associations craignent une aggravation des inégalités d’accès au logement.",
-            "Le débat s’inscrit dans la campagne pour la présidentielle de 2027."
+            "Plusieurs centaines de policiers ont été oubliés dans la liste des médaillés pour leur engagement lors du passage du cyclone Chido en 2024.",
+            "La médaille de la sécurité intérieure leur était promise pour récompenser leur action.",
+            "Les forces de l’ordre dénoncent un manque de reconnaissance institutionnelle.",
+            "Cette omission suscite une vague de protestations et de critiques envers les autorités locales.",
+            "Les syndicats de police appellent à une rectification rapide."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/14/une-lubie-xenophobe-les-propositions-sur-le-logement-de-marine-le-pen-suscitent-un-tolle_6773868_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/09/14/a-mayotte-et-a-la-reunion-la-colere-des-policiers-oublies-de-la-liste-des-medailles-pour-leur-engagement-lors-du-passage-du-cyclone-chido_6773781_3224.html"
             }
           ]
         },
         {
-          "title": "Grève à Radio France : perturbations majeures au deuxième jour",
+          "title": "Versements de dividendes : la France en tête en Europe au T2 2026",
           "bullets": [
-            "Les antennes de Radio France sont fortement perturbées depuis le début de la grève, déclenchée après le recrutement controversé de Charles Sapin.",
-            "Un nouveau préavis de grève est envisagé pour le 21 septembre.",
-            "Les syndicats dénoncent une « ingérence politique » dans la gestion de l’institution.",
-            "Les auditeurs et les professionnels du secteur subissent des perturbations dans l’émission des programmes."
+            "Les entreprises françaises ont distribué 70,4 milliards de dollars à leurs actionnaires entre avril et juin 2026.",
+            "La France dépasse ainsi les autres pays européens en termes de versements de dividendes.",
+            "Ce chiffre reflète une bonne santé financière des grandes entreprises cotées.",
+            "Les actionnaires français bénéficient d’une performance économique notable.",
+            "Cette tendance pourrait influencer les stratégies financières des entreprises européennes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/14/les-antennes-de-radio-france-fortement-perturbees-au-second-jour-d-une-greve-apres-le-recrutement-de-charles-sapin-directeur-adjoint-de-la-redaction-de-valeurs-actuelles_6773861_3234.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/09/15/versements-de-dividendes-la-france-en-tete-en-europe-au-deuxieme-trimestre-2026_6774017_3234.html"
             }
           ]
         },
         {
-          "title": "Cybersécurité : une menace croissante pour les collectivités locales",
+          "title": "Autoroute A69 : amende de 800 000 € pour travaux illégaux",
           "bullets": [
-            "Les cyberattaques se multiplient contre les administrations locales, fragilisant les services publics et la relation avec les citoyens.",
-            "Johan Theuret, directeur général adjoint de la métropole de Rennes, souligne l’urgence d’investir dans la protection des systèmes.",
-            "Les attaques visent souvent les infrastructures critiques comme les services en ligne et les données personnelles.",
-            "Les collectivités peinent à mobiliser les ressources nécessaires pour se protéger efficacement."
+            "Le concessionnaire de l’autoroute A69 a été condamné à une amende de plus de 800 000 € pour des travaux hors périmètre autorisé.",
+            "Les travaux concernaient des modifications non conformes aux règles environnementales et administratives.",
+            "Un collectif d’opposants dénonce une somme « complètement insuffisante » pour réparer les dégâts.",
+            "Cette décision pourrait avoir des répercussions sur les projets futurs de construction routière en France.",
+            "Les associations environnementales appellent à une meilleure régulation des concessions autoroutières."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/14/johan-theuret-directeur-general-adjoint-de-la-metropole-de-rennes-chaque-cyberattaque-renforce-l-idee-que-l-administration-demande-beaucoup-sans-proteger-suffisamment_6773787_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Municipales 2026 : LFI conteste l’annulation de deux victoires",
-          "bullets": [
-            "Jean-Luc Mélenchon dénonce des « manipulations politiques » après la demande d’annulation de deux victoires de La France Insoumise aux municipales.",
-            "Les tribunaux administratifs ont préconisé l’annulation des élections à Vaulx-en-Velin et Vénissieux.",
-            "Les responsables locaux de LFI accusent des irrégularités et des pressions politiques.",
-            "Ces annulations pourraient avoir un impact sur la légitimité des élus locaux."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/14/municipales-2026-l-annulation-de-deux-victoires-de-lfi-pres-de-lyon-preconisee-devant-le-tribunal-administratif_6773792_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Sénatoriales 2026 : la présence physique des candidats décisive",
-          "bullets": [
-            "Les grands électeurs soulignent l’importance de la présence active des candidats sur le terrain avant le scrutin du 27 septembre.",
-            "Les maires rappellent que le sénateur joue un rôle clé dans la vie locale et les projets communaux.",
-            "L’étiquette politique ne semble pas être le facteur déterminant pour les grands électeurs.",
-            "Les candidats doivent donc privilégier le contact direct avec les électeurs."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/14/senatoriales-2026-la-presence-active-sur-le-terrain-des-candidats-argument-decisif-pour-les-grands-electeurs_6773850_823448.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/09/14/autoroute-a69-le-concessionnaire-condamne-a-une-amende-de-plus-de-800-000-euros-pour-des-travaux-hors-du-perimetre-autorise_6773879_3244.html"
             }
           ]
         }
@@ -102,92 +76,82 @@
       "label": "International",
       "sujets": [
         {
-          "title": "États-Unis : la Cour suprême rejette un recours de l’administration Trump contre le vote par correspondance",
+          "title": "Ukraine : proposition de cessez-le-feu sur les infrastructures énergétiques russes",
           "bullets": [
-            "La Cour suprême a rejeté un recours de l’administration Trump visant à limiter le vote par correspondance.",
-            "Cette décision intervient alors que les élections de mi-mandat approchent en novembre.",
-            "Les démocrates saluent une victoire pour la démocratie, tandis que les républicains dénoncent une ingérence judiciaire.",
-            "Les États-Unis restent divisés sur les modalités de vote, notamment dans les États clés."
+            "L’Ukraine propose de suspendre les bombardements sur les infrastructures énergétiques russes en échange d’une réciprocité de Moscou.",
+            "Volodymyr Zelensky a évoqué cette possibilité lors d’une réunion avec ses alliés.",
+            "Cette proposition vise à désamorcer une escalade militaire et à faciliter des négociations de paix.",
+            "Les États-Unis et l’UE soutiennent une désescalade, mais la Russie reste sceptique.",
+            "La situation reste tendue en mer Noire et dans les régions frontalières."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/aux-etats-unis-la-cour-supreme-rejette-un-recours-de-l-administration-trump-contre-le-vote-par-correspondance_6774151_3210.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/europe/20260914-ukraine-mesures-desescalade-russie-zelensky-infrastructures-energetiques-trump"
             }
           ]
         },
         {
-          "title": "États-Unis : des migrants enfermés dans des conditions inhumaines à l’Alcatraz des alligators",
+          "title": "États-Unis : la Cour suprême rejette une attaque de Trump contre le vote par correspondance",
           "bullets": [
-            "Un centre de rétention en Floride, surnommé l’Alcatraz des alligators, a enfermé des migrants dans des mini-cellules grillagées.",
-            "Ce centre a fonctionné pendant un an avant d’être fermé par la justice pour conditions indignes.",
-            "Les migrants, principalement originaires d’Amérique centrale, subissaient des conditions de détention extrêmes.",
-            "Cette affaire relance le débat sur les politiques migratoires américaines."
+            "La Cour suprême des États-Unis a rejeté une tentative de Donald Trump de limiter le vote par correspondance.",
+            "Cette décision intervient à quelques semaines des élections de mi-mandat.",
+            "Trump accusait les États de favoriser le vote à distance, une pratique qu’il juge frauduleuse.",
+            "Les démocrates saluent cette décision comme un pas vers une élection plus équitable.",
+            "Les tensions politiques restent vives autour des réformes électorales."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-des-migrants-enfermes-dans-des-mini-cellules-grillagees-a-l-alcatraz-des-alligators-rapporte-le-dhs_6774018_3210.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-la-cour-supr%C3%AAme-rejette-une-attaque-de-trump-contre-le-vote-par-correspondance"
             }
           ]
         },
         {
-          "title": "États-Unis : fin des limites d’émissions polluantes pour les centrales électriques",
+          "title": "Venezuela invité au G20 énergie sous l’impulsion des États-Unis",
           "bullets": [
-            "L’administration Trump a mis fin aux limites d’émissions polluantes imposées aux centrales électriques.",
-            "Cette décision va à l’encontre des engagements climatiques internationaux et inquiète les écologistes.",
-            "Les centrales à charbon et à gaz pourraient voir leurs émissions augmenter significativement.",
-            "Les États-Unis risquent de voir leur contribution aux émissions mondiales de CO₂ s’accroître."
+            "Le Venezuela participe à la réunion des ministres de l’Énergie du G20 à Houston, sur invitation américaine.",
+            "Cette participation s’inscrit dans une stratégie de Donald Trump pour renforcer les relations avec Caracas.",
+            "Le pays fait face à des défis économiques majeurs, notamment dans le secteur pétrolier.",
+            "Les États-Unis cherchent à diversifier leurs partenariats énergétiques en Amérique latine.",
+            "Cette initiative pourrait avoir des répercussions sur les relations internationales et régionales."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20260914-invit%C3%A9-par-washington-le-venezuela-va-participer-au-g20-consacr%C3%A9-%C3%A0-l-%C3%A9nergie"
             }
           ]
         },
         {
-          "title": "États-Unis : confirmation de la militarisation de l’espace par des armes en orbite",
+          "title": "Houthis : contrôle accru de la mer Rouge et menaces sur le trafic maritime",
           "bullets": [
-            "Les États-Unis ont officiellement confirmé disposer d’armes déployées en orbite via l’US Space Force.",
-            "Cette annonce s’inscrit dans un contexte de course aux armements spatiaux avec la Chine et la Russie.",
-            "Les experts craignent une escalade des tensions géopolitiques dans l’espace.",
-            "La Chine et la Russie ont déjà développé des technologies similaires."
+            "Les Houthis, soutenus par l’Iran, ont pris le contrôle d’une grande partie du littoral yéménite.",
+            "Cette offensive menace la sécurité du trafic maritime dans la mer Rouge et le golfe d’Aden.",
+            "Les pays occidentaux et arabes craignent des attaques contre les navires commerciaux.",
+            "La situation pourrait entraîner une hausse des assurances maritimes et des coûts logistiques.",
+            "Les Nations unies appellent à une désescalade pour éviter une crise humanitaire et économique."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/15/les-etats-unis-confirment-disposer-d-armes-deployees-en-orbite_6774085_3210.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260914-houthis-les-nouveaux-ma%C3%AEtres-de-la-mer-rouge"
             }
           ]
         },
         {
-          "title": "Venezuela : l’agonie du lac de Maracaibo, pollué par les hydrocarbures",
+          "title": "États-Unis : confirmation officielle de la présence d’armes en orbite",
           "bullets": [
-            "Le lac de Maracaibo, principal réservoir pétrolier du Venezuela, subit une pollution chronique due aux marées noires et à l’inaction des autorités.",
-            "Cette pollution affecte gravement l’écosystème et la santé des populations locales.",
-            "Les autorités vénézuéliennes sont accusées de négligence et de manque de moyens pour nettoyer le lac.",
-            "La situation environnementale s’aggrave, menaçant la biodiversité et les moyens de subsistance des habitants."
+            "L’US Space Force a confirmé détenir des « systèmes de contrôle spatial armés » pour défendre ses forces en orbite.",
+            "Cette annonce intervient dans un contexte de tensions croissantes dans l’espace extra-atmosphérique.",
+            "La Russie et la Chine développent également des capacités militaires spatiales.",
+            "Les experts craignent une course aux armements dans l’espace pouvant menacer les satellites civils.",
+            "Cette décision pourrait relancer les débats sur la régulation internationale de l’espace."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html"
-            }
-          ]
-        },
-        {
-          "title": "Royaume-Uni : nationalisation de Speciality Steel, troisième aciérie du pays",
-          "bullets": [
-            "Le gouvernement britannique prépare la nationalisation de Speciality Steel, troisième aciérie du Royaume-Uni.",
-            "Londres a renoncé à un rachat privé, jugé insuffisamment stable pour l’avenir de l’entreprise.",
-            "Cette décision s’inscrit dans une stratégie de relance industrielle post-Brexit.",
-            "Les syndicats et les élus locaux soutiennent cette mesure pour sécuriser l’emploi et l’innovation."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/14/au-royaume-uni-le-gouvernement-se-prepare-a-nationaliser-speciality-steel-la-troisieme-acierie-du-pays_6773881_3234.html"
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9co-tech/20260914-espace-etats-unis-confirment-deploye-armes-orbit-us-space-force"
             }
           ]
         }
@@ -197,19 +161,15 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Haute-Saône : collision mortelle impliquant un utilitaire et deux poids lourds",
+          "title": "Elections sénatoriales 2026 : candidats en Haute-Saône, Doubs et Territoire de Belfort",
           "bullets": [
-            "Un homme de 33 ans est décédé après une collision survenue sur la RN 57 à Fougerolles (Haute-Saône).",
-            "L’accident impliquait un utilitaire et deux poids lourds, survenu dans la nuit du 13 au 14 septembre.",
-            "Les circonstances précises de l’accident sont encore en cours d’enquête par les autorités.",
-            "Les secours ont été rapidement mobilisés, mais les détails sur l’état des autres conducteurs restent flous."
+            "Découverte des profils des candidats aux élections sénatoriales dans les départements de la Haute-Saône, du Doubs et du Territoire de Belfort.",
+            "Les candidats représentent divers partis politiques, reflétant la diversité du paysage politique local.",
+            "Les enjeux locaux incluent les questions économiques, sociales et environnementales.",
+            "Les débats et meetings se multiplient avant le scrutin.",
+            "Les électeurs sont invités à s’informer sur les programmes des candidats."
           ],
-          "sources": [
-            {
-              "name": "L'Est Républicain",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamM5Vy1ITEFERzZITUowU2dCckxuN29XVDBuZXFEb0JmVTNxNXJJbmJIbDRzOXpDa0lwM2tBY0lzTWRVOWtLNi1fY005Tnl2S1hCaGRoeE9rVFd6TEpXTXMxUDZpQm9wNHltdDhORkpLRjFESUdTX2w5YzNBS3JSZUZRRUNKOU5LVUM5VHB5djREUWl6V3p2LUZoamlzUU9YYVozQjRiN1diV1U?oc=5"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -217,76 +177,38 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "iOS 27 disponible : les 10 principales nouveautés à découvrir",
+          "title": "Tesla FSD : une conduite autonome au bord du précipice",
           "bullets": [
-            "iOS 27 est désormais disponible pour les iPhone à partir de l’iPhone 11.",
-            "Les utilisateurs peuvent profiter de nouvelles fonctionnalités, notamment des améliorations en matière de confidentialité et de personnalisation.",
-            "En France, l’absence de Siri AI est notée, mais les autres innovations restent attractives.",
-            "Les mises à jour incluent des améliorations pour les développeurs et une meilleure intégration avec les services Apple."
+            "Un propriétaire slovène de Tesla a partagé une vidéo montrant sa voiture en mode FSD (Full Self-Driving) roulant près d’un ravin.",
+            "La voiture a démontré une capacité à éviter des obstacles et à maintenir une trajectoire précise.",
+            "Cette démonstration soulève des questions sur les limites et la fiabilité des systèmes autonomes.",
+            "Les experts en sécurité routière appellent à une régulation plus stricte des technologies autonomes.",
+            "Les constructeurs automobiles et les régulateurs doivent collaborer pour garantir la sécurité des usagers."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2332767-ios-27-est-disponible-sur-iphone-les-10-meilleures-nouveautes-a-essayer-des-maintenant.html"
+              "url": "https://www.numerama.com/vroom/2332597-au-bord-du-precipice-cette-tesla-en-fsd-conduit-mieux-que-vous-la-preuve-en-video.html"
             }
           ]
         },
         {
-          "title": "World of Warcraft : Forever dévoilé en avant-première à la BlizzCon 2026",
+          "title": "La Bataille de Gaulle : succès continu et nouvelle suite en préparation",
           "bullets": [
-            "Blizzard a présenté la première version jouable de World of Warcraft: Forever lors de la BlizzCon 2026.",
-            "Ce nouveau jeu autonome marque une évolution majeure dans l’univers de Warcraft.",
-            "Les joueurs ont pu découvrir des mécaniques de gameplay et des graphismes améliorés.",
-            "La sortie officielle est prévue pour 2027, avec des annonces supplémentaires à venir."
+            "Le diptyque événement *La Bataille de Gaulle* a déjà dépassé 5,5 millions d’entrées en salles.",
+            "La sortie en SVOD (Streaming Video On Demand) est prévue pour élargir son audience.",
+            "Antonin Baudry prépare une suite qui pourrait être candidate aux Oscars.",
+            "Ce succès confirme l’intérêt du public pour les films historiques et dramatiques.",
+            "Les producteurs envisagent de développer d’autres projets similaires."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2332415-on-a-essaye-a-world-of-warcraft-forever-en-avant-premiere-a-la-blizzcon-2026.html"
-            }
-          ]
-        },
-        {
-          "title": "La RATP offre 4 € de réduction sur les trajets en vélo électrique",
-          "bullets": [
-            "La RATP propose une réduction de 4 € sur les trajets en vélo électrique via l’application Bonjour RATP.",
-            "Cette offre est valable jusqu’au 30 septembre 2026 et concerne les utilisateurs de vélos en libre-service.",
-            "Cette initiative vise à encourager les déplacements durables dans la capitale.",
-            "Les conditions et modalités d’utilisation sont détaillées dans l’application."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2332677-la-ratp-offre-4-e-sur-votre-trajet-en-velo-electrique-premier-arrive-premier-servi.html"
-            }
-          ]
-        },
-        {
-          "title": "Remboursement du passe Navigo : plateforme ouverte le 15 septembre",
-          "bullets": [
-            "Une nouvelle campagne de remboursement pour les détenteurs de passe Navigo a été lancée le 15 septembre.",
-            "Les voyageurs peuvent demander jusqu’à 90,80 € de dédommagement pour des raisons spécifiques.",
-            "La plateforme en ligne permet de faire la demande en ligne, simplifiant ainsi le processus.",
-            "Les remboursements concernent les détenteurs de passes annuels ou mensuels."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-jusqua-9080-e-dedommages-la-plateforme-ouvre-le-15-septembre.html"
+              "url": "https://www.numerama.com/pop-culture/2332589-la-bataille-de-gaulle-le-succes-continue-avec-la-sortie-svod-et-la-course-aux-oscars.html"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "À savoir · vie pratique",
@@ -294,30 +216,33 @@
         {
           "title": "Arnaques au CPF : comment protéger son compte formation ?",
           "bullets": [
-            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, exploitant les failles de sécurité.",
-            "Les escrocs demandent des paiements pour des formations non existantes ou frauduleuses.",
-            "Les autorités recommandent de vérifier systématiquement les sites officiels et de ne jamais partager ses identifiants.",
-            "Les victimes sont invitées à signaler les tentatives d’arnaque sur le site officiel de la CPF."
+            "Les arnaques au Compte Personnel de Formation (CPF) se multiplient, ciblant les détenteurs de crédits.",
+            "Les escrocs utilisent des faux sites ou des appels téléphoniques pour voler les informations personnelles.",
+            "Le gouvernement recommande de vérifier systématiquement l’authenticité des plateformes avant toute transaction.",
+            "Les victimes sont invitées à signaler les tentatives d’arnaque sur le site officiel du CPF.",
+            "Des conseils pratiques sont disponibles pour sécuriser son compte et éviter les pièges."
           ],
           "sources": []
         },
         {
-          "title": "Délai de redressement des impôts locaux étendu à 3 ans",
+          "title": "Délai de redressement des impôts locaux prolongé à 3 ans",
           "bullets": [
-            "Le délai pour contester les impôts locaux passe de 1 à 3 ans, offrant plus de temps aux contribuables pour faire valoir leurs droits.",
-            "Cette mesure vise à renforcer la protection des usagers contre les erreurs ou abus de l’administration fiscale.",
-            "Les contribuables doivent être vigilants et conserver leurs justificatifs pendant cette période.",
-            "Les impôts concernés incluent la taxe foncière et la taxe d’habitation."
+            "Le délai pour contester les impôts locaux passe de 1 à 3 ans, offrant plus de temps aux contribuables.",
+            "Cette mesure vise à faciliter les recours en cas d’erreur ou de désaccord sur les évaluations.",
+            "Les collectivités locales doivent désormais justifier leurs décisions de manière plus transparente.",
+            "Les associations de consommateurs saluent cette évolution pour plus de justice fiscale.",
+            "Les contribuables sont encouragés à vérifier leurs évaluations et à contester en cas de besoin."
           ],
           "sources": []
         },
         {
           "title": "Arnaques immobilières : vigilance accrue pour les locations",
           "bullets": [
-            "Les arnaques liées à la location immobilière se multiplient, avec des escrocs proposant des biens inexistants ou déjà loués.",
+            "Les arnaques liées à la location immobilière se multiplient, avec des escrocs proposant des biens inexistants.",
             "Les victimes sont souvent sollicitées via des annonces en ligne ou des faux agents immobiliers.",
-            "Les autorités conseillent de toujours vérifier l’identité du propriétaire et de ne jamais verser d’acompte sans garantie.",
-            "Les plateformes de location en ligne renforcent leurs vérifications pour limiter ces pratiques."
+            "Les plateformes de location en ligne renforcent leurs vérifications pour limiter ces pratiques.",
+            "Les consommateurs sont invités à vérifier systématiquement l’identité des propriétaires et des intermédiaires.",
+            "Les associations de locataires et les médias alertent sur les signes révélateurs d’une arnaque."
           ],
           "sources": []
         }
