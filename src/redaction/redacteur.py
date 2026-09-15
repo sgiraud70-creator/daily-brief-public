@@ -10,7 +10,7 @@ import re
 
 from src.redaction import llm
 
-MAX_ITEMS_IN = 12       # items fournis au modèle par rubrique
+MAX_ITEMS_IN = 8        # items fournis au modèle par rubrique (limite les jetons)
 MAX_SUJETS = 7          # plafond de sélection (A8)
 MAX_BULLETS = 5
 
@@ -36,7 +36,7 @@ def _trim_items(items: list[dict]) -> list[dict]:
             "title": it.get("title", ""),
             "source": it.get("source", ""),
             "url": it.get("url", ""),
-            "resume": (it.get("summary") or "")[:220],
+            "resume": (it.get("summary") or "")[:150],
         })
     return out
 

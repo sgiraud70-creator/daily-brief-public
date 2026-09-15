@@ -8,10 +8,13 @@ le reste du code (rédacteur) n'a rien à changer.
 from __future__ import annotations
 
 import os
+import time
 
 import requests
 
 TIMEOUT = 90
+RETRIES = 4                       # réessais sur limite de débit / indisponibilité
+BACKOFF = [4, 10, 20, 40]        # secondes (palier gratuit : limites basses)
 
 
 class LLMError(Exception):
@@ -33,12 +36,20 @@ def _mistral(system: str, user: str, *, temperature: float, max_tokens: int,
     }
     if json_mode:
         payload["response_format"] = {"type": "json_object"}
-    r = requests.post("https://api.mistral.ai/v1/chat/completions",
-                      headers={"Authorization": f"Bearer {key}"},
-                      json=payload, timeout=TIMEOUT)
-    if r.status_code >= 400:
+    for attempt in range(RETRIES + 1):
+        r = requests.post("https://api.mistral.ai/v1/chat/completions",
+                          headers={"Authorization": f"Bearer {key}"},
+                          json=payload, timeout=TIMEOUT)
+        if r.status_code < 400:
+            return r.json()["choices"][0]["message"]["content"]
+        # 429 = limite de débit, 5xx = indisponibilité → on réessaie
+        if r.status_code in (429, 500, 502, 503) and attempt < RETRIES:
+            wait = BACKOFF[min(attempt, len(BACKOFF) - 1)]
+            print(f"  Mistral {r.status_code} → nouvel essai dans {wait}s "
+                  f"({attempt + 1}/{RETRIES})")
+            time.sleep(wait)
+            continue
         raise LLMError(f"Mistral {r.status_code}: {r.text[:200]}")
-    return r.json()["choices"][0]["message"]["content"]
 
 
 BACKENDS = {"mistral": _mistral}
