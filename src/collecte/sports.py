@@ -89,12 +89,14 @@ def _fetch(url: str) -> list[dict]:
 def steelers_next() -> dict | None:
     try:
         return _parse(_fetch(NFL_STEELERS), "Steelers")
-    except Exception:
+    except Exception as e:  # noqa: BLE001
+        print(f"⚠ Steelers ESPN: {e!r}")
         return None
 
 
 def psg_next() -> dict | None:
     try:
         return _parse(_fetch(PSG), "Paris Saint-Germain")
-    except Exception:
+    except Exception as e:  # noqa: BLE001
+        print(f"⚠ PSG ESPN: {e!r}")
         return None

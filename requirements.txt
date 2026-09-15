@@ -7,5 +7,5 @@ feedparser>=6.0
 Pillow>=10.0
 Jinja2>=3.1
 premailer>=3.10
-# Audio (maillon ultérieur)
-# edge-tts>=6.1
+# Audio
+edge-tts>=6.1

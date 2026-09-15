@@ -57,6 +57,11 @@ def main() -> int:
     alt = weather_table.alt_text(data, place)
     with open(os.path.join(out_dir, "weather_alt.txt"), "w", encoding="utf-8") as f:
         f.write(alt)
+    # données météo pour le script audio (matin/après-midi/soirée)
+    import json as _json
+    data_out = dict(data); data_out["vigilance"] = vig; data_out["place"] = place
+    with open(os.path.join(out_dir, "weather.json"), "w", encoding="utf-8") as f:
+        _json.dump(data_out, f, ensure_ascii=False, indent=2)
 
     print(f"✓ {png}")
     print(f"✓ repli HTML + texte alternatif")
