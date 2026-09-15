@@ -116,9 +116,25 @@ _HEURE_RE = re.compile(r"\b(\d{1,2})\s*[:h]\s*(\d{2})\b")
 _NOTE_RE = re.compile(r"\[\d+\]|\[n\s*\d+\]")
 
 
-def _season_title(today: dt.date) -> str:
+def _season_query(today: dt.date) -> str:
     start = today.year if today.month >= 7 else today.year - 1
-    return f"Saison {start}-{start + 1} du Paris Saint-Germain Football Club"
+    return f"Saison {start}-{start + 1} du Paris Saint-Germain"
+
+
+def _resolve_title(query: str) -> str | None:
+    """Trouve le titre exact de l'article via la recherche Wikipédia (robuste
+    aux variations « FC » / « Football Club » / tiret spécial)."""
+    r = requests.get(WIKI, params={
+        "action": "query", "list": "search", "srsearch": query,
+        "srlimit": 5, "format": "json", "formatversion": 2,
+    }, headers=UA, timeout=TIMEOUT)
+    r.raise_for_status()
+    hits = r.json().get("query", {}).get("search", [])
+    for h in hits:
+        t = h.get("title", "")
+        if t.lower().startswith("saison") and "paris saint-germain" in t.lower():
+            return t
+    return hits[0]["title"] if hits else None
 
 
 class _RowParser(HTMLParser):
@@ -214,8 +230,12 @@ def _venue_home(texte: str, links: list[str]) -> tuple[str, str]:
 
 
 def _wiki_psg_next(today: dt.date) -> dict | None:
-    title = _season_title(today)
+    query = _season_query(today)
     try:
+        title = _resolve_title(query)
+        if not title:
+            print(f"  (aucun article trouvé pour {query!r})")
+            return None
         r = requests.get(WIKI, params={
             "action": "parse", "page": title, "prop": "text",
             "format": "json", "redirects": 1, "formatversion": 2,
@@ -223,7 +243,7 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
         r.raise_for_status()
         data = r.json()
     except Exception as e:  # noqa: BLE001
-        print(f"⚠ PSG Wikipédia [{title}]: {e!r}")
+        print(f"⚠ PSG Wikipédia [{query}]: {e!r}")
         return None
     if "error" in data or "parse" not in data:
         print(f"  (article introuvable : {title!r})")
@@ -234,6 +254,7 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
     parser.feed(html)
 
     best: tuple[dt.date, int | None, int | None, dict] | None = None
+    futures = 0
     for row in parser.rows:
         parsed = _parse_date(row["text"])
         if not parsed:
@@ -241,14 +262,16 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
         d, hh, mm = parsed
         if d < today:
             continue  # matchs passés / dates de naissance : ignorés
+        futures += 1
         # une ligne de calendrier PSG a au moins un lien vers un club adverse
-        if _opponent(row["links"]) == "à préciser" and not row["links"]:
+        if not row["links"]:
             continue
         if best is None or d < best[0] or (d == best[0] and (hh or 0) < (best[1] or 0)):
             best = (d, hh, mm, row)
 
     if best is None:
-        print(f"  (aucun match futur repéré dans {title!r})")
+        print(f"  (article {title!r} : {len(parser.rows)} lignes, "
+              f"{futures} dates futures, aucun match exploitable)")
         return None
 
     d, hh, mm, row = best
