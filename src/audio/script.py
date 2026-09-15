@@ -6,7 +6,37 @@ moments (matin / après-midi / soirée) + vigilance (EF-17f).
 """
 from __future__ import annotations
 
+import re
+
 from src.collecte.meteo import label_for
+
+# Épellation phonétique des lettres (pour que la voix dise « pé esse gé », pas « pseug »)
+_LETTRE = {
+    "A": "a", "B": "bé", "C": "cé", "D": "dé", "E": "eu", "F": "effe", "G": "gé",
+    "H": "ache", "I": "i", "J": "ji", "K": "ka", "L": "elle", "M": "emme",
+    "N": "enne", "O": "o", "P": "pé", "Q": "ku", "R": "erre", "S": "esse",
+    "T": "té", "U": "u", "V": "vé", "W": "double vé", "X": "ixe", "Y": "i grec",
+    "Z": "zède",
+}
+# Sigles qui se prononcent comme des mots (ne pas épeler)
+_MOTS = {"OTAN", "SIDA", "PACS", "SMIC", "INSEE", "OVNI", "ONU", "UNESCO",
+         "RSA", "OPEP", "GAFAM", "RGPD", "AZERTY", "OQTF"}
+_SIGLE = re.compile(r"\b(?:[A-ZÀ-Ý]\.?){2,}")
+
+
+def _epeler(m: re.Match) -> str:
+    lettres = re.sub(r"[^A-ZÀ-Ý]", "", m.group(0).upper())
+    if lettres in _MOTS:
+        return lettres.capitalize() + " "
+    return " ".join(_LETTRE.get(c, c) for c in lettres) + " "
+
+
+def speakable(texte: str) -> str:
+    """Adapte le texte à l'oral : épelle les sigles (P.S.G → « pé esse gé »)."""
+    texte = _SIGLE.sub(_epeler, texte)
+    texte = re.sub(r"\s+([.,;:!?])", r"\1", texte)   # pas d'espace avant ponctuation
+    texte = re.sub(r"[ \t]{2,}", " ", texte)          # espaces multiples
+    return texte
 
 
 def _moment(steps: list[dict], heures: list[int]) -> tuple[str, int] | None:
@@ -50,5 +80,5 @@ def build_script(brief: dict, weather: dict | None) -> str:
                 lignes.append(b if b.endswith(".") else b + ".")
 
     lignes.append("C'était votre brief du matin. Très bonne journée.")
-    # une phrase par ligne = pauses naturelles à la lecture
-    return "\n".join(lignes)
+    # une phrase par ligne = pauses naturelles ; sigles épelés pour l'oral
+    return speakable("\n".join(lignes))

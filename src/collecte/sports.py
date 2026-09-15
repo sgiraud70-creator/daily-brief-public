@@ -55,6 +55,7 @@ def _next_event(idteam: str, mon_equipe: str) -> dict | None:
     r.raise_for_status()
     events = r.json().get("events") or []
     if not events:
+        print(f"  (aucun match à venir pour id {idteam})")
         return None
     e = events[0]  # déjà trié : prochain match
     home = e.get("strHomeTeam") or ""
