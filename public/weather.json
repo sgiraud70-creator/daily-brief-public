@@ -1,13 +1,13 @@
 {
   "current": {
-    "temp": 29,
+    "temp": 30,
     "feels": 29,
-    "code": 0,
+    "code": 2,
     "is_night": false,
     "tmax": 30,
     "tmin": 12,
     "precip_prob": 0,
-    "wind": 14
+    "wind": 12
   },
   "steps": [
     {
@@ -30,9 +30,9 @@
       "hh": "11h",
       "code": 1,
       "is_night": false,
-      "temp": 23,
+      "temp": 24,
       "precip": 0.0,
-      "wind": 2
+      "wind": 3
     },
     {
       "hh": "13h",
@@ -40,11 +40,11 @@
       "is_night": false,
       "temp": 28,
       "precip": 0.0,
-      "wind": 6
+      "wind": 5
     },
     {
       "hh": "15h",
-      "code": 1,
+      "code": 0,
       "is_night": false,
       "temp": 30,
       "precip": 0.0,
@@ -56,11 +56,11 @@
       "is_night": false,
       "temp": 29,
       "precip": 0.0,
-      "wind": 14
+      "wind": 12
     },
     {
       "hh": "19h",
-      "code": 1,
+      "code": 0,
       "is_night": false,
       "temp": 28,
       "precip": 0.0,
@@ -70,15 +70,15 @@
       "hh": "21h",
       "code": 2,
       "is_night": true,
-      "temp": 22,
+      "temp": 23,
       "precip": 0.0,
-      "wind": 4
+      "wind": 5
     },
     {
       "hh": "23h",
-      "code": 1,
+      "code": 2,
       "is_night": true,
-      "temp": 20,
+      "temp": 21,
       "precip": 0.0,
       "wind": 3
     }
@@ -86,7 +86,7 @@
   "days": [
     {
       "name": "Mer",
-      "code": 61,
+      "code": 80,
       "tmax": 20,
       "tmin": 12
     },
