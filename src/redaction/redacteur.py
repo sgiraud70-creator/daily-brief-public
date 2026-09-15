@@ -44,7 +44,7 @@ def _trim_items(items: list[dict]) -> list[dict]:
 def build_user_payload(collected: dict, deja_traites: list[str]) -> str:
     rubriques = [{"label": label, "items": _trim_items(items)}
                  for label, items in collected["rubriques"].items()]
-    return json.dumps({"rubriques": rubriques, "deja_traites": deja_traites[:120]},
+    return json.dumps({"rubriques": rubriques, "deja_traites": deja_traites[:60]},
                       ensure_ascii=False)
 
 
