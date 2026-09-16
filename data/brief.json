@@ -22,20 +22,24 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Violences sexistes et sexuelles : 1,5 milliard d'euros pour renforcer la loi",
+          "title": "Triple meurtre à Gy : la mère des victimes brise le silence",
           "bullets": [
-            "Le gouvernement annonce un investissement de 1,5 milliard d'euros pour appliquer la loi contre les violences sexistes et sexuelles.",
-            "Les mesures incluent le renforcement des moyens policiers, judiciaires et sociaux pour mieux protéger les victimes.",
-            "Cette enveloppe vise à accélérer les procédures et améliorer la prise en charge des victimes.",
-            "Le texte de loi, déjà adopté en première lecture, doit encore être finalisé avant son application.",
-            "Les associations féministes saluent l'effort financier, mais appellent à une application concrète et rapide."
+            "La mère d’Eden et Nino, assassinés avec leur mère Aurore, s’exprime pour la première fois sur ce drame.",
+            "Les trois victimes ont été retrouvées sans vie dans leur domicile de Haute-Saône.",
+            "L’enquête en cours tente d’éclaircir les circonstances de ce crime familial.",
+            "La communauté locale est sous le choc, avec des réactions de soutien et d’indignation."
           ],
-          "sources": [
-            {
-              "name": "France24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-france-le-gouvernement-promet-1-5-milliard-d-euros-pour-d%C3%A9ployer-la-loi-int%C3%A9grale"
-            }
-          ]
+          "sources": []
+        },
+        {
+          "title": "SPA Vesoul : relance après des difficultés au printemps",
+          "bullets": [
+            "La SPA de Vesoul fait face à des défis persistants malgré des efforts de restructuration.",
+            "L’association cherche à améliorer les conditions d’accueil des animaux abandonnés.",
+            "Des partenariats locaux et des campagnes de sensibilisation sont lancés pour renforcer ses ressources.",
+            "Les bénévoles et salariés s’unissent pour surmonter cette période difficile."
+          ],
+          "sources": []
         }
       ]
     },
@@ -43,50 +47,17 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Menaces de l'IA et désordres géopolitiques : un défi transnational",
+          "title": "La « narrative non-fiction » américaine en crise de légitimité",
           "bullets": [
-            "Les défis posés par l'intelligence artificielle s'aggravent face à l'instabilité mondiale croissante.",
-            "Les experts soulignent que la souveraineté nationale ne suffit pas pour répondre à ces enjeux globaux.",
-            "Les capacités de réaction des États sont réduites par les conflits et les crises internationales persistantes.",
-            "L'urgence de coopérations internationales pour encadrer l'IA est mise en avant.",
-            "Les risques incluent la désinformation, la manipulation et les menaces sur la sécurité nationale."
+            "Ce genre littéraire, à mi-chemin entre journalisme et fiction, est remis en question dans un contexte de défiance envers les médias.",
+            "Les auteurs et éditeurs tentent de préserver son rôle dans la transmission de faits vérifiés.",
+            "La montée des théories alternatives et la polarisation politique compliquent sa crédibilité.",
+            "Des débats s’engagent sur la nécessité de réinventer ce genre pour répondre aux défis contemporains."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/16/on-doit-d-autant-plus-s-inquieter-des-menaces-incertaines-de-l-ia-que-les-desordres-du-monde-reduisent-considerablement-les-capacites-de-reponses_6775209_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Arabie saoudite : tensions accrues après une prétendue attaque houthis sur La Mecque",
-          "bullets": [
-            "L'Arabie saoudite affirme avoir intercepté un drone lancé par les Houthis en direction de La Mecque.",
-            "Les rebelles yéménites démentent formellement avoir visé la ville sainte.",
-            "Cette accusation s'inscrit dans un contexte de tensions persistantes dans la région du Golfe.",
-            "Les conséquences pourraient inclure une escalade militaire ou diplomatique dans la guerre au Yémen.",
-            "La communauté internationale observe avec attention pour éviter une nouvelle crise régionale."
-          ],
-          "sources": [
-            {
-              "name": "France24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-arabie-saoudite-les-houthis-du-y%C3%A9men-ont-ils-attaqu%C3%A9-la-mecque"
-            }
-          ]
-        },
-        {
-          "title": "Union européenne : proposition d'interdiction des réseaux sociaux pour les moins de 13 ans",
-          "bullets": [
-            "Ursula von der Leyen propose une interdiction des réseaux sociaux pour les mineurs de moins de 13 ans.",
-            "Les mesures incluent des contrôles renforcés sur les données personnelles des enfants en ligne.",
-            "Cette initiative vise à protéger les jeunes contre les risques de cyberharcèlement et d’exposition précoce.",
-            "Les plateformes devront mettre en place des systèmes de vérification d'âge stricts.",
-            "Les associations de protection de l'enfance soutiennent cette mesure, mais les critiques soulignent des défis techniques."
-          ],
-          "sources": [
-            {
-              "name": "France24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-union-europ%C3%A9enne-interdiction-des-r%C3%A9seaux-sociaux-pour-les-moins-de-13-ans"
+              "url": "https://www.lemonde.fr/livres/article/2026/09/16/enquete-sur-la-narrative-non-fiction-americaine-cette-litterature-du-reel-plus-que-jamais-necessaire-a-l-heure-ou-l-ecrit-et-la-verite-sont-en-crise_6775422_3260.html"
             }
           ]
         }
@@ -96,24 +67,22 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Triple meurtre à Gy : la mère des victimes brise le silence",
+          "title": "Homme de 33 ans décède dans une collision avec deux poids lourds en Haute-Saône",
           "bullets": [
-            "Aurore, mère des deux enfants et de sa propre mère tués par leur père, partage son récit déchirant.",
-            "Elle dénonce l’absence de soutien immédiat après le drame et l’ampleur de la douleur psychologique.",
-            "Les autorités locales et associatives tentent de mettre en place un accompagnement pour les proches.",
-            "L’enquête judiciaire continue pour déterminer les circonstances précises du triple meurtre.",
-            "La communauté de Gy est profondément marquée par ce drame et organise des moments de solidarité."
+            "Un accident mortel impliquant un utilitaire et deux poids lourds a eu lieu sur une route de Haute-Saône.",
+            "Les circonstances précises de l’accident sont encore en cours d’enquête.",
+            "Les secours ont rapidement intervenu pour secourir les victimes.",
+            "La communauté locale rend hommage à la victime et exprime sa solidarité."
           ],
           "sources": []
         },
         {
-          "title": "Haute-Saône : un homme de 33 ans décède dans une collision avec deux poids lourds",
+          "title": "Un ancien militaire lance sa microentreprise de nettoyage à Navenne (Haute-Saône)",
           "bullets": [
-            "Un conducteur de 33 ans est décédé après une collision impliquant deux poids lourds sur une route de Haute-Saône.",
-            "Les circonstances de l’accident font encore l’objet d’une enquête par les gendarmes.",
-            "Les deux poids lourds impliqués ont été immobilisés et les conducteurs ont été contrôlés.",
-            "Les associations locales appellent à plus de vigilance sur les routes rurales.",
-            "Les proches de la victime expriment leur douleur et leur soutien aux familles des conducteurs impliqués."
+            "Un homme de 33 ans, ancien militaire, crée une microentreprise spécialisée dans le nettoyage professionnel.",
+            "Son parcours militaire lui a permis d’acquérir des compétences transférables dans le secteur du nettoyage.",
+            "Il s’installe à Navenne et vise à répondre aux besoins locaux en matière de services de nettoyage.",
+            "Ce projet s’inscrit dans une dynamique de reconversion professionnelle et d’entrepreneuriat local."
           ],
           "sources": []
         }
@@ -123,24 +92,87 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Meta lance Muse, un agent IA grand public aux multiples fonctions",
+          "title": "Meta lance Muse, un assistant IA grand public aux multiples fonctions",
           "bullets": [
-            "Meta présente Muse, un assistant IA conçu pour aider les utilisateurs dans leur quotidien.",
-            "Les fonctionnalités incluent la gestion des tâches, la recherche d’informations et l’assistance conversationnelle.",
-            "Muse est intégré dans les applications existantes de Meta, comme Messenger et Instagram.",
-            "Les développeurs pourront également créer des extensions personnalisées pour enrichir ses capacités.",
-            "Cette innovation s’inscrit dans la stratégie de Meta pour dominer le marché des assistants vocaux et IA."
+            "Meta introduit Muse, un agent IA conçu pour interagir avec les utilisateurs via des conversations naturelles.",
+            "Muse est capable de gérer des tâches variées, allant de la gestion de calendriers à la recherche d’informations.",
+            "Cette innovation vise à concurrencer les assistants existants comme Siri ou Google Assistant.",
+            "Les premiers tests montrent un potentiel prometteur, mais des ajustements restent nécessaires pour une utilisation fluide."
           ],
           "sources": []
         },
         {
           "title": "L’IA menace déjà l’emploi des jeunes, alertent les DRH",
           "bullets": [
-            "Les directions des ressources humaines (DRH) signalent une augmentation des risques d’emploi pour les jeunes.",
-            "L’automatisation et l’IA réduisent les postes nécessitant des compétences répétitives ou standardisées.",
-            "Les secteurs les plus touchés sont la logistique, la comptabilité et les services clients.",
-            "Les jeunes diplômés doivent se former rapidement aux nouvelles technologies pour rester compétitifs.",
-            "Les entreprises sont appelées à accompagner les jeunes dans cette transition professionnelle."
+            "Les directions des ressources humaines (DRH) expriment leur inquiétude face à l’impact de l’IA sur l’emploi des jeunes.",
+            "Les tâches répétitives et administratives sont les plus menacées par l’automatisation.",
+            "Les jeunes actifs craignent une précarisation accrue et une baisse de leur employabilité.",
+            "Des formations complémentaires sont encouragées pour s’adapter à cette nouvelle réalité professionnelle."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Diablo enfin dans Diablo 4 : un retour attendu après 30 ans",
+          "bullets": [
+            "Le démon Diablo fait enfin son apparition dans Diablo 4 après 30 ans de saga.",
+            "Cette saison, intitulée « L’héritage infernal », marque un tournant dans l’histoire du jeu.",
+            "Les joueurs peuvent enfin affronter Diablo en personne, après des années d’attente et de spéculation.",
+            "Blizzard annonce également des mises à jour régulières pour enrichir l’expérience de jeu."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2334209-diablo-enfin-dans-diablo-4-il-aura-fallu-1-jeu-2-extensions-15-saisons-et-les-30-ans-de-la-saga-pour-que-ca-devienne-realite.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Arrow muscle son offre en automatisation industrielle",
+          "bullets": [
+            "Arrow renforce son positionnement dans le domaine de l’automatisation industrielle avec de nouvelles solutions.",
+            "L’entreprise mise sur l’innovation technologique pour répondre aux besoins croissants des secteurs industriels.",
+            "Ces avancées visent à optimiser la productivité et réduire les coûts pour les entreprises.",
+            "Arrow se positionne comme un acteur clé dans la transformation numérique des industries."
+          ],
+          "sources": []
+        },
+        {
+          "title": "BackOps lève 42 millions $ en Série B pour l’automatisation logistique",
+          "bullets": [
+            "BackOps, spécialisée dans l’automatisation logistique, lève 42 millions de dollars en Série B.",
+            "Ces fonds permettront de développer des solutions technologiques pour optimiser les chaînes d’approvisionnement.",
+            "L’entreprise vise à révolutionner la logistique en intégrant l’IA et les robots avancés.",
+            "Ce financement renforce sa position sur le marché en pleine expansion de l’automatisation industrielle."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "ORNL combine plusieurs extrudeuses pour booster la productivité en impression 3D grand format",
+          "bullets": [
+            "Le laboratoire national Oak Ridge (ORNL) utilise une technologie innovante combinant plusieurs extrudeuses pour accélérer l’impression 3D.",
+            "Cette approche permet de réduire les temps de production et d’augmenter la taille des pièces imprimées.",
+            "Les applications potentielles incluent l’aérospatial, l’automobile et la construction.",
+            "Cette avancée pourrait révolutionner les industries dépendantes de l’impression 3D à grande échelle."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Du recyclage du titane à l’impression 3D : le modèle intégré de JORCAR Titanium",
+          "bullets": [
+            "JORCAR Titanium combine recyclage du titane et impression 3D pour une approche durable et innovante.",
+            "Cette méthode permet de réduire l’empreinte carbone tout en produisant des pièces de haute qualité.",
+            "Les applications incluent l’aéronautique, la médecine et l’énergie.",
+            "L’entreprise vise à devenir un leader dans la production de pièces métalliques recyclées et imprimées en 3D."
           ],
           "sources": []
         }
@@ -154,20 +186,28 @@
           "bullets": [
             "Les prélèvements à la source pour les impôts sur le revenu débutent fin septembre.",
             "La taxe foncière sera prélevée en octobre pour les propriétaires.",
-            "Les contribuables doivent vérifier leurs comptes pour éviter tout rejet de prélèvement.",
-            "Les impayés peuvent entraîner des pénalités ou des saisies sur compte bancaire.",
-            "Les services fiscaux rappellent l’importance de déclarer ses revenus pour ajuster les prélèvements."
+            "Les contribuables doivent vérifier leurs relevés et ajuster leurs paramètres si nécessaire.",
+            "Un retard de paiement peut entraîner des pénalités ou des majorations."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque aux permis de conduire : des faux candidats passent à la place des élèves en Seine-et-Marne",
+          "title": "Arnaque aux permis de conduire en Seine-et-Marne : des faux candidats ont triché",
           "bullets": [
-            "Des arnaqueurs ont réussi à passer l’examen du permis de conduire à la place d’élèves en Seine-et-Marne.",
-            "Les candidats frauduleux ont utilisé de faux documents pour tromper les examinateurs.",
-            "Les autorités locales enquêtent pour identifier les responsables et sanctionner les fraudeurs.",
-            "Les écoles de conduite et les candidats légitimes dénoncent cette pratique qui discrédite l’examen.",
-            "Les candidats sont invités à vérifier systématiquement leur identité avant de passer l’examen."
+            "Des arnaqueurs ont réussi à passer l’examen du permis de conduire à la place d’élèves réels en Seine-et-Marne.",
+            "Les candidats frauduleux ont utilisé des documents falsifiés pour tromper les examinateurs.",
+            "Les autorités enquêtent pour identifier les responsables et renforcer les contrôles.",
+            "Les victimes, privées de leur session, doivent repasser l’examen dans des conditions normales."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Comptes bancaires clôturés : les « Américains Accidentels » perdent une bataille mais pas la guerre",
+          "bullets": [
+            "Les « Américains Accidentels » (personnes ayant un compte bancaire aux États-Unis sans le savoir) perdent une bataille juridique.",
+            "Le fisc français a obtenu gain de cause dans une affaire de clôture de compte sans préavis suffisant.",
+            "Cependant, ces personnes contestent toujours la légalité de ces fermetures et envisagent des recours.",
+            "Cette situation soulève des questions sur les droits des résidents français ayant des comptes à l’étranger."
           ],
           "sources": []
         }
@@ -177,54 +217,26 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats du monde de cyclisme : parcours et dates clés du contre-la-montre à Montréal",
+          "title": "Championnats du monde de cyclisme sur route 2026 : parcours du contre-la-montre dévoilé",
           "bullets": [
-            "Les championnats du monde de cyclisme sur route 2026 débutent avec le contre-la-montre à Montréal.",
-            "Le parcours de 12,5 km est prévu pour être exigeant et technique, avec des montées et descentes.",
-            "Les favoris incluent des cyclistes comme Tadej Pogačar et Annemiek van Vleuten.",
-            "Les épreuves individuelles et par équipes se dérouleront du 16 au 21 septembre.",
-            "Les fans pourront suivre les courses en direct sur les chaînes spécialisées et en ligne."
+            "Les championnats du monde de cyclisme sur route 2026 se dérouleront à Montréal avec un contre-la-montre spectaculaire.",
+            "Le parcours, long de 27 km, est conçu pour mettre en valeur les compétences des coureurs en montée et en descente.",
+            "Les favoris mondiaux s’affronteront pour décrocher les médailles tant attendues.",
+            "Les organisateurs misent sur un événement médiatique pour promouvoir le cyclisme international."
           ],
           "sources": []
         },
         {
-          "title": "Formule 1 : calendrier 2027 dévoilé avec 24 Grands Prix et 10 sprints",
+          "title": "Formule 1 : calendrier 2027 dévoilé avec 24 Grands Prix et 10 sprints, dont un à Monaco",
           "bullets": [
-            "La Formule 1 annonce un calendrier 2027 avec 24 Grands Prix, dont un sprint à Monaco.",
-            "Les courses seront réparties sur six continents, avec une forte présence en Europe et en Asie.",
-            "Les sprints, introduits en 2026, seront maintenus et pourraient influencer le classement final.",
-            "Les équipes et pilotes s’adaptent déjà à cette nouvelle organisation pour préparer la saison.",
-            "Les fans pourront suivre les courses sur les chaînes officielles et les plateformes de streaming."
+            "La Formule 1 annonce un calendrier 2027 riche avec 24 Grands Prix et 10 sprints.",
+            "Un sprint est prévu à Monaco, ajoutant une touche de spectacle à la saison.",
+            "Les circuits emblématiques comme Bakou, Jeddah et Las Vegas figurent au programme.",
+            "Ce calendrier vise à renforcer l’attractivité de la discipline et à étendre sa présence mondiale."
           ],
           "sources": []
         }
       ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "ORNL améliore la productivité de l’impression 3D grand format avec plusieurs extrudeuses",
-          "bullets": [
-            "Le laboratoire national Oak Ridge (ORNL) combine plusieurs extrudeuses pour accélérer l’impression 3D.",
-            "Cette technique permet de réduire le temps de production tout en maintenant la qualité des pièces.",
-            "Les applications visées incluent l’aérospatial, l’automobile et la médecine.",
-            "Les chercheurs travaillent sur l’optimisation des matériaux et des logiciels pour une meilleure efficacité.",
-            "Cette innovation pourrait révolutionner les industries lourdes et les chaînes de production."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "source indisponible ce matin"
     },
     {
       "label": "Sport — Pittsburgh Steelers",

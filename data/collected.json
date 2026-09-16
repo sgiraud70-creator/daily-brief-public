@@ -1,14 +1,6 @@
 {
   "rubriques": {
-    "France": [
-      {
-        "title": "« On doit d’autant plus s’inquiéter des menaces incertaines de l’IA que les désordres du monde réduisent considérablement les capacités de réponses »",
-        "url": "https://www.lemonde.fr/idees/article/2026/09/16/on-doit-d-autant-plus-s-inquieter-des-menaces-incertaines-de-l-ia-que-les-desordres-du-monde-reduisent-considerablement-les-capacites-de-reponses_6775209_3232.html",
-        "source": "lemonde.fr",
-        "summary": "La mode actuelle, qui consiste à se draper dans sa souveraineté pour donner l’illusion de l’action face à des défis transnationaux, est une garantie d’impuissance supplémentaire face à une intelligence artificielle devenue voyou, explique, dans sa chronique, Gilles Paris, éditorialiste au « Monde ».",
-        "published": "2026-09-16T12:00:12"
-      }
-    ],
+    "France": [],
     "International": [
       {
         "title": "Enquête sur la « narrative non-fiction » américaine, cette littérature du réel plus que jamais nécessaire à l’heure où l’écrit et la vérité sont en crise",
@@ -18,39 +10,11 @@
         "published": "2026-09-16T15:20:02"
       },
       {
-        "title": "« On doit d’autant plus s’inquiéter des menaces incertaines de l’IA que les désordres du monde réduisent considérablement les capacités de réponses »",
-        "url": "https://www.lemonde.fr/idees/article/2026/09/16/on-doit-d-autant-plus-s-inquieter-des-menaces-incertaines-de-l-ia-que-les-desordres-du-monde-reduisent-considerablement-les-capacites-de-reponses_6775209_3232.html",
-        "source": "lemonde.fr",
-        "summary": "La mode actuelle, qui consiste à se draper dans sa souveraineté pour donner l’illusion de l’action face à des défis transnationaux, est une garantie d’impuissance supplémentaire face à une intelligence artificielle devenue voyou, explique, dans sa chronique, Gilles Paris, éditorialiste au « Monde ».",
-        "published": "2026-09-16T12:00:12"
-      },
-      {
         "title": "Céline Dion et les français, une histoire d'amour et d'amitié",
         "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-c%C3%A9line-dion-et-les-fran%C3%A7ais-une-histoire-d-amour-et-d-amiti%C3%A9",
         "source": "france24.com",
         "summary": "Céline Dion est devenue une icône mondiale, mais à l’époque, elle grandit dans une modeste maison à Charlemagne, en banlieue de Montréal au Québec. Issue d'une fratrie de quatorze enfants, elle s'est faite remarquer dès douze ans par René Angelil. Retour sur le parcours de la star québécoise avec Aurore Dupuis, journaliste à France 24.",
         "published": "2026-09-16T15:37:44"
-      },
-      {
-        "title": "France : le gouvernement promet 1,5 milliard d'euros pour déployer la loi intégrale",
-        "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-france-le-gouvernement-promet-1-5-milliard-d-euros-pour-d%C3%A9ployer-la-loi-int%C3%A9grale",
-        "source": "france24.com",
-        "summary": "Le gouvernement a proposé, mardi 15 septembre, de consacrer près d'1,5 milliard d'euros à la lutte contre les violences sexistes et sexuelles dans le budget 2027, un montant insuffisant selon les associations pour déployer les mesures de la loi intégrale. Les explications de Noémie Roche, journaliste à France 24.",
-        "published": "2026-09-16T15:28:57"
-      },
-      {
-        "title": "Arabie saoudite : les Houthis du Yémen ont-ils attaqué La Mecque ?",
-        "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-arabie-saoudite-les-houthis-du-y%C3%A9men-ont-ils-attaqu%C3%A9-la-mecque",
-        "source": "france24.com",
-        "summary": "L'Arabie saoudite affirme avoir intercepté un drone lancé par les Houthis en direction de La Mecque. Les rebelles yéménites démentent avoir visé la ville sainte, sur fond de reprise des combats au Yémen et de tensions croissantes avec Riyad.",
-        "published": "2026-09-16T15:28:55"
-      },
-      {
-        "title": "Union Européenne : interdiction des réseaux sociaux pour les moins de 13 ans ?",
-        "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-union-europ%C3%A9enne-interdiction-des-r%C3%A9seaux-sociaux-pour-les-moins-de-13-ans",
-        "source": "france24.com",
-        "summary": "Ursula von der Leyen a dévoilé mercredi 16 septembre des propositions très attendues pour protéger les enfants et adolescents en ligne en Europe. La présidente de la Commission européenne souhaite notamment une interdiction des réseaux sociaux aux moins de 13 ans et des comptes aux fonctions limitées pour les moins de 15 ans.",
-        "published": "2026-09-16T15:23:48"
       }
     ],
     "Actualité locale": [
@@ -64,9 +28,9 @@
       {
         "title": "Haute-Saône. Une « peine immense » : les premiers mots de la mère des deux enfants tués par leur père à Gy",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYlQ0TWtiZm4takFMVkp0VE1Ma1c5TTVnRnZ2amdERlhyRmk3c2p1UUs2VFdBVjRZTFBwYU5MODFjNWhNRGNGTnVoa3hGQmYtTl85S2ZlZ1RWSXE2S0tXS3phRDJNeTZoMC1rclVHMEtZUmQ2OFBlRnkxWElZUExtd09YRVVxWThibWlqSm5BU1JmSmxwRExPalFyaGJBMDlhSVFaeGlxYzZ5bjZTV2ROZWpQcWk1ajIwT3RaQ3RiMlNPcnZTNUNEN0s2eGl3UzZTcGlnOE5uSmhLRVNFUHY0?oc=5",
-        "source": "ledauphine.com",
+        "source": "Le Dauphiné",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYlQ0TWtiZm4takFMVkp0VE1Ma1c5TTVnRnZ2amdERlhyRmk3c2p1UUs2VFdBVjRZTFBwYU5MODFjNWhNRGNGTnVoa3hGQmYtTl85S2ZlZ1RWSXE2S0tXS3phRDJNeTZoMC1rclVHMEtZUmQ2OFBlRnkxWElZUExtd09YRVVxWThibWlqSm5BU1JmSmxwRExPalFyaGJBMDlhSVFaeGlxYzZ5bjZTV2ROZWpQcWk1ajIwT3RaQ3RiMlNPcnZTNUNEN0s2eGl3UzZTcGlnOE5uSmhLRVNFUHY0?oc=5\" target=\"_blank\">Haute-Saône. Une « peine im",
-        "published": "2026-09-16T14:19:59"
+        "published": "2026-09-16T15:35:10"
       },
       {
         "title": "En Haute-Saône, un homme de 33 ans décède dans une collision avec deux poids lourds",
@@ -78,7 +42,7 @@
       {
         "title": "Petit rôle enfants 8-10 ans — \"Gaudoin & Fils\" de Mickaël Noyau — Haute-Saône (70) — Nov 2026 — Tarif syndical",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakZhUkZ0TEFud1lpMFRkMGpWY3FCOXUwMmI1VVdwYmU2ZWlLNnNpcjdOSFpzSWRVa3Jld29RY1BSbGh6RDB5alJQelZOZERsR29RNGlVZnR5MFhzNTdKZGhfbVc4cnNqS2M4WldQaHZDV0ZFdXVfcHZUdWZfcEVpc254bDRrSEpySW9OTFdHSHN3Nm5KR3VtOC12S1NOTi1LWU5aRXpkbW9iY1pvZEc3bkI2SUxLc2cxdDBiQ3VUc01JMXoyTVphLWxzNkRUNjJqMW80NWRVNm1TUG1pY0J4bk9Mc0szWGppaGkyU0l5eWlwVlF4eUhGd2lWNWJicHc?oc=5",
-        "source": "Figurants.com",
+        "source": "figurants.com",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakZhUkZ0TEFud1lpMFRkMGpWY3FCOXUwMmI1VVdwYmU2ZWlLNnNpcjdOSFpzSWRVa3Jld29RY1BSbGh6RDB5alJQelZOZERsR29RNGlVZnR5MFhzNTdKZGhfbVc4cnNqS2M4WldQaHZDV0ZFdXVfcHZUdWZfcEVpc254bDRrSEpySW9OTFdHSHN3Nm5KR3VtOC12S1NOTi1LWU5aRXpkbW9iY1pvZEc3bkI2SUxLc2cxdDBiQ3VUc01JMXoyTVphLWxzNkRUNjJqMW80NWRVNm1TUG1pY0J4bk9Mc0szWGppaGkyU0l5eWlwVlF4eUhGd2lWNWJicHc?oc=5\" ",
         "published": "2026-09-16T07:09:59"
       },
@@ -138,7 +102,7 @@
       {
         "title": "Jadlog (Geopost) confie à Fives l’automatisation du tri de son nouveau site brésilien",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVBhR1ZoUDhmak5Od3BQa1c5Rl95SWpvQnNpcC14YUZoVUNuVW9LMXFSeHJzSkxXY3JEYVotSHhReWVDRldLbFZ1WG1obEhQR1RDN1N6WEtneHc5aW94cm5XUnNMYnd5VFZ3YV84d2F1MmNoQ0REcUsza0tWRFNfNW02ZnpYUlNYV05YOE9mbWpnRUNCWDc1MVdRYWRPTVdqYWZScDRWVHE1XzRTRVhjUGVRYVRtQV81NTZFdFBn?oc=5",
-        "source": "voxlog.fr",
+        "source": "Voxlog",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVBhR1ZoUDhmak5Od3BQa1c5Rl95SWpvQnNpcC14YUZoVUNuVW9LMXFSeHJzSkxXY3JEYVotSHhReWVDRldLbFZ1WG1obEhQR1RDN1N6WEtneHc5aW94cm5XUnNMYnd5VFZ3YV84d2F1MmNoQ0REcUsza0tWRFNfNW02ZnpYUlNYV05YOE9mbWpnRUNCWDc1MVdRYWRPTVdqYWZScDRWVHE1XzRTRVhjUGVRYVRtQV81NTZFdFBn?oc=5\" target=\"_blank\">Jadlog (Geopost) confie à Fives l’automatisation du tri de son nouveau ",
         "published": "2026-09-16T07:38:00"
       },
@@ -219,7 +183,7 @@
       {
         "title": "Impôts 2026 : le Fisc va prendre de l'argent directement sur votre compte en banque dans 10 jours",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVJkRGdGMzNfNVpyb0JmN21pQlN3UzYzR25qQi1KX0s5ZlowRlFlTEhxZGZLeVlWYjRFd3B2M21DbXBmeDNKNUFJVkZKVnZzVXV1eTNxN1E5NFRnY3IwRnRCRmVFdDA3Q1M3VXpBRVY3dHN2dkRpdkwweG1lYTNEektLdUNibDRXTHZkWXRYQVJJTXhpaFpPazV3Wi1Dd3pZSGF6bnNpeDlsbXBURi1aTW85NTI5V0V1X1A3bFhScDh0aDA?oc=5",
-        "source": "presse-citron.net",
+        "source": "Presse-citron",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVJkRGdGMzNfNVpyb0JmN21pQlN3UzYzR25qQi1KX0s5ZlowRlFlTEhxZGZLeVlWYjRFd3B2M21DbXBmeDNKNUFJVkZKVnZzVXV1eTNxN1E5NFRnY3IwRnRCRmVFdDA3Q1M3VXpBRVY3dHN2dkRpdkwweG1lYTNEektLdUNibDRXTHZkWXRYQVJJTXhpaFpPazV3Wi1Dd3pZSGF6bnNpeDlsbXBURi1aTW85NTI5V0V1X1A3bFhScDh0aDA?oc=5\" target=\"_blank\">Impôts 2026 : le Fisc va prendre de l'argent directement sur vot",
         "published": "2026-09-16T06:08:58"
       },
@@ -291,9 +255,16 @@
       {
         "title": "Une Assemblée Générale Extraordinaire… | Montpellier Handball",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWi0ydElsVG1fZXViNDAybkZRcVFhZXpLWF9LQ01ZVHZpUWtlVTNQeVJaR0YtRGprSkxLMF9MY3ZJaV9velExaFdUeHcyVllRZVdPTjByR181MWlfRUs2d3BiemtZQ21QQWE4eFVKQUg2RzhDYUctQ0JBbG8ySXlmZWNFb1ZuLTMyd3FRb2ZVMURzc3ZhejlraWZvTVU4UzZGWUd1MGx5dnJ0cF9QRjJ6ZW9uOXBLYXlpS1VNVHZVZVRNMXFhbm9BTWpmbjlZNjREUW1RNkln?oc=5",
-        "source": "montpellierhandball.com",
+        "source": "Montpellier Handball",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWi0ydElsVG1fZXViNDAybkZRcVFhZXpLWF9LQ01ZVHZpUWtlVTNQeVJaR0YtRGprSkxLMF9MY3ZJaV9velExaFdUeHcyVllRZVdPTjByR181MWlfRUs2d3BiemtZQ21QQWE4eFVKQUg2RzhDYUctQ0JBbG8ySXlmZWNFb1ZuLTMyd3FRb2ZVMURzc3ZhejlraWZvTVU4UzZGWUd1MGx5dnJ0cF9QRjJ6ZW9uOXBLYXlpS1VNVHZVZVRNMXFhbm9BTWpmbjlZNjREUW1RNkln?oc=5\" target=\"_blank\">Une Assemblée Générale Extraordinaire… ",
         "published": "2026-09-16T12:24:49"
+      },
+      {
+        "title": "Cyclisme: le Kenya accueille pour la troisième fois de suite les Championnats d’Afrique",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2wtLVRoemg3ZW9PY3B3RmQ2WGdSS2xaVnRubC1pa3pMc3FndGpVVXBfTEwzYXFIdEkyT0ZkUzRZTG0ydWFYc3hSUmYzVENzYjFBQjMzcEhtbkdFbGlBZFYtYjN2QnBUd3RuRWZva1BsMDd5SnBpazZPYmFzWExtbWFMeHBLY0RMeFdvSDlDT3B0TFZkbS0zOXpTc0llbmRDZTBuX2N4OHFiUzdBeld6VjF5dC1UNGl0Zk1NWjBUQXhEYTlsOGdNdg?oc=5",
+        "source": "RFI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2wtLVRoemg3ZW9PY3B3RmQ2WGdSS2xaVnRubC1pa3pMc3FndGpVVXBfTEwzYXFIdEkyT0ZkUzRZTG0ydWFYc3hSUmYzVENzYjFBQjMzcEhtbkdFbGlBZFYtYjN2QnBUd3RuRWZva1BsMDd5SnBpazZPYmFzWExtbWFMeHBLY0RMeFdvSDlDT3B0TFZkbS0zOXpTc0llbmRDZTBuX2N4OHFiUzdBeld6VjF5dC1UNGl0Zk1NWjBUQXhEYTlsOGdNdg?oc=5\" target=\"_blank\">Cyclisme: le Kenya accueille pour la troisième fois de su",
+        "published": "2026-09-16T08:55:10"
       },
       {
         "title": "Basket : «Le bizutage n’est pas compatible avec nos valeurs», l’Insep suspend 10 jeunes basketteurs à titre conservatoire",
@@ -305,7 +276,7 @@
       {
         "title": "Cyclisme. Quand et sur quelle chaîne suivre les championnats du monde de Montréal",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTB3R2ItY2lvX3BSN1B0R3dkR3FGSldoTF9nZDhWNElrS21EWjFKalBnRUZrTDZPVmpTdVJoazJwbjZBc3paR0I4Y1g2SEN0R19mZHd5VHZSMWExa1BHakV4c29IOVNJeUFIVU12ZWV6OHA4dkJSSDVZbHE5Y1NYVmE0ZVRueUFseEQ1QTZBU1pFNnR4Wm9UZUxKQ3dVOXZpRGtlNmpfQjlHdld3eFh2cFNkNU1Cdw?oc=5",
-        "source": "ledauphine.com",
+        "source": "Le Dauphiné",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTB3R2ItY2lvX3BSN1B0R3dkR3FGSldoTF9nZDhWNElrS21EWjFKalBnRUZrTDZPVmpTdVJoazJwbjZBc3paR0I4Y1g2SEN0R19mZHd5VHZSMWExa1BHakV4c29IOVNJeUFIVU12ZWV6OHA4dkJSSDVZbHE5Y1NYVmE0ZVRueUFseEQ1QTZBU1pFNnR4Wm9UZUxKQ3dVOXZpRGtlNmpfQjlHdld3eFh2cFNkNU1Cdw?oc=5\" target=\"_blank\">Cyclisme. Quand et sur quelle chaîne suivre les championnats du monde de Montréal",
         "published": "2026-09-16T05:30:22"
       },
@@ -317,17 +288,10 @@
         "published": "2026-09-16T13:11:49"
       },
       {
-        "title": "«C'est excitant»: les Kényans fiers d'accueillir les Championnats du monde d'athlétisme",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFBtRWI3LUNVc25tN2gyNnRXeGo4dld3ZjFNWHI1enpvcHd0Mkg3SUxjOHBOaGpMNXBDQWJsb0Z2djVTUndzMG04bTVrY1FvYW16d3pteUpTYl9pOThjTjZUcnBUVFZxSkdadEdBbi1ZSW0wT3Nqa29KeER2amJvd3hlMVJGbHhEekxsRjJwemhyNjBSN3pzMjJpRVlvT0EwSVpFQ2t6NGw4WXJiQUJ1c1RKTzJWY1hjR3JmbTZfdFVTcGE2OGk0Sy1FSDM0QQ?oc=5",
-        "source": "RFI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFBtRWI3LUNVc25tN2gyNnRXeGo4dld3ZjFNWHI1enpvcHd0Mkg3SUxjOHBOaGpMNXBDQWJsb0Z2djVTUndzMG04bTVrY1FvYW16d3pteUpTYl9pOThjTjZUcnBUVFZxSkdadEdBbi1ZSW0wT3Nqa29KeER2amJvd3hlMVJGbHhEekxsRjJwemhyNjBSN3pzMjJpRVlvT0EwSVpFQ2t6NGw4WXJiQUJ1c1RKTzJWY1hjR3JmbTZfdFVTcGE2OGk0Sy1FSDM0QQ?oc=5\" target=\"_blank\">«C'est excitant»: les Kényans fiers d'accueillir ",
-        "published": "2026-09-16T12:28:53"
-      },
-      {
         "title": "Coupe du monde de Rugby à XIII 2026 : le compte à rebours est lancé !",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUhiT2JZTW5uV1hpLS1oM05QODc0ZVNyRnBDaG5pYTlydGtTZzdYU2ozT2lFLVdObkZiZTFSOEJkSjd3Ym1Rc0hoLXB4d1dDeFZaTlFHV1JSWFVOeVhHY0o2bnBiVHNQZHBNbVc5NmFfb0ZkcHktb3JVQ2hmYlBEbzJNZnAwbkZPNUJwY2F3X3A?oc=5",
-        "source": "Fédération Française de Rugby à XIII",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUhiT2JZTW5uV1hpLS1oM05QODc0ZVNyRnBDaG5pYTlydGtTZzdYU2ozT2lFLVdObkZiZTFSOEJkSjd3Ym1Rc0hoLXB4d1dDeFZaTlFHV1JSWFVOeVhHY0o2bnBiVHNQZHBNbVc5NmFfb0ZkcHktb3JVQ2hmYlBEbzJNZnAwbkZPNUJwY2F3X3A?oc=5\" target=\"_blank\">Coupe du monde de Rugby à XIII 2026 : le compte à rebours est lancé !</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fédération Française de R",
+        "source": "ffr13.fr",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUhiT2JZTW5uV1hpLS1oM05QODc0ZVNyRnBDaG5pYTlydGtTZzdYU2ozT2lFLVdObkZiZTFSOEJkSjd3Ym1Rc0hoLXB4d1dDeFZaTlFHV1JSWFVOeVhHY0o2bnBiVHNQZHBNbVc5NmFfb0ZkcHktb3JVQ2hmYlBEbzJNZnAwbkZPNUJwY2F3X3A?oc=5\" target=\"_blank\">Coupe du monde de Rugby à XIII 2026 : le compte à rebours est lancé !</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ffr13.fr</font>",
         "published": "2026-09-16T15:00:40"
       },
       {
@@ -338,11 +302,11 @@
         "published": "2026-09-16T13:26:32"
       },
       {
-        "title": "Les WTA Finals se dérouleront à Charlotte à partir de 2027",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1VnSDhITHdXSXNXeGV5Vm5ZQk82dlMyaHpwOWhVN1JSM0Q0dTA5bjhndUZBYXNCdzBvczNmSm81R1gwWjN0d1p6ZGdWUG5XT0V4SEI0TEZrTlhOVFZlSE5xLWhOYTAtN244YUR3Z2lUbUowWlBwRVI3M2xfdW5TR1BiQU5rcE9TR2h3VjM2bVNmcUxiWnVYTnVSckFtaGZNT25VOEl2czJrRWM?oc=5",
+        "title": "L'équipe de France au complet derrière les frères Lebrun pour les Championnats d'Europe de Ljubljana",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVE5wdkpBT1RUcXZsX3N3MUhOWFNfRzRHQlRpU0h6ZXlyZlFJSEJCdGNaV3loSHFUeG5CWmJiLTc2WThFenhNM25FMHlzNVk5cTlTVWFmRzd0eFEwYV9sWHdxd0NZN1ZGVVhoNDV5YTdSbnRiMVMzZ0h3ajhYWHZvU2xwdmtKUlYtQ0pzaHBMQXEyNVNUSWpKUzlGYkd0NFZIaXZ2ZVdsTFZUODFzS3hKa0FVbjdMZG9hbWtXTW5nei1CQmFFYjFhY2pjdkFqVVoxa0dDYWx3R2RDTmVjaWVqZzN0c1ZheXVESUNtN2VLUQ?oc=5",
         "source": "L'Équipe",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1VnSDhITHdXSXNXeGV5Vm5ZQk82dlMyaHpwOWhVN1JSM0Q0dTA5bjhndUZBYXNCdzBvczNmSm81R1gwWjN0d1p6ZGdWUG5XT0V4SEI0TEZrTlhOVFZlSE5xLWhOYTAtN244YUR3Z2lUbUowWlBwRVI3M2xfdW5TR1BiQU5rcE9TR2h3VjM2bVNmcUxiWnVYTnVSckFtaGZNT25VOEl2czJrRWM?oc=5\" target=\"_blank\">Les WTA Finals se dérouleront à Charlotte à partir de 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-        "published": "2026-09-16T14:55:00"
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVE5wdkpBT1RUcXZsX3N3MUhOWFNfRzRHQlRpU0h6ZXlyZlFJSEJCdGNaV3loSHFUeG5CWmJiLTc2WThFenhNM25FMHlzNVk5cTlTVWFmRzd0eFEwYV9sWHdxd0NZN1ZGVVhoNDV5YTdSbnRiMVMzZ0h3ajhYWHZvU2xwdmtKUlYtQ0pzaHBMQXEyNVNUSWpKUzlGYkd0NFZIaXZ2ZVdsTFZUODFzS3hKa0FVbjdMZG9hbWtXTW5nei1CQmFFYjFhY2pjdkFqVVoxa0dDYWx3R2RDTmVjaWVqZzN0c1ZheXVESUNtN2VLUQ?oc=5\" target=\"_blank\">L'équ",
+        "published": "2026-09-16T15:47:21"
       },
       {
         "title": "La Coupe des Landes de basket, « ça coule dans nos veines » : qu’est-ce qui fait la magie de ce trophée qui va fêter ses 80 ans ?",
@@ -354,7 +318,7 @@
       {
         "title": "Une victoire au bout du suspense pour les… | Montpellier Handball",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUtrSndHQ1poTlNpT3c5OFJweG0zYklGVFhqVVpwUkhCbkVoMUNwZW1DOC0yTjQxQTIyRlNudlFYc2ZuWDFndFFMRUdlMElpSUltV1QyQ3ZxR0N1RTVTb3J1cGFkMUxqaEFDMnFodE9xNC04d1o3SlZOS0FaRVFEcHR0UjM4T2UxcXFHbDVGSC13NHYtSElCaDEzSTZsc3UxLU9RSHYwZEZLR3otalRn?oc=5",
-        "source": "montpellierhandball.com",
+        "source": "Montpellier Handball",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUtrSndHQ1poTlNpT3c5OFJweG0zYklGVFhqVVpwUkhCbkVoMUNwZW1DOC0yTjQxQTIyRlNudlFYc2ZuWDFndFFMRUdlMElpSUltV1QyQ3ZxR0N1RTVTb3J1cGFkMUxqaEFDMnFodE9xNC04d1o3SlZOS0FaRVFEcHR0UjM4T2UxcXFHbDVGSC13NHYtSElCaDEzSTZsc3UxLU9RSHYwZEZLR3otalRn?oc=5\" target=\"_blank\">Une victoire au bout du suspense pour les… | Montpellier Handball</a>&nbsp;&nbsp;<font colo",
         "published": "2026-09-16T12:24:47"
       }
@@ -372,5 +336,5 @@
       "error": "<unknown>:10:2: mismatched tag"
     }
   ],
-  "generated_at": "2026-09-16T15:57:22"
+  "generated_at": "2026-09-16T16:01:53"
 }
