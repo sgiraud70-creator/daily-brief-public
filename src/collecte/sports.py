@@ -281,9 +281,10 @@ def l1_club_info(today: dt.date, club: str, html: str | None = None) -> dict | N
             infos: list[str] = []
             stade = r[i_stade].strip()
             if stade:
-                cap = (r[i_cap].strip() if i_cap is not None and len(r) > i_cap else "")
-                infos.append(f"Stade : {stade}"
-                             + (f" ({cap} places)" if re.search(r"\d", cap) else ""))
+                infos.append(f"Stade : {stade}")
+            cap = (r[i_cap].strip() if i_cap is not None and len(r) > i_cap else "")
+            if re.search(r"\d", cap):
+                infos.append(f"Capacité : {cap} places")
             if i_ent is not None and len(r) > i_ent and r[i_ent].strip():
                 infos.append(f"Entraîneur : {r[i_ent].strip()}")
             if infos:
