@@ -105,20 +105,20 @@
     {
       "name": "Dim",
       "code": 3,
-      "tmax": 25,
-      "tmin": 12
+      "tmax": 26,
+      "tmin": 11
     },
     {
       "name": "Lun",
       "code": 3,
-      "tmax": 23,
-      "tmin": 10
+      "tmax": 24,
+      "tmin": 14
     },
     {
       "name": "Mar",
       "code": 0,
       "tmax": 24,
-      "tmin": 7
+      "tmin": 9
     }
   ],
   "source": "Open-Meteo",
