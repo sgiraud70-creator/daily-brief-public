@@ -1,13 +1,13 @@
 {
   "current": {
-    "temp": 20,
-    "feels": 18,
-    "code": 2,
+    "temp": 18,
+    "feels": 17,
+    "code": 3,
     "is_night": false,
     "tmax": 20,
-    "tmin": 12,
+    "tmin": 13,
     "precip_prob": 73,
-    "wind": 14
+    "wind": 13
   },
   "steps": [
     {
@@ -56,31 +56,31 @@
       "is_night": false,
       "temp": 19,
       "precip": 0.0,
-      "wind": 14
+      "wind": 13
     },
     {
       "hh": "19h",
-      "code": 2,
+      "code": 3,
       "is_night": false,
-      "temp": 20,
+      "temp": 18,
       "precip": 0.0,
       "wind": 8
     },
     {
       "hh": "21h",
-      "code": 3,
+      "code": 1,
       "is_night": true,
       "temp": 14,
       "precip": 0.0,
-      "wind": 3
+      "wind": 4
     },
     {
       "hh": "23h",
       "code": 2,
       "is_night": true,
-      "temp": 12,
+      "temp": 13,
       "precip": 0.0,
-      "wind": 2
+      "wind": 3
     }
   ],
   "days": [
@@ -92,9 +92,9 @@
     },
     {
       "name": "Ven",
-      "code": 3,
+      "code": 80,
       "tmax": 21,
-      "tmin": 13
+      "tmin": 12
     },
     {
       "name": "Sam",
