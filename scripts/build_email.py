@@ -39,8 +39,12 @@ def render(brief: dict, weather_url: str, mp3_url: str) -> str:
         loader=FileSystemLoader(os.path.join(ROOT, "templates")),
         autoescape=select_autoescape(["html", "j2"]),
     )
+    # URL secrète du bouton « Régénérer » (service serverless, cf. serverless/).
+    # Absente → le bouton n'apparaît pas (dégradation propre).
+    regen_url = os.environ.get("REGEN_URL", "").strip()
     html = env.get_template("email.html.j2").render(
-        weather_url=weather_url, mp3_url=mp3_url, weather_alt=read_alt(), **brief)
+        weather_url=weather_url, mp3_url=mp3_url, weather_alt=read_alt(),
+        regen_url=regen_url, **brief)
     # inline des styles (EF-21) ; on garde @media pour le mobile
     inliner = Premailer(html, keep_style_tags=True, remove_classes=False,
                         cssutils_logging_level=logging.CRITICAL)

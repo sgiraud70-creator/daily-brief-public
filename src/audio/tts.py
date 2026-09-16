@@ -1,10 +1,9 @@
 """Synthèse vocale à moteurs en cascade (EF-34).
 
 Ordre d'essai, du plus naturel au plus fiable :
-1. Google Cloud TTS (voix Neural2, dynamique) si la clé API est fournie.
+1. edge-tts (voix Microsoft Henri, masculine, naturelle, sans clé).
 2. gTTS (voix Google Traduction, naturelle mais plate).
-3. edge-tts (voix Microsoft) — souvent bloqué en datacenter.
-4. Piper (local, open-source, sans quota, jamais bloqué) — filet de sécurité.
+3. Piper (local, open-source, sans quota, jamais bloqué) — filet de sécurité.
 
 Chaque moteur qui échoue bascule automatiquement sur le suivant : jamais de
 brief sans audio. Conversion/recollage via ffmpeg (imageio-ffmpeg, portable).
@@ -17,11 +16,9 @@ import random
 import subprocess
 import urllib.request
 
-# Voix edge-tts (utilisées quand le service répond)
-EDGE_VOICES = [
-    "fr-FR-DeniseNeural", "fr-FR-HenriNeural", "fr-FR-EloiseNeural",
-    "fr-FR-RemyMultilingualNeural", "fr-FR-VivienneMultilingualNeural",
-]
+# Voix edge-tts (Microsoft, gratuite, sans clé). Henri = masculine française.
+# Configurable via EDGE_VOICE (ex. fr-FR-DeniseNeural, fr-FR-RemyMultilingualNeural…).
+EDGE_VOICE = os.environ.get("EDGE_VOICE", "fr-FR-HenriNeural")
 
 # Voix Piper (repli fiable). On garde uniquement une voix medium naturelle
 # (siwis, féminine) : les voix « low » (gilles) sonnent robotiques/saccadées.
@@ -31,7 +28,7 @@ HF = "https://huggingface.co/rhasspy/piper-voices/resolve/main/fr/fr_FR/"
 
 
 # ------------------------------------------------------------------ edge ----
-def _edge(text: str, out_path: str, voice: str, timeout: int = 8) -> None:
+def _edge(text: str, out_path: str, voice: str, timeout: int = 180) -> None:
     import edge_tts
 
     async def _run() -> None:
@@ -184,26 +181,19 @@ def _piper(text: str, out_path: str) -> dict:
 def synth(text: str, out_path: str) -> dict:
     """Génère le MP3. Renvoie {moteur, voix}. Lève si tous les moteurs échouent."""
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    # 0) Google Cloud TTS (voix Neural2, dynamique) si la clé API est fournie
+    # 1) edge-tts (voix Microsoft Henri, naturelle) — délai généreux (brief long)
     try:
-        info = _google_cloud(text, out_path)
+        _edge(text, out_path, EDGE_VOICE)
         if os.path.getsize(out_path) > 1000:
-            return info
+            return {"moteur": "edge-tts", "voix": EDGE_VOICE}
     except Exception as e:  # noqa: BLE001
-        print(f"  Google Cloud TTS indisponible ({e!r}) → essai gTTS")
-    # 1) gTTS (voix Google Traduction, naturelle) — peut être bloqué en datacenter
+        print(f"  edge-tts indisponible ({e!r}) → essai gTTS")
+    # 2) gTTS (voix Google Traduction, naturelle mais plate)
     try:
         info = _gtts(text, out_path)
         if os.path.getsize(out_path) > 1000:
             return info
     except Exception as e:  # noqa: BLE001
-        print(f"  gTTS indisponible ({e!r}) → essai edge-tts")
-    # 1) edge-tts (essai court : souvent bloqué en datacenter)
-    try:
-        _edge(text, out_path, random.choice(EDGE_VOICES), timeout=8)
-        if os.path.getsize(out_path) > 1000:
-            return {"moteur": "edge-tts", "voix": "fr-FR"}
-    except Exception as e:  # noqa: BLE001
-        print(f"  edge-tts indisponible ({e!r}) → repli Piper")
-    # 2) repli Piper (fiable)
+        print(f"  gTTS indisponible ({e!r}) → repli Piper")
+    # 3) repli Piper (local, fiable)
     return _piper(text, out_path)

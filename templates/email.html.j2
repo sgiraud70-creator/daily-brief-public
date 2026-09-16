@@ -112,6 +112,12 @@
   <tr><td class="pad" align="center" style="padding:26px 34px;">
     <div style="border-top:1px solid #2c2c34;padding-top:22px;">
       <a href="{{ mp3_url }}" class="btn">&#9654;&nbsp;&nbsp;Réécouter le brief</a>
+      {% if regen_url %}
+      <div style="margin-top:14px;">
+        <a href="{{ regen_url }}" class="btn"
+           style="background:transparent;color:#c9a24b;border:1px solid #6e561f;">&#8635;&nbsp;&nbsp;Régénérer le brief</a>
+      </div>
+      {% endif %}
       <div class="serif" style="font-size:18px;color:#c9a24b;margin-top:16px;">Le Brief</div>
       <div class="footer" style="margin-top:6px;">
         Votre synthèse quotidienne, à lire et à écouter.<br>

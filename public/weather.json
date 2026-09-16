@@ -1,13 +1,13 @@
 {
   "current": {
-    "temp": 19,
+    "temp": 18,
     "feels": 18,
     "code": 3,
     "is_night": false,
     "tmax": 20,
-    "tmin": 12,
+    "tmin": 13,
     "precip_prob": 73,
-    "wind": 14
+    "wind": 13
   },
   "steps": [
     {
@@ -56,31 +56,31 @@
       "is_night": false,
       "temp": 19,
       "precip": 0.0,
-      "wind": 14
+      "wind": 13
     },
     {
       "hh": "19h",
-      "code": 2,
+      "code": 3,
       "is_night": false,
-      "temp": 20,
+      "temp": 18,
       "precip": 0.0,
       "wind": 8
     },
     {
       "hh": "21h",
-      "code": 3,
+      "code": 1,
       "is_night": true,
       "temp": 14,
       "precip": 0.0,
-      "wind": 3
+      "wind": 4
     },
     {
       "hh": "23h",
       "code": 2,
       "is_night": true,
-      "temp": 12,
+      "temp": 13,
       "precip": 0.0,
-      "wind": 2
+      "wind": 3
     }
   ],
   "days": [
@@ -92,33 +92,33 @@
     },
     {
       "name": "Ven",
-      "code": 3,
-      "tmax": 22,
-      "tmin": 13
+      "code": 80,
+      "tmax": 21,
+      "tmin": 12
     },
     {
       "name": "Sam",
       "code": 3,
       "tmax": 24,
-      "tmin": 10
+      "tmin": 9
     },
     {
       "name": "Dim",
       "code": 3,
-      "tmax": 25,
-      "tmin": 12
+      "tmax": 26,
+      "tmin": 11
     },
     {
       "name": "Lun",
       "code": 3,
-      "tmax": 23,
-      "tmin": 10
+      "tmax": 24,
+      "tmin": 14
     },
     {
       "name": "Mar",
       "code": 0,
       "tmax": 24,
-      "tmin": 7
+      "tmin": 9
     }
   ],
   "source": "Open-Meteo",

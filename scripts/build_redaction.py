@@ -47,8 +47,33 @@ def build_fete_rubrique() -> dict | None:
 
 
 def build_sport_rubriques() -> list[dict]:
-    steelers = _match_sujet(sports.steelers_next(), "les Steelers")
-    psg = _match_sujet(sports.psg_next(), "le PSG")
+    # Steelers : prochain match + classement AFC Nord + classement adversaire
+    # + 3 infos sur l'équipe. Tout est déterministe (aucune invention).
+    sm = sports.steelers_next()
+    steelers = _match_sujet(sm, "les Steelers")
+    sctx = sports.steelers_context(sm)
+    if sctx.get("mon_rang"):
+        steelers["bullets"].append(f"Classement : {sctx['mon_rang']}")
+    if sctx.get("adv_rang"):
+        steelers["bullets"].append(f"Adversaire au classement : {sctx['adv_rang']}")
+    if sctx.get("infos"):
+        steelers["bullets"].append("Les Steelers — " + " · ".join(sctx["infos"]["infos"]))
+
+    # PSG : prochain match + classement Ligue 1 + Ligue des champions (si en lice)
+    # + classement de l'adversaire + 3 infos sur l'adversaire.
+    pm = sports.psg_next()
+    psg = _match_sujet(pm, "le PSG")
+    pctx = sports.psg_context(pm)
+    if pctx.get("l1"):
+        psg["bullets"].append(f"Classement : {pctx['l1']}")
+    if pctx.get("ucl"):
+        psg["bullets"].append(f"Ligue des champions : {pctx['ucl']}")
+    if pctx.get("adv_rang"):
+        psg["bullets"].append(f"Adversaire au classement : {pctx['adv_rang']}")
+    if pctx.get("adv_infos"):
+        ai = pctx["adv_infos"]
+        psg["bullets"].append(f"{ai['nom']} — " + " · ".join(ai["infos"]))
+
     return [
         {"label": "Sport — Pittsburgh Steelers", "sujets": [steelers]},
         {"label": "Sport — PSG", "sujets": [psg]},
