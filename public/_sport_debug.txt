@@ -20,12 +20,15 @@
   {'mon_rang': "3e de l'AFC Nord (1-0)", 'adv_rang': "New England Patriots : 4e de l'AFC Nord (0-1)", 'infos': {'nom': 'Pittsburgh Steelers', 'infos': ['Stade : Acrisure Stadium', 'Ville : Pittsburgh, Pennsylvania', 'Fondé en 1933']}}
 
 ===== Prochain match PSG =====
-  {'adversaire': 'Olympique de Marseille', 'domicile': "à l'extérieur", 'competition': 'Ligue 1', 'date_txt': 'dimanche 20 septembre à 20h45', 'stade': '', 'diffusion': 'Ligue 1+ Arbitrage : François Letexier', 'source_name': 'Wikipédia', 'source_url': 'https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain'}
+  {'adversaire': 'Olympique de Marseille', 'domicile': "à l'extérieur", 'competition': 'Ligue 1', 'date_txt': 'dimanche 20 septembre à 20h45', 'stade': '', 'diffusion': 'Ligue 1+', 'source_name': 'Wikipédia', 'source_url': 'https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain'}
   contexte :
-  {'l1': '8e de Ligue 1 — 5 pts en 4 matchs', 'ucl': '1er de la phase de ligue (3 pts)', 'adv_rang': 'Olympique de Marseille : 13e de Ligue 1 (3 pts)', 'adv_infos': {'nom': 'Olympique de Marseille Youth', 'infos': ['Ville : Marseille, France', 'Fondé en 0']}}
+  {'l1': '8e de Ligue 1 — 5 pts en 4 matchs', 'ucl': '1er de la phase de ligue (3 pts)', 'adv_rang': 'Olympique de Marseille : 13e de Ligue 1 (3 pts)', 'adv_infos': {'nom': 'Olympique de Marseille Youth', 'infos': ['Ville : Marseille, France']}}
 
 ===== UCL PSG (best-effort) =====
   {'rang': 1, 'pts': 3, 'source_url': "https://fr.wikipedia.org/wiki/Ligue_des_champions_de_l'UEFA_2026-2027"}
 
 ===== Infos équipe Steelers =====
   {'nom': 'Pittsburgh Steelers', 'infos': ['Stade : Acrisure Stadium', 'Ville : Pittsburgh, Pennsylvania', 'Fondé en 1933']}
+
+===== Infos équipe OM (vérif filtre 'Youth' + année) =====
+  {'nom': 'Olympique de Marseille Youth', 'infos': ['Ville : Marseille, France']}
