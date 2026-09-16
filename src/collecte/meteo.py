@@ -136,9 +136,17 @@ def normalize(raw: dict, tz: str) -> dict:
     return {"current": current, "steps": steps, "days": days, "source": "Open-Meteo"}
 
 
+_VIG_COULEURS = {1: "vert", 2: "jaune", 3: "orange", 4: "rouge"}
+_VIG_PHENO = {
+    "1": "vent violent", "2": "pluie-inondation", "3": "orages", "4": "crues",
+    "5": "neige-verglas", "6": "canicule", "7": "grand froid",
+    "8": "avalanches", "9": "vagues-submersion",
+}
+
+
 def get_vigilance(departement: str = "70", app_id: Optional[str] = None) -> Optional[dict]:
-    """Vigilance Météo-France (dép. 70). Régénère le token depuis l'Application ID
-    (EF-17a). Sans secret disponible, renvoie None (dégradé propre)."""
+    """Vigilance Météo-France (dép. 70). Régénère un token OAuth depuis
+    l'Application ID (EF-17a). Sans secret, renvoie None (dégradé propre)."""
     if not app_id:
         return None
     try:
@@ -150,21 +158,60 @@ def get_vigilance(departement: str = "70", app_id: Optional[str] = None) -> Opti
         )
         token_resp.raise_for_status()
         token = token_resp.json()["access_token"]
-        # NB: endpoint exact de vigilance à confirmer lors du maillon météo complet.
         v = requests.get(
             "https://public-api.meteofrance.fr/public/DPVigilance/v1/cartevigilance/encours",
             headers={"Authorization": f"Bearer {token}"},
             timeout=REQUEST_TIMEOUT,
         )
         v.raise_for_status()
-        return _parse_vigilance(v.json(), departement)
-    except Exception:
+        payload = v.json()
+        try:  # DEBUG temporaire : dump pour caler la structure réelle
+            import json as _json
+            with open("public/_vigilance_debug.json", "w", encoding="utf-8") as _f:
+                _json.dump(payload, _f, ensure_ascii=False)
+        except Exception:  # noqa: BLE001
+            pass
+        return _parse_vigilance(payload, departement)
+    except Exception as e:  # noqa: BLE001
+        print(f"⚠ vigilance Météo-France : {e!r}")
         return None
 
 
 def _parse_vigilance(payload: dict, departement: str) -> Optional[dict]:
-    # Placeholder : la structure réelle sera branchée au maillon météo complet.
-    return None
+    """Extrait la vigilance du jour (échéance J) pour le département.
+    Renvoie {level, phenomenes} si jaune ou plus, sinon None (vert = pas d'alerte).
+    """
+    try:
+        periods = payload["product"]["periods"]
+    except (KeyError, TypeError):
+        return None
+    per = next((p for p in periods
+                if str(p.get("echeance", "")).upper() in ("J", "0")), None)
+    per = per or (periods[0] if periods else None)
+    if not per:
+        return None
+    domains = (per.get("timelaps") or {}).get("domain_ids") or []
+    dom = next((d for d in domains
+                if str(d.get("domain_id")) == str(departement)), None)
+    if not dom:
+        return None
+    try:
+        color = int(dom.get("max_color_id") or 1)
+    except (TypeError, ValueError):
+        color = 1
+    if color < 2:
+        return None  # vert : pas d'alerte
+    phenos = []
+    for it in dom.get("phenomenon_items") or []:
+        try:
+            c = int(it.get("phenomenon_max_color_id") or 1)
+        except (TypeError, ValueError):
+            c = 1
+        if c >= 2:
+            phenos.append(_VIG_PHENO.get(str(it.get("phenomenon_id")), "phénomène"))
+    niveau = _VIG_COULEURS.get(color, "?")
+    print(f"  → vigilance dép.{departement} : {niveau} {phenos}")
+    return {"level": niveau, "phenomenes": phenos}
 
 
 # --- Données d'exemple (pour le rendu hors-ligne / dev, réseau externe bloqué) ---
