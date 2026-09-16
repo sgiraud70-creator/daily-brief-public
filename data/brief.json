@@ -1,7 +1,7 @@
 {
   "date_str": "Mercredi 16 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
@@ -22,34 +22,59 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Élections régionales : l’AfD vise le Mecklembourg-Poméranie-Occidentale en Allemagne",
+          "title": "Rumeur des « gilets jaunes » : un appel à manifester le 17 octobre démenti, mais le mouvement reste actif sur les réseaux",
           "bullets": [
-            "L’extrême droite allemande (AfD) cherche à s’imposer dans un Land historiquement dominé par les sociaux-démocrates.",
-            "Les chantiers navals de Rostock, bastion historique de la gauche, pourraient devenir un enjeu clé des élections du 20 septembre.",
-            "Le parti AfD mise sur un discours anti-immigration et anti-UE pour séduire les électeurs mécontents.",
-            "Une victoire de l’AfD dans ce Land marquerait une avancée significative pour l’extrême droite en Allemagne."
+            "Une fausse information circule sur les réseaux sociaux, prétendant à un retour des manifestations des « gilets jaunes » le 17 octobre, avec des appels présentés comme « officiels ».",
+            "TikTok et d’autres plateformes ont amplifié cette rumeur, sans source crédible confirmant une mobilisation organisée.",
+            "Le gouvernement et les syndicats n’ont pas validé cette date, mais le sujet relance les débats sur la représentation des revendications sociales.",
+            "Les « gilets jaunes » restent actifs sur les réseaux, avec des initiatives locales et des discussions sur les réformes économiques."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/en-allemagne-les-chantiers-navals-de-rostock-un-bastion-de-gauche-convoite-par-l-extreme-droite_6775210_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/16/les-gilets-jaunes-de-retour-le-17-octobre-itineraire-d-une-rumeur-nee-sur-tiktok_6775349_823448.html"
             }
           ]
         },
         {
-          "title": "Prix des carburants : blocage d’un dépôt pétrolier dans l’Hérault par des pêcheurs",
+          "title": "Retraites : Laurent Pietraszewski dénonce un « comptage entre générations » qui ignore les droits des retraités",
           "bullets": [
-            "Une centaine de pêcheurs méditerranéens ont bloqué un dépôt pétrolier dans l’Hérault en protestation contre les prix élevés des carburants.",
-            "La ministre de la pêche doit rencontrer les pêcheurs pour trouver une solution aux revendications économiques.",
-            "Les pêcheurs menacent d’intensifier leur mouvement si aucune avancée n’est enregistrée lors de cette rencontre.",
-            "Ce blocage s’inscrit dans un contexte de tensions persistantes sur les prix de l’énergie en France."
+            "L’ancien secrétaire d’État aux retraites, Laurent Pietraszewski, publie une tribune au *Monde* pour rappeler que les retraités n’ont pas de dette envers les actifs.",
+            "Il critique les débats politiques qui opposent générations, soulignant que les retraites sont financées par les cotisations sociales et non par les impôts généraux.",
+            "Selon lui, les réformes doivent garantir l’équilibre du système sans remettre en cause les droits acquis.",
+            "Il appelle à une approche inclusive pour éviter une fracture sociale et politique."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/09/16/prix-des-carburants-nouveau-blocage-d-un-depot-petrolier-dans-l-herault-par-une-centaine-de-pecheurs_6775142_3244.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/16/laurent-pietraszewski-ex-secretaire-d-etat-charge-des-retraites-puisque-l-on-veut-faire-les-comptes-entre-generations-faisons-les_6775203_3232.html"
             }
           ]
+        },
+        {
+          "title": "Souveraineté numérique : les opérateurs télécoms européens refusent de financer seuls la transition hors de Huawei",
+          "bullets": [
+            "Dix-sept dirigeants d’opérateurs européens (Orange, Deutsche Telekom, etc.) dénoncent la pression de Bruxelles pour exclure Huawei des réseaux 5G.",
+            "Ils estiment que la facture de la souveraineté numérique ne doit pas leur incomber entièrement, sans garantie de sécurité renforcée.",
+            "La Commission européenne insiste sur la nécessité de réduire les risques géopolitiques liés aux équipements chinois.",
+            "Les opérateurs appellent à une approche équilibrée, combinant sécurité et compétitivité économique."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/16/les-operateurs-telecoms-europeens-n-ont-pas-la-fibre-genereuse-ils-refusent-de-payer-seuls-la-facture-de-la-souverainete_6775193_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "Impôts 2026 : le Fisc préleviera directement sur les comptes bancaires à partir du 26 septembre",
+          "bullets": [
+            "À partir du 26 septembre, l’administration fiscale préleviera automatiquement les sommes dues sur les comptes bancaires des contribuables en cas de retard ou de non-paiement.",
+            "Cette mesure concerne les impôts sur le revenu, la taxe d’habitation résiduelle et d’autres créances fiscales.",
+            "Les contribuables peuvent vérifier leurs dettes et régulariser leur situation via leur espace en ligne sur impots.gouv.fr.",
+            "Cette approche vise à accélérer le recouvrement tout en informant préalablement les concernés."
+          ],
+          "sources": []
         }
       ]
     },
@@ -57,62 +82,62 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Menace russe : Sergueï Lavrov avertit l’Europe d’une « guerre très courte » en cas d’attaque contre la Russie",
+          "title": "Primaire de la gauche française : cinq candidats en lice après l’exclusion de Philippe Brun",
           "bullets": [
-            "Le ministre russe des Affaires étrangères, Sergueï Lavrov, a menacé l’Europe d’une réponse militaire rapide et brutale.",
-            "Moscou assure n’avoir « aucune intention d’attaquer l’Europe » mais met en garde contre les conséquences d’une intervention occidentale.",
-            "Cette déclaration intervient dans un contexte de tensions accrues autour de la guerre en Ukraine.",
-            "L’OTAN et les pays européens maintiennent une posture de vigilance face aux menaces russes."
+            "Les dossiers des candidats ont été déposés pour la primaire de la gauche, avec cinq noms retenus : Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Yannick Jadot et Manuel Apaire.",
+            "Philippe Brun, initialement en lice, a été exclu pour non-respect des critères de parrainages.",
+            "Les débats porteront sur les enjeux économiques, écologiques et sociaux pour la prochaine présidentielle.",
+            "Le calendrier prévoit des primaires ouvertes aux militants et électeurs, avec un premier tour prévu en janvier 2027."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-serguei-lavrov-le-ministre-des-affaires-etrangeres-russe-menace-l-europe-d-une-guerre-tres-courte-en-cas-d-attaque-contre-la-russie_6772184_3210.html"
+              "name": "france24.com",
+              "url": "http://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260916-primaire-de-la-gauche-cinq-candidats-en-lice-philippe-brun-exclu"
             }
           ]
         },
         {
-          "title": "Yémen : 100 000 déplacés depuis la reprise des combats",
+          "title": "Iran : tensions internes après la reprise des négociations avec les États-Unis",
           "bullets": [
-            "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) annonce au moins 100 000 déplacés depuis la reprise des hostilités.",
-            "La crise humanitaire s’aggrave avec des populations fuyant les zones de conflit dans le sud du Yémen.",
-            "Les Nations unies appellent à une cessation immédiate des combats pour éviter une catastrophe humanitaire.",
-            "Les combats opposent principalement les forces gouvernementales aux Houthis, soutenus par l’Iran."
+            "Des généraux ultraconservateurs iraniens sont accusés d’avoir saboté les pourparlers de paix avec Washington, selon des sources proches du pouvoir.",
+            "La reprise des tensions diplomatiques a ravivé les divisions au sein du régime, opposant partisans et opposants aux négociations.",
+            "Les États-Unis et l’Iran échangent des accusations sur la violation de l’accord nucléaire de 2015, notamment via des frappes sur des bases militaires iraniennes.",
+            "Le risque d’escalade militaire persiste, avec des manœuvres navales iraniennes dans le détroit d’Ormuz."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-y%C3%A9men-au-moins-100-000-d%C3%A9plac%C3%A9s-depuis-la-reprise-des-combats"
+              "name": "france24.com",
+              "url": "http://www.france24.com/fr/asie-pacifique/20260916-iran-g%C3%A9n%C3%A9raux-ultraconservateurs-ont-ils-sabot%C3%A9-accord-de-paix-%C3%A9tats-unis-ormuz"
             }
           ]
         },
         {
-          "title": "Sénégal : le président Faye limoge une centaine de directeurs liés à l’opposition",
+          "title": "Union européenne : le Canada invité à discuter d’une éventuelle adhésion",
           "bullets": [
-            "Le président Bassirou Diomaye Faye a limogé près de 100 directeurs généraux, principalement des membres du Pastef (parti d’opposition).",
-            "Cette purge vise à renforcer le contrôle politique sur l’administration et les entreprises publiques.",
-            "Les limogés sont accusés de s’opposer aux réformes gouvernementales et de freiner les initiatives du nouveau pouvoir.",
-            "Le Pastef dénonce une « chasse aux sorcières » et une tentative de marginalisation de ses soutiens."
+            "Ursula von der Leyen a ouvert la porte à une coopération renforcée avec le Canada, évoquant une « évolution majeure » pour l’UE.",
+            "Mark Carney, ancien gouverneur de la Banque d’Angleterre, est invité à Strasbourg pour discuter des enjeux économiques et géopolitiques.",
+            "Cette initiative pourrait préparer le terrain pour des négociations sur un partenariat stratégique ou une adhésion future.",
+            "Les discussions porteront sur le commerce, la sécurité et les défis climatiques communs."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-s%C3%A9n%C3%A9gal-bassirou-diomaye-faye-limoge-une-centaine-de-directeurs"
+              "name": "france24.com",
+              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-union-europ%C3%A9enne-le-premier-ministre-canadien-mark-carney-invit%C3%A9-sp%C3%A9cial-%C3%A0-strasbourg"
             }
           ]
         },
         {
-          "title": "Ceuta : Mbappé, Vinicius et Konaté masquent un message de soutien aux habitants",
+          "title": "Menace de crise financière si la bulle de l’intelligence artificielle éclate",
           "bullets": [
-            "Avant un match du Real Madrid, Kylian Mbappé, Vinicius Junior et Ibrahima Konaté ont partiellement masqué un message de soutien aux habitants de Ceuta.",
-            "Ceuta, territoire espagnol en Afrique du Nord, fait face à des tensions politiques et sociales récurrentes.",
-            "Les joueurs ont utilisé leur visibilité pour attirer l’attention sur la situation des habitants et exprimer leur solidarité.",
-            "Le message, initialement caché, a été interprété comme un soutien aux droits et à la dignité des Ceutis."
+            "Des analystes alertent sur les risques systémiques liés à une éventuelle bulle spéculative dans le secteur de l’IA.",
+            "Une correction brutale pourrait fragiliser les marchés de la dette et déclencher une crise similaire à celle de 2008.",
+            "Les investisseurs sont invités à surveiller les indicateurs de surévaluation dans les startups et les géants technologiques.",
+            "Les régulateurs internationaux appellent à une régulation plus stricte pour éviter une crise économique majeure."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-ceuta-mbapp%C3%A9-vinicius-et-konat%C3%A9-masquent-un-message-de-soutien-aux-habitants"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/16/que-se-passera-t-il-si-la-bulle-de-l-ia-eclate_6774995_3232.html"
             }
           ]
         }
@@ -122,22 +147,32 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Haute-Saône : collision mortelle impliquant un utilitaire et deux poids lourds",
+          "title": "Haute-Saône : mère des victimes du triple meurtre de Gy exprime son « douleur immense »",
           "bullets": [
-            "Un homme de 33 ans est décédé dans une collision impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
-            "Les circonstances de l’accident font l’objet d’une enquête pour déterminer les responsabilités.",
-            "Les secours ont été rapidement mobilisés pour porter assistance à la victime.",
-            "Cet accident rappelle l’importance des mesures de sécurité routière dans les zones à fort trafic."
+            "La mère des deux enfants (Eden et Nino) et de leur père, tués par leur père à Gy (Haute-Saône), partage ses premiers mots après le drame.",
+            "Elle dénonce l’absence de réponses et appelle à une meilleure protection des familles vulnérables.",
+            "L’enquête judiciaire est toujours en cours pour déterminer les circonstances précises du crime.",
+            "La communauté locale et les associations se mobilisent pour soutenir les proches des victimes."
           ],
           "sources": []
         },
         {
-          "title": "Haute-Saône : mère des victimes du triple meurtre de Gy exprime son chagrin",
+          "title": "Haute-Saône : un homme de 33 ans décède dans une collision impliquant deux poids lourds",
           "bullets": [
-            "La mère des deux enfants tués par leur père à Gy partage ses premiers mots après le drame, exprimant une « peine immense ».",
-            "Le père, détenu, est accusé d’avoir commis le meurtre de ses deux enfants et d’avoir tenté de se suicider.",
-            "Les autorités judiciaires enquêtent sur les circonstances du drame et les antécédents familiaux.",
-            "La communauté locale et les associations apportent leur soutien à la famille endeuillée."
+            "Un conducteur de 33 ans est décédé après une collision entre son véhicule et deux poids lourds sur une route de Haute-Saône.",
+            "Les circonstances de l’accident sont encore en cours d’enquête, mais les premiers éléments suggèrent une perte de contrôle du véhicule.",
+            "Les secours ont été alertés rapidement, mais les blessures étaient fatales malgré les soins prodigués.",
+            "La préfecture a lancé une campagne de sensibilisation aux risques routiers dans la région."
+          ],
+          "sources": []
+        },
+        {
+          "title": "SPA Vesoul : relance après des difficultés financières au printemps",
+          "bullets": [
+            "La SPA de Vesoul, accablée par des difficultés financières au printemps, entame une nouvelle phase avec un plan de redressement.",
+            "L’association mise sur des partenariats locaux et des campagnes de sensibilisation pour améliorer sa situation.",
+            "Les bénévoles et les donateurs sont appelés à renforcer leur soutien pour assurer la pérennité des missions de protection animale.",
+            "Une réunion publique est organisée pour présenter les actions concrètes prévues dans les prochains mois."
           ],
           "sources": []
         }
@@ -147,22 +182,52 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
+          "title": "Course aux modèles d’IA : 4,4 mois séparent les géants des modèles open source",
+          "bullets": [
+            "Selon un rapport de Mozilla, les géants de l’IA (comme Google ou Meta) publient des modèles plus puissants que les alternatives open source en moyenne 4,4 mois plus tôt.",
+            "Cette disparité soulève des questions sur l’accès équitable aux technologies et l’innovation collaborative.",
+            "Les modèles open source progressent rapidement, mais restent en retard face aux investissements massifs des entreprises privées.",
+            "Les régulateurs appellent à une meilleure transparence et à des partenariats public-privé pour réduire cet écart."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2334035-la-course-aux-modeles-les-plus-puissants-sintensifie-44-mois-separent-les-modeles-open-source-des-geants-de-lia.html"
+            }
+          ]
+        },
+        {
           "title": "Meta lance Muse, un agent IA grand public aux multiples fonctions",
           "bullets": [
-            "Meta a dévoilé Muse, un assistant IA conçu pour interagir avec les utilisateurs via des conversations et des tâches quotidiennes.",
-            "L’outil est intégré à des applications comme Messenger et peut répondre à des questions, organiser des rendez-vous ou fournir des recommandations.",
-            "Muse vise à concurrencer des assistants comme Google Assistant ou Siri en offrant une expérience plus personnalisée.",
-            "Les développeurs pourront également intégrer Muse à leurs propres applications via des APIs."
+            "Meta introduit Muse, un assistant IA conçu pour les utilisateurs grand public, capable de gérer des tâches variées (planification, réponses aux questions, etc.).",
+            "Contrairement à d’autres agents IA, Muse est intégré directement dans les applications Meta (comme Messenger ou Instagram).",
+            "Les développeurs pourront personnaliser Muse via des outils no-code pour des usages spécifiques.",
+            "Cette initiative vise à concurrencer des solutions comme Google Assistant ou Apple Siri dans un écosystème unifié."
           ],
           "sources": []
         },
         {
           "title": "L’IA menace déjà l’emploi des jeunes, alertent les DRH",
           "bullets": [
-            "Les directions des ressources humaines (DRH) signalent une inquiétude croissante concernant l’impact de l’IA sur l’emploi des jeunes.",
-            "Les outils d’IA automatisent des tâches répétitives, réduisant les besoins en main-d’œuvre pour certains postes.",
-            "Les jeunes actifs craignent une précarisation accrue et une difficulté à trouver des emplois stables.",
-            "Les entreprises doivent repenser leurs stratégies de formation pour adapter les compétences des employés aux évolutions technologiques."
+            "Les directions des ressources humaines (DRH) signalent une inquiétude croissante face à l’impact de l’IA sur l’emploi des jeunes.",
+            "Les outils automatisés remplacent progressivement des tâches administratives et opérationnelles, réduisant les opportunités d’embauche.",
+            "Les jeunes actifs craignent une précarisation accrue et appellent à des formations adaptées pour rester compétitifs.",
+            "Les entreprises sont invitées à repenser leurs processus de recrutement et de formation pour intégrer l’IA de manière responsable."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "BackOps lève 42 millions $ en Série B pour automatiser la logistique",
+          "bullets": [
+            "La startup française BackOps, spécialisée dans l’automatisation logistique, lève 42 millions de dollars en Série B.",
+            "Ses solutions visent à optimiser les entrepôts et les chaînes d’approvisionnement via l’IA et le robotique.",
+            "L’entreprise cible les secteurs du e-commerce et de la grande distribution en Europe et aux États-Unis.",
+            "Ce financement permettra d’accélérer le développement de ses technologies et d’étendre son équipe."
           ],
           "sources": []
         }
@@ -172,47 +237,21 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Prélèvement automatique des impôts : le Fisc va prélever directement sur les comptes bancaires dès le 26 septembre",
+          "title": "Arnaque aux permis de conduire en Seine-et-Marne : des faux candidats ont passé l’examen à la place des élèves",
           "bullets": [
-            "À partir du 26 septembre, l’administration fiscale prélevera automatiquement les impôts dus sur les comptes bancaires des contribuables.",
-            "Cette mesure vise à réduire les impayés et à simplifier les procédures de recouvrement.",
-            "Les contribuables doivent vérifier leurs relevés bancaires pour éviter tout incident de paiement.",
-            "Les impôts sur le revenu et la taxe foncière font partie des prélèvements concernés."
+            "Des arnaqueurs ont réussi à passer l’examen du permis de conduire à la place de candidats réels en Seine-et-Marne.",
+            "Les faux candidats, identifiés par la préfecture, ont été signalés via des formulaires dédiés pour signaler les fraudes.",
+            "Les autorités ont suspendu les examens dans certains centres pour vérifier les irrégularités.",
+            "Les victimes sont invitées à déposer plainte et à contacter la préfecture pour régulariser leur situation."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque aux permis de conduire : des faux candidats passent à la place des élèves en Seine-et-Marne",
+          "title": "Budget 2027 : deux pistes envisagées pour les pensions et les impôts",
           "bullets": [
-            "Des arnaques aux examens du permis de conduire ont été révélées en Seine-et-Marne, où des candidats non qualifiés ont passé l’examen à la place d’autres personnes.",
-            "Les faux candidats ont été identifiés grâce à des vidéosurveillances et des témoignages.",
-            "Les autorités judiciaires enquêtent pour déterminer les responsables et sanctionner ces fraudes.",
-            "Les victimes, privées de leur chance de réussir l’examen, appellent à une vigilance accrue."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Championnats du monde de cyclisme : parcours du contre-la-montre à Montréal dévoilé",
-          "bullets": [
-            "Les championnats du monde de cyclisme sur route 2026 à Montréal incluent un contre-la-montre dont le parcours a été dévoilé.",
-            "Le parcours de 25,5 km est prévu pour être exigeant, avec des montées techniques et des descentes rapides.",
-            "Les favoris, dont des coureurs français et belges, se préparent intensément pour cette épreuve.",
-            "Les organisateurs espèrent attirer un large public pour cette compétition majeure."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Formule 1 : calendrier 2027 dévoilé avec 24 Grands Prix",
-          "bullets": [
-            "Le calendrier de la saison 2027 de Formule 1 a été dévoilé, avec 24 Grands Prix prévus, dont une course sprint à Monaco.",
-            "La saison s’étendra sur 22 semaines, avec des courses dans des pays variés comme l’Arabie Saoudite, le Japon et les États-Unis.",
-            "Les organisateurs visent à renforcer l’attractivité de la discipline avec des circuits innovants et des événements spéciaux.",
-            "Les pilotes et équipes se préparent déjà à cette nouvelle saison riche en défis."
+            "Le projet de budget 2027 explore deux pistes pour réformer les pensions et le système fiscal.",
+            "Une possible augmentation des cotisations sociales est envisagée pour équilibrer les comptes de la Sécurité sociale.",
+            "1"
           ],
           "sources": []
         }
