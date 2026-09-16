@@ -7,7 +7,7 @@ name: Test dev (réel)
 on:
   push:
     branches: [claude/project-overview-kalf7c]
-    paths-ignore: ["public/**", "data/collected.json", "data/brief.json", "data/history.json"]
+    paths-ignore: ["public/**", "data/collected.json", "data/brief.json", "data/history.json", "scripts/debug_sports.py", ".github/workflows/sportdbg.yml"]
   workflow_dispatch:
 
 permissions:
@@ -33,9 +33,6 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-
-      - name: DEBUG sport (structure TheSportsDB, temporaire)
-        run: python -m scripts.debug_sports
 
       - name: Météo réelle (Open-Meteo)
         run: python -m scripts.build_weather

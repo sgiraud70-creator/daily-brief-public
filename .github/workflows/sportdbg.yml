@@ -1,0 +1,42 @@
+name: DEBUG sport (temporaire)
+
+# Workflow de diagnostic LÉGER : exécute uniquement la sonde des tables de
+# classement Wikipédia et publie public/_sport_debug.txt sur la branche.
+# ~1 min (pas de Mistral). À SUPPRIMER une fois les parseurs écrits.
+
+on:
+  push:
+    branches: [claude/project-overview-kalf7c]
+    paths: [scripts/debug_sports.py, .github/workflows/sportdbg.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportdbg
+  cancel-in-progress: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/project-overview-kalf7c
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - run: python -m scripts.debug_sports
+      - name: Publier le diagnostic
+        run: |
+          git config user.name  "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add public/_sport_debug.txt
+          if git diff --cached --quiet; then
+            echo "Rien à publier."
+          else
+            git commit -m "debug(sport): dump structures classements Wikipédia"
+            git push
+          fi
