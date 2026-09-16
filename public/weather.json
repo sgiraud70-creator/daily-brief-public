@@ -93,14 +93,14 @@
     {
       "name": "Ven",
       "code": 3,
-      "tmax": 22,
+      "tmax": 21,
       "tmin": 13
     },
     {
       "name": "Sam",
       "code": 3,
       "tmax": 24,
-      "tmin": 10
+      "tmin": 9
     },
     {
       "name": "Dim",

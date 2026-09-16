@@ -22,32 +22,27 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Le Monde lance ses propres sondages électoraux",
+          "title": "Triple meurtre à Gy : les proches brisent leur silence",
           "bullets": [
-            "Le journal lance une série de sondages internes pour évaluer les intentions de vote en période électorale.",
-            "Une démarche inédite pour renforcer l'indépendance et la transparence des données.",
-            "Les résultats seront publiés régulièrement pour suivre l'évolution des préférences politiques.",
-            "Cette initiative vise à contrer les biais potentiels des instituts privés et à offrir une vision plus neutre."
+            "La mère des deux enfants tués, Eden et Nino, ainsi qu’Aurore, la sœur de la victime, expriment leur douleur et leur colère.",
+            "Les enquêteurs poursuivent leurs investigations pour déterminer les mobiles du crime.",
+            "La communauté locale est en deuil, avec des manifestations de soutien aux familles.",
+            "Un procès est attendu pour juger l’auteur des faits, identifié comme le père des enfants."
           ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/videos/video/2026/09/16/pourquoi-le-monde-publie-ses-propres-sondages_6775189_1669088.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Vincent Bolloré et l’influence politique d’extrême droite décryptée dans un livre",
+          "title": "Crise des carburants : Andorre attire les automobilistes français",
           "bullets": [
-            "Le livre « La Droite de Dieu » explore les liens entre le milliardaire et des réseaux d’extrême droite.",
-            "Analyse des stratégies politiques et idéologiques mises en place depuis plusieurs années.",
-            "Un portrait détaillé de l’entreprise politique et des réseaux d’influence de Bolloré.",
-            "L’ouvrage révèle des connexions entre le patronat et des mouvements conservateurs et nationalistes."
+            "Les prix de l’essence à moins de 1,70 € le litre en Andorre incitent les Français à faire le plein.",
+            "La frontière franco-andorrane voit une affluence record, avec des files d’attente parfois longues.",
+            "Les distributeurs andorrans subissent une pression logistique et des pénuries locales.",
+            "La France envisage des mesures pour limiter cette fuite des consommateurs vers l’étranger."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/16/la-droite-de-dieu-vincent-bollore-un-milliardaire-en-mission-un-livre-enquete-sur-l-entreprise-politique-d-extreme-droite-lancee-par-le-puissant-patron_6775418_3232.html"
+              "name": "France24",
+              "url": "http://www.france24.com/fr/france/20260916-france-crise-des-carburants-andorre-moins-de-1-70-euro-le-litre-sans-plomb-plein-de-clients-essence"
             }
           ]
         }
@@ -57,77 +52,62 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Effondrement d’une mine d’or au Soudan : au moins 82 morts",
+          "title": "Madagascar : référendum constitutionnel prévu en juin 2027 après une année de tensions politiques",
           "bullets": [
-            "La mine d’Al-Zaraa s’est effondrée mardi, entraînant une tragédie humaine majeure.",
-            "Un nombre indéterminé de personnes restent encore coincées sous les décombres.",
-            "Les secours tentent d’identifier les victimes et d’accéder aux survivants.",
-            "Ce drame souligne les conditions dangereuses et souvent non régulées de l’exploitation minière au Soudan."
+            "Les manifestations massives des jeunes Malgaches en 2025 ont marqué le début d’une crise politique non résolue.",
+            "Le gouvernement actuel prépare un référendum pour légitimer une transition politique controversée.",
+            "Les observateurs internationaux surveillent de près la légitimité du processus électoral.",
+            "Les promesses non tenues des autorités ont alimenté un mécontentement généralisé."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/09/16/soudan-au-moins-82-morts-dans-l-effondrement-d-une-mine-d-or_6775426_3212.html"
+              "name": "France24",
+              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-madagascar-transition-politique-un-r%C3%A9f%C3%A9rendum-attendu-en-juin-2027"
             }
           ]
         },
         {
-          "title": "La Chine alerte sur les risques de l’intelligence artificielle",
+          "title": "Iran : quatre ans après la mort de Mahsa Amini, la répression persiste et les manifestations se multiplient",
           "bullets": [
-            "Le chef du renseignement chinois met en garde contre les menaces posées par l’IA.",
-            "Les risques incluent la cybersécurité, la désinformation et les perturbations géopolitiques.",
-            "La Chine rejoint les débats internationaux sur la régulation de cette technologie.",
-            "Cette déclaration intervient dans un contexte de course technologique avec les États-Unis."
+            "Amnesty International qualifie la répression post-2022 de « crimes contre l’humanité ».",
+            "Des milliers de citoyens continuent de manifester pour les droits des femmes et des libertés.",
+            "Le régime iranien maintient une surveillance et une répression accrue des opposants.",
+            "Les manifestations sont violemment réprimées par les forces de sécurité."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/la-chine-confie-a-son-tour-ses-peurs-sur-l-intelligence-artificielle_6775423_3210.html"
+              "name": "France24",
+              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-iran-femme-vie-libert%C3%A9-quatre-ans-apr%C3%A8s-la-mort-de-masha-amini"
             }
           ]
         },
         {
-          "title": "L’OMS signale des progrès dans la lutte contre Ebola en RDC",
+          "title": "Canada : une identité culturelle plus européenne que nord-américaine selon un ancien ambassadeur",
           "bullets": [
-            "Des signes encourageants dans la réponse à l’épidémie, malgré sa persistance.",
-            "Les essais cliniques sur les traitements et vaccins montrent des résultats prometteurs.",
-            "L’épidémie continue de progresser et de tuer, nécessitant une vigilance accrue.",
-            "L’OMS appelle à renforcer les efforts de prévention et de soins."
+            "Frank McKenna, ancien ambassadeur du Canada à Washington, souligne les affinités culturelles entre le Canada et l’Europe.",
+            "Le Premier ministre canadien, Mark Carney, doit s’exprimer devant le Parlement européen jeudi.",
+            "Les relations diplomatiques et économiques entre le Canada et l’Europe restent solides malgré les tensions géopolitiques.",
+            "Cette proximité culturelle influence les politiques étrangères et commerciales du Canada."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/09/16/ebola-en-rdc-des-signes-encourageants-dans-la-lutte-contre-l-epidemie-qui-continue-de-progresser-et-de-tuer-declare-l-oms_6775382_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/16/frank-mckenna-ancien-ambassadeur-du-canada-a-washington-culturellement-le-canada-est-plus-proche-de-l-europe-que-des-etats-unis_6775419_3210.html"
             }
           ]
         },
         {
-          "title": "L’UE propose au Canada un statut de membre associé",
+          "title": "Relations France-Afrique : une refonte nécessaire selon Bruno Fuchs, président de la Commission des Affaires étrangères",
           "bullets": [
-            "Ursula von der Leyen suggère un partenariat renforcé entre le Canada et l’UE.",
-            "Ce statut n’a pas encore de cadre juridique défini et soulève des interrogations.",
-            "Le Canada pourrait bénéficier d’un accès privilégié aux marchés et aux politiques européennes.",
-            "La proposition vise à renforcer les liens économiques et stratégiques entre les deux entités."
+            "Bruno Fuchs souligne un changement profond dans les dynamiques des relations avec les partenaires africains.",
+            "Les enjeux de souveraineté et de coopération économique sont au cœur des discussions.",
+            "La France cherche à rééquilibrer ses relations avec l’Afrique, notamment après des tensions diplomatiques récentes.",
+            "Les autorités africaines réclament une meilleure prise en compte de leurs aspirations politiques et économiques."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/ursula-von-der-leyen-propose-au-canada-de-devenir-le-premier-membre-associe-de-l-union-europeenne_6775420_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Un drone houthis intercepté au-dessus de La Mecque",
-          "bullets": [
-            "La coalition saoudienne accuse les Houthis d’avoir lancé une attaque de drone vers La Mecque.",
-            "Cette attaque pourrait être une escalade dans le conflit au Yémen et ses répercussions régionales.",
-            "Les tensions dans la région du Golfe restent élevées, avec des risques de conflits indirects.",
-            "Les autorités saoudiennes renforcent la surveillance aérienne pour éviter de nouvelles menaces."
-          ],
-          "sources": [
-            {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-arabie-saoudite-un-drone-des-houthis-intercept%C3%A9-la-mecque-vis%C3%A9e"
+              "name": "France24",
+              "url": "http://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20260916-les-relations-avec-nos-partenaires-africains-ont-chang%C3%A9-bruno-fuchs"
             }
           ]
         }
@@ -137,22 +117,12 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Triple meurtre à Gy : la mère des victimes brise le silence",
+          "title": "SPA Vesoul : relancer les activités après une période difficile",
           "bullets": [
-            "La mère des enfants assassinés partage son traumatisme et son indignation.",
-            "Elle dénonce l’absence de réponses et l’ampleur de la douleur persistante.",
-            "Un appel à la justice et à la prévention des violences familiales.",
-            "L’enquête continue pour identifier les responsables et comprendre les motivations."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Haute-Saône : un homme décède dans une collision avec deux poids lourds",
-          "bullets": [
-            "Un accident mortel impliquant un utilitaire et deux poids lourds sur une route de Haute-Saône.",
-            "Les circonstances de l’accident sont encore en cours d’enquête.",
-            "Les secours ont rapidement intervenu pour secourir la victime.",
-            "Cet incident rappelle l’importance de la vigilance sur les routes fréquentées par des véhicules lourds."
+            "La SPA Vesoul a connu des difficultés majeures au printemps 2026, entraînant une baisse d’activité et des critiques.",
+            "L’association mise sur une refonte organisationnelle et des partenariats locaux pour se relancer.",
+            "Les bénévoles et les équipes tentent de retrouver une stabilité financière et opérationnelle.",
+            "Des événements publics sont organisés pour sensibiliser et recueillir des dons."
           ],
           "sources": []
         }
@@ -162,44 +132,54 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Ubisoft brade son catalogue de jeux sur PC",
+          "title": "Meta lance Muse, un agent IA grand public aux multiples fonctions",
           "bullets": [
-            "L’éditeur propose des réductions importantes sur des licences emblématiques comme Assassin’s Creed et Rayman.",
-            "Une stratégie pour relancer l’intérêt des joueurs et valoriser des titres historiques.",
-            "Les offres concernent principalement les jeux sur PC, avec des prix attractifs.",
-            "Cette opération s’inscrit dans une dynamique de diversification et de fidélisation des clients."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2334215-assassins-creed-rayman-far-cry-ubisoft-brade-tout-son-catalogue-de-jeux-sur-pc.html"
-            }
-          ]
-        },
-        {
-          "title": "Meta lance Muse, un agent IA grand public",
-          "bullets": [
-            "Muse est un assistant IA conçu pour aider les utilisateurs dans des tâches variées au quotidien.",
-            "Disponible sur plusieurs plateformes, il promet d’améliorer l’efficacité et la productivité.",
-            "Les fonctionnalités incluent la gestion des tâches, la recherche d’informations et l’assistance conversationnelle.",
-            "Meta mise sur cette innovation pour renforcer son écosystème numérique et concurrencer d’autres acteurs de l’IA."
+            "Muse est conçu pour interagir naturellement avec les utilisateurs via des conversations textuelles ou vocales.",
+            "L’outil promet d’assister dans des tâches quotidiennes, comme la gestion des emails ou la planification.",
+            "Les fonctionnalités incluent la création de contenu, la recherche d’informations et l’aide à la prise de décision.",
+            "Meta mise sur l’IA pour renforcer son écosystème social et concurrencer d’autres acteurs comme Google ou Microsoft."
           ],
           "sources": []
         },
         {
-          "title": "La Nasa publie une photo d’un alignement Lune-Vénus prise depuis l’Ain",
+          "title": "L’IA menace déjà l’emploi des jeunes selon les DRH",
           "bullets": [
-            "Une image rare capturée depuis la France, montrant un alignement céleste entre la Lune et Vénus.",
-            "La photo a été prise en plein jour, offrant une perspective unique sur les corps célestes.",
-            "La Nasa met en avant cette image pour sensibiliser au ciel et à l’astronomie.",
-            "Un rappel de l’importance de l’observation et de la science dans notre quotidien."
+            "Les directeurs des ressources humaines alertent sur l’impact de l’IA sur les postes des jeunes travailleurs.",
+            "Les tâches administratives et répétitives sont les plus exposées à l’automatisation.",
+            "Les entreprises cherchent à former leurs employés pour les adapter aux nouveaux outils.",
+            "Les jeunes diplômés doivent se spécialiser pour éviter la précarité liée à l’IA."
+          ],
+          "sources": []
+        },
+        {
+          "title": "EV Clinic ouvre son premier atelier en France pour réparer les batteries de voitures électriques",
+          "bullets": [
+            "EV Clinic, spécialiste croate, propose désormais des services de réparation de batteries en région parisienne.",
+            "L’objectif est de réduire les coûts et l’impact environnemental liés au remplacement des batteries.",
+            "Les réparations concernent principalement les véhicules électriques et hybrides récent.",
+            "Cette initiative pourrait accélérer l’adoption des véhicules électriques en France."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2333741-la-nasa-publie-sur-son-site-cette-photo-dun-rare-alignement-lune-venus-prise-en-plein-jour-depuis-lain.html"
+              "url": "https://www.numerama.com/vroom/2334161-reparer-la-batterie-plutot-que-la-changer-le-specialiste-ev-clinic-ouvre-son-premier-atelier-en-france.html"
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "BackOps lève 42 millions de dollars en Série B pour développer son automatisation logistique",
+          "bullets": [
+            "La startup française BackOps vise à révolutionner la logistique avec des solutions automatisées.",
+            "Les fonds serviront à renforcer ses technologies d’intelligence artificielle et d’optimisation des chaînes d’approvisionnement.",
+            "L’entreprise cible les secteurs du e-commerce et de la distribution.",
+            "Cette levée de fonds renforce sa position sur le marché européen de l’automatisation."
+          ],
+          "sources": []
         }
       ]
     },
@@ -207,22 +187,22 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Prélèvement à la source : échéances fiscales à ne pas manquer",
+          "title": "Prélèvement à la source : échéances fiscales à ne pas manquer en septembre et octobre",
           "bullets": [
-            "Les prélèvements à la source pour les impôts sur le revenu débutent fin septembre.",
-            "La taxe foncière sera prélevée en octobre pour les propriétaires.",
-            "Les contribuables doivent vérifier leurs comptes pour éviter tout incident de paiement.",
-            "Un rappel des échéances importantes pour éviter les pénalités et les oublis."
+            "Le prélèvement à la source pour les impôts sur le revenu est prévu pour fin septembre.",
+            "La taxe foncière doit être réglée en octobre pour les propriétaires.",
+            "Les contribuables doivent vérifier leurs comptes pour éviter les découverts.",
+            "Les impôts en ligne permettent de suivre et régler ses échéances facilement."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque aux permis de conduire en Seine-et-Marne : des faux candidats à l’examen",
+          "title": "Arnaque aux permis de conduire : des faux candidats passent à la place des élèves en Seine-et-Marne",
           "bullets": [
-            "Des individus ont frauduleusement passé l’examen du permis de conduire à la place d’élèves.",
-            "Les autorités enquêtent pour identifier les responsables et prévenir de nouvelles tentatives.",
-            "Un rappel de la gravité des fraudes aux examens officiels et des risques encourus.",
-            "Les candidats doivent rester vigilants et signaler toute anomalie."
+            "Des candidats non qualifiés ont réussi à passer l’examen du permis de conduire à la place d’élèves réels.",
+            "Les autorités enquêtent pour identifier les responsables et prévenir de nouvelles fraudes.",
+            "Les écoles de conduite et les candidats légitimes sont mis en difficulté par ces pratiques.",
+            "Les sanctions pour fraude au permis de conduire peuvent aller jusqu’à 3 ans de prison et 45 000 € d’amende."
           ],
           "sources": []
         }
@@ -232,62 +212,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Calendrier des Championnats du monde de cyclisme 2026 : contre-la-montre détaillé",
+          "title": "Championnats du monde de cyclisme sur route 2026 : parcours et enjeux du contre-la-montre",
           "bullets": [
-            "Découverte du parcours du contre-la-montre lors des Championnats du monde de cyclisme.",
-            "Un événement majeur pour les cyclistes professionnels et amateurs.",
-            "Les détails du parcours et les enjeux pour les athlètes sont présentés.",
-            "Les fans pourront suivre les performances et les défis des coureurs."
+            "Les championnats du monde de cyclisme sur route se dérouleront à Montréal en septembre 2026.",
+            "Le contre-la-montre, discipline exigeante, mettra en lumière les performances individuelles des coureurs.",
+            "Les favoris, dont des Français, visent la victoire dans cette épreuve chronométrée.",
+            "Les organisateurs ont conçu un parcours technique et varié pour maximiser l’intérêt des spectateurs."
           ],
           "sources": []
         },
         {
-          "title": "Formule 1 : calendrier 2027 dévoilé avec 24 Grands Prix et 10 sprints",
+          "title": "Formule 1 : calendrier 2027 dévoilé avec 24 Grands Prix et 10 sprints, dont un à Monaco",
           "bullets": [
-            "Le calendrier de la saison 2027 de Formule 1 est officiellement annoncé.",
-            "24 Grands Prix prévus, dont un sprint à Monaco.",
-            "Une saison riche en défis et en innovations pour les équipes et les pilotes.",
-            "Les fans pourront suivre une saison intense et variée sur les circuits du monde entier."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "ORNL améliore la productivité de l’impression 3D grand format",
-          "bullets": [
-            "L’ORNL combine plusieurs extrudeuses pour augmenter l’efficacité des impressions 3D.",
-            "Une avancée technologique pour accélérer la production de pièces complexes et volumineuses.",
-            "Cette innovation pourrait révolutionner les industries manufacturières et aérospatiales.",
-            "Les applications potentielles incluent la construction, l’automobile et l’énergie."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "BackOps lève 42 millions $ pour l’automatisation logistique",
-          "bullets": [
-            "La startup BackOps obtient un financement en série B pour développer ses solutions d’automatisation.",
-            "L’entreprise vise à optimiser les chaînes logistiques et à réduire les coûts opérationnels.",
-            "Cette levée de fonds reflète l’intérêt croissant pour les technologies d’automatisation dans le secteur.",
-            "BackOps pourrait accélérer son expansion et renforcer son offre technologique."
-          ],
-          "sources": []
-        },
-        {
-          "title": "L’IA menace l’emploi des jeunes, alertent les DRH",
-          "bullets": [
-            "Les directeurs des ressources humaines soulignent l’impact de l’IA sur l’emploi des jeunes.",
-            "Les compétences humaines et relationnelles deviennent cruciales dans un marché du travail en mutation.",
-            "Les entreprises doivent adapter leurs formations pour accompagner cette transition technologique.",
-            "Un appel à la vigilance sur les inégalités potentielles créées par l’automatisation."
+            "La saison 2027 de Formule 1 comptera 24 Grands Prix, dont un sprint à Monaco.",
+            "Le calendrier inclut des courses en Europe, Amérique du Nord et Asie.",
+            "Les sprints, introduits pour dynamiser les week-ends de course, suscitent un vif intérêt.",
+            "Les équipes et pilotes se préparent déjà à cette nouvelle saison riche en défis techniques et stratégiques."
           ],
           "sources": []
         }
