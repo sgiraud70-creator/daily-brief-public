@@ -205,7 +205,12 @@ def _standing_of(table: list[dict], nom: str) -> dict | None:
 
 
 # ---- Ligue 1 : « Championnat de France de football AAAA-AAAA » (fr) ----------
-def l1_standings(today: dt.date) -> list[dict]:
+def _l1_page(today: dt.date) -> str:
+    start = today.year if today.month >= 7 else today.year - 1
+    return f"Championnat de France de football {start}-{start + 1}"
+
+
+def l1_standings(today: dt.date, html: str | None = None) -> list[dict]:
     """Classement général de Ligue 1 : [{rang, equipe, pts, j}] dans l'ordre.
 
     Plusieurs tables partagent l'en-tête « Rang Équipe Pts J G N P Bp Bc Diff »
@@ -213,13 +218,12 @@ def l1_standings(today: dt.date) -> list[dict]:
     totalise le plus de matchs joués (domicile + extérieur) : on le sélectionne
     sur la somme des J. Aucune invention : on ne renvoie que ce qui est lu.
     """
-    start = today.year if today.month >= 7 else today.year - 1
-    title = f"Championnat de France de football {start}-{start + 1}"
-    try:
-        html = _wiki_html(title, "fr")
-    except Exception as e:  # noqa: BLE001
-        print(f"⚠ classement L1 [{title}]: {e!r}")
-        return []
+    if html is None:
+        try:
+            html = _wiki_html(_l1_page(today), "fr")
+        except Exception as e:  # noqa: BLE001
+            print(f"⚠ classement L1 : {e!r}")
+            return []
     best, best_total = [], -1
     for rows in _tables(html):
         head = [_norm(c) for c in rows[0]]
@@ -243,6 +247,48 @@ def l1_standings(today: dt.date) -> list[dict]:
         if parsed and total > best_total:
             best, best_total = parsed, total
     return best
+
+
+def l1_club_info(today: dt.date, club: str, html: str | None = None) -> dict | None:
+    """3 infos sur un club de L1 (stade, capacité, entraîneur), lues dans la
+    table « présentation des clubs » de la page du championnat — source française
+    fiable, aucune invention. Renvoie None si le club ou la table est introuvable."""
+    if not club:
+        return None
+    if html is None:
+        try:
+            html = _wiki_html(_l1_page(today), "fr")
+        except Exception as e:  # noqa: BLE001
+            print(f"⚠ infos club L1 : {e!r}")
+            return None
+    cible = set(_norm(club).split())
+    for rows in _tables(html):
+        head = [_norm(c) for c in rows[0]]
+
+        def _col(mot: str) -> int | None:
+            return next((i for i, c in enumerate(head) if mot in c), None)
+
+        i_club, i_stade = _col("club"), _col("stade")
+        i_cap, i_ent = _col("capacite"), _col("entraineur")
+        if i_club is None or i_stade is None:
+            continue
+        for r in rows[1:]:
+            if len(r) <= i_stade:
+                continue
+            mots = set(_norm(r[i_club]).split())
+            if len(cible & mots) < max(1, len(cible) - 1):
+                continue
+            infos: list[str] = []
+            stade = r[i_stade].strip()
+            if stade:
+                cap = (r[i_cap].strip() if i_cap is not None and len(r) > i_cap else "")
+                infos.append(f"Stade : {stade}"
+                             + (f" ({cap} places)" if re.search(r"\d", cap) else ""))
+            if i_ent is not None and len(r) > i_ent and r[i_ent].strip():
+                infos.append(f"Entraîneur : {r[i_ent].strip()}")
+            if infos:
+                return {"nom": r[i_club].strip(), "infos": infos[:3]}
+    return None
 
 
 # ---- NFL : classement de division sur la page « 2026 X season » (en) ---------
@@ -483,7 +529,12 @@ def psg_context(match: dict | None, today: dt.date | None = None) -> dict:
     lice), classement du prochain adversaire (L1) et 3 infos sur l'adversaire."""
     today = today or dt.datetime.now(PARIS).date()
     ctx: dict = {"l1": None, "ucl": None, "adv_rang": None, "adv_infos": None}
-    table = l1_standings(today)
+    try:
+        html = _wiki_html(_l1_page(today), "fr")   # une seule requête, partagée
+    except Exception as e:  # noqa: BLE001
+        print(f"⚠ page Ligue 1 : {e!r}")
+        html = ""
+    table = l1_standings(today, html or None)
     me = _standing_of(table, "Paris Saint-Germain")
     if me:
         ctx["l1"] = (f"{_ord(me['rang'])} de Ligue 1 — {me['pts']} pts "
@@ -497,5 +548,6 @@ def psg_context(match: dict | None, today: dt.date | None = None) -> dict:
         if arow:
             ctx["adv_rang"] = (f"{adv} : {_ord(arow['rang'])} de Ligue 1 "
                                f"({arow['pts']} pts)")
-        ctx["adv_infos"] = team_info(adv)
+        # 3 infos sur l'adversaire depuis la page L1 (source française fiable)
+        ctx["adv_infos"] = l1_club_info(today, adv, html or None)
     return ctx

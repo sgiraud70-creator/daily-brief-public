@@ -50,8 +50,9 @@ log(f"  {sports.ucl_standing_psg(today)}")
 log("\n===== Infos équipe Steelers =====")
 log(f"  {sports.team_info('Pittsburgh Steelers')}")
 
-log("\n===== Infos équipe OM (vérif filtre 'Youth' + année) =====")
-log(f"  {sports.team_info('Olympique de Marseille')}")
+log("\n===== Infos club L1 adversaire (page championnat) =====")
+log(f"  OM  → {sports.l1_club_info(today, 'Olympique de Marseille')}")
+log(f"  Lens→ {sports.l1_club_info(today, 'RC Lens')}")
 
 os.makedirs("public", exist_ok=True)
 with open("public/_sport_debug.txt", "w", encoding="utf-8") as f:
