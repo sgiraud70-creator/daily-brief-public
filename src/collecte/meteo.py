@@ -149,20 +149,26 @@ def get_vigilance(departement: str = "70", app_id: Optional[str] = None) -> Opti
     l'Application ID (EF-17a). Sans secret, renvoie None (dégradé propre)."""
     if not app_id:
         return None
+    url = ("https://public-api.meteofrance.fr/public/DPVigilance/v1/"
+           "cartevigilance/encours")
+
+    def _fetch(bearer: str):
+        return requests.get(url, headers={"Authorization": f"Bearer {bearer}"},
+                            timeout=REQUEST_TIMEOUT)
+
     try:
-        token_resp = requests.post(
-            "https://portail-api.meteofrance.fr/token",
-            headers={"Authorization": f"Basic {app_id}"},
-            data={"grant_type": "client_credentials"},
-            timeout=REQUEST_TIMEOUT,
-        )
-        token_resp.raise_for_status()
-        token = token_resp.json()["access_token"]
-        v = requests.get(
-            "https://public-api.meteofrance.fr/public/DPVigilance/v1/cartevigilance/encours",
-            headers={"Authorization": f"Bearer {token}"},
-            timeout=REQUEST_TIMEOUT,
-        )
+        # 1) le secret est peut-être déjà un token d'accès → Bearer direct
+        v = _fetch(app_id)
+        if v.status_code in (401, 403):
+            # 2) sinon, le secret est un « Application ID » → échange OAuth
+            tok = requests.post(
+                "https://portail-api.meteofrance.fr/token",
+                headers={"Authorization": f"Basic {app_id}"},
+                data={"grant_type": "client_credentials"},
+                timeout=REQUEST_TIMEOUT,
+            )
+            tok.raise_for_status()
+            v = _fetch(tok.json()["access_token"])
         v.raise_for_status()
         payload = v.json()
         try:  # DEBUG temporaire : dump pour caler la structure réelle
