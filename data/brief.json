@@ -1,7 +1,7 @@
 {
   "date_str": "Mercredi 16 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
@@ -22,47 +22,62 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Violences dans le périscolaire parisien : appel à réformer le cadre légal",
+          "title": "Crise agricole : les Hauts-de-France submergés par la chute des prix de la pomme de terre",
           "bullets": [
-            "Le maire de Paris, Emmanuel Grégoire, a plaidé devant la commission d’enquête du Sénat pour une refonte du cadre légal encadrant les violences dans les espaces périscolaires.",
-            "Il souligne une dégradation des conditions de sécurité, avec des incidents récurrents impliquant des mineurs et des personnels éducatifs.",
-            "Les propositions incluent des mesures de prévention renforcée et une meilleure coordination entre les acteurs locaux.",
-            "Cette prise de position intervient après plusieurs affaires médiatisées ces derniers mois."
+            "Les agriculteurs des Hauts-de-France subissent une crise majeure en raison de la chute des prix de la pomme de terre, liée aux excédents de production et aux aléas climatiques.",
+            "L’usine belge Clarebout, principale transformatrice française, réduit ses achats, aggravant la pression sur les producteurs locaux.",
+            "Les revenus des agriculteurs s’effondrent, avec des pertes estimées à plusieurs millions d’euros pour la filière.",
+            "Les pouvoirs publics et les coopératives tentent de trouver des solutions pour stabiliser le marché, mais les perspectives restent incertaines."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/violences-dans-le-periscolaire-parisien-emmanuel-gregoire-appelle-a-bousculer-le-cadre-legal_6775207_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/16/des-champs-aux-usines-a-frites-la-crise-de-la-pomme-de-terre-frappe-les-hauts-de-france_6775316_3234.html"
             }
           ]
         },
         {
-          "title": "Plan socialiste pour augmenter les salaires et taxer les plus riches en 2027",
+          "title": "Démission collective à Etrechet (Indre) : les élus s’opposent au projet de data center de Google",
           "bullets": [
-            "Les députés socialistes dévoilent un projet visant à instaurer une **CSG progressive** et à taxer davantage les héritages élevés.",
-            "L’objectif est de financer le modèle social en redistribuant la charge fiscale vers les plus aisés.",
-            "Le plan prévoit aussi des mesures pour revaloriser le SMIC et les salaires des fonctionnaires.",
-            "Ce projet s’inscrit dans une stratégie de justice sociale pour les élections présidentielles de 2027."
+            "La maire et ses adjoints de la commune d’Etrechet (Indre) démissionnent pour protester contre l’implantation d’un data center géant porté par Google.",
+            "Les élus dénoncent un manque de consultation et des risques environnementaux et sanitaires non maîtrisés.",
+            "Google prévoit un investissement de plusieurs centaines de millions d’euros, mais les opposants craignent une surcharge des réseaux électriques locaux.",
+            "La décision pourrait entraîner un blocage administratif et juridique du projet."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/heritages-csg-smic-les-deputes-socialistes-devoilent-leur-plan-pour-augmenter-les-salaires-et-taxer-les-plus-riches-en-2027_6775205_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/16/dans-l-indre-la-maire-et-les-adjoints-d-un-village-demissionnent-pour-contester-le-projet-de-data-center-de-google_6775245_3234.html"
             }
           ]
         },
         {
-          "title": "Outre-mer : l’État français face à des tensions croissantes",
+          "title": "Annulation d’un concert à Amiens : la salle se défend face aux accusations de discrimination",
           "bullets": [
-            "Elisabeth Landi, historienne, analyse dans une tribune les défis persistants de la présence française dans les territoires ultramarins.",
-            "Elle souligne un paradoxe : la France cherche à conserver son influence tout en étant perçue comme à la fois coupable et indispensable.",
-            "Les enjeux incluent la gestion des crises sociales, économiques et environnementales locales.",
-            "Les propositions passent par une meilleure reconnaissance des spécificités territoriales et des investissements ciblés."
+            "La Lune des Pirates, salle d’Amiens, a annulé une performance de la DJ Barbara Butch après des appels au boycott de la part d’associations locales.",
+            "Les organisateurs affirment avoir agi pour des raisons logistiques et de sécurité, sans lien avec la confession juive de l’artiste.",
+            "Des critiques pointent un climat de tension croissante autour des événements culturels dans la région.",
+            "Barbara Butch a réagi en dénonçant une instrumentalisation politique de sa personne."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/16/outre-mer-l-etat-francais-risque-de-devenir-a-la-fois-le-coupable-universel-et-le-garant-indispensable_6774994_3232.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/09/16/critiquee-pour-l-annulation-d-un-concert-de-barbara-butch-la-salle-qui-devait-l-accueillir-se-defend_6775148_3224.html"
+            }
+          ]
+        },
+        {
+          "title": "Prix des carburants en Corse : TotalEnergies fragilise les stations indépendantes",
+          "bullets": [
+            "Le bouclier tarifaire de TotalEnergies en Corse pousse des dizaines de stations-service indépendantes à augmenter leurs prix, malgré les prix plafonnés du groupe.",
+            "Les petits revendeurs accusent TotalEnergies de créer une concurrence déloyale en fixant des prix artificiellement bas.",
+            "La situation aggrave la crise économique locale, déjà touchée par la hausse des coûts énergétiques.",
+            "Les associations de consommateurs appellent à une régulation plus stricte du marché."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/16/je-crois-qu-a-la-fin-du-mois-je-vais-arreter-mon-activite-et-faire-autre-chose-en-corse-le-bouclier-tarifaire-de-totalenergies-fragilise-les-autres-stations-service_6775206_3234.html"
             }
           ]
         }
@@ -72,92 +87,62 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Arabie saoudite : détroit de Bal Al-Mandab menacé par les Houthis",
+          "title": "Russie : redistribution massive des richesses au profit de la guerre en Ukraine",
           "bullets": [
-            "L’avancée des rebelles houthistes au Yémen menace un autre détroit stratégique après Ormuz, essentiel pour le commerce maritime mondial.",
-            "Cette situation pourrait perturber les flux pétroliers et les échanges commerciaux entre l’Afrique et l’Asie.",
-            "Les tensions régionales s’intensifient, avec des risques de blocages économiques et géopolitiques accrus.",
-            "La communauté internationale surveille de près l’escalade des conflits dans la région."
+            "Depuis l’invasion de l’Ukraine en 2022, le régime russe a mis en place une redistribution systématique des propriétés et des ressources au profit de l’effort militaire.",
+            "Des oligarques et entreprises sont contraints de financer directement l’industrie de guerre, sous peine de sanctions ou de confiscation.",
+            "Cette centralisation des richesses renforce le contrôle de l’État sur l’économie et affaiblit les secteurs civils.",
+            "Les critiques dénoncent une militarisation accrue de l’économie russe, au détriment des citoyens."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/idees/article/2026/09/16/l-arabie-saoudite-et-l-economie-mondiale-prises-dans-un-etau_6775212_3232.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/16/en-russie-un-etat-predateur-au-service-de-la-guerre_6775246_3210.html"
             }
           ]
         },
         {
-          "title": "Soudan : effondrement d’une mine d’or fait plus de 60 morts",
+          "title": "Menace houthis : contrôle du détroit de Bab-el-Mandeb et blocage des pétroliers saoudiens",
           "bullets": [
-            "Un accident minier dans le Kordofan sud a fait au moins 67 victimes, selon des témoignages de survivants.",
-            "Cette catastrophe met en lumière les conditions dangereuses et souvent illégales de l’exploitation artisanale de l’or.",
-            "Les autorités locales et internationales appellent à une régulation renforcée de ce secteur.",
-            "L’accident souligne les défis persistants en matière de sécurité et de développement dans la région."
+            "Les rebelles houthis yéménites ont pris le contrôle du détroit de Bab-el-Mandeb, coupant une voie maritime stratégique pour les pétroliers saoudiens.",
+            "Cette action menace les approvisionnements énergétiques mondiaux et pourrait provoquer une crise économique régionale.",
+            "L’Arabie saoudite et ses alliés cherchent des solutions pour contourner le blocage, mais les risques de tensions accrues persistent.",
+            "Les Nations unies appellent à un désamorçage de la crise pour éviter une escalade."
           ],
           "sources": [
             {
-              "name": "france24.com",
-              "url": "http://www.france24.com/fr/afrique/20260916-soudan-effondrement-mine-or-fait-plus-de-60-victimes-accident"
+              "name": "France 24",
+              "url": "http://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260916-arabie-saoudite-les-houthis-jouent-le-blocus"
             }
           ]
         },
         {
-          "title": "Brésil : scandale de Banco Master ébranle la campagne présidentielle",
+          "title": "Maroc : artiste satirique Yasser Mounbir jugé pour ses dessins",
           "bullets": [
-            "L’affaire financière impliquant des élus et la plus haute cour du pays fragilise les candidats à la présidentielle du 4 octobre.",
-            "Des irrégularités suspectées dans la gestion des fonds bancaires ont été révélées par des enquêtes judiciaires.",
-            "Ce scandale pourrait influencer les intentions de vote et affecter la crédibilité des partis politiques.",
-            "Les autorités brésiliennes enquêtent pour déterminer l’étendue de la corruption présumée."
+            "Yasser Mounbir, graffeur marocain de 22 ans, comparaît devant le tribunal de Casablanca pour des dessins jugés diffamatoires envers des personnalités politiques.",
+            "Détenu depuis trois mois, il risque jusqu’à cinq ans de prison en cas de condamnation.",
+            "Son procès soulève des questions sur la liberté d’expression et la répression des artistes au Maroc.",
+            "Des associations locales et internationales appellent à sa libération immédiate."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/au-bresil-le-scandale-de-banco-master-s-impose-dans-la-campagne-presidentielle_6775191_3210.html"
+              "name": "France 24",
+              "url": "http://www.france24.com/fr/afrique/20260916-maroc-yasser-mounbir-artiste-justice-liberte-expression"
             }
           ]
         },
         {
-          "title": "Excision au Mali : une campagne virale suscite l’inquiétude",
+          "title": "Procès de Rachida Dati : ouverture des audiences pour corruption",
           "bullets": [
-            "Une campagne numérique prônant l’excision s’est propagée sur les réseaux sociaux maliens en août 2026.",
-            "Ornella Moderan, politologue, analyse cette tendance comme une perpétuation de normes patriarcales au détriment des droits des femmes.",
-            "Les associations locales et internationales appellent à une mobilisation contre cette pratique.",
-            "L’État malien doit renforcer les campagnes de sensibilisation et les mesures de protection."
+            "Le procès de Rachida Dati pour corruption s’ouvre à Paris, en l’absence de son coaccusé Carlos Ghosn.",
+            "L’ex-ministre est accusée d’avoir reçu des pots-de-vin en échange de faveurs administratives lors de son passage au ministère de la Justice.",
+            "Les audiences pourraient durer plusieurs semaines, avec des témoignages clés attendus.",
+            "Ce procès marque un tournant dans la lutte contre la corruption en France."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/ornella-moderan-chercheuse-exciser-c-est-perpetuer-une-certaine-idee-de-la-virilite-au-detriment-de-l-integrite-physique-des-femmes_6775198_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Accident d’hélicoptère à Los Angeles : trois morts",
-          "bullets": [
-            "Un hélicoptère appartenant à une chaîne de télévision s’est écrasé dans l’ouest de Los Angeles, faisant au moins trois victimes.",
-            "L’appareil survolait le site d’une collision entre un SUV et un bus lors de la prise de vues.",
-            "Les causes de l’accident sont en cours d’enquête par les autorités locales.",
-            "Cet incident rappelle les risques liés aux survols urbains et aux conditions météo."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/video/2026/09/16/un-helicoptere-se-crashe-dans-l-ouest-de-los-angeles-faisant-au-moins-trois-morts_6775134_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Discours d’Ursula von der Leyen : état de l’Union européen",
-          "bullets": [
-            "La présidente de la Commission européenne a présenté son discours annuel sur l’état de l’Union au Parlement européen.",
-            "Elle a abordé les défis économiques, migratoires et géopolitiques auxquels l’UE fait face.",
-            "Les propositions incluent des mesures pour renforcer la souveraineté européenne et la cohésion sociale.",
-            "Ce discours marque une étape clé dans la définition des priorités pour les années à venir."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-ursula-von-der-leyen-tient-son-discours-annuel-sur-l-etat-de-l-union_6775063_3210.html"
+              "name": "France 24",
+              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-france-le-proc%C3%A8s-pour-corruption-de-rachida-dati-s-est-ouvert"
             }
           ]
         }
@@ -165,74 +150,84 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "sujets": [
+        {
+          "title": "Triple meurtre à Gy (Haute-Saône) : la mère des victimes exprime son deuil",
+          "bullets": [
+            "La mère des deux enfants tués par leur père à Gy (Haute-Saône) partage ses premiers mots, décrivant une douleur insurmontable.",
+            "L’enquête judiciaire est toujours en cours pour déterminer les circonstances précises du drame.",
+            "La communauté locale et les associations se mobilisent pour soutenir les familles endeuillées.",
+            "Un hommage public est prévu prochainement pour rendre hommage aux victimes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Haute-Saône : un homme de 33 ans meurt dans une collision avec deux poids lourds",
+          "bullets": [
+            "Un homme de 33 ans est décédé après avoir été percuté par deux poids lourds sur une route de Haute-Saône.",
+            "Les circonstances de l’accident sont encore en cours d’enquête, mais les premiers éléments suggèrent une perte de contrôle des véhicules.",
+            "Les autorités locales ont renforcé les contrôles routiers dans la zone pour éviter de nouveaux incidents.",
+            "La famille de la victime a demandé une enquête approfondie pour comprendre les causes exactes de l’accident."
+          ],
+          "sources": []
+        },
+        {
+          "title": "SPA Vesoul : relance après une année difficile marquée par des difficultés financières",
+          "bullets": [
+            "La SPA de Vesoul, accablée par des difficultés financières au printemps, entame une nouvelle phase avec des mesures de restructuration.",
+            "L’association a dû réduire ses activités et licencier du personnel pour assurer sa survie.",
+            "Des dons et partenariats locaux sont mobilisés pour relancer les opérations de sauvetage d’animaux.",
+            "Les bénévoles appellent à la solidarité pour soutenir cette structure essentielle à la protection animale."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Jev : un modèle d’IA qui refuse de générer du texte",
+          "title": "Starship de SpaceX vise un vol orbital historique le 22 septembre",
           "bullets": [
-            "Diogo Almeida, ancien chercheur chez OpenAI, lance **Jev**, un modèle d’IA conçu pour ne pas produire de contenu textuel généré.",
-            "Cette approche vise à contrer les dérives liées à la désinformation et à la surproduction de contenus automatisés.",
-            "L’annonce a suscité un vif intérêt dans la communauté technologique et médiatique.",
-            "Jev pourrait influencer les débats sur l’éthique et l’utilisation des modèles d’IA."
+            "SpaceX prépare le 14e vol de sa fusée Starship, avec pour objectif de placer la fusée en orbite pour la première fois.",
+            "Le vol prévu durera dix heures et comportera six tours autour de la Terre avant un amerrissage.",
+            "Cette mission pourrait révolutionner les voyages spatiaux et les missions habitées vers la Lune et Mars.",
+            "Les autorités de régulation surveillent de près les tests pour garantir la sécurité."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2333731-le-co-createur-de-chatgpt-lance-jev-un-modele-qui-ne-redige-rien-et-cest-la-toute-la-solution.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2334127-275-km-daltitude-10-heures-de-mission-et-6-tours-de-la-terre-ce-que-vise-la-fusee-geante-starship-pour-son-vol-orbital-inedit.html"
             }
           ]
         },
         {
-          "title": "Test de l’iPhone 18 Pro Max : un smartphone révolutionnaire",
+          "title": "Netflix : la nouvelle série *Orgueil et Préjugés* suscite la colère des puristes",
           "bullets": [
-            "Les nouveaux iPhone 18 Pro et Pro Max, à 1 479 € et 1 629 € respectivement, sont présentés comme les smartphones les plus aboutis d’Apple.",
-            "Le modèle Pro Max se distingue par ses performances techniques et son écran ultra-performant.",
-            "Les critiques soulignent une amélioration notable en termes de design, d’autonomie et d’intégration des fonctionnalités.",
-            "Ces appareils pourraient redéfinir les standards du marché des smartphones haut de gamme."
+            "La nouvelle adaptation de *Orgueil et Préjugés* par Netflix a provoqué une levée de boucliers parmi les fans de Jane Austen.",
+            "Les critiques portent sur les libertés prises avec l’œuvre originale, notamment dans les dialogues et les intrigues secondaires.",
+            "Les puristes dénoncent une trahison de l’esprit du roman, tandis que les défenseurs saluent une modernisation audacieuse.",
+            "La série devrait être diffusée fin 2026, alimentant déjà les débats en ligne."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2333313-test-de-liphone-18-pro-max-apple-a-enfin-compris.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2334013-la-serie-orgueil-et-prejuges-de-netflix-declenche-la-colere-des-fans-de-jane-austen.html"
             }
           ]
         },
         {
-          "title": "Blizzard révèle Diablo V avant sa sortie prévue pour 2029",
+          "title": "Tesla Cybercab : le régulateur américain exige des preuves sous serment",
           "bullets": [
-            "Blizzard a officiellement annoncé **Diablo V** lors de la BlizzCon 2026, bien que sa sortie ne soit prévue qu’au printemps 2029.",
-            "Cette révélation précoce vise à susciter l’engouement des fans et à préparer le terrain pour les développements futurs.",
-            "Les premières images et informations laissent présager des innovations majeures dans le gameplay et l’univers du jeu.",
-            "Les joueurs attendent avec impatience les détails supplémentaires sur les mécaniques et les personnages."
+            "Le régulateur automobile américain (NHTSA) a sommé Tesla de prouver, sous serment, que son véhicule Cybercab sans volant respecte les normes fédérales de sécurité.",
+            "Cette demande intervient après des rapports sur des problèmes de stabilité et de sécurité du véhicule.",
+            "Tesla dispose de peu de temps pour fournir les preuves demandées, sous peine de sanctions.",
+            "Le débat sur la légalité des voitures autonomes sans volant s’intensifie aux États-Unis."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2333711-en-devoilant-diablo-5-si-tot-blizzard-compte-aussi-sur-les-fans.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Apple imprime en 3D la charnière de l’iPhone Duo",
-          "bullets": [
-            "Apple utilise l’impression 3D pour fabriquer la charnière de son premier téléphone pliable, l’iPhone Duo.",
-            "Cette technologie permet une production plus légère et plus flexible des composants métalliques.",
-            "L’utilisation de l’impression 3D reflète une tendance croissante vers des méthodes de fabrication innovantes dans le secteur technologique.",
-            "Cette approche pourrait réduire les coûts et améliorer la durabilité des produits Apple."
-          ],
-          "sources": [
-            {
-              "name": "3dnatives.com",
-              "url": "https://www.3dnatives.com/iphone-duo-impression-3d-metal-16092026/"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2333959-le-cybercab-de-tesla-est-il-illegal-le-regulateur-americain-exige-des-preuves-sous-serment.html"
             }
           ]
         }
@@ -242,32 +237,62 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Prélèvement fiscal direct sur les comptes bancaires : délai imminent",
+          "title": "Prélèvement à la source : le Fisc va prélever directement sur les comptes bancaires dès le 26 septembre",
           "bullets": [
-            "À partir de 10 jours, l’administration fiscale française prélevera directement sur les comptes bancaires les sommes dues pour les impôts 2026.",
-            "Cette mesure vise à accélérer le recouvrement des créances fiscales et à réduire les impayés.",
-            "Les contribuables doivent vérifier leurs relevés et s’assurer que leurs coordonnées bancaires sont à jour.",
-            "Cette procédure s’applique aux dettes fiscales non réglées dans les délais impartis."
+            "À partir du 26 septembre, l’administration fiscale prélevera automatiquement les impôts dus sur les comptes bancaires des contribuables en cas de retard de paiement.",
+            "Cette mesure vise à réduire les impayés et à accélérer le recouvrement des créances.",
+            "Les banques sont tenues de coopérer et de bloquer les fonds si nécessaire.",
+            "Les contribuables peuvent encore régulariser leur situation avant cette date pour éviter tout prélèvement forcé."
           ],
           "sources": []
         },
         {
-          "title": "Arnaques aux permis de conduire en Seine-et-Marne : faux candidats à l’examen",
+          "title": "Arnaque aux permis de conduire en Seine-et-Marne : des faux candidats passent à la place des élèves",
           "bullets": [
-            "Des arnaqueurs ont passé des examens de conduite à la place d’élèves réels dans le département de Seine-et-Marne.",
-            "Les candidats frauduleux ont été identifiés grâce à des vidéosurveillances et des témoignages.",
-            "Les autorités locales renforcent les contrôles pour éviter de telles pratiques à l’avenir.",
-            "Les victimes, privées de leur session, devront repasser l’examen dans des conditions normales."
+            "Des arnaqueurs ont réussi à passer l’examen du permis de conduire à la place d’élèves réels en Seine-et-Marne.",
+            "Les faux candidats utilisaient de faux documents et des identités volées pour tromper les examinateurs.",
+            "Les autorités ont identifié plusieurs réseaux et lancent une enquête pour retrouver les responsables.",
+            "Les victimes, privées de leur permis, peuvent déposer plainte pour escroquerie."
           ],
           "sources": []
         },
         {
-          "title": "Suppression de l’abattement fiscal de 10 % pour les retraités : impact financier",
+          "title": "Arnaque aux animaux perdus : une personne appelle pour annoncer un retrouvaillage fictif",
           "bullets": [
-            "La suppression de l’abattement de 10 % sur les revenus des retraités pourrait augmenter leur imposition en 2026.",
-            "Cette mesure pourrait affecter particulièrement les retraités modestes et moyens.",
-            "Les associations de retraités appellent à des compensations pour atténuer l’impact financier.",
-            "Les experts estiment que cette réforme pourrait réduire les recettes fiscales globales si elle n’est pas bien calibrée."
+            "Des escrocs appellent les propriétaires d’animaux perdus pour leur annoncer un retrouvaillage, puis demandent un paiement pour récupérer leur animal.",
+            "Cette technique d’arnaque, appelée « scam du retrouvaillage », exploite l’émotion des victimes.",
+            "Les autorités conseillent de ne jamais payer sans avoir vérifié l’authenticité de l’information.",
+            "Les plateformes de signalement des animaux perdus renforcent leurs vérifications pour limiter ces pratiques."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Meta lance Muse, un agent IA grand public aux multiples fonctions",
+          "bullets": [
+            "Meta a présenté Muse, un assistant IA conçu pour les utilisateurs grand public, capable de gérer des tâches variées comme la planification ou la recherche d’informations.",
+            "Disponible sur les applications Facebook et Instagram, Muse vise à concurrencer des outils comme Google Assistant ou Siri.",
+            "Les premiers tests révèlent des limites en matière de compréhension contextuelle et de personnalisation.",
+            "Les critiques soulignent des préoccupations liées à la vie privée et à la modération des contenus générés."
+          ],
+          "sources": []
+        },
+        {
+          "title": "IA et emploi des jeunes : les DRH alertent sur une menace pour le moral des salariés",
+          "bullets": [
+            "Les directions des ressources humaines (DRH) alertent sur l’impact de l’IA sur l’emploi des jeunes, qui pourraient être les premiers touchés par les suppressions de postes.",
+            "Les outils d’automatisation menacent des métiers comme la saisie, la comptabilité ou le service client, déjà en tension.",
+            "Les jeunes salariés expriment une angoisse face à la précarité accrue et à la perte de sens au travail.",
+            "Les entreprises sont appelées à former et réorienter leurs employés pour s’adapter à cette révolution technologique."
           ],
           "sources": []
         }
@@ -277,22 +302,32 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats du monde de cyclisme : suivi des épreuves à Montréal",
+          "title": "Championnats du monde de cyclisme 2026 : parcours du contre-la-montre à Montréal",
           "bullets": [
-            "Les championnats du monde de cyclisme sur route se déroulent à Montréal du 16 au 28 septembre 2026.",
-            "Les épreuves incluent le contre-la-montre et la course en ligne pour les élites hommes et femmes.",
-            "Les fans peuvent suivre les compétitions sur plusieurs chaînes de télévision et en direct en ligne.",
-            "Les favoris mondiaux s’affrontent pour décrocher les titres tant attendus."
+            "Les championnats du monde de cyclisme sur route 2026 se dérouleront à Montréal, avec un contre-la-montre prévu sur un parcours technique et exigeant.",
+            "Les favoris, dont des coureurs français et belges, s’affrontent pour décrocher les médailles d’or.",
+            "Le parcours, long de 30 km, traverse des zones urbaines et des montées difficiles, promettant un spectacle sportif intense.",
+            "Les médias canadiens et internationaux couvrent largement l’événement, avec des retransmissions en direct."
           ],
           "sources": []
         },
         {
-          "title": "Condamnation pour atteinte sexuelle dans le handball : un éducateur sous le coup de la justice",
+          "title": "Formule 1 : Monaco accueille une course sprint et le calendrier 2027 dévoilé",
           "bullets": [
-            "Un éducateur de handball a été condamné à deux ans de prison avec sursis pour atteinte sexuelle sur une joueuse de 15 ans.",
-            "L’affaire a été jugée par le tribunal correctionnel après une enquête approfondie.",
-            "Cette condamnation rappelle l’importance de la protection des mineurs dans le sport.",
-            "Les associations sportives renforcent leurs protocoles pour prévenir ce type d’incidents."
+            "Monaco accueillera une course sprint en Formule 1 en 2027, ajoutant une nouvelle dimension aux Grands Prix traditionnels.",
+            "Le calendrier 2027 comprend 24 Grands Prix, avec des dates confirmées en Europe, Asie et Amérique du Nord.",
+            "Les équipes et pilotes s’adaptent à cette nouvelle formule, qui vise à dynamiser la saison et à réduire la durée des week-ends de course.",
+            "Les fans espèrent un spectacle plus intense et des courses plus serrées."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Kenya : troisième édition consécutive des Championnats d’Afrique de cyclisme",
+          "bullets": [
+            "Le Kenya accueille pour la troisième année consécutive les Championnats d’Afrique de cyclisme, mettant en avant son dynamisme sportif continental.",
+            "Les athlètes africains s’affrontent dans des épreuves de route, de piste et de VTT, avec une forte représentation des nations comme l’Éthiopie et le Maroc.",
+            "L’événement vise à promouvoir le cyclisme en Afrique et à identifier les talents pour les Jeux Olympiques de Los Angeles en 2028.",
+            "Les organisateurs soulignent l’importance de la solidarité et du partage d’expériences entre les pays participants."
           ],
           "sources": []
         }
