@@ -305,12 +305,16 @@ def nfl_division_standings(team_page: str) -> list[dict]:
     except Exception as e:  # noqa: BLE001
         print(f"⚠ classement NFL [{team_page}]: {e!r}")
         return []
+    _DIV_FR = {"north": "Nord", "south": "Sud", "east": "Est", "west": "Ouest"}
     for rows in _tables(html):
         head = _norm(" ".join(rows[0] + rows[1]))
         if "pct" not in head or "stk" not in head or "seed" in head:
             continue
         if len(rows) > 8:            # la table de conférence est bien plus longue
             continue
+        # nom exact de la division (AFC/NFC + orientation) lu dans l'en-tête
+        md = re.search(r"(afc|nfc) (north|south|east|west)", head)
+        division = f"{md.group(1).upper()} {_DIV_FR[md.group(2)]}" if md else None
         parsed: list[dict] = []
         for r in rows:
             if len(r) < 4:
@@ -321,7 +325,7 @@ def nfl_division_standings(team_page: str) -> list[dict]:
                 continue
             if re.search(r"[A-Za-z]", equipe) and "view" not in _norm(equipe):
                 parsed.append({"rang": len(parsed) + 1, "equipe": equipe,
-                               "w": w, "l": l, "t": t})
+                               "division": division, "w": w, "l": l, "t": t})
         if len(parsed) >= 3:         # une vraie division = 4 équipes
             return parsed
     return []
@@ -503,7 +507,9 @@ def _nfl_season_page(team: str, today: dt.date) -> str:
 
 def _nfl_rang_txt(row: dict) -> str:
     bilan = f"{row['w']}-{row['l']}" + (f"-{row['t']}" if row["t"] else "")
-    return f"{_ord(row['rang'])} de l'AFC Nord ({bilan})"
+    div = row.get("division")
+    loc = f"de l'{div}" if div else "de sa division"
+    return f"{_ord(row['rang'])} {loc} ({bilan})"
 
 
 def steelers_context(match: dict | None, today: dt.date | None = None) -> dict:
@@ -520,7 +526,7 @@ def steelers_context(match: dict | None, today: dt.date | None = None) -> dict:
         adv_table = nfl_division_standings(_nfl_season_page(adv, today))
         arow = _standing_of(adv_table, adv)
         if arow:
-            ctx["adv_rang"] = f"{adv} : {_nfl_rang_txt(arow)}"
+            ctx["adv_rang"] = _nfl_rang_txt(arow)
     ctx["infos"] = team_info("Pittsburgh Steelers")
     return ctx
 
@@ -547,8 +553,7 @@ def psg_context(match: dict | None, today: dt.date | None = None) -> dict:
     if adv:
         arow = _standing_of(table, adv)
         if arow:
-            ctx["adv_rang"] = (f"{adv} : {_ord(arow['rang'])} de Ligue 1 "
-                               f"({arow['pts']} pts)")
+            ctx["adv_rang"] = f"{_ord(arow['rang'])} de Ligue 1 ({arow['pts']} pts)"
         # 3 infos sur l'adversaire depuis la page L1 (source française fiable)
         ctx["adv_infos"] = l1_club_info(today, adv, html or None)
     return ctx

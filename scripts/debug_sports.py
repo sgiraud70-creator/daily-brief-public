@@ -30,7 +30,12 @@ log(f"  PSG → {psg}")
 log("\n===== AFC Nord (page Steelers) =====")
 nfc = sports.nfl_division_standings("2026 Pittsburgh Steelers season")
 for r in nfc:
-    log(f"  {r['rang']} {r['equipe']:<24} {r['w']}-{r['l']}-{r['t']}")
+    log(f"  {r['rang']} {r['equipe']:<24} {r['w']}-{r['l']}-{r['t']}  div={r.get('division')}")
+
+log("\n===== Division adversaire (page Patriots) =====")
+pats = sports.nfl_division_standings("2026 New England Patriots season")
+for r in pats:
+    log(f"  {r['rang']} {r['equipe']:<24} {r['w']}-{r['l']}-{r['t']}  div={r.get('division')}")
 
 log("\n===== Prochain match Steelers =====")
 sm = sports.steelers_next()
