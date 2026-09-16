@@ -34,6 +34,9 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
 
+      - name: DEBUG sport (structure TheSportsDB, temporaire)
+        run: python -m scripts.debug_sports
+
       - name: Météo réelle (Open-Meteo)
         run: python -m scripts.build_weather
 
