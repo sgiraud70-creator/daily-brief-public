@@ -50,6 +50,9 @@ log(f"  {sports.ucl_standing_psg(today)}")
 log("\n===== Infos équipe Steelers =====")
 log(f"  {sports.team_info('Pittsburgh Steelers')}")
 
+log("\n===== Infos équipe OM (vérif filtre 'Youth' + année) =====")
+log(f"  {sports.team_info('Olympique de Marseille')}")
+
 os.makedirs("public", exist_ok=True)
 with open("public/_sport_debug.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))

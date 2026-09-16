@@ -125,7 +125,15 @@ def team_info(nom: str) -> dict | None:
         return None
     if not teams:
         return None
-    t = teams[0]
+    # Écarte les équipes secondaires (jeunes, féminines, réserves) qui polluent
+    # la recherche, puis prend le meilleur recouvrement de nom avec la requête.
+    _BAD = ("youth", "u21", "u19", "u23", "u18", "reserve", "réserve",
+            "women", "féminin", "feminin", " ii", " b ")
+    cand = [t for t in teams
+            if not any(b in f" {(t.get('strTeam') or '').lower()} " for b in _BAD)]
+    cand = cand or teams
+    cible = set(_norm(nom).split())
+    t = max(cand, key=lambda x: len(cible & set(_norm(x.get("strTeam") or "").split())))
     infos: list[str] = []
     stade = (t.get("strStadium") or "").strip()
     ville = (t.get("strLocation") or "").strip()
@@ -134,7 +142,7 @@ def team_info(nom: str) -> dict | None:
         infos.append(f"Stade : {stade}")
     if ville:
         infos.append(f"Ville : {ville}")
-    if annee and annee.isdigit():
+    if re.fullmatch(r"\d{4}", annee) and 1850 <= int(annee) <= dt.date.today().year:
         infos.append(f"Fondé en {annee}")
     if not infos:
         return None
@@ -410,7 +418,8 @@ def _wiki_psg_next(today: dt.date) -> dict | None:
     hh = int(hm.group(1)) if hm else None
     mm = int(hm.group(2)) if hm else None
     # anc porte déjà 2 groupes (heure, minute) → le diffuseur est le groupe 3
-    dif = re.search(anc + r".{0,60}?Diffuseur\s*:?\s*([^\[]+?)\s*(?:\[|Stade|Parc|$)",
+    dif = re.search(anc + r".{0,60}?Diffuseur\s*:?\s*([^\[]+?)\s*"
+                    r"(?:\[|Stade|Parc|Arbitrage|Affluence|$)",
                     full, re.I)
     diffusion = dif.group(3).strip() if dif else None
 
