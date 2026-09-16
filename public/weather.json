@@ -1,7 +1,7 @@
 {
   "current": {
-    "temp": 17,
-    "feels": 17,
+    "temp": 19,
+    "feels": 18,
     "code": 3,
     "is_night": false,
     "tmax": 20,
@@ -48,7 +48,7 @@
       "is_night": false,
       "temp": 18,
       "precip": 0.0,
-      "wind": 10
+      "wind": 9
     },
     {
       "hh": "17h",
@@ -60,27 +60,27 @@
     },
     {
       "hh": "19h",
-      "code": 3,
+      "code": 2,
       "is_night": false,
-      "temp": 18,
+      "temp": 20,
       "precip": 0.0,
-      "wind": 10
+      "wind": 8
     },
     {
       "hh": "21h",
       "code": 3,
       "is_night": true,
-      "temp": 15,
+      "temp": 14,
       "precip": 0.0,
-      "wind": 4
+      "wind": 3
     },
     {
       "hh": "23h",
-      "code": 1,
+      "code": 2,
       "is_night": true,
       "temp": 12,
       "precip": 0.0,
-      "wind": 3
+      "wind": 2
     }
   ],
   "days": [
@@ -88,13 +88,13 @@
       "name": "Jeu",
       "code": 45,
       "tmax": 22,
-      "tmin": 7
+      "tmin": 8
     },
     {
       "name": "Ven",
-      "code": 80,
+      "code": 3,
       "tmax": 22,
-      "tmin": 12
+      "tmin": 13
     },
     {
       "name": "Sam",
