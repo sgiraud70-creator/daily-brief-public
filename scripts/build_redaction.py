@@ -12,7 +12,7 @@ import json
 import os
 from zoneinfo import ZoneInfo
 
-from src.collecte import memoire, sports
+from src.collecte import fete, memoire, sports
 from src.redaction import redacteur
 
 def _match_sujet(m: dict | None, equipe: str) -> dict:
@@ -32,6 +32,18 @@ def _match_sujet(m: dict | None, equipe: str) -> dict:
         sources.append({"name": m.get("source_name", "Source"), "url": m["source_url"]})
     return {"title": f"Prochain match : {equipe} {m['domicile']} contre {m['adversaire']}",
             "bullets": bullets, "sources": sources}
+
+
+def build_fete_rubrique() -> dict | None:
+    """Rubrique déterministe « Fête du jour » (source Nominis, aucune invention)."""
+    f = fete.fete_du_jour()
+    if not f:
+        return None
+    return {"label": "Fête du jour", "sujets": [{
+        "title": f"Aujourd'hui, on souhaite la fête : {f['nom']}",
+        "bullets": [],
+        "sources": [{"name": f["source_name"], "url": f["source_url"]}],
+    }]}
 
 
 def build_sport_rubriques() -> list[dict]:
@@ -85,8 +97,9 @@ def main() -> int:
     today = dt.datetime.now(ZoneInfo("Europe/Paris")).date()
     memoire.save(HISTORY, memoire.remember(history, published, today))
 
-    # Sports en déterministe (ajoutés après la mémoire : on veut toujours le prochain match)
-    rubriques = rubriques + build_sport_rubriques()
+    # Fête du jour en tête (déterministe) + sports en fin (toujours le prochain match)
+    fete_rub = build_fete_rubrique()
+    rubriques = ([fete_rub] if fete_rub else []) + rubriques + build_sport_rubriques()
 
     brief = {
         "date_str": date_str(today),
