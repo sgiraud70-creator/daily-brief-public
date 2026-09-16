@@ -1,230 +1,31 @@
+===== Ligue 1 (classement général) =====
+18 équipes
+   1 LOSC Lille                 10 pts  J4
+   2 AS Monaco                  10 pts  J4
+   3 Stade rennais FC           10 pts  J4
+   4 Olympique lyonnais         8 pts  J4
+   5 Paris FC                   8 pts  J4
+   6 RC Strasbourg              7 pts  J4
+  PSG → {'rang': 8, 'equipe': 'Paris Saint-Germain T SU', 'pts': 5, 'j': 4}
 
-########## fr:Championnat de France de football 2026-2027 ##########
-  --- table #0  (7 lignes, class=) ---
-      HEAD: Sport Football Organisateur(s) LFP
-      ROW: Organisateur(s) | LFP
-      ROW: Édition | 89 e
-      ROW: Lieu(x) | France Monaco
-      ROW: Date | Du 23 août 2026 
-  --- table #2  (4 lignes, class=) ---
-      HEAD: Tenant du titre Paris Saint-Germain (14) Promu(s) en début de saison ESTAC Troyes Le Mans FC
-      ROW: Promu(s) en débu | ESTAC Troyes Le 
-      ROW: Meilleur(s) bute | ()
-      ROW: Meilleur(s) pass | ()
-  --- table #4  (19 lignes, class=wikitable center sortable) ---
-      HEAD: Club Dernière montée Classement 2025-2026 Entraîneur(s) Depuis Stade Capacité en L1 Saison(s) en L1 [ 5 ] Paris Saint-Germain 1974 1 er Luis Enrique 2023 Parc d
-      ROW: Paris Saint-Germ | 1974 | 1 er | Luis Enrique | 2023 | Parc des Princes | 47 929 | 53
-      ROW: RC Lens | 2020 | 2 e | Yannick Cahuzac | 2026 | Stade Bollaert-D | 38 223 | 64
-      ROW: LOSC Lille | 2000 | 3 e | Davide Ancelotti | 2026 | Decathlon Arena  | 50 186 | 67
-      ROW: Olympique lyonna | 1989 | 4 e | Paulo Fonseca | 2025 | Groupama Stadium | 57 206 | 68
-  --- table #5  (14 lignes, class=wikitable center sortable) ---
-      HEAD: Club Entraîneur(s) partant(s) Motif du départ Date de départ Position Entraîneur(s) arrivant(s) Date d'arrivée FC Lorient Olivier Pantaloni Fin de contrat 17 ma
-      ROW: FC Lorient | Olivier Pantalon | Fin de contrat | 17 mai 2026 | Pré-saison | Alexandre Dujeux | 9 juin 2026
-      ROW: LOSC Lille | Bruno Genesio | 25 mai 2026 | Davide Ancelotti | 1 er juin 2026
-      ROW: Toulouse FC | Carles Martínez  | 27 mai 2026 | Jens Berthel Ask | 27 mai 2026
-      ROW: AS Monaco | Sébastien Pocogn | Renvoi | 1 er juin 2026 | Filipe Luís | 6 juillet 2026
-  --- table #6  (19 lignes, class=wikitable center sortable) ---
-      HEAD: Club Budget en M € [ 6 ] Actionnaire majoritaire Depuis Président Directeur sportif Src. Angers SCO 30 Saïd Chabane 2009 Romain Chabane Laurent Boissier [ 7 ] ,
-      ROW: Angers SCO | 30 | Saïd Chabane | 2009 | Romain Chabane | Laurent Boissier | [ 7 ] , [ 8 ] , 
-      ROW: AJ Auxerre | 40 | James Zhou | 2016 | Baptiste Malherb | David Wantier | [ 10 ] , [ 11 ]
-      ROW: Stade brestois 2 | 35 | Denis Le Saint | 2016 | Denis Le Saint | Vacant | [ 12 ]
-      ROW: Le Havre AC | 25 | Blue Crow Sports | 2025 | Jean-Michel Rous | Demba Ba | [ 13 ] , [ 14 ]
-  --- table #7  (19 lignes, class=wikitable sortable) ---
-      HEAD: Club Équipementier Angers SCO Nike [ 40 ]
-      ROW: Angers SCO | Nike [ 40 ]
-      ROW: AJ Auxerre | Macron [ 41 ]
-      ROW: Stade brestois 2 | Adidas [ 42 ]
-      ROW: Le Havre AC | Umbro [ 43 ]
-  --- table #8  (19 lignes, class=wikitable gauche) ---
-      HEAD: Rang Équipe Pts J G N P Bp Bc Diff 1 LOSC Lille 10 4 3 1 0 7 2 +5
-      ROW: 1 | LOSC Lille | 10 | 4 | 3 | 1 | 0 | 7 | 2 | +5
-      ROW: 2 | AS Monaco | 10 | 4 | 3 | 1 | 0 | 6 | 2 | +4
-      ROW: 3 | Stade rennais FC | 10 | 4 | 3 | 1 | 0 | 8 | 5 | +3
-      ROW: 4 | Olympique lyonna | 8 | 4 | 2 | 2 | 0 | 6 | 2 | +4
-  --- table #9  (5 lignes, class=) ---
-      HEAD:  —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——  OM Monaco LOSC 
-      ROW: OM | Monaco | LOSC | 
-      ROW:  |  |  | 
-      ROW:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-  --- table #10  (5 lignes, class=) ---
-      HEAD:  —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——  RCS Auxerre OGCN 
-      ROW: RCS | Auxerre | OGCN | 
-      ROW:  |  |  | 
-      ROW:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-  --- table #11  (20 lignes, class=wikitable) ---
-      HEAD: Résultats (▼dom., ►ext.) SCO AJA SB29 HAC LEM RCL LOSC FCL OL OM ASM OGCN PFC PSG SRFC RCS TFC ESTAC Angers SCO  J23 J33 J18 J25 J12 0-2 J08 J28 J07 J26 J10 J21
-      ROW: Angers SCO |  | J23 | J33 | J18 | J25 | J12 | 0-2 | J08 | J28 | J07 | J26 | J10 | J21 | J16 | 1-2 | J14 | J31 | J05
-      ROW: AJ Auxerre | 1-3 |  | J05 | J34 | J08 | J26 | J22 | J28 | J30 | J12 | J19 | 1-0 | J10 | J24 | J32 | J20 | J14 | J16
-      ROW: Stade brestois 2 | J06 | J31 |  | J32 | J28 | J34 | J24 | J26 | J10 | J15 | J22 | J08 | J12 | 0-1 | J20 | J18 | 2-2 | J14
-      ROW: Le Havre AC | 0-0 | J07 | 1-2 |  | J14 | J24 | J33 | J10 | J21 | J28 | 0-1 | J23 | J09 | J30 | J17 | J12 | J19 | J26
-  --- table #12  (3 lignes, class=) ---
-      HEAD: Match aller (L2) Vainqueur Play-offs Ligue 2 - 16 e de Ligue 1 (L1) Stade du club de Ligue 2 3 juin 2027  ( - )  Arbitrage : Arbitre vidéo :
-      ROW: 3 juin 2027 |  | ( - ) |  | Arbitrage : Arbi
-      ROW:  | [ Rapport] | 
-  --- table #13  (3 lignes, class=) ---
-      HEAD: Match retour (L1) 16 e de Ligue 1 - Vainqueur Play-offs Ligue 2 (L2) Stade du club de Ligue 1 6 juin 2027  ( - )  Arbitrage : Arbitre vidéo :
-      ROW: 6 juin 2027 |  | ( - ) |  | Arbitrage : Arbi
-      ROW:  | [ Rapport] | 
-  --- table #14  (20 lignes, class=wikitable sortable center) ---
-      HEAD: Journée → 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 1 er bar. rel. Équipe                                    
-      ROW: Équipe |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: Angers | 16 | 9 | 12 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 
-      ROW: Auxerre | 17 | 18 | 18 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3
-      ROW: Brest | 6 | 11 | 7 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-  --- table #15  (19 lignes, class=wikitable sportsrbrtable) ---
-      HEAD: Journée ╱ Équipe 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 Angers SCO D V D N                    
-      ROW: Angers SCO | D | V | D | N |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: AJ Auxerre | D | D | D | V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: Stade brestois 2 | N | N | V | D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: Le Havre AC | D | N | D | N |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-  --- table #16  (19 lignes, class=) ---
-      HEAD: Classement domicile — mise à jour : 8 septembre 2026 Rang Équipe Pts J G N P Bp Bc Diff 1 Olympique lyonnais 4 2 1 1 0 4 2 +2
-      ROW: 1 | Olympique lyonna | 4 | 2 | 1 | 1 | 0 | 4 | 2 | +2
-      ROW: 2 | Stade rennais FC | 4 | 2 | 1 | 1 | 0 | 5 | 4 | +1
-      ROW: 3 | Olympique de Mar | 3 | 2 | 1 | 0 | 1 | 6 | 3 | +3
-      ROW: 4 | Paris FC | 3 | 1 | 1 | 0 | 0 | 3 | 0 | +3
-  --- table #17  (19 lignes, class=wikitable gauche) ---
-      HEAD: Rang Équipe Pts J G N P Bp Bc Diff 1 LOSC Lille 6 2 2 0 0 3 0 +3
-      ROW: 1 | LOSC Lille | 6 | 2 | 2 | 0 | 0 | 3 | 0 | +3
-      ROW: 2 | AS Monaco | 6 | 2 | 2 | 0 | 0 | 3 | 1 | +2
-      ROW: 3 | Stade brestois 2 | 4 | 2 | 1 | 1 | 0 | 4 | 3 | +1
-      ROW: 4 | Paris FC | 4 | 2 | 1 | 1 | 0 | 3 | 2 | +1
-  --- table #18  (24 lignes, class=wikitable) ---
-      HEAD: Série de victoires 3 Stade rennais FC De la 2 re à la 4 e journée Série de victoires en début de saison 3 AS Monaco De la 1 re à la 3 e journée
-      ROW: Série de victoir | 3 | AS Monaco | De la 1 re à la 
-      ROW: Série de matchs  | 4 | Stade rennais FC | De la 1 re à la 
-      ROW: AS Monaco
-      ROW: Olympique lyonna
-  --- table #19  (11 lignes, class=wikitable) ---
-      HEAD: Rang Buteurs Club Buts 1 Kamory Doumbia Stade brestois 29 4
-      ROW: 1 | Kamory Doumbia | Stade brestois 2 | 4
-      ROW: 2 | Amine Gouiri | Olympique de Mar | 4
-      ROW: 3 | Lassine Sinayoko | Paris FC | 4
-      ROW: 4 | Ferran Torres | Paris Saint Germ | 3
-  --- table #20  (5 lignes, class=) ---
-      HEAD:  —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——  Torres Mafouta Doumbia 
-      ROW: Torres | Mafouta | Doumbia | 
-      ROW:  |  |  | 
-      ROW:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-  --- table #21  (11 lignes, class=wikitable) ---
-      HEAD: Rang Passeurs Club Passes 1 Pános Katséris FC Lorient 3
-      ROW: 1 | Pános Katséris | FC Lorient | 3
-      ROW: 2 | Cristian Cássere | Toulouse FC | 3
-      ROW: 3 | Pavel Šulc | Olympique lyonna | 2
-      ROW: 4 | Adrien Thomasson | Stade rennais FC | 2
-  --- table #22  (5 lignes, class=) ---
-      HEAD:  —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——  Ruiz Thomasson Šulc Katséris 
-      ROW: Ruiz | Thomasson | Šulc | Katséris | 
-      ROW:  |  |  |  | 
-      ROW:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-      ROW: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-  --- table #23  (16 lignes, class=wikitable) ---
-      HEAD: Rang Match Journée Date Stade Affluence 1 Olympique de Marseille - RC Strasbourg J1 21 août 2026 CEPAC Vélodrome 65 089
-      ROW: 1 | Olympique de Mar | J1 | 21 août 2026 | CEPAC Vélodrome | 65 089
-      ROW: 2 | Olympique de Mar | J3 | 6 septembre 2026 | CEPAC Vélodrome | 55 955
-      ROW: 3 | LOSC Lille - Par | J2 | 28 août 2026 | Decathlon Arena  | 47 793
-      ROW: 4 | Paris Saint-Germ | J3 | 4 septembre 2026 | Parc des Princes | 46 945
-  --- table #24  (10 lignes, class=wikitable) ---
-      HEAD: Compétition Club Résultat Ultime(s) adversaire(s) Supercoupe d'Europe Paris Saint-Germain Vainqueur Aston Villa
-      ROW: Supercoupe d'Eur | Paris Saint-Germ | Vainqueur | Aston Villa
-      ROW: Ligue des champi | Paris Saint-Germ | Phase de Ligue | Équipes encore e
-      ROW: RC Lens
-      ROW: LOSC Lille
-  --- table #26  (11 lignes, class=wikitable centre) ---
-      HEAD: Championnat de France de football 2026 - 2027 Champion 
-      ROW: Champion | 
-      ROW: Coupes et trophé
-      ROW: Vainqueur du Tro | RC Lens
-      ROW: Qualifications c
-  --- table #27  (4 lignes, class=navbox collapsible noprint aut) ---
-      HEAD: v · m Saisons du championnat de France de football Division nationale (1933-1972) 1932-1933 1933-1934 1934-1935 1935-1936 1936-1937 1937-1938 1938-1939 .mw-pars
-      ROW: Division nationa | 1932-1933 1933-1
-      ROW: Division 1 (1972 | 1972-1973 1973-1
-      ROW: Ligue 1 (depuis  | 2002-2003 2003-2
-  --- table #28  (3 lignes, class=navbox collapsible noprint aut) ---
-      HEAD: v · m Championnats nationaux de première division 2026-2027 à travers le monde CAF Masculin Afrique du Sud Algérie Angola Bénin Botswana Burkina Faso Burundi Ca
-      ROW: CAF | Masculin | Afrique du Sud A
-      ROW: Féminin | Afrique du Sud 2
-  --- table #34  (9 lignes, class=navbox collapsible noprint aut) ---
-      HEAD: v · m Football en France en 2026 - 2027 Ligue 1 Angers SCO AJ Auxerre Stade brestois 29 Le Havre AC Le Mans FC RC Lens LOSC Lille FC Lorient Olympique lyonnais 
-      ROW: Ligue 1 | Angers SCO AJ Au
-      ROW: Ligue 2 | FC Annecy US Bou
-      ROW: Ligue 3 | Amiens SC SC Aub
-      ROW: Première Ligue | Dijon FCO FC Fle
+===== AFC Nord (page Steelers) =====
+  1 Baltimore Ravens         1-0-0
+  2 Cincinnati Bengals       1-0-0
+  3 Pittsburgh Steelers      1-0-0
+  4 Cleveland Browns         0-1-0
 
-########## en:2026 Pittsburgh Steelers season ##########
-  --- table #0  (13 lignes, class=infobox vcard) ---
-      HEAD: 2026 Pittsburgh Steelers season Owner The Rooney Family
-      ROW: Owner | The Rooney Famil
-      ROW: General manager | Omar Khan
-      ROW: Head coach | Mike McCarthy
-      ROW: Offensive coordi | Brian Angelichio
-  --- table #2  (5 lignes, class=wikitable) ---
-      HEAD: Position Player .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Tag Previous team Date signed Notes CB Jamel Dean UFA Tampa Bay Buccanee
-      ROW: CB | Jamel Dean | UFA | Tampa Bay Buccan | March 13 | 3 years, $36.75 
-      ROW: RB | Rico Dowdle | UFA | Carolina Panther | March 13 | 2 years, $12.25 
-      ROW: DT | Sebastian Joseph | UFA | Tennessee Titans | March 16 | 2 years, $11 mil
-      ROW: S | Jaquan Brisker | UFA | Chicago Bears | March 16 | 1 year, $5.5 mil
-  --- table #4  (19 lignes, class=col-begin) ---
-      HEAD: 2026 Pittsburgh Steelers draft selections Round Selection Player Position College Notes 1 21 Max Iheanachor OT Arizona State 
-      ROW: 1 | 21 | Max Iheanachor | OT | Arizona State | 
-      ROW: 2 | 47 | Germie Bernard | WR | Alabama | From Colts
-      ROW: 53 | Traded to the In | 
-      ROW: 3 | 76 | Drew Allar | QB | Penn State | From Cowboys
-  --- table #5  (9 lignes, class=wikitable) ---
-      HEAD: Name Position College Ref. Devan Boykin CB Indiana [ 3 ]
-      ROW: Devan Boykin | CB | Indiana | [ 3 ]
-      ROW: Daylan Carnell | LB | Missouri
-      ROW: Kevin Jobity Jr. | DL | Syracuse
-      ROW: Laith Marjan | K | Kansas
-  --- table #8  (4 lignes, class=wikitable) ---
-      HEAD: Week Date Opponent Result Record Venue Recap 1 August 13 Green Bay Packers W 28–9 1–0 Acrisure Stadium Recap
-      ROW: 1 | August 13 | Green Bay Packer | W 28–9 | 1–0 | Acrisure Stadium | Recap
-      ROW: 2 | August 21 | New York Jets | L 0–17 | 1–1 | Acrisure Stadium | Recap
-      ROW: 3 | August 27 | at Buffalo Bills | L 27–28 | 1–2 | Highmark Stadium | Recap
-  --- table #9  (19 lignes, class=wikitable) ---
-      HEAD: Week Date Time ( '"`UNIQ--templatestyles-000003BF-QINU`"' ET ) Opponent Result Record Venue TV Recap 1 September 13 1:00 p.m. Atlanta Falcons W 20–13 1–0 Acri
-      ROW: 1 | September 13 | 1:00 p.m. | Atlanta Falcons | W 20–13 | 1–0 | Acrisure Stadium | Fox | Recap
-      ROW: 2 | September 20 | 1:00 p.m. | at New England P |  |  | Gillette Stadium | CBS | 
-      ROW: 3 | September 27 | 1:00 p.m. | Cincinnati Benga |  |  | Acrisure Stadium | CBS | 
-      ROW: 4 | October 1 | 8:15 p.m. | at Cleveland Bro |  |  | Huntington Bank  | Prime Video | 
-  --- table #10  (3 lignes, class=wikitable plainrowheaders) ---
-      HEAD: Quarter 1 2 3 4 Total Falcons 7 0 3 3 13
-      ROW: Falcons | 7 | 0 | 3 | 3 | 13
-      ROW: Steelers | 3 | 10 | 0 | 7 | 20
-  --- table #12  (3 lignes, class=wikitable plainrowheaders) ---
-      HEAD: Quarter 1 2 3 4 Total Steelers 0 0 0 0 0
-      ROW: Steelers | 0 | 0 | 0 | 0 | 0
-      ROW: Patriots | 0 | 0 | 0 | 0 | 0
-  --- table #13  (6 lignes, class=wikitable defaultcenter col1le) ---
-      HEAD: AFC North view talk edit W L T PCT DIV CONF PF PA STK
-      ROW: view talk edit | W | L | T | PCT | DIV | CONF | PF | PA | STK
-      ROW: Baltimore Ravens | 1 | 0 | 0 | 1.000 | 0–0 | 1–0 | 41 | 23 | W1
-      ROW: Cincinnati Benga | 1 | 0 | 0 | 1.000 | 0–0 | 0–0 | 33 | 27 | W1
-      ROW: Pittsburgh Steel | 1 | 0 | 0 | 1.000 | 0–0 | 0–0 | 20 | 13 | W1
-  --- table #14  (21 lignes, class=wikitable defaultcenter col2le) ---
-      HEAD: AFC v t e Seed Team Division W L T PCT DIV CONF SOS SOV STK
-      ROW: Seed | Team | Division | W | L | T | PCT | DIV | CONF | SOS | SOV | STK
-      ROW: Division leaders
-      ROW: 1 | Baltimore Ravens | North | 1 | 0 | 0 | 1.000 | 0–0 | 1–0 | .000 | .000 | W1
-      ROW: 2 | Buffalo Bills | East | 1 | 0 | 0 | 1.000 | 0–0 | 1–0 | .000 | .000 | W1
-  --- table #15  (14 lignes, class=nowraplinks hlist mw-collapsib) ---
-      HEAD: v t e Pittsburgh Steelers Founded in 1933 Formerly the Pittsburgh Pirates (1933–1939) Based and headquartered in Pittsburgh, Pennsylvania
-      ROW: Founded in 1933 
-      ROW: Franchise | History All-Time
-      ROW: Stadiums | Home fields: For
-      ROW: Culture | Football in West
-  --- table #16  (4 lignes, class=nowraplinks mw-collapsible aut) ---
-      HEAD: v t e Pittsburgh Steelers seasons Formerly the Pittsburgh Pirates (1933–1939)
-      ROW: Formerly the Pit
-      ROW: 1933 1934 1935 1
-      ROW: Bold indicates S
-  --- table #17  (6 lignes, class=nowraplinks hlist mw-collapsib) ---
-      HEAD: v t e 2026 NFL season AFC East North South West East North South West NFC
-      ROW: AFC | East | North | South | West | East | North | South | West | NFC
-      ROW: Buffalo | Baltimore | Houston | Denver | Dallas | Chicago | Atlanta | Arizona
-      ROW: Miami | Cincinnati | Indianapolis | Kansas City | NY Giants | Detroit | Carolina | LA Rams
-      ROW: New England | Cleveland | Jacksonville | Las Vegas | Philadelphia | Green Bay | New Orleans | San Francisco
+===== Prochain match Steelers =====
+  {'adversaire': 'New England Patriots', 'domicile': "à l'extérieur", 'competition': 'NFL', 'date_txt': 'dimanche 20 septembre à 19h00', 'stade': 'Gillette Stadium', 'diffusion': None, 'source_name': 'TheSportsDB', 'source_url': 'https://www.thesportsdb.com/team/134925'}
+  contexte :
+  {'mon_rang': "3e de l'AFC Nord (1-0)", 'adv_rang': "New England Patriots : 4e de l'AFC Nord (0-1)", 'infos': {'nom': 'Pittsburgh Steelers', 'infos': ['Stade : Acrisure Stadium', 'Ville : Pittsburgh, Pennsylvania', 'Fondé en 1933']}}
+
+===== Prochain match PSG =====
+  {'adversaire': 'Olympique de Marseille', 'domicile': "à l'extérieur", 'competition': 'Ligue 1', 'date_txt': 'dimanche 20 septembre à 20h45', 'stade': '', 'diffusion': 'Ligue 1+ Arbitrage : François Letexier', 'source_name': 'Wikipédia', 'source_url': 'https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain'}
+  contexte :
+  {'l1': '8e de Ligue 1 — 5 pts en 4 matchs', 'ucl': '1er de la phase de ligue (3 pts)', 'adv_rang': 'Olympique de Marseille : 13e de Ligue 1 (3 pts)', 'adv_infos': {'nom': 'Olympique de Marseille Youth', 'infos': ['Ville : Marseille, France', 'Fondé en 0']}}
+
+===== UCL PSG (best-effort) =====
+  {'rang': 1, 'pts': 3, 'source_url': "https://fr.wikipedia.org/wiki/Ligue_des_champions_de_l'UEFA_2026-2027"}
+
+===== Infos équipe Steelers =====
+  {'nom': 'Pittsburgh Steelers', 'infos': ['Stade : Acrisure Stadium', 'Ville : Pittsburgh, Pennsylvania', 'Fondé en 1933']}
