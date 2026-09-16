@@ -1,9 +1,9 @@
 {
   "current": {
-    "temp": 18,
-    "feels": 18,
+    "temp": 14,
+    "feels": 14,
     "code": 3,
-    "is_night": false,
+    "is_night": true,
     "tmax": 20,
     "tmin": 13,
     "precip_prob": 73,
@@ -68,15 +68,15 @@
     },
     {
       "hh": "21h",
-      "code": 1,
+      "code": 0,
       "is_night": true,
-      "temp": 14,
+      "temp": 15,
       "precip": 0.0,
-      "wind": 4
+      "wind": 6
     },
     {
       "hh": "23h",
-      "code": 2,
+      "code": 3,
       "is_night": true,
       "temp": 13,
       "precip": 0.0,
