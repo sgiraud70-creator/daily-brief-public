@@ -4,3 +4,6 @@ __pycache__/
 .env
 *.log
 public/*.wav
+# L'e-mail rendu contient l'URL secrète du bouton « Régénérer » (REGEN_URL) :
+# il est envoyé par SMTP mais NE DOIT JAMAIS être publié sur ce dépôt public.
+public/email.html
