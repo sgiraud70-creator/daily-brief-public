@@ -1,7 +1,7 @@
 {
   "date_str": "Mercredi 16 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
@@ -22,77 +22,47 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Autonomie corse : échec d’un dialogue entre autonomistes et Grand Orient de France",
+          "title": "Violences dans le périscolaire parisien : appel à réformer le cadre légal",
           "bullets": [
-            "Rencontre annulée fin septembre à Paris entre élus corses et membres du Grand Orient de France (loges maçonniques).",
-            "Objectif initial : discuter du processus d’autonomie pour la Corse, mais désaccord sur les modalités et les attentes.",
-            "Les autonomistes accusent le GODF de ne pas soutenir une réforme institutionnelle ambitieuse.",
-            "Conséquence : risque de blocage des négociations sur l’avenir politique de l’île."
+            "Le maire de Paris, Emmanuel Grégoire, a plaidé devant la commission d’enquête du Sénat pour une refonte du cadre légal encadrant les violences dans les espaces périscolaires.",
+            "Il souligne une dégradation des conditions de sécurité, avec des incidents récurrents impliquant des mineurs et des personnels éducatifs.",
+            "Les propositions incluent des mesures de prévention renforcée et une meilleure coordination entre les acteurs locaux.",
+            "Cette prise de position intervient après plusieurs affaires médiatisées ces derniers mois."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/corse-le-rendez-vous-rate-des-autonomistes-et-des-freres-du-grand-orient-de-france_6775200_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/16/violences-dans-le-periscolaire-parisien-emmanuel-gregoire-appelle-a-bousculer-le-cadre-legal_6775207_823448.html"
             }
           ]
         },
         {
-          "title": "Bruno Retailleau relance sa campagne présidentielle sur le pouvoir d’achat",
+          "title": "Plan socialiste pour augmenter les salaires et taxer les plus riches en 2027",
           "bullets": [
-            "Le candidat LR propose des mesures pour augmenter les salaires et réduire les prix de l’énergie.",
-            "Critique des « bonimenteurs » et mise en avant de propositions concrètes (ex : baisse des taxes sur les carburants).",
-            "Stratégie pour se démarquer dans la course à la présidentielle 2027, face à une concurrence accrue.",
-            "Cible : les classes populaires et moyennes en difficulté économique."
+            "Les députés socialistes dévoilent un projet visant à instaurer une **CSG progressive** et à taxer davantage les héritages élevés.",
+            "L’objectif est de financer le modèle social en redistribuant la charge fiscale vers les plus aisés.",
+            "Le plan prévoit aussi des mesures pour revaloriser le SMIC et les salaires des fonctionnaires.",
+            "Ce projet s’inscrit dans une stratégie de justice sociale pour les élections présidentielles de 2027."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/bruno-retailleau-repart-sur-le-terrain-du-pouvoir-d-achat-pour-se-demarquer-des-bonimenteurs-dans-la-campagne-presidentielle_6775182_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/16/heritages-csg-smic-les-deputes-socialistes-devoilent-leur-plan-pour-augmenter-les-salaires-et-taxer-les-plus-riches-en-2027_6775205_823448.html"
             }
           ]
         },
         {
-          "title": "Philippe Brun exclu du PS et ne participera pas à la primaire de gauche",
+          "title": "Outre-mer : l’État français face à des tensions croissantes",
           "bullets": [
-            "Suspension conservatoire du député de l’Eure après une décision du bureau national du PS.",
-            "Motif : non-respect des règles internes ou comportement jugés inappropriés (non précisé dans l’article).",
-            "Conséquence : exclusion de la primaire présidentielle de la gauche pour 2027.",
-            "Tensions accrues au sein du PS avant les élections."
+            "Elisabeth Landi, historienne, analyse dans une tribune les défis persistants de la présence française dans les territoires ultramarins.",
+            "Elle souligne un paradoxe : la France cherche à conserver son influence tout en étant perçue comme à la fois coupable et indispensable.",
+            "Les enjeux incluent la gestion des crises sociales, économiques et environnementales locales.",
+            "Les propositions passent par une meilleure reconnaissance des spécificités territoriales et des investissements ciblés."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-philippe-brun-suspendu-a-titre-conservatoire-du-ps-ne-participera-pas-a-la-primaire-a-gauche_6775146_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Fin des subventions pour la monnaie locale « Pive » en Franche-Comté",
-          "bullets": [
-            "La monnaie complémentaire « Pive » ne bénéficiera plus de subventions publiques depuis 2026.",
-            "Objectif initial : promouvoir les achats de proximité et soutenir l’économie locale.",
-            "Risque : réduction de son impact économique et possible déclin de son usage.",
-            "Alternative : recherche de nouveaux financements privés ou partenariats."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-monnaie-locale-la-pive-perd-ses-subventions-en-franche-comte_6775186_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Crise des finances publiques : dette, déficits et taux d’intérêt décryptés",
-          "bullets": [
-            "Analyse des graphiques sur l’évolution de la dette publique, des déficits et des taux d’intérêt.",
-            "Urgence évoquée pour agir sur la dette, mais débats sur les mesures à prendre (hausse des impôts, réformes structurelles).",
-            "Conséquences : pression sur les budgets publics et risques pour la croissance économique.",
-            "Enjeu pour la présidentielle 2027 : comment équilibrer les comptes sans étouffer l’économie ?"
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/16/dette-deficits-taux-d-interet-les-graphiques-pour-comprendre-la-crise-des-finances-publiques_6774888_4355770.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/16/outre-mer-l-etat-francais-risque-de-devenir-a-la-fois-le-coupable-universel-et-le-garant-indispensable_6774994_3232.html"
             }
           ]
         }
@@ -102,77 +72,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Hashim Thaçi condamné à 25 ans de prison pour crimes de guerre au Kosovo",
+          "title": "Arabie saoudite : détroit de Bal Al-Mandab menacé par les Houthis",
           "bullets": [
-            "Ancien président du Kosovo reconnu coupable d’arrestations illégales, de tortures et de crimes contre l’humanité dans les années 1990.",
-            "Jugé par les chambres spécialisées sur le Kosovo, il est le premier dirigeant kosovar condamné pour ces faits.",
-            "Conséquences : impact sur la stabilité politique et la réconciliation dans la région des Balkans.",
-            "Réactions internationales : condamnation par l’UE et les États-Unis, mais soutien de certains partis locaux."
+            "L’avancée des rebelles houthistes au Yémen menace un autre détroit stratégique après Ormuz, essentiel pour le commerce maritime mondial.",
+            "Cette situation pourrait perturber les flux pétroliers et les échanges commerciaux entre l’Afrique et l’Asie.",
+            "Les tensions régionales s’intensifient, avec des risques de blocages économiques et géopolitiques accrus.",
+            "La communauté internationale surveille de près l’escalade des conflits dans la région."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/l-ancien-president-du-kosovo-condamne-a-vingt-cinq-ans-de-prison-pour-crimes-de-guerre_6775199_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/16/l-arabie-saoudite-et-l-economie-mondiale-prises-dans-un-etau_6775212_3232.html"
             }
           ]
         },
         {
-          "title": "Brésil : scandale de la Banque Master instrumentalisé dans la campagne présidentielle",
+          "title": "Soudan : effondrement d’une mine d’or fait plus de 60 morts",
           "bullets": [
-            "Révélations sur une fraude financière massive impliquant des élus et des hauts fonctionnaires.",
-            "Risque d’instrumentalisation politique avant le scrutin du 4 octobre 2026.",
-            "Comparaison avec l’affaire « Lava Jato » des années 2010, qui avait marqué la politique brésilienne.",
-            "Conséquences : méfiance accrue des électeurs envers les partis et les candidats."
+            "Un accident minier dans le Kordofan sud a fait au moins 67 victimes, selon des témoignages de survivants.",
+            "Cette catastrophe met en lumière les conditions dangereuses et souvent illégales de l’exploitation artisanale de l’or.",
+            "Les autorités locales et internationales appellent à une régulation renforcée de ce secteur.",
+            "L’accident souligne les défis persistants en matière de sécurité et de développement dans la région."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/au-bresil-les-craintes-d-une-instrumentalisation-politique-du-scandale-de-la-banque-master_6775194_3210.html"
+              "name": "france24.com",
+              "url": "http://www.france24.com/fr/afrique/20260916-soudan-effondrement-mine-or-fait-plus-de-60-victimes-accident"
             }
           ]
         },
         {
-          "title": "Ukraine : attaque de drone russe dans l’oblast de Dnipropetrovsk fait cinq morts",
+          "title": "Brésil : scandale de Banco Master ébranle la campagne présidentielle",
           "bullets": [
-            "Frappe russe sur un minibus transportant des civils, causant cinq morts et sept blessés.",
-            "Ciblage présumé d’infrastructures civiles ou militaires dans la région de Nikopol.",
-            "Escalade des tensions dans le conflit, avec une intensification des frappes aériennes russes.",
-            "Réactions ukrainiennes : appel à une réponse militaire pour dissuader Moscou."
+            "L’affaire financière impliquant des élus et la plus haute cour du pays fragilise les candidats à la présidentielle du 4 octobre.",
+            "Des irrégularités suspectées dans la gestion des fonds bancaires ont été révélées par des enquêtes judiciaires.",
+            "Ce scandale pourrait influencer les intentions de vote et affecter la crédibilité des partis politiques.",
+            "Les autorités brésiliennes enquêtent pour déterminer l’étendue de la corruption présumée."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-une-attaque-de-drone-russe-dans-l-oblast-de-dnipropetrovsk-a-fait-cinq-morts-selon-les-autorites-locales_6772184_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/09/16/au-bresil-le-scandale-de-banco-master-s-impose-dans-la-campagne-presidentielle_6775191_3210.html"
             }
           ]
         },
         {
-          "title": "Arabie saoudite accuse les Houthis de viser La Mecque depuis le Yémen",
+          "title": "Excision au Mali : une campagne virale suscite l’inquiétude",
           "bullets": [
-            "Attaques houthis répétées contre le territoire saoudien, dont une récente frappe sur La Mecque.",
-            "Tensions accrues dans la région du Golfe, avec une escalade des conflits indirects.",
-            "Réponse saoudienne : renforcement de la coopération militaire avec les États-Unis et les alliés régionaux.",
-            "Risque : extension du conflit au-delà des frontières yéménites."
+            "Une campagne numérique prônant l’excision s’est propagée sur les réseaux sociaux maliens en août 2026.",
+            "Ornella Moderan, politologue, analyse cette tendance comme une perpétuation de normes patriarcales au détriment des droits des femmes.",
+            "Les associations locales et internationales appellent à une mobilisation contre cette pratique.",
+            "L’État malien doit renforcer les campagnes de sensibilisation et les mesures de protection."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/l-arabie-saoudite-accuse-les-houthistes-d-avoir-vise-la-mecque_6775183_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/09/16/ornella-moderan-chercheuse-exciser-c-est-perpetuer-une-certaine-idee-de-la-virilite-au-detriment-de-l-integrite-physique-des-femmes_6775198_3210.html"
             }
           ]
         },
         {
-          "title": "Russie : Moscou mise sur des drones rapides à réaction pour contourner la défense ukrainienne",
+          "title": "Accident d’hélicoptère à Los Angeles : trois morts",
           "bullets": [
-            "Déploiement de nouveaux drones équipés de moteurs chinois, permettant de percer les défenses antiaériennes ukrainiennes.",
-            "Stratégie russe : utiliser la vitesse et la furtivité pour cibler des infrastructures critiques.",
-            "Conséquences : pression accrue sur l’Ukraine pour renforcer ses systèmes de défense aérienne.",
-            "Enjeu géopolitique : innovation militaire et dépendance technologique de la Russie envers la Chine."
+            "Un hélicoptère appartenant à une chaîne de télévision s’est écrasé dans l’ouest de Los Angeles, faisant au moins trois victimes.",
+            "L’appareil survolait le site d’une collision entre un SUV et un bus lors de la prise de vues.",
+            "Les causes de l’accident sont en cours d’enquête par les autorités locales.",
+            "Cet incident rappelle les risques liés aux survols urbains et aux conditions météo."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/guerre-en-ukraine-moscou-mise-sur-les-drones-rapides-a-reaction_6775139_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/video/2026/09/16/un-helicoptere-se-crashe-dans-l-ouest-de-los-angeles-faisant-au-moins-trois-morts_6775134_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Discours d’Ursula von der Leyen : état de l’Union européen",
+          "bullets": [
+            "La présidente de la Commission européenne a présenté son discours annuel sur l’état de l’Union au Parlement européen.",
+            "Elle a abordé les défis économiques, migratoires et géopolitiques auxquels l’UE fait face.",
+            "Les propositions incluent des mesures pour renforcer la souveraineté européenne et la cohésion sociale.",
+            "Ce discours marque une étape clé dans la définition des priorités pour les années à venir."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-ursula-von-der-leyen-tient-son-discours-annuel-sur-l-etat-de-l-union_6775063_3210.html"
             }
           ]
         }
@@ -180,106 +165,136 @@
     },
     {
       "label": "Actualité locale",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Élections sénatoriales 2026 : candidats connus dans le Doubs, Haute-Saône et Territoire de Belfort",
+          "title": "Jev : un modèle d’IA qui refuse de générer du texte",
           "bullets": [
-            "Liste des candidats officiels pour les élections sénatoriales dans ces départements.",
-            "Enjeux locaux : représentation des territoires et influence des partis politiques.",
-            "Stratégies de campagne : mobilisation des électeurs et débats sur les priorités régionales.",
-            "Résultats attendus pour le renouvellement partiel du Sénat."
+            "Diogo Almeida, ancien chercheur chez OpenAI, lance **Jev**, un modèle d’IA conçu pour ne pas produire de contenu textuel généré.",
+            "Cette approche vise à contrer les dérives liées à la désinformation et à la surproduction de contenus automatisés.",
+            "L’annonce a suscité un vif intérêt dans la communauté technologique et médiatique.",
+            "Jev pourrait influencer les débats sur l’éthique et l’utilisation des modèles d’IA."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2333731-le-co-createur-de-chatgpt-lance-jev-un-modele-qui-ne-redige-rien-et-cest-la-toute-la-solution.html"
+            }
+          ]
+        },
+        {
+          "title": "Test de l’iPhone 18 Pro Max : un smartphone révolutionnaire",
+          "bullets": [
+            "Les nouveaux iPhone 18 Pro et Pro Max, à 1 479 € et 1 629 € respectivement, sont présentés comme les smartphones les plus aboutis d’Apple.",
+            "Le modèle Pro Max se distingue par ses performances techniques et son écran ultra-performant.",
+            "Les critiques soulignent une amélioration notable en termes de design, d’autonomie et d’intégration des fonctionnalités.",
+            "Ces appareils pourraient redéfinir les standards du marché des smartphones haut de gamme."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2333313-test-de-liphone-18-pro-max-apple-a-enfin-compris.html"
+            }
+          ]
+        },
+        {
+          "title": "Blizzard révèle Diablo V avant sa sortie prévue pour 2029",
+          "bullets": [
+            "Blizzard a officiellement annoncé **Diablo V** lors de la BlizzCon 2026, bien que sa sortie ne soit prévue qu’au printemps 2029.",
+            "Cette révélation précoce vise à susciter l’engouement des fans et à préparer le terrain pour les développements futurs.",
+            "Les premières images et informations laissent présager des innovations majeures dans le gameplay et l’univers du jeu.",
+            "Les joueurs attendent avec impatience les détails supplémentaires sur les mécaniques et les personnages."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/pop-culture/2333711-en-devoilant-diablo-5-si-tot-blizzard-compte-aussi-sur-les-fans.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "Apple imprime en 3D la charnière de l’iPhone Duo",
+          "bullets": [
+            "Apple utilise l’impression 3D pour fabriquer la charnière de son premier téléphone pliable, l’iPhone Duo.",
+            "Cette technologie permet une production plus légère et plus flexible des composants métalliques.",
+            "L’utilisation de l’impression 3D reflète une tendance croissante vers des méthodes de fabrication innovantes dans le secteur technologique.",
+            "Cette approche pourrait réduire les coûts et améliorer la durabilité des produits Apple."
+          ],
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/iphone-duo-impression-3d-metal-16092026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Prélèvement fiscal direct sur les comptes bancaires : délai imminent",
+          "bullets": [
+            "À partir de 10 jours, l’administration fiscale française prélevera directement sur les comptes bancaires les sommes dues pour les impôts 2026.",
+            "Cette mesure vise à accélérer le recouvrement des créances fiscales et à réduire les impayés.",
+            "Les contribuables doivent vérifier leurs relevés et s’assurer que leurs coordonnées bancaires sont à jour.",
+            "Cette procédure s’applique aux dettes fiscales non réglées dans les délais impartis."
           ],
           "sources": []
         },
         {
-          "title": "Collision mortelle impliquant un utilitaire et deux poids lourds en Haute-Saône",
+          "title": "Arnaques aux permis de conduire en Seine-et-Marne : faux candidats à l’examen",
           "bullets": [
-            "Décès d’un homme de 33 ans dans un accident impliquant un utilitaire et deux poids lourds.",
-            "Enquête en cours pour déterminer les causes exactes de l’accident.",
-            "Conséquences : blocage possible des axes routiers et impact sur le trafic local.",
-            "Réactions des associations de victimes et des autorités locales."
+            "Des arnaqueurs ont passé des examens de conduite à la place d’élèves réels dans le département de Seine-et-Marne.",
+            "Les candidats frauduleux ont été identifiés grâce à des vidéosurveillances et des témoignages.",
+            "Les autorités locales renforcent les contrôles pour éviter de telles pratiques à l’avenir.",
+            "Les victimes, privées de leur session, devront repasser l’examen dans des conditions normales."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Suppression de l’abattement fiscal de 10 % pour les retraités : impact financier",
+          "bullets": [
+            "La suppression de l’abattement de 10 % sur les revenus des retraités pourrait augmenter leur imposition en 2026.",
+            "Cette mesure pourrait affecter particulièrement les retraités modestes et moyens.",
+            "Les associations de retraités appellent à des compensations pour atténuer l’impact financier.",
+            "Les experts estiment que cette réforme pourrait réduire les recettes fiscales globales si elle n’est pas bien calibrée."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "IA & nouvelles technologies",
+      "label": "Sport général",
       "sujets": [
         {
-          "title": "Mark Zuckerberg rejette les appels à ralentir le développement de l’IA",
+          "title": "Championnats du monde de cyclisme : suivi des épreuves à Montréal",
           "bullets": [
-            "Le PDG de Meta affirme que le marché et les tribunaux suffiront à réguler l’IA.",
-            "Position ferme contre les régulations gouvernementales ou moratoires sur l’innovation.",
-            "Critiques de la Silicon Valley et des défenseurs des droits numériques, qui réclament plus de contrôle.",
-            "Enjeu : équilibre entre innovation technologique et protection des utilisateurs."
+            "Les championnats du monde de cyclisme sur route se déroulent à Montréal du 16 au 28 septembre 2026.",
+            "Les épreuves incluent le contre-la-montre et la course en ligne pour les élites hommes et femmes.",
+            "Les fans peuvent suivre les compétitions sur plusieurs chaînes de télévision et en direct en ligne.",
+            "Les favoris mondiaux s’affrontent pour décrocher les titres tant attendus."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2333867-le-marche-et-les-tribunaux-suffiront-mark-zuckerberg-soppose-fermement-aux-appels-a-ralentir-lia.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "SpaceX prépare le 14e vol du Starship avec un objectif orbital inédit",
+          "title": "Condamnation pour atteinte sexuelle dans le handball : un éducateur sous le coup de la justice",
           "bullets": [
-            "Prochaine tentative de vol prévue à partir du 22 septembre 2026 depuis le Texas.",
-            "Objectif : atteindre une orbite terrestre et potentiellement déployer des satellites.",
-            "Innovation : utilisation de moteurs plus performants et amélioration de la fiabilité.",
-            "Enjeu : validation pour des missions habitées et commerciales à long terme."
+            "Un éducateur de handball a été condamné à deux ans de prison avec sursis pour atteinte sexuelle sur une joueuse de 15 ans.",
+            "L’affaire a été jugée par le tribunal correctionnel après une enquête approfondie.",
+            "Cette condamnation rappelle l’importance de la protection des mineurs dans le sport.",
+            "Les associations sportives renforcent leurs protocoles pour prévenir ce type d’incidents."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2327839-14e-vol-du-starship-ce-que-prevoit-spacex-avec-sa-fusee-geante-vol-orbital-inedit-vrais-satellites.html"
-            }
-          ]
-        },
-        {
-          "title": "Amazon réduit le prix de l’aspirateur laveur Dreame T16 Pro à 549 €",
-          "bullets": [
-            "Promo sur un modèle haut de gamme noté 9/10 par la rédaction.",
-            "Fonctionnalités : aspiration et lavage des sols à l’eau chaude.",
-            "Objectif : attirer les consommateurs en période de rentrée.",
-            "Alternative économique pour les ménages cherchant à moderniser leur ménage."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2333881-amazon-baisse-le-prix-de-laspirateur-laveur-dreame-t16-pro-note-9-10-par-la-redaction.html"
-            }
-          ]
-        },
-        {
-          "title": "Le télescope Roman de la NASA ouvre ses « yeux »",
-          "bullets": [
-            "Premier instrument testé avec succès : le Wide Field Instrument.",
-            "Capacité à explorer de vastes zones du ciel nocturne avec une précision inédite.",
-            "Objectif scientifique : étude des exoplanètes, de la matière noire et de l’expansion de l’univers.",
-            "Collaboration internationale pour exploiter les données collectées."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2333879-le-telescope-roman-de-la-nasa-a-enfin-ouvert-les-yeux.html"
-            }
-          ]
-        },
-        {
-          "title": "Zack Snyder dénonce la disparition du sexe au cinéma",
-          "bullets": [
-            "Critique du lissage des blockbusters hollywoodiens, jugés trop prudents sur les scènes érotiques.",
-            "Exemple : absence de scènes explicites dans ses propres films récents.",
-            "Appel à une plus grande liberté artistique dans le cinéma contemporain.",
-            "Réactions mitigées : certains saluent son courage, d’autres craignent une censure implicite."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2333743-le-sexe-a-disparu-du-cinema-le-coup-de-gueule-de-zack-snyder-300-contre-hollywood.html"
-            }
-          ]
+          "sources": []
         }
       ]
     },
