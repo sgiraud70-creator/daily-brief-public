@@ -152,35 +152,51 @@ def get_vigilance(departement: str = "70", app_id: Optional[str] = None) -> Opti
     url = ("https://public-api.meteofrance.fr/public/DPVigilance/v1/"
            "cartevigilance/encours")
 
-    def _fetch(bearer: str):
-        return requests.get(url, headers={"Authorization": f"Bearer {bearer}"},
-                            timeout=REQUEST_TIMEOUT)
-
-    try:
-        # 1) le secret est peut-être déjà un token d'accès → Bearer direct
-        v = _fetch(app_id)
-        if v.status_code in (401, 403):
-            # 2) sinon, le secret est un « Application ID » → échange OAuth
-            tok = requests.post(
-                "https://portail-api.meteofrance.fr/token",
-                headers={"Authorization": f"Basic {app_id}"},
-                data={"grant_type": "client_credentials"},
-                timeout=REQUEST_TIMEOUT,
-            )
-            tok.raise_for_status()
-            v = _fetch(tok.json()["access_token"])
-        v.raise_for_status()
-        payload = v.json()
-        try:  # DEBUG temporaire : dump pour caler la structure réelle
-            import json as _json
-            with open("public/_vigilance_debug.json", "w", encoding="utf-8") as _f:
-                _json.dump(payload, _f, ensure_ascii=False)
+    def _try(label: str, **kwargs) -> Optional[dict]:
+        """Tente un appel ; dumpe + parse si 200 avec un corps JSON."""
+        try:
+            r = requests.get(url, timeout=REQUEST_TIMEOUT, **kwargs)
+        except Exception as e:  # noqa: BLE001
+            print(f"  vigilance [{label}] : {e!r}")
+            return None
+        print(f"  vigilance [{label}] → HTTP {r.status_code} ({len(r.content)} o)")
+        if r.status_code != 200 or not r.content:
+            return None
+        try:  # DEBUG temporaire : dump de la vraie réponse
+            with open("public/_vigilance_debug.json", "wb") as _f:
+                _f.write(r.content)
         except Exception:  # noqa: BLE001
             pass
-        return _parse_vigilance(payload, departement)
+        try:
+            return _parse_vigilance(r.json(), departement)
+        except ValueError:
+            print(f"    (réponse non-JSON : {r.text[:120]!r})")
+            return None
+
+    # 1) jeton passé en en-tête « apikey » (méthode Météo-France courante)
+    res = _try("apikey", headers={"apikey": app_id})
+    if res is not None:
+        return res
+    # 2) jeton passé en Bearer (si c'est un token OAuth)
+    res = _try("Bearer", headers={"Authorization": f"Bearer {app_id}"})
+    if res is not None:
+        return res
+    # 3) le secret est un « Application ID » → échange OAuth client_credentials
+    try:
+        tok = requests.post(
+            "https://portail-api.meteofrance.fr/token",
+            headers={"Authorization": f"Basic {app_id}"},
+            data={"grant_type": "client_credentials"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        print(f"  vigilance [OAuth token] → HTTP {tok.status_code}")
+        if tok.status_code == 200:
+            access = tok.json().get("access_token", "")
+            return _try("OAuth+Bearer",
+                        headers={"Authorization": f"Bearer {access}"})
     except Exception as e:  # noqa: BLE001
-        print(f"⚠ vigilance Météo-France : {e!r}")
-        return None
+        print(f"  vigilance [OAuth] : {e!r}")
+    return None
 
 
 def _parse_vigilance(payload: dict, departement: str) -> Optional[dict]:
