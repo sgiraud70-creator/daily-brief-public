@@ -43,16 +43,20 @@ if body:
     idxs = [m.start() for m in re.finditer(r"data-schedule-type=", body)]
     log(f"{len(idxs)} occurrences de data-schedule-type")
     for k, i in enumerate(idxs[:12]):
-        frag = body[i:i + 3500]
-        stype = (re.match(r'data-schedule-type="([^"]*)"', body[i:i + 40]) or [None, "?"])[1]
-        classes = sorted(set(re.findall(r'class="(schedule-item__[a-z-]+)', frag)))
-        # heure dans <time ...>HH:MM</time> ou attribut datetime
-        t = re.search(r"<time[^>]*>(.*?)</time>", frag, re.S)
+        tag = body.rfind("<", max(0, i - 400), i)   # début réel de la balise
+        frag = body[(tag if tag != -1 else i):i + 4500]
+        stype = (re.search(r'data-schedule-type="([^"]*)"', frag) or [None, "?"])[1]
+        ismatch = (re.search(r'data-is-match="([^"]*)"', frag) or [None, "?"])[1]
         dtime = re.search(r'datetime="([^"]+)"', frag)
-        log(f"--- carte #{k}  type={stype} ---")
-        log("  time:", clean(t.group(1)) if t else "?", "| datetime:", dtime.group(1) if dtime else "?")
-        log("  classes:", " ".join(classes)[:200])
-        log("  TEXTE:", clean(frag)[:260])
+        # chaîne : alt d'un logo de chaîne, ou classe __channel
+        chan = re.findall(r'schedule-item__channel[^>]*>(.*?)<', frag, re.S)
+        alts = re.findall(r'alt="(beIN[^"]*|L[’\']Équipe[^"]*|DAZN[^"]*|RMC[^"]*)"', frag)
+        log(f"--- carte #{k}  type={stype}  match={ismatch} ---")
+        log("  datetime:", dtime.group(1) if dtime else "?")
+        log("  chaîne(classe):", " / ".join(clean(c) for c in chan)[:120] or "—")
+        log("  chaîne(alt):", " / ".join(alts)[:120] or "—")
+        # texte lisible SANS les attributs (balise strippée proprement)
+        log("  TEXTE:", clean(frag)[:400])
 
     # 2b) Marqueurs de date/jour (pour repérer « le jour »)
     log("\n===== MARQUEURS DATE (data-date / entêtes jour) =====")
