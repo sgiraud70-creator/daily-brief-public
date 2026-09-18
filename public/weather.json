@@ -1,13 +1,13 @@
 {
   "current": {
-    "temp": 17,
-    "feels": 16,
+    "temp": 20,
+    "feels": 18,
     "code": 2,
     "is_night": false,
     "tmax": 21,
     "tmin": 11,
     "precip_prob": 3,
-    "wind": 15
+    "wind": 14
   },
   "steps": [
     {
@@ -40,7 +40,7 @@
       "is_night": false,
       "temp": 19,
       "precip": 0.0,
-      "wind": 13
+      "wind": 14
     },
     {
       "hh": "15h",
@@ -48,7 +48,7 @@
       "is_night": false,
       "temp": 20,
       "precip": 0.0,
-      "wind": 9
+      "wind": 10
     },
     {
       "hh": "17h",
@@ -56,15 +56,15 @@
       "is_night": false,
       "temp": 21,
       "precip": 0.0,
-      "wind": 10
+      "wind": 11
     },
     {
       "hh": "19h",
-      "code": 2,
+      "code": 1,
       "is_night": false,
       "temp": 20,
       "precip": 0.0,
-      "wind": 5
+      "wind": 8
     },
     {
       "hh": "21h",
@@ -72,23 +72,23 @@
       "is_night": true,
       "temp": 14,
       "precip": 0.0,
-      "wind": 5
+      "wind": 6
     },
     {
       "hh": "23h",
       "code": 1,
       "is_night": true,
-      "temp": 12,
+      "temp": 13,
       "precip": 0.0,
-      "wind": 5
+      "wind": 4
     }
   ],
   "days": [
     {
       "name": "Sam",
-      "code": 45,
+      "code": 3,
       "tmax": 24,
-      "tmin": 7
+      "tmin": 8
     },
     {
       "name": "Dim",
@@ -99,20 +99,20 @@
     {
       "name": "Lun",
       "code": 3,
-      "tmax": 24,
+      "tmax": 23,
       "tmin": 12
     },
     {
       "name": "Mar",
       "code": 1,
-      "tmax": 25,
+      "tmax": 24,
       "tmin": 10
     },
     {
       "name": "Mer",
       "code": 3,
       "tmax": 25,
-      "tmin": 9
+      "tmin": 10
     },
     {
       "name": "Jeu",
