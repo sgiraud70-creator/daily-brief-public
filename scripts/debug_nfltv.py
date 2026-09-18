@@ -62,9 +62,14 @@ if body:
     if idxs:
         i0 = idxs[0]
         t0 = body.rfind("<", max(0, i0 - 400), i0)
-        raw = body[(t0 if t0 != -1 else i0):i0 + 5200]
+        raw = body[(t0 if t0 != -1 else i0):i0 + 9000]
         log("\n===== CARTE #0 — HTML BRUT COMPLET =====")
         log(raw)
+        log("\n----- extraction chaîne carte #0 -----")
+        for m in re.findall(r'<img[^>]*(?:channel-logo|logoChaine)[^>]*>', raw):
+            log("  img:", m[:300])
+        for m in re.findall(r'alt="([^"]*)"', raw):
+            log("  alt:", m)
 
     # 2b) Marqueurs de date/jour (pour repérer « le jour »)
     log("\n===== MARQUEURS DATE (data-date / entêtes jour) =====")
