@@ -3,7 +3,173 @@ HTTP 200  217713 octets  ct=text/html; charset=UTF-8
 ===== TEXTE (0-6000) =====
 window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} (function () { var root = document.documentElement; root.classList.add("js"); var accountPreferences = null; window.__tvsAccount = { authenticated: false, csrfToken: "", preferences: accountPreferences }; if (accountPreferences) { try { localStorage.setItem("tvs.preferences.v2", JSON.stringify(accountPreferences)); localStorage.setItem("theme", accountPreferences.theme || "auto"); } catch (error) {} } var storedTheme = null; try { storedTheme = localStorage.getItem("theme"); } catch (error) {} var preference = storedTheme === "auto" || storedTheme === "light" || storedTheme === "dark" ? storedTheme : "auto"; var systemTheme = "light"; try { systemTheme = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"; } catch (error) {} var resolvedTheme = preference === "auto" ? systemTheme : preference; root.setAttribute("data-theme", resolvedTheme); root.setAttribute("data-theme-preference", preference); root.classList.toggle("dark", resolvedTheme === "dark"); var themeColor = document.querySelector("[data-theme-color]"); if (themeColor) { themeColor.setAttribute("content", "#1f7a36"); } var initialPreferences = accountPreferences; if (!initialPreferences || typeof initialPreferences !== "object") { try { var storedPreferences = JSON.parse( localStorage.getItem("tvs.preferences.v2") || "null" ); initialPreferences = storedPreferences && storedPreferences.version === 2 ? storedPreferences : {}; } catch (error) { initialPreferences = {}; } } var stringList = function (value, uppercase) { return new Set((Array.isArray(value) ? value : []).map(function (item) { var text = String(item); return uppercase ? text.toUpperCase() : text; })); }; var hiddenSports = stringList(initialPreferences.hiddenSports, false); var hiddenGenders = stringList(initialPreferences.hiddenGenders, false); var hiddenAgeGroups = stringList(initialPreferences.hiddenAgeGroups, false); var hiddenCountries = stringList(initialPreferences.hiddenCountries, true); var hiddenChannels = stringList(initialPreferences.hiddenChannels, false); var hideReplays = Boolean(initialPreferences.hideReplays); var hideShows = Boolean(initialPreferences.hideShows); var hideWithoutTv = Boolean(initialPreferences.hideWithoutTv); root.setAttribute( "data-show-scores", initialPreferences.showScores === false ? "false" : "true" ); root.setAttribute("data-hide-replays", hideReplays ? "true" : "false"); root.setAttribute("data-hide-shows", hideShows ? "true" : "false"); root.setAttribute("data-hide-without-tv", hideWithoutTv ? "true" : "false"); root.setAttribute("data-hide-news", initialPreferences.hideNews ? "true" : "false"); root.setAttribute("data-hide-featured", initialPreferences.hideFeatured ? "true" : "false"); var needsPreferencePrepaint = hiddenSports.size > 0 || hiddenGenders.size > 0 || hiddenAgeGroups.size > 0 || hiddenCountries.size > 0 || hiddenChannels.size > 0 || hideReplays || hideShows || hideWithoutTv; if (needsPreferencePrepaint && typeof MutationObserver === "function") { var preferenceSelector = "[data-sport-id], [data-channel-id], " + "[data-channel-options], [data-schedule-type], " + "[data-audience-gender], [data-age-group]"; var channelOptionHidden = function (option) { var parts = option.split(":", 2); var id = parts[0] || ""; var country = (parts[1] || "").toUpperCase(); return (id !== "" && id !== "0" && hiddenChannels.has(id)) || (country !== "" && hiddenCountries.has(country)); }; var applyPrepaintPreferences = function (elements) { var hasScheduleFilter = Boolean(document.querySelector("[data-schedule-filter]")); elements.forEach(function (element) { var sportId = element.getAttribute("data-sport-id") || ""; var audienceGender = element.getAttribute("data-audience-gender") || ""; var ageGroup = element.getAttribute("data-age-group") || ""; var rawChannelOptions = element.getAttribute("data-channel-options") || ""; var channelOptions = rawChannelOptions ? rawChannelOptions.split(",").filter(Boolean) : [ (element.getAttribute("data-channel-id") || "") + ":" + (element.getAttribute("data-channel-country") || "") ]; var channelHidden = channelOptions.some(function (option) { return option !== ":"; }) && channelOptions.every(channelOptionHidden); var scheduleType = element.getAttribute("data-schedule-type") || ""; var typeHidden = !hasScheduleFilter && ( (hideReplays && scheduleType === "replay") || (hideShows && scheduleType === "show") || (hideWithoutTv && scheduleType === "without-tv") ); if ( hiddenSports.has(sportId) || hiddenGenders.has(audienceGender) || hiddenAgeGroups.has(ageGroup) || channelHidden || typeHidden ) { element.hidden = true; element.setAttribute("data-preference-hidden", "1"); } }); }; var preferenceObserver = new MutationObserver(function (records) { var elements = new Set(); records.forEach(function (record) { record.addedNodes.forEach(function (node) { if (!node || node.nodeType !== 1) { return; } if (node.matches(preferenceSelector)) { elements.add(node); } node.querySelectorAll(preferenceSelector).forEach(function (element) { elements.add(element); }); }); }); applyPrepaintPreferences(elements); }); preferenceObserver.observe(root, {childList: true, subtree: true}); window.__tvsPreferencePrepaint = { disconnect: function () { preferenceObserver.disconnect(); delete window.__tvsPreferencePrepaint; } }; document.addEventListener("DOMContentLoaded", function () { var prepaint = window.__tvsPreferencePrepaint; if (prepaint) { prepaint.disconnect(); } }, {once: true}); } })(); NFL 🏈 matchs à la TV • programme TV Football américain .tvp-pubs2-slot { display:flex; align-items:center; justify-content:center; width:100%; max-width:100%; margin:0 auto; padding:12px; border:1px dashed rgba(59, 130, 246, 0.45); border-radius:8px; background:repeating-linear-gradient(-45deg, rgba(239, 246, 255, 0.82), rgba(239, 246, 255, 0.82) 10px, rgba(219, 234, 254, 0.82) 10px, rgba(219, 234, 254,
 
-===== BLOCS AVEC HEURE (HTML brut, 10 premiers) =====
+===== CARTES data-schedule-type (fenêtre HTML, 8 premières) =====
+25 occurrences de data-schedule-type
+--- carte #0 ---
+HTML: data-schedule-type="replay"
+                data-schedule-section="current"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden=
+TEXTE: data-schedule-type="replay" data-schedule-section="current" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="
+--- carte #1 ---
+HTML: data-schedule-type="live"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
+TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
+--- carte #2 ---
+HTML: data-schedule-type="live"
+                data-schedule-section="upcoming"
+                data-is-match="0"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
+TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="0" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
+--- carte #3 ---
+HTML: data-schedule-type="live"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
+TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
+--- carte #4 ---
+HTML: data-schedule-type="live"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
+TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
+--- carte #5 ---
+HTML: data-schedule-type="replay"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
+TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
+--- carte #6 ---
+HTML: data-schedule-type="replay"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
+TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
+--- carte #7 ---
+HTML: data-schedule-type="replay"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
+TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
+
+===== MARQUEURS DATE (data-date / entêtes jour) =====
+  jour: >vendredi 18 septembre 2026<
+  jour: >Aujourd’hui<
+  jour: >dimanche 20 septembre 2026<
+  jour: >lundi 21 septembre 2026<
+  jour: >mardi 22 septembre 2026<
+  jour: >mercredi 23 septembre 2026<
+  jour: >vendredi 25 septembre 2026<
+  jour: >samedi 26 septembre 2026<
+  jour: >dimanche 27 septembre 2026<
+  jour: >lundi 28 septembre 2026<
+  jour: >mardi 29 septembre 2026<
 
 ===== CHAÎNES REPÉRÉES =====
    69×  beIN SPORTS
