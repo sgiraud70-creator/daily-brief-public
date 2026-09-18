@@ -38,18 +38,24 @@ if body:
     log("\n===== TEXTE (0-6000) =====")
     log(txt[:6000])
 
-    # 2) Blocs HTML contenant une heure (hh h mm / hh:mm) : révèle la structure
-    log("\n===== BLOCS AVEC HEURE (HTML brut, 10 premiers) =====")
-    heure = re.compile(r"\d{1,2}\s?[h:]\s?\d{2}")
-    blocs = re.findall(r"<(?:li|tr|article|div)[^>]*>.*?</(?:li|tr|article|div)>", body, re.S)
-    n = 0
-    for b in blocs:
-        if heure.search(clean(b)) and len(b) < 1400:
-            log(f"--- bloc #{n} ---")
-            log(b.strip()[:1200])
-            n += 1
-            if n >= 10:
-                break
+    # 2) Cartes de diffusion : éléments porteurs de data-schedule-type
+    log("\n===== CARTES data-schedule-type (fenêtre HTML, 8 premières) =====")
+    idxs = [m.start() for m in re.finditer(r"data-schedule-type=", body)]
+    log(f"{len(idxs)} occurrences de data-schedule-type")
+    for k, i in enumerate(idxs[:8]):
+        deb = body.rfind("<", max(0, i - 300), i)
+        frag = body[deb if deb != -1 else i:i + 1500]
+        log(f"--- carte #{k} ---")
+        log("HTML:", frag.strip()[:1400])
+        log("TEXTE:", clean(frag)[:300])
+
+    # 2b) Marqueurs de date/jour (pour repérer « le jour »)
+    log("\n===== MARQUEURS DATE (data-date / entêtes jour) =====")
+    for m in re.finditer(r"data-(?:date|day|schedule-date)[^=]*=\"([^\"]{0,40})\"", body):
+        log("  attr:", m.group(0)[:80])
+    for m in list(re.finditer(r">(?:Aujourd|Demain|lundi|mardi|mercredi|jeudi|vendredi|"
+                              r"samedi|dimanche)[^<]{0,40}<", body, re.I))[:12]:
+        log("  jour:", clean(m.group(0))[:60])
 
     # 3) Noms de chaînes repérés (pour connaître le vocabulaire)
     log("\n===== CHAÎNES REPÉRÉES =====")
