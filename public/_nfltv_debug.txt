@@ -5,158 +5,54 @@ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(argume
 
 ===== CARTES data-schedule-type (fenêtre HTML, 8 premières) =====
 25 occurrences de data-schedule-type
---- carte #0 ---
-HTML: data-schedule-type="replay"
-                data-schedule-section="current"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden=
-TEXTE: data-schedule-type="replay" data-schedule-section="current" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="
---- carte #1 ---
-HTML: data-schedule-type="live"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
-TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
---- carte #2 ---
-HTML: data-schedule-type="live"
-                data-schedule-section="upcoming"
-                data-is-match="0"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
-TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="0" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
---- carte #3 ---
-HTML: data-schedule-type="live"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
-TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
---- carte #4 ---
-HTML: data-schedule-type="live"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="
-TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class="s
---- carte #5 ---
-HTML: data-schedule-type="replay"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
-TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
---- carte #6 ---
-HTML: data-schedule-type="replay"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
-TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
---- carte #7 ---
-HTML: data-schedule-type="replay"
-                data-schedule-section="upcoming"
-                data-is-match="1"
-                data-is-past="0"
-                data-tvs-selection="0"
-                data-type-filter-hidden="0"
-                data-match-filter-hidden="0"
-                data-past-filter-hidden="0"
-                data-selection-filter-hidden="0"
-                data-sport-filter-hidden="0"
-                data-format-id="9">
-                <span class="schedule-item__watermarks" aria-hidden="true">
-                                            <span class="schedule-item__competition-watermark">
-                            <img class="logoCompetition"
-                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
-                        </span>
-                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden
-TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden="0" data-format-id="9"> 🏈 <time class=
+--- carte #0  type=replay ---
+  time: 13h30 Rediffusion Rediff. | datetime: 2026-09-18T13:30:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="current" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden
+--- carte #1  type=live ---
+  time: 19h00 Direct | datetime: 2026-09-20T19:00:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden=
+--- carte #2  type=live ---
+  time: 19h00 Direct | datetime: 2026-09-20T19:00:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="0" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden=
+--- carte #3  type=live ---
+  time: 22h25 Direct | datetime: 2026-09-20T22:25:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden=
+--- carte #4  type=live ---
+  time: 02h15 Direct | datetime: 2026-09-21T02:15:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden=
+--- carte #5  type=replay ---
+  time: 16h30 Rediffusion Rediff. | datetime: 2026-09-21T16:30:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
+--- carte #6  type=replay ---
+  time: 21h00 Rediffusion Rediff. | datetime: 2026-09-21T21:00:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
+--- carte #7  type=replay ---
+  time: 23h30 Rediffusion Rediff. | datetime: 2026-09-21T23:30:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
+--- carte #8  type=live ---
+  time: 02h15 Direct | datetime: 2026-09-22T02:15:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="live" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidden=
+--- carte #9  type=replay ---
+  time: 19h30 Rediffusion Rediff. | datetime: 2026-09-22T19:30:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
+--- carte #10  type=replay ---
+  time: 18h15 Rediffusion Rediff. | datetime: 2026-09-23T18:15:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
+--- carte #11  type=replay ---
+  time: 22h00 Rediffusion Rediff. | datetime: 2026-09-23T22:00:00+02:00
+  classes: schedule-item__competition-watermark schedule-item__sport-watermark schedule-item__sport-watermark-glyph schedule-item__watermarks
+  TEXTE: data-schedule-type="replay" data-schedule-section="upcoming" data-is-match="1" data-is-past="0" data-tvs-selection="0" data-type-filter-hidden="0" data-match-filter-hidden="0" data-past-filter-hidden="0" data-selection-filter-hidden="0" data-sport-filter-hidde
 
 ===== MARQUEURS DATE (data-date / entêtes jour) =====
   jour: >vendredi 18 septembre 2026<
