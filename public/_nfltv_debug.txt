@@ -127,7 +127,84 @@ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(argume
                                                                                                 </p>
                             <h3>
                                 <a href="/buffalo-bills-detroit-lions-tv-x1160660">Buffalo Bills – Detroit Lions</a>                                                                                            </h3>
-                     
+                        </div>
+                    </div>
+                </div>
+                                                                <p class="channel-line schedule-channel schedule-channel--logos-only">
+                                            <span class="schedule-channel__item"
+                              data-channel-id="118"
+                              data-channel-country="FR">
+                            <span title="beIN SPORTS 3">
+                                <img class="logoChaine channel-logo" src="https://img.tv-programme.com/photos/chaines/svg/118.svg?v=1786831501"
+                                     alt="beIN SPORTS 3"
+                                     width="48" height="48" loading="lazy" decoding="async">
+                                <span class="schedule-channel__name" aria-hidden="true">beIN SPORTS 3</span>
+                            </span>
+                        </span>
+                                    </p>
+                                                <span class="schedule-item__arrow" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path d="m9 18 6-6-6-6"/>
+                    </svg>
+                </span>
+                                    <span class="schedule-progress"
+                          data-diffusion-progress
+                          data-starts-at="2026-09-18T13:30:00+02:00"
+                          data-ends-at="2026-09-18T16:00:00+02:00"
+                          role="progressbar"
+                          aria-label="Avancement de la diffusion"
+                          aria-valuemin="0" aria-valuemax="100"
+                          aria-valuenow="79"
+                          aria-valuetext="79 %, environ 33 min restantes"
+                          >
+                        <span class="schedule-progress__fill"
+                              style="width: 79%"></span>
+                    </span>
+                            </li>
+                                                            <li class="schedule-inline-ad">
+                    <aside class="tvs-ad-placement"
+                           data-ad-page="competition"
+                           data-ad-tab="main" data-ad-zone="incontent1"
+                           aria-label="Publicité">
+                        <div class="tvp-pubs2-rendered" style="min-height:280px;width:100%;margin-bottom:12px"><div class="js-tvp-pubs2-slot-loading tvp-pubs2-slot-loading" style="min-height:280px;width:100%"><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4848436767183334"
+     data-ad-slot="3597656707"
+     data-ad-format="rectangle, horizontal"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>                    </aside>
+                </li>
+                                                        <li class="schedule-day-heading">
+                    <h2>
+                        <span>dimanche 20 septembre 2026</span>
+                                                    <span class="date-relative-label">J-2</span>
+                                            </h2>
+                </li>
+                        <li class="schedule-item schedule-item--live"
+                data-sport-id="138"
+                data-audience-gender="male"
+                data-age-group="senior"
+                data-channel-id="15"
+                data-channel-country="FR"
+                data-channel-options="15:FR"
+                data-is-live="1"
+                data-diffusion-type="live"
+                data-schedule-type="live"
+                data-schedule-section="upcoming"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filte
+
+----- extraction chaîne carte #0 -----
+  img: <img class="logoChaine channel-logo" src="https://img.tv-programme.com/photos/chaines/svg/118.svg?v=1786831501"
+                                     alt="beIN SPORTS 3"
+                                     width="48" height="48" loading="lazy" decoding="async">
+  alt: 
+  alt: Buffalo Bills
+  alt: Detroit Lions
+  alt: beIN SPORTS 3
 
 ===== MARQUEURS DATE (data-date / entêtes jour) =====
   jour: >vendredi 18 septembre 2026<
