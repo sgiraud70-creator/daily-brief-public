@@ -66,6 +66,69 @@ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(argume
   chaîne(alt): —
   TEXTE: 🏈 22h00 Rediffusion Rediff. 🏈 Football américain · <a href="/fo
 
+===== CARTE #0 — HTML BRUT COMPLET =====
+<li class="schedule-item schedule-item--replay"
+                data-sport-id="138"
+                data-audience-gender="male"
+                data-age-group="senior"
+                data-channel-id="118"
+                data-channel-country="FR"
+                data-channel-options="118:FR"
+                data-is-live="0"
+                data-diffusion-type="replay"
+                data-schedule-type="replay"
+                data-schedule-section="current"
+                data-is-match="1"
+                data-is-past="0"
+                data-tvs-selection="0"
+                data-type-filter-hidden="0"
+                data-match-filter-hidden="0"
+                data-past-filter-hidden="0"
+                data-selection-filter-hidden="0"
+                data-sport-filter-hidden="0"
+                data-format-id="9">
+                <span class="schedule-item__watermarks" aria-hidden="true">
+                                            <span class="schedule-item__competition-watermark">
+                            <img class="logoCompetition"
+                                 src="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp" srcset="https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/competitions_v3/172/logo/5096-3f624106680f-w180-v1.webp 180w" sizes="76px"                                 alt="" loading="lazy" width="76" height="76">
+                        </span>
+                                        <span class="schedule-item__sport-watermark"><span class="schedule-item__sport-watermark-glyph" aria-hidden="true">🏈</span></span>
+                </span>
+                <time class="schedule-time" datetime="2026-09-18T13:30:00+02:00">
+                                        <span class="schedule-time__row">
+                        <strong>13h30</strong>
+                                                    <span class="schedule-status schedule-status--replay">
+                                <span class="schedule-status__label-long">Rediffusion</span>
+                                <span class="schedule-status__label-short">Rediff.</span>
+                            </span>
+                                            </span>
+                </time>
+                <div class="schedule-content">
+                    <div class="schedule-program schedule-program--with-visual">
+                                                    <div class="schedule-visual schedule-visual--participants">
+                                                                            <div class="schedule-participants" aria-label="Participants">
+                                                                                                            <a class="schedule-participant" href="/football-americain/buffalo-bills"
+                                           title="Buffalo Bills">
+                                    										<img class="logoParticipant" src="https://img.tv-programme.com/photos/sport/equipes_v3/1651/logo/1543-e8646d4cd099-w128-v1.webp" srcset="https://img.tv-programme.com/photos/sport/equipes_v3/1651/logo/1543-e8646d4cd099-w64-v1.webp 64w, https://img.tv-programme.com/photos/sport/equipes_v3/1651/logo/1543-e8646d4cd099-w128-v1.webp 128w, https://img.tv-programme.com/photos/sport/equipes_v3/1651/logo/1543-e8646d4cd099-w180-v1.webp 180w" sizes="52px"                                             alt="Buffalo Bills"
+                                             loading="lazy" width="52" height="52">
+                                                                            </a>
+                                                                                                                                                <a class="schedule-participant" href="/football-americain/detroit-lions"
+                                           title="Detroit Lions">
+                                    										<img class="logoParticipant" src="https://img.tv-programme.com/photos/sport/equipes_v3/1480/logo/1413-6384da21ecea.svg" sizes="52px"                                             alt="Detroit Lions"
+                                             loading="lazy" width="52" height="52">
+                                                                            </a>
+                                                                                                </div>
+                                                                            </div>
+                                                <div class="schedule-program__body">
+                            <p class="schedule-meta">
+                                                                    <a class="sport-label" href="/football-americain/"><span class="sport-emoji" aria-hidden="true">🏈</span>Football américain</a>
+                                                                                                    ·
+                                                                            <a href="/football-americain/nfl">NFL</a>
+                                                                                                </p>
+                            <h3>
+                                <a href="/buffalo-bills-detroit-lions-tv-x1160660">Buffalo Bills – Detroit Lions</a>                                                                                            </h3>
+                     
+
 ===== MARQUEURS DATE (data-date / entêtes jour) =====
   jour: >vendredi 18 septembre 2026<
   jour: >Aujourd’hui<
