@@ -1,5 +1,5 @@
 {
-  "date_str": "Mercredi 16 septembre 2026",
+  "date_str": "Vendredi 18 septembre 2026",
   "audio_minutes": 11,
   "read_minutes": 10,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Edith et Ninian",
+          "title": "Aujourd'hui, on souhaite la fête : Moana, Océane et Richarde",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/16/9/2026/16-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/18/9/2026/18-Septembre-2026.html"
             }
           ]
         }
@@ -22,50 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Exposition anti-avortement au Parlement européen : les eurodéputés de gauche réclament son retrait",
+          "title": "Éric Zemmour confirme sa candidature pour 2027 et durcit son discours sur l’immigration",
           "bullets": [
-            "Une exposition intitulée « Miracle de la vie » est organisée au Parlement européen, présentée comme une campagne opposée au droit à l’avortement.",
-            "Les eurodéputés de gauche dénoncent une instrumentalisation politique et un manque de neutralité institutionnelle.",
-            "L’exposition est perçue comme une provocation dans un contexte où les droits reproductifs sont de plus en plus menacés en Europe.",
-            "Une pétition et des appels au retrait ont été lancés par les groupes politiques progressistes.",
-            "Le Parlement européen doit trancher sur la légitimité de cette exposition dans les prochains jours."
+            "Le leader de Reconquête! a annoncé sa candidature à la présidentielle de 2027 lors d’une interview sur BFM-TV.",
+            "Il propose le renvoi de plusieurs catégories d’étrangers, notamment les étrangers en situation irrégulière et les bénéficiaires de la protection subsidiaire.",
+            "Cette annonce s’inscrit dans une stratégie de radicalisation du débat migratoire en vue de la campagne électorale.",
+            "Ses propositions suscitent des critiques sur leur faisabilité juridique et humaine."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/16/les-eurodeputes-de-gauche-reclament-le-retrait-d-une-exposition-anti-avortement-au-parlement-europeen_6775457_3210.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/presidentielle-2027-eric-zemmour-confirme-sa-candidature-et-durcit-son-discours-sur-l-immigration_6776761_823448.html"
             }
           ]
         },
         {
-          "title": "Kylian Mbappé visé par l’extrême droite après son boycott d’une opération de soutien à Ceuta",
+          "title": "Emmanuel Macron réunit les chefs de parti à l’Élysée pour aborder la crise géopolitique et les prix des carburants",
           "bullets": [
-            "L’extrême droite française, incluant des partis et groupuscules, a ciblé Kylian Mbappé après son refus de participer à une opération de soutien aux habitants de Ceuta.",
-            "Le footballeur a été la cible d’insultes et de critiques sur les réseaux sociaux et dans les médias d’extrême droite.",
-            "Cette polémique s’inscrit dans un contexte de tensions autour de l’immigration et de la gestion des frontières en Europe.",
-            "Mbappé a expliqué son choix par des raisons personnelles et professionnelles, sans entrer dans le débat politique.",
-            "La Fédération française de football (FFF) a appelé à la modération et à la responsabilité dans les propos tenus à l’encontre du joueur."
+            "La réunion inclut des figures majeures comme Marine Le Pen, Gabriel Attal, Raphaël Glucksmann et Bruno Retailleau.",
+            "Les discussions portent sur la dégradation des tensions internationales et leur impact économique, notamment sur les prix de l’énergie.",
+            "Le président évoque une « dégradation rapide » de la situation géopolitique et son impact sur les ménages.",
+            "Cette réunion s’inscrit dans une volonté de coordination des partis face aux enjeux de la campagne présidentielle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/16/kylian-mbappe-cible-par-l-extreme-droite-apres-son-boycott-d-une-operation-de-soutien-aux-habitants-de-ceuta_6775450_823448.html"
+              "url": "https://www.lemonde.fr/politique/live/2026/09/18/en-direct-presidentielle-2027-emmanuel-macron-recoit-les-chefs-de-parti-a-l-elysee-pour-evoquer-les-conflits-internationaux_6776151_823448.html"
             }
           ]
         },
         {
-          "title": "Transporteurs routiers en difficulté face à la hausse des prix des carburants",
+          "title": "Précarisation des fondations politiques : un risque pour le débat démocratique",
           "bullets": [
-            "Les transporteurs routiers, majoritairement des PME, peinent à réévaluer leurs contrats en raison de la hausse des prix des carburants.",
-            "Le secteur, déjà fragilisé par des marges faibles et une forte concurrence, subit un choc économique important.",
-            "L’État n’a pas maintenu les aides exceptionnelles mises en place précédemment, aggravant la situation financière.",
-            "Les professionnels appellent à une intervention urgente pour éviter des faillites en cascade dans le secteur.",
-            "Une consultation avec les pouvoirs publics est en cours pour trouver des solutions durables."
+            "Les restrictions budgétaires ont entraîné une baisse drastique des subventions pour ces structures essentielles au financement du débat public.",
+            "Certaines fondations risquent de fermer leurs portes faute de moyens, réduisant ainsi la diversité des voix dans les médias.",
+            "Cette situation menace la pluralité des idées et la qualité de l’information en période électorale.",
+            "Les associations appellent à un renforcement des financements publics pour préserver leur rôle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/16/prix-des-carburants-prives-d-aide-de-l-etat-les-transporteurs-routiers-peinent-a-reevaluer-le-montant-de-leurs-contrats_6775442_3234.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/09/18/la-precarisation-des-fondations-politiques-dont-le-role-est-nourrir-le-debat-public-constitue-un-risque-democratique_6776752_3232.html"
+            }
+          ]
+        },
+        {
+          "title": "Marine Le Pen au Porge : écoute des victimes des incendies, mais désillusion politique persistante",
+          "bullets": [
+            "La candidate du Rassemblement National s’est rendue dans un village sinistré par les feux de Gironde en septembre 2026.",
+            "Elle a insisté sur son écoute des victimes et son engagement pour la reconstruction, mais les habitants expriment un désenchantement envers la politique.",
+            "Les habitants soulignent un manque de solutions concrètes et une défiance envers les promesses électorales.",
+            "Cette visite s’inscrit dans une stratégie de communication locale en vue de la présidentielle."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/presidentielle-2027-au-porge-village-sinistre-ou-personne-ne-croit-plus-a-la-politique-marine-le-pen-face-a-des-habitants-desabuses_6776665_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Géopolitique au cœur des attaques contre Marine Le Pen",
+          "bullets": [
+            "Ses adversaires, comme Édouard Philippe ou Raphaël Glucksmann, recentrent le débat sur sa vision de l’Europe et de la politique étrangère.",
+            "Marine Le Pen est critiquée pour son positionnement ambigu sur l’OTAN et sa gestion supposée de la crise ukrainienne.",
+            "Cette stratégie vise à détourner l’attention de ses propositions internes et à affaiblir son image à l’international.",
+            "Les sondages montrent une baisse de soutien sur ces sujets, poussant ses concurrents à capitaliser sur cette faiblesse."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/presidentielle-2027-la-geopolitique-et-la-vision-de-l-europe-au-c-ur-de-la-strategie-des-opposants-a-marine-le-pen_6776662_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Édouard Philippe défend une écologie libérale et une « politique de sécurité climatique »",
+          "bullets": [
+            "Le candidat Horizons propose une approche économique de l’écologie, combinant innovation et marché.",
+            "Il prône une « politique de sécurité climatique » pour anticiper les crises environnementales et leurs impacts économiques.",
+            "Cette vision s’oppose aux mesures plus réglementaires ou protectionnistes de ses concurrents.",
+            "Philippe mise sur l’attractivité de sa proposition pour séduire les électeurs modérés et les entrepreneurs."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/presidentielle-2027-edouard-philippe-defend-sa-vision-liberale-de-l-ecologie-et-prone-une-politique-de-securite-climatique_6776657_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Gel du point d’indice pour les fonctionnaires en 2027 : une année blanche annoncée",
+          "bullets": [
+            "Le Premier ministre Sébastien Lecornu a confirmé le gel du point d’indice pour l’année prochaine, entraînant une perte de pouvoir d’achat pour les agents publics.",
+            "Cette décision fait suite à des restrictions budgétaires et à une politique d’austérité renforcée.",
+            "Les syndicats dénoncent une mesure injuste et une nouvelle étape dans la précarisation de la fonction publique.",
+            "Les fonctionnaires appellent à une mobilisation pour faire pression sur le gouvernement."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/budget-2027-une-nouvelle-annee-blanche-en-vue-pour-les-salaires-dans-la-fonction-publique_6776652_823448.html"
             }
           ]
         }
@@ -75,66 +132,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Donald Trump annonce la fermeture du Kennedy Center malgré ses menaces de nationalisation",
+          "title": "L’Espagne maîtrise ses comptes publics, contrairement à la France",
           "bullets": [
-            "Le président américain Donald Trump a pris le contrôle du Kennedy Center, centre culturel emblématique de Washington, peu après son retour à la Maison Blanche en 2025.",
-            "Il menace désormais de fermer le centre, accusant sa direction de « dérive politique » et de « manque de patriotisme ».",
-            "Le Kennedy Center est un symbole culturel majeur, financé par des fonds publics et privés, et connu pour ses spectacles et événements internationaux.",
-            "Des réactions indignées ont été exprimées par des artistes, des personnalités politiques et des associations culturelles.",
-            "La fermeture du centre pourrait avoir un impact majeur sur la scène artistique et culturelle américaine."
+            "L’Espagne a réduit son ratio d’endettement public en dessous de 100 % de son PIB, contrairement à la France qui reste au-dessus.",
+            "Cette amélioration s’explique par des réformes budgétaires et une croissance économique plus dynamique.",
+            "La France est critiquée pour son manque de rigueur financière et son endettement croissant.",
+            "Les experts soulignent l’impact de ces déséquilibres sur la confiance des investisseurs et la compétitivité économique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/video/2026/09/16/kennedy-center-le-batiment-menace-par-donald-trump-qui-annonce-sa-fermeture_6775460_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/09/18/l-espagne-est-parvenue-a-controler-le-derapage-de-ses-comptes-publics-pas-la-france_6776763_3234.html"
             }
           ]
         },
         {
-          "title": "Législatives en Russie : Poutine appelle à voter massivement pour soutenir la guerre en Ukraine",
+          "title": "Le Danemark inaugure un site pionnier de stockage de CO₂ en Europe",
           "bullets": [
-            "Vladimir Poutine a exhorté les Russes à participer massivement aux législatives anticipées, les premières depuis le lancement de l’invasion de l’Ukraine en 2022.",
-            "Le président russe a lié le résultat électoral à la « victoire » en Ukraine, insistant sur la nécessité de soutenir le gouvernement actuel.",
-            "Ces élections sont perçues comme un outil de légitimation du régime et de mobilisation autour de la guerre.",
-            "L’opposition russe, déjà marginalisée, dénonce un processus électoral biaisé et sans crédibilité démocratique.",
-            "La participation record est attendue, mais les observateurs internationaux s’inquiètent de la transparence du scrutin."
+            "Le projet, développé par Ineos, permet de stocker 400 000 tonnes de CO₂ par an dans une première phase.",
+            "À terme, le site pourrait absorber jusqu’à 8 millions de tonnes annuelles, contribuant à la lutte contre le changement climatique.",
+            "Ce projet est l’un des premiers en Europe à démontrer la faisabilité du stockage géologique du CO₂ à grande échelle.",
+            "Il s’inscrit dans une stratégie européenne pour atteindre la neutralité carbone d’ici 2050."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/europe/20260916-legislatives-russie-poutine-appelle-%C3%A0-voter-pour-assurer-la-victoire-russe-en-ukraine"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/09/18/le-danemark-inaugure-l-un-des-premiers-sites-de-stockage-europeen-de-co_6776757_3244.html"
             }
           ]
         },
         {
-          "title": "États-Unis : abrogation des limites d’émissions pour les centrales électriques",
+          "title": "Victoire de l’AfD en Saxe-Anhalt : un signal d’alerte pour l’Europe",
           "bullets": [
-            "Lors du G20 des ministres de l’Énergie, les États-Unis ont annoncé l’abrogation des limites d’émissions de CO₂ pour les centrales électriques.",
-            "Cette décision marque un recul dans la lutte contre le changement climatique et une dérégulation des normes environnementales.",
-            "Les centrales à charbon et à gaz pourront ainsi émettre sans restriction, ce qui pourrait accélérer la hausse des émissions américaines.",
-            "Cette mesure est critiquée par les écologistes et les pays européens, qui y voient une remise en cause des accords climatiques internationaux.",
-            "Les États-Unis justifient cette décision par des arguments économiques et une volonté de flexibilité industrielle."
+            "Le parti d’extrême droite allemand, favorable à Moscou, a remporté les élections régionales en Saxe-Anhalt.",
+            "Cette victoire renforce les craintes d’une montée des populismes et d’une polarisation politique en Europe.",
+            "L’historien Paul Maurice appelle l’UE à renforcer ses frontières et sa cohésion pour contrer ces tendances.",
+            "Les observateurs craignent un impact sur les politiques migratoires et la sécurité européenne."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260916-les-centrales-%C3%A9lectriques-am%C3%A9ricaines-ne-sont-plus-tenues-de-r%C3%A9guler-leurs-%C3%A9missions"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/18/la-victoire-de-l-afd-en-saxe-anhalt-rappelle-a-l-europe-son-devoir-de-demontrer-qu-elle-peut-proteger-ses-citoyens-ses-frontieres-et-ses-interets_6776748_3232.html"
             }
           ]
         },
         {
-          "title": "Kenya : Nairobi hôte des championnats du monde d’athlétisme en 2029",
+          "title": "Élections législatives en Russie : scrutin acquis pour le parti Russie unie",
           "bullets": [
-            "Nairobi, capitale du Kenya, a été désignée pour organiser les championnats du monde d’athlétisme en 2029.",
-            "Il s’agira de la première fois que cette compétition majeure se déroulera sur le continent africain.",
-            "Le Kenya, terre d’athlétisme par excellence, espère tirer un bénéfice sportif et économique de cet événement.",
-            "Les infrastructures sportives locales devront être renforcées pour accueillir des athlètes et spectateurs du monde entier.",
-            "Cette désignation renforce la position du Kenya comme leader mondial dans le domaine de l’athlétisme."
+            "Les élections législatives et locales en Russie débutent vendredi, avec un scrutin largement dominé par le parti au pouvoir, Russie unie.",
+            "Les opposants et observateurs internationaux dénoncent un manque de transparence et des restrictions aux libertés électorales.",
+            "Le Kremlin maintient son contrôle politique malgré les tensions internes et la guerre en Ukraine.",
+            "Les résultats sont attendus comme une confirmation de la stabilité du régime sous Vladimir Poutine."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "http://www.france24.com/fr/vid%C3%A9o/20260916-kenya-nairobi-ville-h%C3%B4te-des-championnats-du-monde-d-athl%C3%A9tisme-en-2029"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "L’Australie durcit les règles pour les touristes et étudiants en situation irrégulière",
+          "bullets": [
+            "Le gouvernement australien annonce placer en rétention administrative les touristes dont le visa a expiré.",
+            "Des restrictions supplémentaires sont imposées aux visas étudiants et vacances-travail pour renforcer le contrôle migratoire.",
+            "Cette mesure vise à montrer une volonté de maîtrise des flux migratoires et de lutte contre l’immigration clandestine.",
+            "Les associations dénoncent une approche coercitive et inhumaine envers les migrants."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/18/l-australie-veut-placer-en-retention-les-touristes-dont-le-visa-a-expire_6776743_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Qui sont les Houthis du Yémen ?",
+          "bullets": [
+            "Le groupe rebelle houthis contrôle une partie du Yémen et menace les routes maritimes stratégiques, comme le détroit de Bab Al-Mandab.",
+            "Ils sont soutenus par l’Iran et s’opposent aux forces gouvernementales yéménites et à une coalition arabe dirigée par l’Arabie saoudite.",
+            "Leur influence s’étend sur les échanges commerciaux mondiaux, notamment vers la mer Rouge et le golfe d’Aden.",
+            "Les tensions avec les Houthis ont conduit à des attaques contre des navires marchands et des bases militaires."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/18/qui-sont-les-houthistes-du-yemen_6776739_4355770.html"
             }
           ]
         }
@@ -142,118 +225,49 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Triple meurtre à Gy (Haute-Saône) : la mère des victimes brise le silence",
-          "bullets": [
-            "La mère des deux enfants tués par leur père à Gy (Haute-Saône) a partagé ses premiers mots après le drame, exprimant une « peine immense ».",
-            "Le père, condamné pour ces crimes, avait également tué sa propre mère quelques jours plus tôt.",
-            "Les autorités judiciaires enquêtent sur les circonstances précises du triple meurtre et les antécédents familiaux.",
-            "La communauté locale et les associations psychologiques offrent un soutien aux proches des victimes.",
-            "Ce drame a relancé le débat sur la prévention des violences familiales et l’accompagnement des familles en difficulté."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Condamnation pour emprise et agressions sexuelles en Haute-Saône",
-          "bullets": [
-            "Un septuagénaire a été condamné à 15 ans de réclusion pour emprise, viols incestueux et agressions sexuelles sur plusieurs victimes.",
-            "Les faits remontent à plusieurs années et impliquent des mineurs, ce qui aggrave la gravité des crimes.",
-            "Les victimes, désormais adultes, ont témoigné lors du procès, décrivant des années de souffrance et de manipulation.",
-            "Ce jugement souligne l’importance de la lutte contre les violences sexuelles et la protection des mineurs.",
-            "Les associations de victimes appellent à une meilleure prise en charge des cas d’emprise et de violences intrafamiliales."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Plan CASI : aide de 3 000 € pour les maraîchers et jeunes agriculteurs en Haute-Saône",
-          "bullets": [
-            "Le département de la Haute-Saône lance le plan CASI, offrant une aide financière de 3 000 € aux maraîchers et jeunes agriculteurs.",
-            "Cette mesure vise à soutenir la transition écologique et économique dans le secteur agricole local.",
-            "Les bénéficiaires pourront utiliser ces fonds pour moderniser leurs exploitations ou investir dans des pratiques durables.",
-            "Le plan CASI s’inscrit dans une politique régionale de relance de l’agriculture et de préservation des territoires ruraux.",
-            "Les demandes d’aide doivent être déposées avant une date limite fixée par les services départementaux."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Meta lance Muse, un agent IA grand public aux multiples fonctions",
+          "title": "Mistral AI dément un piratage de son code source",
           "bullets": [
-            "Meta a présenté Muse, un assistant IA conçu pour être accessible au grand public, intégrant des fonctionnalités variées.",
-            "Muse peut gérer des tâches administratives, répondre à des questions, ou même interagir de manière conversationnelle.",
-            "Cette innovation s’inscrit dans la stratégie de Meta pour concurrencer d’autres acteurs comme Google ou Microsoft dans le domaine de l’IA.",
-            "Les premiers tests montrent un potentiel prometteur, mais des questions persistent sur la confidentialité des données.",
-            "Muse sera progressivement déployé sur différentes plateformes de Meta, dont Messenger et Instagram."
+            "La société française a officiellement répondu à une revendication de piratage publiée sur un forum cybercriminalité.",
+            "Mistral AI assure que ses systèmes sont sécurisés et que cette attaque n’a pas eu d’impact sur ses opérations.",
+            "Cette réaction intervient après des spéculations sur une possible compromission de ses modèles d’IA.",
+            "Les experts en cybersécurité appellent à une vigilance accrue face aux menaces croissantes envers les acteurs de l’IA."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2335249-mistral-ai-dement-un-piratage-de-son-code-source.html"
+            }
+          ]
         },
         {
-          "title": "L’IA menace déjà l’emploi des jeunes : alerte des DRH",
+          "title": "PlayStation confond Cloud et Vincent dans un tweet sur Final Fantasy VII",
           "bullets": [
-            "Les directions des ressources humaines (DRH) alertent sur l’impact de l’IA sur l’emploi des jeunes, affectant leur moral et leur motivation.",
-            "Les outils d’IA automatisent des tâches autrefois réservées aux débutants, réduisant les opportunités d’apprentissage sur le terrain.",
-            "Les jeunes actifs expriment une inquiétude croissante face à la précarité et à la concurrence avec les machines.",
-            "Les entreprises sont appelées à repenser leurs politiques de formation et d’intégration pour limiter les effets négatifs de l’IA.",
-            "Les syndicats et associations professionnelles demandent un cadre réglementaire pour encadrer l’utilisation de l’IA en milieu professionnel."
+            "Le compte officiel de PlayStation a publié une erreur sur X en mélangeant les personnages Cloud et Vincent de Final Fantasy VII.",
+            "Cette confusion a suscité des réactions virales et des critiques envers la communication de la marque.",
+            "Le community manager a rapidement corrigé l’erreur, mais l’incident a mis en lumière les risques de communication maladroite.",
+            "Les fans ont profité de l’occasion pour exprimer leur attachement aux personnages emblématiques du jeu."
           ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Prélèvement à la source : échéances fiscales à ne pas manquer en septembre et octobre",
-          "bullets": [
-            "Les contribuables doivent être attentifs aux échéances fiscales, notamment le prélèvement à la source et la taxe foncière.",
-            "Le prélèvement à la source interviendra fin septembre pour les revenus perçus en 2026.",
-            "La taxe foncière sera prélevée en octobre, avec des montants variables selon les communes et les situations personnelles.",
-            "Les impôts rappellent l’importance de vérifier ses relevés et de régulariser d’éventuelles erreurs avant les dates limites.",
-            "Les contribuables en difficulté peuvent solliciter un étalement ou un report des paiements via leur espace personnel en ligne."
-          ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2335233-playstation-confond-cloud-et-vincent-dans-un-tweet-sur-final-fantasy-vii-et-se-fait-epingler.html"
+            }
+          ]
         },
         {
-          "title": "Arnaques aux faux coursiers et aux permis de conduire en Seine-et-Marne",
+          "title": "Google Labs lance un agent IA familial : CC",
           "bullets": [
-            "Des arnaques aux faux coursiers se multiplient, notamment en Seine-et-Marne, où des victimes sont victimes de vols après avoir cru recevoir un colis.",
-            "Les escrocs utilisent des véhicules et des tenues similaires à celles des livreurs légitimes pour tromper leurs cibles.",
-            "En parallèle, des faux candidats passent les examens de permis de conduire à la place des élèves réels, compromettant la sécurité routière.",
-            "Les autorités locales et les associations de consommateurs appellent à la vigilance et conseillent de vérifier l’identité des livreurs et examinateurs.",
-            "Les victimes sont invitées à porter plainte et à signaler ces pratiques frauduleuses aux services compétents."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Championnats du monde de cyclisme sur route 2026 : parcours du contre-la-montre dévoilé",
-          "bullets": [
-            "Les championnats du monde de cyclisme sur route 2026, organisés à Montréal, incluent un contre-la-montre dont le parcours a été dévoilé.",
-            "Ce parcours de 25 km est conçu pour tester l’endurance et la technique des coureurs, avec des sections techniques et des montées exigeantes.",
-            "Les favoris mondiaux, comme Tadej Pogačar et Jonas Vingegaard, seront en lice pour remporter cette épreuve individuelle.",
-            "Les médias canadiens et internationaux couvriront l’événement, avec des retransmissions en direct sur plusieurs chaînes.",
-            "Les organisateurs espèrent attirer un public record et renforcer l’attrait du cyclisme sur la scène internationale."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Bizutage au Pôle France : enquête administrative ouverte",
-          "bullets": [
-            "Une enquête administrative a été ouverte après des faits de bizutage signalés au sein du Pôle France, centre d’entraînement des basketteurs français.",
-            "Des jeunes basketteurs auraient été victimes de pratiques humiliantes et dégradantes, remettant en cause les valeurs de respect et d’inclusion.",
-            "L’Insep (Institut national du sport, de l’expertise et de la performance) a suspendu à titre conservatoire 10 jeunes basketteurs impliqués.",
-            "Cette affaire relance le débat sur la prévention des violences et du harcèlement dans le milieu sportif, notamment chez les jeunes.",
-            "Les associations de protection des mineurs appellent à une réflexion plus large sur la culture du sport en France."
+            "Google a présenté un nouvel agent IA conçu pour s’adresser à toute la famille, avec des fonctionnalités de partage et d’automatisation.",
+            "Cet outil vise à simplifier les tâches quotidiennes et à offrir une interface intuitive pour les utilisateurs de tous âges.",
+            "Les premières versions intègrent des capacités de gestion des calendriers, des rappels et des interactions vocales.",
+            "Les tests en cours visent à améliorer l’adaptabilité et la sécurité de l’agent pour un usage domestique."
           ],
           "sources": []
         }
@@ -263,13 +277,87 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "ORNL améliore la productivité de l’impression 3D grand format en combinant plusieurs extrudeuses",
+          "title": "Unica : la selle imprimée en 3D personnalisée par Selle Italia",
           "bullets": [
-            "Le laboratoire national Oak Ridge (ORNL) aux États-Unis a développé une technique combinant plusieurs extrudeuses pour accélérer l’impression 3D grand format.",
-            "Cette innovation permet de réduire significativement le temps de production tout en maintenant la qualité des pièces imprimées.",
-            "Le projet vise à répondre aux besoins industriels croissants en impression 3D, notamment pour les secteurs aéronautique et automobile.",
-            "Les chercheurs travaillent sur l’optimisation des matériaux et des logiciels pour une intégration plus large de cette technologie.",
-            "Cette avancée pourrait révolutionner la fabrication additive à grande échelle et réduire les coûts de production."
+            "Selle Italia a développé une selle dont le rembourrage intérieur est conçu et imprimé en 3D à partir des données biométriques de chaque cycliste.",
+            "Cette personnalisation vise à optimiser le confort et la performance en ajustant la pression sur des zones spécifiques.",
+            "Unica s’adresse aux cyclistes professionnels et amateurs cherchant une solution sur mesure.",
+            "Le produit est disponible via un processus de scan et d’impression sur demande."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/selle-imprimee-3d-selle-italia-18092026/"
+            }
+          ]
+        },
+        {
+          "title": "Bambu Lab lance l’imprimante 3D H2C, anti-gaspillage et à -150 €",
+          "bullets": [
+            "La H2C est conçue pour minimiser les déchets de filament grâce à une technologie de recyclage intégré.",
+            "Son prix réduit de 150 € la rend plus accessible aux particuliers et aux petits professionnels.",
+            "Cette imprimante intègre des fonctionnalités écologiques comme le recyclage des déchets de filament en nouveaux filaments utilisables.",
+            "Bambu Lab mise sur une approche durable pour démocratiser l’impression 3D."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Chèque énergie 2026 : comment réclamer une aide oubliée ?",
+          "bullets": [
+            "Le guichet de réclamation pour les chèques énergie non versés reste ouvert pour les ménages éligibles.",
+            "Les personnes concernées peuvent faire une demande en ligne via le site officiel du chèque énergie.",
+            "Cette aide vise à compenser les dépenses énergétiques pour les foyers modestes en difficulté financière.",
+            "Les délais pour le traitement des demandes sont indiqués sur le site, avec une priorité donnée aux situations urgentes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Retraites : Ségolène Royal dénonce une désindexation des pensions",
+          "bullets": [
+            "La candidate aux européennes affirme que les retraites sont déjà désindexées, réduisant le pouvoir d’achat des retraités.",
+            "Elle critique la politique gouvernementale qui, selon elle, prive les seniors d’une revalorisation adéquate de leurs pensions.",
+            "Cette déclaration intervient dans un contexte de tensions sociales autour des retraites et des réformes en cours.",
+            "Les syndicats appellent à une mobilisation pour exiger une revalorisation équitable des pensions."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Airbnb : hausse des impôts pour les loueurs à partir du 13 octobre",
+          "bullets": [
+            "Les plateformes de location courte durée comme Airbnb seront soumises à une nouvelle taxe à partir du 13 octobre 2026.",
+            "Cette mesure vise à mieux contrôler et taxer les revenus générés par ces locations, souvent considérées comme des activités économiques non déclarées.",
+            "Les loueurs devront déclarer leurs revenus et payer une taxe supplémentaire sur les revenus locatifs.",
+            "Les associations de propriétaires et les plateformes dénoncent une mesure complexe et coûteuse pour les petits loueurs."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Championnats du monde de cyclisme 2026 : programme complet des Mondiaux de Montréal",
+          "bullets": [
+            "Les championnats du monde de cyclisme sur route et piste se déroulent à Montréal du 18 au 27 septembre 2026.",
+            "Les épreuves incluent des courses sur route, des contre-la-montre et des compétitions de cyclisme sur piste.",
+            "Les favoris mondiaux s’affrontent pour le titre, avec une forte présence française et internationale.",
+            "Les organisateurs misent sur un événement spectaculaire avec des parcours urbains et des défis techniques."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Montpellier Handball retrouve l’Arena face au FC Barcelone",
+          "bullets": [
+            "Le club montpelliérain affronte le FC Barcelone dans un match hautement attendu en Ligue des Champions.",
+            "Ce déplacement marque le retour du Montpellier Handball dans une arène prestigieuse après une saison difficile.",
+            "Les joueurs montpelliérains visent une performance pour confirmer leur place dans l’élite européenne.",
+            "Les supporters locaux espèrent une victoire pour relancer la dynamique du club en vue de la saison à venir."
           ],
           "sources": []
         }
