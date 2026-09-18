@@ -74,10 +74,32 @@ def build_sport_rubriques() -> list[dict]:
         ai = pctx["adv_infos"]
         psg["bullets"].append(f"{ai['nom']} — " + " · ".join(ai["infos"]))
 
-    return [
+    rubriques = [
         {"label": "Sport — Pittsburgh Steelers", "sujets": [steelers]},
         {"label": "Sport — PSG", "sujets": [psg]},
     ]
+
+    # NFL à la TV aujourd'hui (source tv-sports.fr) — uniquement s'il y a des
+    # diffusions ce jour (direct ou rediffusion). Déterministe, aucune invention.
+    tv = sports.nfl_tv_today()
+    if tv:
+        bullets = []
+        for m in tv[:8]:
+            ligne = m["match"]
+            ligne += f" · {m['heure']}"
+            if m.get("chaine"):
+                ligne += f" · {m['chaine']}"
+            ligne += " · direct" if m["direct"] else " · rediffusion"
+            bullets.append(ligne)
+        if len(tv) > 8:
+            bullets.append(f"… et {len(tv) - 8} autre(s) diffusion(s)")
+        rubriques.append({"label": "Sport — NFL à la TV aujourd'hui", "sujets": [{
+            "title": "Football américain à la télévision (heures de Paris)",
+            "bullets": bullets,
+            "sources": [{"name": "tv-sports.fr", "url": sports.NFL_TV_URL}],
+        }]})
+
+    return rubriques
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COLLECTED = os.path.join(ROOT, "data", "collected.json")
