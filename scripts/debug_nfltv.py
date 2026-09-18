@@ -42,12 +42,17 @@ if body:
     log("\n===== CARTES data-schedule-type (fenêtre HTML, 8 premières) =====")
     idxs = [m.start() for m in re.finditer(r"data-schedule-type=", body)]
     log(f"{len(idxs)} occurrences de data-schedule-type")
-    for k, i in enumerate(idxs[:8]):
-        deb = body.rfind("<", max(0, i - 300), i)
-        frag = body[deb if deb != -1 else i:i + 1500]
-        log(f"--- carte #{k} ---")
-        log("HTML:", frag.strip()[:1400])
-        log("TEXTE:", clean(frag)[:300])
+    for k, i in enumerate(idxs[:12]):
+        frag = body[i:i + 3500]
+        stype = (re.match(r'data-schedule-type="([^"]*)"', body[i:i + 40]) or [None, "?"])[1]
+        classes = sorted(set(re.findall(r'class="(schedule-item__[a-z-]+)', frag)))
+        # heure dans <time ...>HH:MM</time> ou attribut datetime
+        t = re.search(r"<time[^>]*>(.*?)</time>", frag, re.S)
+        dtime = re.search(r'datetime="([^"]+)"', frag)
+        log(f"--- carte #{k}  type={stype} ---")
+        log("  time:", clean(t.group(1)) if t else "?", "| datetime:", dtime.group(1) if dtime else "?")
+        log("  classes:", " ".join(classes)[:200])
+        log("  TEXTE:", clean(frag)[:260])
 
     # 2b) Marqueurs de date/jour (pour repérer « le jour »)
     log("\n===== MARQUEURS DATE (data-date / entêtes jour) =====")
