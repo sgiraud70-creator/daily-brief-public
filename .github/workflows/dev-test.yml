@@ -7,7 +7,7 @@ name: Test dev (réel)
 on:
   push:
     branches: [claude/project-overview-kalf7c]
-    paths-ignore: ["public/**", "data/collected.json", "data/brief.json", "data/history.json", "scripts/debug_nfltv.py", ".github/workflows/nfltvdbg.yml"]
+    paths-ignore: ["public/**", "data/collected.json", "data/brief.json", "data/history.json"]
   workflow_dispatch:
 
 permissions:
