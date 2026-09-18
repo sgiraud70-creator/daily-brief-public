@@ -58,6 +58,14 @@ if body:
         # texte lisible SANS les attributs (balise strippée proprement)
         log("  TEXTE:", clean(frag)[:400])
 
+    # 2c) HTML BRUT complet de la 1re carte (aujourd'hui) : équipes + chaîne
+    if idxs:
+        i0 = idxs[0]
+        t0 = body.rfind("<", max(0, i0 - 400), i0)
+        raw = body[(t0 if t0 != -1 else i0):i0 + 5200]
+        log("\n===== CARTE #0 — HTML BRUT COMPLET =====")
+        log(raw)
+
     # 2b) Marqueurs de date/jour (pour repérer « le jour »)
     log("\n===== MARQUEURS DATE (data-date / entêtes jour) =====")
     for m in re.finditer(r"data-(?:date|day|schedule-date)[^=]*=\"([^\"]{0,40})\"", body):
