@@ -28,6 +28,10 @@ UA = {"User-Agent": "DailyBriefBot/1.0 (brief quotidien personnel)"}
 BASE = "https://www.thesportsdb.com/api/v1/json/3"   # clé de test gratuite
 WIKI = "https://fr.wikipedia.org/w/api.php"
 WIKI_EN = "https://en.wikipedia.org/w/api.php"
+NFL_TV_URL = "https://tv-sports.fr/football-americain/nfl"
+UA_BROWSER = {"User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                             "AppleWebKit/537.36 (KHTML, like Gecko) "
+                             "Chrome/124 Safari/537.36")}
 
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
@@ -529,6 +533,50 @@ def steelers_context(match: dict | None, today: dt.date | None = None) -> dict:
             ctx["adv_rang"] = _nfl_rang_txt(arow)
     ctx["infos"] = team_info("Pittsburgh Steelers")
     return ctx
+
+
+def nfl_tv_today(today: dt.date | None = None) -> list[dict]:
+    """Diffusions NFL à la TV française **aujourd'hui** (source tv-sports.fr).
+
+    Renvoie [{match, heure, chaine, direct}] dans l'ordre horaire ; liste vide
+    s'il n'y a rien aujourd'hui ou si la page est illisible (dégradé propre,
+    aucune invention). Chaque carte de diffusion est un <li class="schedule-item">
+    portant un datetime ISO, data-is-match, data-schedule-type (live/replay),
+    un <h3> avec les équipes et un logo de chaîne (alt = nom de la chaîne).
+    """
+    today = today or dt.datetime.now(PARIS).date()
+    try:
+        r = requests.get(NFL_TV_URL, headers=UA_BROWSER, timeout=TIMEOUT)
+        r.raise_for_status()
+        body = r.text
+    except Exception as e:  # noqa: BLE001
+        print(f"⚠ NFL TV [tv-sports.fr]: {e!r}")
+        return []
+    out: list[dict] = []
+    for c in re.split(r'(?=<li class="schedule-item )', body):
+        mdt = re.search(r'<time[^>]*datetime="([^"]+)"', c)
+        if not mdt or 'data-is-match="1"' not in c:
+            continue
+        try:
+            d = dt.datetime.fromisoformat(mdt.group(1))
+        except ValueError:
+            continue
+        if d.astimezone(PARIS).date() != today:
+            continue
+        mh3 = re.search(r"<h3>\s*<a[^>]*>(.*?)</a>", c, re.S)
+        equipes = _clean(mh3.group(1)) if mh3 else ""
+        if not equipes:
+            continue
+        mchan = re.search(r'(?:logoChaine|channel-logo)[^>]*alt="([^"]+)"', c)
+        stype = (re.search(r'data-schedule-type="([^"]+)"', c) or [None, ""])[1]
+        out.append({
+            "match": equipes,
+            "heure": f"{d.astimezone(PARIS).hour:02d}h{d.astimezone(PARIS).minute:02d}",
+            "chaine": (mchan.group(1).strip() if mchan else ""),
+            "direct": stype == "live",
+        })
+    out.sort(key=lambda x: x["heure"])
+    return out
 
 
 def psg_context(match: dict | None, today: dt.date | None = None) -> dict:
