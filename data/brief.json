@@ -1,18 +1,18 @@
 {
-  "date_str": "Vendredi 18 septembre 2026",
+  "date_str": "Samedi 19 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 5,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Moana, Océane et Richarde",
+          "title": "Aujourd'hui, on souhaite la fête : Emilie, Marie Emilie, Goëry et Marien",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/18/9/2026/18-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/19/9/2026/19-Septembre-2026.html"
             }
           ]
         }
@@ -22,44 +22,62 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : Macron réaffirme la fermeté face aux ingérences étrangères",
+          "title": "Macron alerte les candidats présidentiels sur les risques géopolitiques aggravant la crise des carburants",
           "bullets": [
-            "Emmanuel Macron a déclaré que la France n’était « pas intimidée » par les menaces russes lors d’une réunion à l’Élysée avec les chefs de partis.",
-            "Il a souligné la nécessité de protéger la confiance démocratique face aux tentatives d’influence étrangère sur la campagne électorale.",
-            "Les discussions ont porté sur les risques d’ingérences, notamment via des campagnes de désinformation ou des pressions politiques."
+            "Réunion confidentielle à l’Élysée avec les principaux prétendants à l’Élysée pour évoquer les tensions internationales.",
+            "Mise en garde sur l’impact des conflits extérieurs (guerre hybride, sanctions) sur les approvisionnements en énergie.",
+            "Crise des carburants en France liée à des perturbations logistiques et à la demande accrue post-pandémie.",
+            "Appel à une coordination renforcée entre les partis pour anticiper les chocs économiques futurs."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/live/2026/09/18/en-direct-presidentielle-2027-nous-ne-sommes-pas-intimides-par-les-menaces-russes-affirme-emmanuel-macron-a-la-sortie-de-la-reunion-a-l-elysee_6776151_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html"
             }
           ]
         },
         {
-          "title": "Orange se recentre sur le « new space » avec son téléport de Bercenay-en-Othe",
+          "title": "Macron met en garde contre l’intensification de la guerre hybride russe en France",
           "bullets": [
-            "Le centre de communication par satellite d’Orange à Bercenay-en-Othe intègre désormais des antennes pour la future constellation à basse orbite de Telesat (Canada).",
-            "Ce téléport, l’un des plus grands d’Europe, s’adapte aux évolutions technologiques pour renforcer ses capacités spatiales.",
-            "L’infrastructure vise à améliorer les connexions haut débit et les services de communication par satellite."
+            "Présentation détaillée des menaces hybrides (cyberattaques, désinformation, ingérences) lors d’un briefing à l’Élysée.",
+            "Ciblage des infrastructures critiques (énergie, numérique) et des campagnes électorales comme priorités russes.",
+            "Risque accru de manipulations électorales avant la présidentielle 2027.",
+            "Appel à une vigilance accrue des services de renseignement et des médias."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/18/a-bercenay-en-othe-le-centre-de-communications-par-satellite-d-orange-se-convertit-au-new-space_6776791_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/19/pourquoi-emmanuel-macron-insiste-sur-les-risques-d-intensification-de-la-guerre-hybride-russe-en-france_6777145_3210.html"
             }
           ]
         },
         {
-          "title": "Ventes aux enchères : impressionnistes en vedette à Paris en octobre",
+          "title": "Martinique : la dérive financière de la collectivité territoriale pénalise les services publics",
           "bullets": [
-            "Christie’s et Sotheby’s organisent des ventes exceptionnelles en octobre, incluant des œuvres de Claude Monet et Auguste Renoir.",
-            "Ces enchères attirent les collectionneurs et pourraient battre des records pour ces artistes majeurs du mouvement impressionniste.",
-            "Les tableaux mis en vente proviennent de fonds privés et de galeries internationales."
+            "Constatations alarmantes de la Chambre régionale des comptes sur les déséquilibres budgétaires.",
+            "Retards de paiement des salaires et coupures dans les services essentiels (éducation, santé).",
+            "Dettes accumulées et manque de transparence dans la gestion des fonds publics.",
+            "Appel à une réforme urgente pour éviter une crise sociale majeure."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/argent/article/2026/09/18/dans-les-ventes-aux-encheres-les-impressionnistes-en-vedette-a-paris_6776766_1657007.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/en-martinique-le-derapage-des-comptes-de-la-collectivite-territoriale-penalise-la-vie-quotidienne_6776821_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Rima Hassan porte plainte contre Laurent Nuñez pour violation du secret de l’enquête",
+          "bullets": [
+            "Accusation de révélation d’informations inexactes lors d’une enquête sur des affaires de corruption.",
+            "Procédure engagée devant la Cour de justice de la République pour manquement à l’éthique policière.",
+            "Tensions accrues entre le ministère de l’Intérieur et les lanceurs d’alerte.",
+            "Enquête en cours pour déterminer les responsabilités et les conséquences juridiques."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/18/rima-hassan-porte-plainte-contre-le-ministre-laurent-nunez-devant-la-cour-de-justice-de-la-republique-pour-violation-du-secret-de-l-enquete_6776807_823448.html"
             }
           ]
         }
@@ -69,44 +87,57 @@
       "label": "International",
       "sujets": [
         {
-          "title": "RD Congo : d’anciens prisonniers mobilisés pour assainir Kinshasa",
+          "title": "États-Unis : erreur d’IA faillit déclencher une frappe contre un navire chinois",
           "bullets": [
-            "Le gouvernement congolais a lancé un programme de réinsertion sociale en mobilisant d’anciens détenus pour nettoyer la capitale, Kinshasa.",
-            "Ces volontaires font partie du Service national de la jeunesse et sont encadrés par des agents municipaux.",
-            "L’initiative vise à réduire la pollution et améliorer les conditions sanitaires dans les quartiers les plus touchés."
+            "Une intelligence artificielle a mal identifié un navire chinois comme une menace militaire.",
+            "Intervention manuelle évitée de justesse pour éviter une escalade en mer de Chine.",
+            "Critiques sur la fiabilité des systèmes d’IA dans les décisions stratégiques.",
+            "Visite de Xi Jinping prévue, contexte géopolitique tendu avant les discussions."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-rd-congo-d-anciens-prisonniers-mobilis%C3%A9s-pour-assainir-kinshasa"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/19/etats-unis-la-deferlante-ia-destabilise-l-administration-trump-avant-la-visite-de-xi-jinping_6777224_3234.html"
             }
           ]
         },
         {
-          "title": "Yémen : les divisions du camp anti-Houthis accélèrent sa défaite militaire",
+          "title": "Turquie : répression accrue contre la communauté LGBTQIA+",
           "bullets": [
-            "L’offensive des Houthis sur la côte ouest du Yémen a révélé les profondes fractures au sein du gouvernement reconnu internationalement.",
-            "Les désaccords internes et les rivalités politiques ont affaibli la capacité de réponse militaire et stratégique du camp anti-Houthis.",
-            "Cette situation pourrait prolonger la crise humanitaire et aggraver les tensions régionales."
+            "Plus de 500 arrestations depuis le 13 septembre lors de manifestations ou rassemblements.",
+            "Lois répressives renforçant les peines pour « propagande LGBT » et « troubles à l’ordre public ».",
+            "Crainte d’une radicalisation des violences contre les minorités sexuelles.",
+            "Condamnations internationales appelant à la libération des détenus."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Kennedy Center : mobilisation massive contre la menace de fermeture par l’administration Trump",
+          "bullets": [
+            "Manifestations devant le prestigieux centre culturel de Washington.",
+            "Nécessité de travaux coûteux pour moderniser les infrastructures.",
+            "Menace de suppression budgétaire par l’administration Trump, jugée inacceptable par les artistes et le public.",
+            "Campagne de soutien pour sauver ce symbole culturel américain."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20260918-yemen-divisions-camp-anti-houthis-precipite-d%C3%A9faite"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/19/pas-touche-au-kennedy-center-des-milliers-de-personnes-reunies-autour-de-l-institution-culturelle-menacee-de-disparition-par-l-administration-trump_6777227_3210.html"
             }
           ]
         },
         {
-          "title": "Procès de l’assassinat d’Aramburu : révélations sur une soirée tragique",
+          "title": "Allemagne : les mécanismes démocratiques alimentent l’extrémisme politique",
           "bullets": [
-            "Le procès de l’assassinat de Federico Aramburu a permis à ses proches de décrire une personnalité charismatique et généreuse, surnommée « l’être solaire ».",
-            "Les témoignages évoquent une soirée festive qui a basculé dans le drame, avec des éléments encore à élucider.",
-            "Les investigations se concentrent sur les motivations et les acteurs potentiels de ce meurtre."
+            "Analyse du sociologue Steffen Mau sur la résonance paradoxale des lois anti-extremisme.",
+            "Utilisation des outils de protection de la démocratie par des groupes radicaux pour se radicaliser.",
+            "Risque de polarisation accrue dans un contexte de montée des partis d’extrême droite.",
+            "Appel à repenser les stratégies de prévention de l’extrémisme."
           ],
           "sources": [
             {
-              "name": "France 24",
-              "url": "https://www.france24.com/fr/france/20260918-proc%C3%A8s-assassinat-aramburu-comment-soir%C3%A9e-de-r%C3%AAve-%C3%AAtre-solaire-a-vir%C3%A9-au-drame"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/19/steffen-mau-sociologue-en-allemagne-ce-qui-a-ete-concu-pour-proteger-la-democratie-alimente-aujourd-hui-l-extremisme_6777225_3232.html"
             }
           ]
         }
@@ -114,91 +145,94 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Haute-Saône : triple meurtre de Gy, appel à maintenir la mémoire des victimes",
-          "bullets": [
-            "Les familles des trois victimes du triple meurtre de Gy (Haute-Saône) appellent à perpétuer leur mémoire lors d’une cérémonie commémorative.",
-            "Les autorités locales et associatives organisent des événements pour honorer les victimes et soutenir les proches.",
-            "L’enquête judiciaire reste en cours pour identifier les responsables de ce drame."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Haute-Saône : travaux sur la RN19, chaussée remise en état avant rénovation",
-          "bullets": [
-            "Les travaux sur la RN19 près de Vesoul visent à remettre en état la chaussée avant une rénovation plus complète.",
-            "Les perturbations sont limitées pour les usagers, avec des aménagements temporaires mis en place.",
-            "Les autorités locales assurent un suivi régulier pour garantir la sécurité des travaux."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Amazon propose le clavier Logitech MX Keys S à moins de 50 €",
+          "title": "Sophie Adenot emmène une peluche Pikachu dans l’ISS pour une mission scientifique",
           "bullets": [
-            "Le clavier sans fil Logitech MX Keys S est en promo à 49,99 € sur Amazon, contre 89,90 € habituellement.",
-            "Ce modèle haut de gamme, connu pour son ergonomie et ses performances, est rare à ce prix.",
-            "Une opportunité pour les professionnels et les passionnés de technologie."
+            "Partenariat entre l’Agence spatiale européenne et Pokémon pour des expériences en microgravité.",
+            "La peluche sert de support à des tests sur la résistance des matériaux et le comportement des objets en apesanteur.",
+            "Collaboration avec des écoles pour sensibiliser aux sciences spatiales.",
+            "Retour prévu de la peluche après la mission pour une exposition publique."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2335761-amazon-fait-tomber-le-clavier-logitech-mx-keys-s-sous-la-barre-des-50-e.html"
+              "url": "https://www.numerama.com/sciences/2335725-sophie-adenot-a-une-peluche-pikachu-dans-liss-et-ce-nest-pas-pour-devenir-la-meilleure-dresseuse.html"
             }
           ]
         },
         {
-          "title": "Google lance l’agent IA « CC » pour les familles",
+          "title": "Test de *Control Resonant* : un chef-d’œuvre immersif de Remedy Entertainment",
           "bullets": [
-            "Google présente un agent IA expérimental nommé « CC », conçu pour gérer les plannings et les tâches partagées au sein d’un foyer.",
-            "Cet outil permet aux membres d’une famille de partager leurs données et de collaborer sur des projets communs.",
-            "Une avancée dans l’intégration de l’IA au quotidien familial."
+            "Control Resonant* présenté comme une expérience narrative et visuelle unique.",
+            "Univers riche mêlant science-fiction et mysticisme, avec une bande-son envoûtante.",
+            "Système de gameplay innovant axé sur l’exploration et la résolution d’énigmes.",
+            "Réception critique très positive, saluant la créativité et l’ambition du studio."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2335251-test-de-control-resonant-le-nouveau-chef-doeuvre-de-remedy.html"
+            }
+          ]
         },
         {
-          "title": "Bambu Lab réduit de 400 € le prix de son imprimante 3D anti-gaspillage H2C",
+          "title": "Meta lance Muse, un agent IA pour réserver des voyages et gérer des tâches personnelles",
           "bullets": [
-            "L’imprimante 3D Bambu Lab H2C, conçue pour limiter le gaspillage de filament, est désormais disponible à 599 € au lieu de 999 €.",
-            "Ce modèle se distingue par sa capacité à changer automatiquement de rouleau de filament et son efficacité énergétique.",
-            "Une offre attractive pour les amateurs d’impression 3D soucieux de durabilité."
+            "Nouvel outil d’IA conçu pour faciliter la planification de voyages et la gestion quotidienne.",
+            "Intégration avec des services de réservation et des applications de voyage.",
+            "Capacité à analyser les préférences utilisateurs et proposer des itinéraires personnalisés.",
+            "Disponibilité limitée en phase test avant une sortie plus large."
           ],
           "sources": []
         }
       ]
     },
     {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque aux caisses automatiques : la technique de la superposition",
+          "title": "Escroquerie par prise de contrôle à distance d’un smartphone : comment se protéger ?",
           "bullets": [
-            "Des arnaqueurs utilisent une technique consistant à superposer des cartes bancaires pour voler des fonds via les distributeurs automatiques.",
-            "Les victimes sont incitées à retirer de l’argent en utilisant des cartes falsifiées ou des dispositifs électroniques volés.",
-            "Les supermarchés et les banques alertent sur cette pratique et conseillent de vérifier systématiquement son ticket de retrait."
+            "Arnaque consistant à prendre le contrôle d’un téléphone via des logiciels malveillants.",
+            "Victime incapable d’accéder à son appareil, vol de données et de comptes bancaires.",
+            "Conseils pour sécuriser ses appareils (mises à jour, authentification forte, vigilance sur les liens suspects).",
+            "Signalement aux autorités et aux plateformes de sécurité en cas de tentative d’arnaque."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque à la baguette : trois plaintes et une enquête en cours",
+          "title": "Double facturation sur Booking.com : une nouvelle arnaque à surveiller",
           "bullets": [
-            "Une nouvelle arnaque consiste à voler des baguettes de pain dans les boulangeries en utilisant des techniques de distraction ou de complicité.",
-            "Trois plaintes ont été déposées dans une région française, et les autorités lancent un appel à la vigilance.",
-            "Les commerçants sont invités à renforcer la surveillance et à signaler tout comportement suspect."
+            "Clients facturés deux fois pour des réservations effectuées cet été.",
+            "Méthode d’arnaque utilisant des faux sites ou des escrocs se faisant passer pour Booking.",
+            "Conseils pour vérifier l’authenticité des sites et des emails reçus.",
+            "Signalement possible via les plateformes de protection des consommateurs."
           ],
           "sources": []
         },
         {
-          "title": "Retraites : 13,8 millions de contribuables doivent régler un solde moyen de 1 798 €",
+          "title": "Budget 2027 : fin de l’abattement fiscal de 10% pour les retraités",
           "bullets": [
-            "Le fisc annonce que 13,8 millions de contribuables doivent régler un manque à gagner moyen de 1 798 € sur leurs impôts.",
-            "Ce chiffre, en hausse par rapport aux années précédentes, s’explique par des ajustements fiscaux et des contrôles renforcés.",
-            "Les contribuables concernés recevront des notifications détaillées avant le 25 septembre."
+            "Suppression de l’avantage fiscal de 10% sur les pensions à partir de 2027.",
+            "Hausse potentielle des impôts pour les retraités, selon leur niveau de revenus.",
+            "Analyse des impacts sur le pouvoir d’achat et les revenus des seniors.",
+            "Explications sur les alternatives proposées pour atténuer la hausse."
           ],
           "sources": []
         }
@@ -208,34 +242,12 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats du monde de cyclisme 2026 : programme complet des Mondiaux de Montréal",
+          "title": "Coupe Davis : la France battue par le Canada, Rinderknech surpris par un joueur 205e mondial",
           "bullets": [
-            "Les Championnats du monde de cyclisme 2026 se dérouleront à Montréal du 19 au 31 août 2026.",
-            "Les épreuves incluent le contre-la-montre, la course en ligne et les épreuves sur piste pour hommes et femmes.",
-            "Les favoris comme Mathieu van der Poel, Tadej Pogačar et Annemiek van Vleuten sont attendus pour le combat titanesque."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Tennis : Moïse Kouamé retrouve le sourire au Vietnam après Roland-Garros",
-          "bullets": [
-            "Moïse Kouamé, après une saison difficile marquée par Roland-Garros, participe à un tournoi au Vietnam pour rebondir.",
-            "Le joueur ivoirien, connu pour son intensité et son mental, vise à confirmer sa progression sur le circuit ATP.",
-            "Ce tournoi pourrait être une étape clé pour préparer sa saison 2027."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Impression 3D inspirée de la nature pour améliorer le stockage d’énergie",
-          "bullets": [
-            "Des chercheurs explorent des structures biomimétiques pour optimiser le stockage d’énergie renouvelable à grande échelle.",
-            "Ces designs, inspirés de la nature, pourraient réduire les coûts et améliorer l’efficacité des systèmes de stockage.",
-            "Une avancée prometteuse pour la transition énergétique et la durabilité."
+            "Défaite française en double face à un joueur classé 205e mondial.",
+            "Le Canada mène désormais la série avec un avantage de 2-0.",
+            "Analyse des performances et des stratégies tactiques des équipes en lice.",
+            "Prochains matchs décisifs pour tenter de renverser la tendance."
           ],
           "sources": []
         }
@@ -284,23 +296,6 @@
             {
               "name": "Wikipédia",
               "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Sport — NFL à la TV aujourd'hui",
-      "sujets": [
-        {
-          "title": "Football américain à la télévision (heures de Paris)",
-          "bullets": [
-            "Buffalo Bills – Detroit Lions · 13h30 · beIN SPORTS 3 · rediffusion"
-          ],
-          "sources": [
-            {
-              "name": "tv-sports.fr",
-              "url": "https://tv-sports.fr/football-americain/nfl"
             }
           ]
         }
