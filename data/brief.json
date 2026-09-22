@@ -1,18 +1,18 @@
 {
-  "date_str": "Lundi 21 septembre 2026",
+  "date_str": "Mardi 22 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Levi, Matthieu, Castor, Déborah, Jonas et Mélina",
+          "title": "Aujourd'hui, on souhaite la fête : Candide, Maurice, Silvain, Laud et Lô",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/21/9/2026/21-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/22/9/2026/22-Septembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Seine-Saint-Denis : trois spectacles historiques lancés pour contrer la droite identitaire",
+          "title": "Sénatoriales 2026 : le Sénat, un rouage clé du pouvoir",
           "bullets": [
-            "Le département francilien lance trois spectacles coordonnés par les historiens Patrick Boucheron et Guillaume Mazeau.",
-            "Objectif : promouvoir une vision inclusive de l’histoire et de la culture locales.",
-            "Ces initiatives s’inscrivent dans une réponse culturelle à la montée des discours identitaires.",
-            "Les spectacles devraient être diffusés à partir de l’été 2027."
+            "Dimanche 22 septembre, plus de la moitié des sièges du Sénat seront renouvelés lors des élections sénatoriales.",
+            "Le Sénat joue un rôle essentiel dans l’équilibre des pouvoirs, notamment en validant ou amendant les lois avant promulgation.",
+            "Les sénateurs, élus indirectement par les grands électeurs, représentent les collectivités territoriales et non les citoyens directement.",
+            "Leur mandat de six ans permet une stabilité législative, souvent perçue comme un contrepoids à l’Assemblée nationale."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/culture/article/2026/09/21/populaire-toutes-nos-histoires-la-riposte-de-la-seine-saint-denis-a-la-bataille-culturelle-menee-par-la-droite-identitaire_6778692_3246.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/22/senatoriales-2026-a-quoi-sert-le-senat_6779792_4355770.html"
             }
           ]
         },
         {
-          "title": "LFI propose une refonte de l’État pour la présidentielle 2027",
+          "title": "Nicolas Mayer-Rossignol, maire de Rouen, assume publiquement son cancer",
           "bullets": [
-            "Jean-Luc Mélenchon insiste sur la nécessité d’une « révolution citoyenne » passant par une refonte de l’État.",
-            "Renforcement des services publics et de la fonction publique au cœur des propositions.",
-            "Mise en avant de l’impartialité et de la transparence administrative.",
-            "Objectif : répondre aux attentes d’une population en quête de services publics renforcés."
+            "Diagnostiqué à 49 ans d’un cancer de la vessie, le maire socialiste de Rouen a choisi de rendre sa maladie publique.",
+            "Cette transparence vise à briser les tabous autour des maladies graves et à encourager les dépistages précoces.",
+            "Il s’exprime sur les défis personnels et professionnels liés à cette épreuve, tout en restant en fonction.",
+            "Son initiative pourrait inspirer d’autres élus à adopter une posture similaire."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/21/presidentielle-2027-fonction-publique-services-publics-impartialite-l-etat-que-veulent-lfi-et-jean-luc-melenchon_6778651_6205049.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/22/face-au-cancer-le-maire-de-rouen-nicolas-mayer-rossignol-a-fait-le-choix-de-la-transparence_6779752_823448.html"
             }
           ]
         },
         {
-          "title": "Manifestations massives contre le « permis de tuer » des forces de l’ordre",
+          "title": "Présidentielle 2027 : Ségolène Royal relance la primaire à gauche",
           "bullets": [
-            "Plus de 10 000 personnes dans la rue pour dénoncer une loi présumant l’innocence des policiers en cas d’usage de la force.",
-            "Manifestations dans plusieurs villes de France, avec une forte mobilisation des syndicats de police et des associations.",
-            "Critiques sur les conditions d’application de cette loi controversée.",
-            "Appel à une réforme des pratiques policières et judiciaires."
+            "L’ancienne ministre et figure historique du PS affronte des difficultés pour lancer sa campagne présidentielle.",
+            "Elle critique publiquement les stratégies de ses concurrents lors d’interventions médiatiques récentes.",
+            "Son positionnement vise à mobiliser une gauche divisée et à renforcer son influence dans les débats préélectoraux.",
+            "La primaire à gauche, prévue pour 2026, reste un enjeu majeur pour unifier les forces progressistes."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/videos/video/2026/09/20/en-images-plus-de-10-000-personnes-dans-la-rue-en-france-contre-le-permis-de-tuer-des-forces-de-l-ordre_6778408_1669088.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-segolene-royal-trublion-de-la-primaire-a-gauche_6779746_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : 5 milliards d’euros supplémentaires pour les collectivités locales",
+          "title": "Budget 2027 : la Cour des comptes relance la proposition d’un nouvel impôt sur la fortune",
           "bullets": [
-            "Sébastien Lecornu annonce un engagement pour aligner l’évolution des dépenses locales sur l’inflation.",
-            "Mesure visant à soutenir les budgets des communes, départements et régions.",
-            "Objectif : atténuer les pressions financières pesant sur les collectivités.",
-            "Cette annonce intervient dans un contexte de tensions budgétaires accrues."
+            "Dans une note récente, la Cour des comptes préconise la création d’un impôt sur la fortune personnelle pour des raisons d’équité fiscale.",
+            "Elle demande également une réduction des niches fiscales jugées trop avantageuses pour les plus aisés.",
+            "Cette proposition s’inscrit dans un contexte de tensions sur les finances publiques et les inégalités.",
+            "Le gouvernement doit désormais trancher sur la faisabilité et l’opportunité de cette mesure."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-sebastien-lecornu-promet-5-milliards-d-euros-de-plus-aux-collectivites-locales_6778406_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html"
             }
           ]
         },
         {
-          "title": "François Bayrou propose une primaire « grand fleuve central » pour la présidentielle",
+          "title": "Procès en appel des assistants parlementaires du MoDem : Jean-Luc Bennahmias sous pression",
           "bullets": [
-            "L’ancien Premier ministre défend un scrutin ouvert pour désigner un candidat de centre.",
-            "Proposition d’un calendrier pour organiser cette primaire avant 2027.",
-            "Objectif : rassembler les forces politiques modérées face à la polarisation.",
-            "Initiative visant à élargir la base électorale au-delà des clivages traditionnels."
+            "L’ancien député européen Jean-Luc Bennahmias est jugé en appel pour des soupçons de détournement de fonds publics liés à des contrats de collaborateurs.",
+            "Les accusations portent sur des emplois fictifs ou mal justifiés au sein de son ancienne structure politique.",
+            "Son témoignage, jugé confus et digressif, a suscité des critiques lors de l’audience du 21 septembre.",
+            "Ce procès pourrait avoir des répercussions sur la crédibilité du MoDem et ses pratiques internes."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/20/francois-bayrou-defend-une-primaire-nebuleuse-du-grand-fleuve-central-pour-la-presidentielle_6778405_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/09/21/au-proces-en-appel-des-assistants-parlementaires-du-modem-jean-luc-bennahmias-entre-confusion-et-digressions_6779346_3224.html"
+            }
+          ]
+        },
+        {
+          "title": "« Valeurs actuelles » : départ de Tugdual Denis et incertitudes sur l’avenir du journal",
+          "bullets": [
+            "Tugdual Denis, directeur de l’hebdomadaire d’extrême droite « Valeurs actuelles », quitte ses fonctions dans un contexte de tensions internes.",
+            "Le journal traverse une période de difficultés financières et éditoriales, avec des questions sur sa ligne éditoriale future.",
+            "Cette crise s’inscrit dans un paysage médiatique français marqué par des mutations et des fermetures de titres.",
+            "Les abonnés et lecteurs s’interrogent sur la pérennité du journal et son orientation politique."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/21/tugdual-denis-quitte-la-direction-de-valeurs-actuelles_6779340_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "Présidentielle 2027 : les Écologistes tranchent en décembre sur la candidature de Marine Tondelier",
+          "bullets": [
+            "La secrétaire nationale des Écologistes, Marine Tondelier, maintient sa candidature à la présidentielle 2027.",
+            "Le parti doit trancher en décembre lors d’un vote interne pour valider ou non sa candidature officielle.",
+            "Cette décision pourrait influencer la dynamique de la gauche et la répartition des voix face à d’autres candidats.",
+            "Les enjeux écologiques et sociaux restent centraux dans sa stratégie électorale."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html"
             }
           ]
         }
@@ -102,254 +132,94 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Ukraine : Zelensky et Trump préparent une rencontre à New York",
+          "title": "Guerre en Ukraine : l’UE veut reconduire rapidement les sanctions contre la Russie",
           "bullets": [
-            "Volodymyr Zelensky annonce une rencontre prévue avec Donald Trump à New York.",
-            "Entretien téléphonique récent pour organiser cette rencontre dans un contexte géopolitique tendu.",
-            "Objectif : discuter des perspectives de paix et de soutien international à l’Ukraine.",
-            "Renforcement des alliances occidentales face à l’invasion russe."
+            "La cheffe de la diplomatie européenne, Josep Borrell, insiste sur la nécessité de maintenir les sanctions contre Moscou pour faire pression sur la Russie.",
+            "Ces mesures visent à limiter les financements de la guerre et à isoler économiquement la Russie.",
+            "L’objectif reste de forcer une cessation des hostilités et un retour à la souveraineté ukrainienne.",
+            "Les États membres de l’UE doivent se coordonner pour éviter les failles dans l’application des sanctions."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-avoir-convenu-avec-donald-trump-d-une-rencontre-a-new-york_6777944_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-la-cheffe-de-la-diplomatie-europeenne-veut-reconduire-rapidement-la-politique-de-sanctions-contre-la-russie_6777944_3210.html"
             }
           ]
         },
         {
-          "title": "Un an après la reconnaissance de l’État de Palestine, la France déçoit les défenseurs palestiniens",
+          "title": "Typhon Dujuan au Japon : au moins deux morts et 1,6 million d’habitants évacués",
           "bullets": [
-            "Emmanuel Macron a cherché à apaiser les relations avec Israël, brouillant son message initial.",
-            "Critiques sur l’absence de pression suffisante sur Israël pour avancer vers une solution politique.",
-            "Défenseurs palestiniens accusent la France de manque de fermeté diplomatique.",
-            "Impact limité sur la dynamique internationale en faveur de la cause palestinienne."
+            "Le typhon Dujuan a frappé la région de Tokyo et ses environs, causant au moins deux morts et des dégâts matériels importants.",
+            "Plus de 1,6 million de personnes avaient été appelées à évacuer avant le passage du typhon.",
+            "Les services de secours sont mobilisés pour les recherches et les secours aux populations sinistrées.",
+            "Les autorités japonaises surveillent les risques d’inondations et de glissements de terrain."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/21/un-an-apres-la-reconnaissance-de-l-etat-de-palestine-l-initiative-francaise-a-perdu-de-son-panache_6778699_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/22/au-japon-le-typhon-dujuan-fait-au-moins-deux-morts-dans-la-region-de-tokyo_6779790_3210.html"
             }
           ]
         },
         {
-          "title": "Haïti : 18 suspects de l’assassinat de Jovenel Moïse extradés vers les États-Unis",
+          "title": "Tensions USA-Royaume-Uni : la relation spéciale fragilisée par Donald Trump",
           "bullets": [
-            "L’ancien président haïtien a été tué en juillet 2021 par un commando armé.",
-            "Extradition de 18 suspects vers les États-Unis pour y être jugés.",
-            "Renforcement des efforts internationaux pour lutter contre l’impunité en Haïti.",
-            "Situation sécuritaire et politique toujours instable dans le pays."
+            "La première rencontre entre Donald Trump et le nouveau Premier ministre britannique, Andy Burnham, marque une période d’incertitude pour la relation transatlantique.",
+            "Les désaccords sur la politique étrangère, notamment en matière de défense et de commerce, pourraient affaiblir la coopération historique entre les deux pays.",
+            "Les États-Unis et le Royaume-Uni doivent trouver un équilibre pour maintenir leur alliance malgré les divergences politiques.",
+            "Cette relation, souvent qualifiée de « spéciale », est aujourd’hui mise à l’épreuve par les priorités divergentes."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/21/haiti-cinq-ans-apres-l-assassinat-de-jovenel-moise-dix-huit-suspects-extrades-vers-les-etats-unis_6778696_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/22/entre-les-etats-unis-et-le-royaume-uni-une-relation-speciale-malmenee-par-donald-trump_6779787_3210.html"
             }
           ]
         },
         {
-          "title": "Les États-Unis multiplient les rapatriements forcés d’Haïtiens vers leur pays",
+          "title": "Macron et Trump débattent à New York : Ukraine et prix de l’énergie au cœur des discussions",
           "bullets": [
-            "Human Rights Watch dénonce les conditions inhumaines de ces expulsions.",
-            "Risques accrus pour les Haïtiens rapatriés, déjà en situation précaire.",
-            "Critiques sur la politique migratoire américaine et ses conséquences humanitaires.",
-            "Appel à une régularisation des statuts des migrants haïtiens aux États-Unis."
+            "Emmanuel Macron et Donald Trump ont échangé sur la situation en Ukraine et la flambée des prix de l’énergie lors d’un entretien à New York.",
+            "Le président français a présenté des initiatives pour stabiliser les prix du pétrole, notamment un moratoire sur les nouveaux projets d’exploration.",
+            "Les deux dirigeants ont abordé les tensions géopolitiques et les risques d’escalade dans la région.",
+            "Cette rencontre s’inscrit dans un contexte de tensions accrues entre les États-Unis et la Russie."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/21/les-etats-unis-multiplient-les-rapatriements-forces-d-haitiens-dans-leur-pays_6778694_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/22/a-new-york-emmanuel-macron-et-donald-trump-debattent-de-l-ukraine-et-de-la-flambee-de-l-or-noir_6779749_3210.html"
             }
           ]
         },
         {
-          "title": "Montée de l’extrême droite en Allemagne inquiète l’Europe",
+          "title": "Yémen : frappes saoudiennes sur Moka font six morts selon les Houthis",
           "bullets": [
-            "Berlin accusé de se replier sur ses intérêts nationaux, alimentant les tensions européennes.",
-            "Partenaires européens préoccupés par cette évolution politique.",
-            "Risque accru de défiance et de fragmentation au sein de l’UE.",
-            "Impact potentiel sur les politiques communes et la coopération transfrontalière."
+            "L’Arabie saoudite a mené des frappes aériennes sur la ville de Moka, contrôlée par les Houthis, faisant six morts selon les miliciens.",
+            "Ces frappes s’inscrivent dans le cadre de la guerre civile yéménite et des tensions régionales autour du détroit de Bab al-Mandeb.",
+            "Les Houthis accusent Riyad de violer les accords de cessez-le-feu et d’aggraver la crise humanitaire.",
+            "La communauté internationale appelle à un retour au dialogue pour éviter une escalade supplémentaire."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/21/la-digue-a-lache-en-allemagne-la-montee-de-l-extreme-droite-outre-rhin-inquiete-sur-la-scene-europeenne_6778653_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/22/au-yemen-des-frappes-saoudiennes-sur-moka-font-six-morts-selon-les-houthistes_6779748_3210.html"
             }
           ]
         },
         {
-          "title": "Texas : un ressortissant vénézuélien grièvement blessé par un agent de l’ICE",
+          "title": "Afrique du Sud : les compagnies de sécurité privées assument un rôle policier croissant",
           "bullets": [
-            "L’homme, âgé de 28 ans, a été hospitalisé dans un état grave après une intervention policière.",
-            "Incident survenu lors d’une opération de contrôle migratoire.",
-            "Débats sur les méthodes employées par les agents de l’Immigration and Customs Enforcement (ICE).",
-            "Questions sur les droits des migrants et les pratiques policières aux États-Unis."
+            "Dans un pays marqué par une criminalité endémique, près de la moitié des victimes de cambriolages ne signalent pas les faits aux autorités.",
+            "Les compagnies privées de sécurité interviennent de plus en plus dans la prévention et la répression des infractions.",
+            "Cette situation soulève des questions sur l’efficacité et la légitimité de ces acteurs face à l’État.",
+            "Les autorités sud-africaines peinent à répondre à la demande croissante de sécurité dans les quartiers les plus touchés."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/09/21/au-texas-un-homme-grievement-blesse-par-balle-par-un-agent-de-l-ice-la-police-de-l-immigration-americaine_6778652_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Vesoul : attaque à l’explosif contre un distributeur bancaire cause 800 000 € de dégâts",
-          "bullets": [
-            "Un cinéma a été endommagé par l’explosion près d’un distributeur bancaire.",
-            "L’enquête en cours pour déterminer les responsables et les motivations de l’attaque.",
-            "Impact économique et sécuritaire sur la ville de Vesoul.",
-            "Renforcement des mesures de sécurité dans la région."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "SpaceX tente un nouveau vol du Starship : en direct minute par minute",
-          "bullets": [
-            "Première tentative d’un vol complet du Starship, fusée réutilisable de SpaceX.",
-            "Objectif : valider les systèmes de propulsion et de sécurité avant les missions habitées.",
-            "Suivi en direct des étapes clés du lancement et des tests en orbite.",
-            "Impact potentiel sur les futures missions vers la Lune et Mars."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/sciences/2334615-une-premiere-pour-le-starship-voila-minute-par-minute-ce-que-la-fusee-geante-de-spacex-va-tenter.html"
-            }
-          ]
-        },
-        {
-          "title": "Une énigme de 178 ans liée à un incident solaire enfin résolue",
-          "bullets": [
-            "Des scientifiques ont identifié la cause d’un dysfonctionnement des télégraphes en 1848.",
-            "Retard de train et archives de journaux ont permis de retracer l’événement.",
-            "Impact sur la compréhension des perturbations électromagnétiques solaires.",
-            "Nouvelle perspective sur l’histoire des technologies de communication."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/sciences/2334861-comment-les-scientifiques-ont-resolu-une-enigme-telegraphique-vieille-de-178-ans.html"
-            }
-          ]
-        },
-        {
-          "title": "Court-métrage Metal Gear Solid : un avant-goût du film d’animation de Snake",
-          "bullets": [
-            "Un court-métrage animé met en scène Solid Snake, héros emblématique de la franchise.",
-            "Préparation pour un éventuel film d’animation officiel en développement.",
-            "Fidélité préservée aux codes visuels et narratifs des jeux vidéo.",
-            "Attente de la communauté des fans pour une sortie officielle."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2335867-ce-court-metrage-metal-gear-solid-nous-donne-envie-de-voir-snake-dans-un-vrai-film-danimation.html"
-            }
-          ]
-        },
-        {
-          "title": "Oura Ring 4 à 265 € : une offre exceptionnelle chez la Fnac",
-          "bullets": [
-            "La bague connectée Oura Ring 4 passe de 399 € à 265 € en promotion.",
-            "Modèle en titane avec suivi du sommeil et de la santé.",
-            "Opportunité pour les amateurs de technologie wearable de faire des économies.",
-            "Disponibilité limitée en raison de la sortie du nouveau modèle."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2335827-la-fnac-fait-tomber-loura-ring-4-a-265-e-avec-la-sortie-du-nouveau-modele.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "source indisponible ce matin"
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Fives AddUp fabrique une imprimante 3D métallique grand format aux États-Unis",
-          "bullets": [
-            "L’entreprise belge installe une usine de production de l’imprimante FormUp 750 aux États-Unis.",
-            "Objectif : répondre à la demande croissante en impression 3D métallique aux États-Unis.",
-            "Investissement dans la fabrication locale pour réduire les délais et les coûts logistiques.",
-            "Impact sur l’industrie aérospatiale et automobile américaine."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Arnaque à la boulette : vigilance accrue dans les stations-service",
-          "bullets": [
-            "La gendarmerie alerte sur des fraudes aux carburants, avec des pompes délivrant moins de carburant que payé.",
-            "Conseils pour vérifier les quantités et les prix affichés.",
-            "Appel à la prudence des consommateurs face à ces pratiques frauduleuses.",
-            "Plaintes en hausse et enquêtes en cours pour identifier les responsables."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au colis : message vocal trompeur pour extorquer de l’argent",
-          "bullets": [
-            "Des escrocs utilisent des messages vocaux pour simuler un problème de livraison.",
-            "Victimes incitées à appeler un numéro payant ou à transférer de l’argent.",
-            "Conseils pour éviter ces arnaques et vérifier l’authenticité des appels.",
-            "Plaintes en augmentation et sensibilisation accrue nécessaire."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque à la location étudiante : comment récupérer son argent et faire condamner le bailleur",
-          "bullets": [
-            "Des étudiants se font escroquer en versant un acompte à un faux bailleur.",
-            "Conseils juridiques pour récupérer l’argent et engager des poursuites.",
-            "Importance de vérifier l’identité et les garanties du propriétaire avant de signer.",
-            "Exemples de condamnations obtenues par des associations de consommateurs."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Remco Evenepoel remporte un quatrième titre mondial du contre-la-montre",
-          "bullets": [
-            "Le Belge s’impose pour la quatrième fois consécutive dans cette discipline.",
-            "Performance historique dans le cyclisme, avec un temps record.",
-            "Paul Seixas, coureur français, termine troisième, renforçant l’espoir français.",
-            "Impact sur les classements mondiaux et les ambitions pour les Jeux Olympiques."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Paris remporte la Supercoupe de basket face à Roanne",
-          "bullets": [
-            "Victoire 85-75 pour Paris en finale de la Supercoupe de basket.",
-            "Performance solide de l’équipe parisienne, avec des joueurs clés en forme.",
-            "Consécration pour les joueurs et l’encadrement technique de l’équipe.",
-            "Renforcement de la compétitivité française dans le basket-ball européen."
-          ],
-          "sources": []
         }
       ]
     },
@@ -408,9 +278,7 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "New England Patriots – Pittsburgh Steelers · 16h30 · beIN SPORTS 3 · rediffusion",
-            "Arizona Cardinals – Seattle Seahawks · 19h00 · beIN SPORTS 3 · rediffusion",
-            "Kansas City Chiefs – Indianapolis Colts · 23h30 · beIN SPORTS 3 · rediffusion"
+            "Los Angeles Rams – New York Giants · 19h30 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
