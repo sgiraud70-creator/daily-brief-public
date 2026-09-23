@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 22 septembre 2026",
+  "date_str": "Mercredi 23 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 3,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Candide, Maurice, Silvain, Laud et Lô",
+          "title": "Aujourd'hui, on souhaite la fête : Constant, Lin et Line",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/22/9/2026/22-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/23/9/2026/23-Septembre-2026.html"
             }
           ]
         }
@@ -22,107 +22,62 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Sénatoriales 2026 : le Sénat, un rouage clé du pouvoir",
+          "title": "Primaire de gauche : Olivier Faure hésite sur sa candidature",
           "bullets": [
-            "Dimanche 22 septembre, plus de la moitié des sièges du Sénat seront renouvelés lors des élections sénatoriales.",
-            "Le Sénat joue un rôle essentiel dans l’équilibre des pouvoirs, notamment en validant ou amendant les lois avant promulgation.",
-            "Les sénateurs, élus indirectement par les grands électeurs, représentent les collectivités territoriales et non les citoyens directement.",
-            "Leur mandat de six ans permet une stabilité législative, souvent perçue comme un contrepoids à l’Assemblée nationale."
+            "Le premier secrétaire du PS, Olivier Faure, ne confirme toujours pas sa participation à la primaire de la gauche.",
+            "Il cherche à se distinguer de son principal rival, Philippe Brun, exclu du PS.",
+            "La campagne électorale s’annonce serrée avec plusieurs candidats en lice.",
+            "Les enjeux idéologiques et stratégiques divisent la gauche française."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/22/senatoriales-2026-a-quoi-sert-le-senat_6779792_4355770.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/23/primaire-a-gauche-la-valse-hesitation-d-olivier-faure_6780618_823448.html"
             }
           ]
         },
         {
-          "title": "Nicolas Mayer-Rossignol, maire de Rouen, assume publiquement son cancer",
+          "title": "Affaire de violences sexuelles sur mineurs : un intervenant en anglais en garde à vue à Paris",
           "bullets": [
-            "Diagnostiqué à 49 ans d’un cancer de la vessie, le maire socialiste de Rouen a choisi de rendre sa maladie publique.",
-            "Cette transparence vise à briser les tabous autour des maladies graves et à encourager les dépistages précoces.",
-            "Il s’exprime sur les défis personnels et professionnels liés à cette épreuve, tout en restant en fonction.",
-            "Son initiative pourrait inspirer d’autres élus à adopter une posture similaire."
+            "Un intervenant en anglais, employé par CapEnglish, est en garde à vue pour soupçons de viols et agressions sexuelles sur des enfants de maternelle.",
+            "La société affirme avoir respecté toutes les vérifications lors de son recrutement.",
+            "Les faits remontent à plusieurs mois et concernent des élèves d’une école parisienne.",
+            "Une enquête judiciaire est en cours pour établir les responsabilités."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/22/face-au-cancer-le-maire-de-rouen-nicolas-mayer-rossignol-a-fait-le-choix-de-la-transparence_6779752_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
             }
           ]
         },
         {
-          "title": "Présidentielle 2027 : Ségolène Royal relance la primaire à gauche",
+          "title": "Perpignan : la mairie RN expose des statues de la Nativité pour les fêtes de fin d’année",
           "bullets": [
-            "L’ancienne ministre et figure historique du PS affronte des difficultés pour lancer sa campagne présidentielle.",
-            "Elle critique publiquement les stratégies de ses concurrents lors d’interventions médiatiques récentes.",
-            "Son positionnement vise à mobiliser une gauche divisée et à renforcer son influence dans les débats préélectoraux.",
-            "La primaire à gauche, prévue pour 2026, reste un enjeu majeur pour unifier les forces progressistes."
+            "La municipalité RN de Perpignan souhaite exposer des statues de la Nativité dans l’espace public.",
+            "L’opposition dénonce un acte « contraire à l’universalisme laïc » et un « acte idéologique ».",
+            "La tradition catalane de la « crema » est invoquée pour justifier cette exposition.",
+            "Le débat sur la laïcité et la place de la religion dans l’espace public s’intensifie."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-segolene-royal-trublion-de-la-primaire-a-gauche_6779746_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/23/perpignan-la-mairie-rn-veut-exposer-des-statues-de-la-nativite-pour-les-fetes-de-fin-d-annee_6780366_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : la Cour des comptes relance la proposition d’un nouvel impôt sur la fortune",
+          "title": "Sénatoriales 2026 : qui sont les candidats en lice ?",
           "bullets": [
-            "Dans une note récente, la Cour des comptes préconise la création d’un impôt sur la fortune personnelle pour des raisons d’équité fiscale.",
-            "Elle demande également une réduction des niches fiscales jugées trop avantageuses pour les plus aisés.",
-            "Cette proposition s’inscrit dans un contexte de tensions sur les finances publiques et les inégalités.",
-            "Le gouvernement doit désormais trancher sur la faisabilité et l’opportunité de cette mesure."
+            "178 sièges du Sénat sur 348 seront renouvelés lors des élections du 28 septembre.",
+            "Les listes en présence reflètent les divisions politiques actuelles, entre majorité présidentielle et opposition.",
+            "Les enjeux locaux et les stratégies partisanes dominent cette campagne.",
+            "Les résultats pourraient influencer l’équilibre politique au Sénat."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Procès en appel des assistants parlementaires du MoDem : Jean-Luc Bennahmias sous pression",
-          "bullets": [
-            "L’ancien député européen Jean-Luc Bennahmias est jugé en appel pour des soupçons de détournement de fonds publics liés à des contrats de collaborateurs.",
-            "Les accusations portent sur des emplois fictifs ou mal justifiés au sein de son ancienne structure politique.",
-            "Son témoignage, jugé confus et digressif, a suscité des critiques lors de l’audience du 21 septembre.",
-            "Ce procès pourrait avoir des répercussions sur la crédibilité du MoDem et ses pratiques internes."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/21/au-proces-en-appel-des-assistants-parlementaires-du-modem-jean-luc-bennahmias-entre-confusion-et-digressions_6779346_3224.html"
-            }
-          ]
-        },
-        {
-          "title": "« Valeurs actuelles » : départ de Tugdual Denis et incertitudes sur l’avenir du journal",
-          "bullets": [
-            "Tugdual Denis, directeur de l’hebdomadaire d’extrême droite « Valeurs actuelles », quitte ses fonctions dans un contexte de tensions internes.",
-            "Le journal traverse une période de difficultés financières et éditoriales, avec des questions sur sa ligne éditoriale future.",
-            "Cette crise s’inscrit dans un paysage médiatique français marqué par des mutations et des fermetures de titres.",
-            "Les abonnés et lecteurs s’interrogent sur la pérennité du journal et son orientation politique."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/21/tugdual-denis-quitte-la-direction-de-valeurs-actuelles_6779340_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Présidentielle 2027 : les Écologistes tranchent en décembre sur la candidature de Marine Tondelier",
-          "bullets": [
-            "La secrétaire nationale des Écologistes, Marine Tondelier, maintient sa candidature à la présidentielle 2027.",
-            "Le parti doit trancher en décembre lors d’un vote interne pour valider ou non sa candidature officielle.",
-            "Cette décision pourrait influencer la dynamique de la gauche et la répartition des voix face à d’autres candidats.",
-            "Les enjeux écologiques et sociaux restent centraux dans sa stratégie électorale."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html"
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/23/senatoriales-2026-qui-sont-les-candidats_6780576_4355770.html"
             }
           ]
         }
@@ -132,96 +87,40 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : l’UE veut reconduire rapidement les sanctions contre la Russie",
+          "title": "Assemblée générale de l’ONU : Macron défend le multilatéralisme face à Trump",
           "bullets": [
-            "La cheffe de la diplomatie européenne, Josep Borrell, insiste sur la nécessité de maintenir les sanctions contre Moscou pour faire pression sur la Russie.",
-            "Ces mesures visent à limiter les financements de la guerre et à isoler économiquement la Russie.",
-            "L’objectif reste de forcer une cessation des hostilités et un retour à la souveraineté ukrainienne.",
-            "Les États membres de l’UE doivent se coordonner pour éviter les failles dans l’application des sanctions."
+            "Emmanuel Macron a dénoncé une « paix prétendue » et appelé à rouvrir les voies humanitaires à Gaza.",
+            "Il a réaffirmé la nécessité de renforcer le multilatéralisme face aux tensions géopolitiques.",
+            "Son discours s’oppose à la position isolationniste de Donald Trump.",
+            "La France insiste sur la nécessité d’un « double moratoire » sur les frappes en Russie et en Ukraine."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-la-cheffe-de-la-diplomatie-europeenne-veut-reconduire-rapidement-la-politique-de-sanctions-contre-la-russie_6777944_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/23/a-l-assemblee-generale-de-l-onu-emmanuel-macron-prend-le-contrepied-de-donald-trump_6780583_3210.html"
             }
           ]
         },
         {
-          "title": "Typhon Dujuan au Japon : au moins deux morts et 1,6 million d’habitants évacués",
+          "title": "En Cisjordanie, la droite israélienne réclame la peine de mort pour un Palestinien accusé de meurtre",
           "bullets": [
-            "Le typhon Dujuan a frappé la région de Tokyo et ses environs, causant au moins deux morts et des dégâts matériels importants.",
-            "Plus de 1,6 million de personnes avaient été appelées à évacuer avant le passage du typhon.",
-            "Les services de secours sont mobilisés pour les recherches et les secours aux populations sinistrées.",
-            "Les autorités japonaises surveillent les risques d’inondations et de glissements de terrain."
+            "Un Palestinien est accusé du meurtre d’un colon en Cisjordanie, déclenchant une vague d’émotion.",
+            "La droite israélienne exige la peine de mort pour l’assassin, en pleine campagne électorale.",
+            "1"
           ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/22/au-japon-le-typhon-dujuan-fait-au-moins-deux-morts-dans-la-region-de-tokyo_6779790_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Tensions USA-Royaume-Uni : la relation spéciale fragilisée par Donald Trump",
-          "bullets": [
-            "La première rencontre entre Donald Trump et le nouveau Premier ministre britannique, Andy Burnham, marque une période d’incertitude pour la relation transatlantique.",
-            "Les désaccords sur la politique étrangère, notamment en matière de défense et de commerce, pourraient affaiblir la coopération historique entre les deux pays.",
-            "Les États-Unis et le Royaume-Uni doivent trouver un équilibre pour maintenir leur alliance malgré les divergences politiques.",
-            "Cette relation, souvent qualifiée de « spéciale », est aujourd’hui mise à l’épreuve par les priorités divergentes."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/22/entre-les-etats-unis-et-le-royaume-uni-une-relation-speciale-malmenee-par-donald-trump_6779787_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Macron et Trump débattent à New York : Ukraine et prix de l’énergie au cœur des discussions",
-          "bullets": [
-            "Emmanuel Macron et Donald Trump ont échangé sur la situation en Ukraine et la flambée des prix de l’énergie lors d’un entretien à New York.",
-            "Le président français a présenté des initiatives pour stabiliser les prix du pétrole, notamment un moratoire sur les nouveaux projets d’exploration.",
-            "Les deux dirigeants ont abordé les tensions géopolitiques et les risques d’escalade dans la région.",
-            "Cette rencontre s’inscrit dans un contexte de tensions accrues entre les États-Unis et la Russie."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/22/a-new-york-emmanuel-macron-et-donald-trump-debattent-de-l-ukraine-et-de-la-flambee-de-l-or-noir_6779749_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Yémen : frappes saoudiennes sur Moka font six morts selon les Houthis",
-          "bullets": [
-            "L’Arabie saoudite a mené des frappes aériennes sur la ville de Moka, contrôlée par les Houthis, faisant six morts selon les miliciens.",
-            "Ces frappes s’inscrivent dans le cadre de la guerre civile yéménite et des tensions régionales autour du détroit de Bab al-Mandeb.",
-            "Les Houthis accusent Riyad de violer les accords de cessez-le-feu et d’aggraver la crise humanitaire.",
-            "La communauté internationale appelle à un retour au dialogue pour éviter une escalade supplémentaire."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/22/au-yemen-des-frappes-saoudiennes-sur-moka-font-six-morts-selon-les-houthistes_6779748_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Afrique du Sud : les compagnies de sécurité privées assument un rôle policier croissant",
-          "bullets": [
-            "Dans un pays marqué par une criminalité endémique, près de la moitié des victimes de cambriolages ne signalent pas les faits aux autorités.",
-            "Les compagnies privées de sécurité interviennent de plus en plus dans la prévention et la répression des infractions.",
-            "Cette situation soulève des questions sur l’efficacité et la légitimité de ces acteurs face à l’État.",
-            "Les autorités sud-africaines peinent à répondre à la demande croissante de sécurité dans les quartiers les plus touchés."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html"
-            }
-          ]
+          "sources": []
         }
       ]
+    },
+    {
+      "label": "",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Sport — Pittsburgh Steelers",
@@ -278,7 +177,8 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Los Angeles Rams – New York Giants · 19h30 · beIN SPORTS 3 · rediffusion"
+            "Kansas City Chiefs – Indianapolis Colts · 18h15 · beIN SPORTS 3 · rediffusion",
+            "Los Angeles Rams – New York Giants · 22h00 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
