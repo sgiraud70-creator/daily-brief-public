@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 23 septembre 2026",
+  "date_str": "Jeudi 24 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 3,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Constant, Lin et Line",
+          "title": "Aujourd'hui, on souhaite la fête : Siloé, Silouane, Anatole, Mercedes et Pacifique",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/23/9/2026/23-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/24/9/2026/24-Septembre-2026.html"
             }
           ]
         }
@@ -22,62 +22,66 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Primaire de gauche : Olivier Faure hésite sur sa candidature",
+          "title": "Débat de la primaire à gauche : Gaza et alliance avec LFI au cœur des tensions",
           "bullets": [
-            "Le premier secrétaire du PS, Olivier Faure, ne confirme toujours pas sa participation à la primaire de la gauche.",
-            "Il cherche à se distinguer de son principal rival, Philippe Brun, exclu du PS.",
-            "La campagne électorale s’annonce serrée avec plusieurs candidats en lice.",
-            "Les enjeux idéologiques et stratégiques divisent la gauche française."
+            "Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Emmanuel Maurel et Jérôme Guedj ont débattu pour la première fois sur TF1-LCI.",
+            "La situation à Gaza et la question de l’alliance avec La France Insoumise (LFI) ont dominé les échanges.",
+            "Ségolène Royal a accusé Glucksmann de minimiser le génocide à Gaza, tandis que ce dernier a défendu sa position.",
+            "Les candidats ont divergé sur les propositions économiques et sociales, notamment le triplement du chèque-énergie et le plafonnement des marges sur l’essence."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/23/primaire-a-gauche-la-valse-hesitation-d-olivier-faure_6780618_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/24/primaire-a-gauche-la-situation-a-gaza-et-l-alliance-avec-lfi-electrisent-le-premier-debat-televise_6781332_823448.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/09/23/en-direct-debat-de-la-primaire-a-gauche-les-candidats-debattent-de-la-situation-a-gaza-si-les-mots-sont-importants-il-faut-reconnaitre-le-genocide-rappelle-royal-a-glucksmann_6780940_6205049.html"
             }
           ]
         },
         {
-          "title": "Affaire de violences sexuelles sur mineurs : un intervenant en anglais en garde à vue à Paris",
+          "title": "Hausse d’impôts sur les assurances automobiles en 2027",
           "bullets": [
-            "Un intervenant en anglais, employé par CapEnglish, est en garde à vue pour soupçons de viols et agressions sexuelles sur des enfants de maternelle.",
-            "La société affirme avoir respecté toutes les vérifications lors de son recrutement.",
-            "Les faits remontent à plusieurs mois et concernent des élèves d’une école parisienne.",
-            "Une enquête judiciaire est en cours pour établir les responsabilités."
+            "Le projet de loi de finances 2027 prévoit une surtaxe de 200 millions d’euros sur les contrats d’assurance automobile.",
+            "Cette mesure vise à financer des garanties supplémentaires, notamment une couverture contre les risques d’émeutes.",
+            "Les assureurs anticipent une hausse des tarifs pour les conducteurs, surtout en zones urbaines sensibles.",
+            "Les associations de consommateurs appellent à une meilleure protection des assurés sans alourdir leur budget."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/24/ces-hausses-d-impots-qui-attendent-les-assurances-en-2027_6781328_3234.html"
             }
           ]
         },
         {
-          "title": "Perpignan : la mairie RN expose des statues de la Nativité pour les fêtes de fin d’année",
+          "title": "Rejet des travaux de rénovation de la tour Montparnasse",
           "bullets": [
-            "La municipalité RN de Perpignan souhaite exposer des statues de la Nativité dans l’espace public.",
-            "L’opposition dénonce un acte « contraire à l’universalisme laïc » et un « acte idéologique ».",
-            "La tradition catalane de la « crema » est invoquée pour justifier cette exposition.",
-            "Le débat sur la laïcité et la place de la religion dans l’espace public s’intensifie."
+            "Les copropriétaires de la tour Montparnasse ont bloqué le lancement des travaux de rénovation prévus pour 800 millions d’euros.",
+            "Les désaccords portent sur les coûts, les délais et les impacts sur la vie quotidienne des résidents.",
+            "Le projet, initialement prévu pour moderniser le bâtiment, pourrait être reporté ou modifié.",
+            "Les promoteurs immobiliers estiment que ce blocage pourrait avoir un impact sur d’autres projets similaires en France."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/23/perpignan-la-mairie-rn-veut-exposer-des-statues-de-la-nativite-pour-les-fetes-de-fin-d-annee_6780366_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/24/les-coproprietaires-de-la-tour-montparnasse-a-paris-rejettent-le-lancement-des-travaux-de-renovation_6781124_3234.html"
             }
           ]
         },
         {
-          "title": "Sénatoriales 2026 : qui sont les candidats en lice ?",
+          "title": "Enquête pour messages racistes envers Teddy Riner",
           "bullets": [
-            "178 sièges du Sénat sur 348 seront renouvelés lors des élections du 28 septembre.",
-            "Les listes en présence reflètent les divisions politiques actuelles, entre majorité présidentielle et opposition.",
-            "Les enjeux locaux et les stratégies partisanes dominent cette campagne.",
-            "Les résultats pourraient influencer l’équilibre politique au Sénat."
+            "Le quintuple champion olympique Teddy Riner a été la cible de messages racistes en ligne et sur les médias proches de l’extrême droite.",
+            "Le parquet de Paris a ouvert une enquête pour « provocation à la haine en raison de l’origine » et « discrimination ».",
+            "Riner a dénoncé ces attaques, soulignant leur caractère déstabilisant pour un sportif de haut niveau.",
+            "Les associations antiracistes appellent à une réponse judiciaire ferme contre ces propos."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/23/senatoriales-2026-qui-sont-les-candidats_6780576_4355770.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html"
             }
           ]
         }
@@ -87,40 +91,211 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Assemblée générale de l’ONU : Macron défend le multilatéralisme face à Trump",
+          "title": "Erreur d’Emmanuel Macron à l’ONU sur le Hamas suscite la colère d’Israël",
           "bullets": [
-            "Emmanuel Macron a dénoncé une « paix prétendue » et appelé à rouvrir les voies humanitaires à Gaza.",
-            "Il a réaffirmé la nécessité de renforcer le multilatéralisme face aux tensions géopolitiques.",
-            "Son discours s’oppose à la position isolationniste de Donald Trump.",
-            "La France insiste sur la nécessité d’un « double moratoire » sur les frappes en Russie et en Ukraine."
+            "Lors de son discours à l’Assemblée générale de l’ONU, Emmanuel Macron a affirmé que le Hamas n’avait jamais sévi en Cisjordanie.",
+            "Cette déclaration a été vivement contestée par Israël, qui y voit une minimisation de l’activité terroriste du groupe.",
+            "Le ministère israélien des Affaires étrangères a réagi en dénonçant une « erreur historique » et une « instrumentalisation politique ».",
+            "Cette gaffe diplomatique pourrait affecter les relations franco-israéliennes et la position de la France au sein des négociations internationales."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/23/a-l-assemblee-generale-de-l-onu-emmanuel-macron-prend-le-contrepied-de-donald-trump_6780583_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/09/24/a-l-assemblee-generale-de-l-onu-l-erreur-d-emmanuel-macron-sur-le-hamas-et-la-colere-d-israel_6781327_3210.html"
             }
           ]
         },
         {
-          "title": "En Cisjordanie, la droite israélienne réclame la peine de mort pour un Palestinien accusé de meurtre",
+          "title": "Prise du détroit de Bab Al-Mandab par les Houthis : un tournant géopolitique au Yémen",
           "bullets": [
-            "Un Palestinien est accusé du meurtre d’un colon en Cisjordanie, déclenchant une vague d’émotion.",
-            "La droite israélienne exige la peine de mort pour l’assassin, en pleine campagne électorale.",
-            "1"
+            "Les Houthis ont pris le contrôle du détroit stratégique de Bab Al-Mandab, à l’extrémité sud de la mer Rouge.",
+            "Cette prise renforce la position de l’Iran dans la région et complique les routes maritimes vers le canal de Suez.",
+            "Les États-Unis et l’Arabie saoudite ont réagi en renforçant leurs patrouilles militaires dans la zone.",
+            "La communauté internationale craint une escalade des tensions et une perturbation majeure du commerce mondial."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/podcasts/article/2026/09/24/yemen-la-prise-du-detroit-de-bab-al-mandab-un-tournant-dans-la-guerre_6781326_5463015.html"
+            }
+          ]
+        },
+        {
+          "title": "Volodymyr Zelensky défend ses frappes contre la Russie à l’ONU",
+          "bullets": [
+            "Le président ukrainien a exclu tout moratoire sur les frappes contre les infrastructures russes lors de son discours à l’ONU.",
+            "Zelensky a justifié ces attaques par la nécessité de « ne pas mourir » face à l’avancée militaire russe.",
+            "La Russie a dénoncé ces frappes comme une violation du droit international et une provocation.",
+            "Les négociations de paix restent bloquées, avec une escalade des tensions en cours."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/09/24/a-l-assemblee-generale-de-l-onu-volodymyr-zelensky-defend-ses-frappes-visant-la-russie-pour-ne-pas-mourir_6781330_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Mémoires de Narges Mohammadi : un périple périlleux de l’Iran aux librairies françaises",
+          "bullets": [
+            "Narges Mohammadi, Prix Nobel de la paix et opposante iranienne, a rédigé ses mémoires en prison.",
+            "Son livre, initialement interdit en Iran, est désormais disponible en France après un long périple.",
+            "Mohammadi y décrit les conditions de détention et la répression politique en Iran.",
+            "Les librairies françaises ont accueilli son ouvrage avec enthousiasme, soulignant son importance pour la liberté d’expression."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/24/des-prisons-iraniennes-aux-librairies-francaises-le-perilleux-periple-des-memoires-de-la-prix-nobel-narges-mohammadi_6781324_4500055.html"
+            }
+          ]
+        },
+        {
+          "title": "Frappe nocturne sur Kiev : au moins deux morts dans une série d’attaques russes",
+          "bullets": [
+            "Des frappes nocturnes russes ont visé Kiev, faisant au moins deux morts et plusieurs blessés.",
+            "Le ministère russe des Affaires étrangères a nié toute intention de trêve dans la guerre en Ukraine.",
+            "L’Ukraine accuse la Russie de cibler délibérément les infrastructures civiles pour semer la terreur.",
+            "L’ONU a appelé à une enquête internationale sur ces attaques, soulignant leur caractère disproportionné."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-serie-de-frappes-nocturnes-sur-kiev_6777944_3210.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [
+        {
+          "title": "Deux frères jugés pour viols sur mineurs reconnaissent partiellement les faits",
+          "bullets": [
+            "Deux frères sont accusés d’avoir commis entre 300 et 600 viols sur mineurs dans le Grand Est.",
+            "Lors de leur interrogatoire, ils ont reconnu partiellement les faits, sans préciser le nombre exact de victimes.",
+            "Les victimes, majoritairement des adolescentes, ont témoigné devant les juges.",
+            "Le procès, qui s’annonce long et complexe, pourrait avoir lieu en 2027."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Incendie dans un TER entre Vesoul et Belfort : 46 passagers évacués",
+          "bullets": [
+            "Un départ de feu a été signalé dans un TER sur la ligne Vesoul-Belfort, entraînant l’évacuation de 50 passagers.",
+            "La circulation a été coupée sur la ligne pendant plusieurs heures en raison des mesures de sécurité.",
+            "Les causes de l’incendie sont encore en cours d’enquête par les autorités ferroviaires.",
+            "La SNCF a annoncé des mesures renforcées de sécurité sur les trains de la région."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "Meta Muse : l’agent IA orienté voyage suscite des critiques",
+          "bullets": [
+            "Meta a lancé Muse, un agent IA conçu pour aider les utilisateurs dans leurs voyages et achats.",
+            "Les premières critiques soulignent des problèmes de confidentialité et de transparence des données collectées.",
+            "Certains utilisateurs rapportent des erreurs dans les recommandations et des comportements imprévisibles.",
+            "Meta assure travailler sur des améliorations pour répondre aux préoccupations des utilisateurs."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Apple Watch Ultra 4 : une montre connectée performante mais limitée en coaching sportif",
+          "bullets": [
+            "L’Apple Watch Ultra 4, commercialisée à 899 euros, se distingue par ses performances et ses nouvelles fonctionnalités.",
+            "Les utilisateurs saluent sa rapidité et ses capteurs avancés, notamment pour le suivi sportif.",
+            "Cependant, le coaching sportif est jugé trop basique et peu personnalisé par rapport à la concurrence.",
+            "Les développeurs d’applications tierces soulignent également des limitations dans l’intégration des fonctionnalités."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2338657-deux-semaines-avec-lapple-watch-ultra-4-rapide-comme-leclair-mais-le-coaching-sportif-reste-trop-leger.html"
+            }
+          ]
+        },
+        {
+          "title": "YouTube autorise désormais trois versions différentes d’une même vidéo",
+          "bullets": [
+            "YouTube a introduit une nouvelle fonctionnalité permettant aux créateurs de publier trois versions distinctes d’une même vidéo.",
+            "Cette option vise à répondre aux besoins variés des spectateurs (sous-titres, durée, contenu adapté).",
+            "Les créateurs peuvent maintenant tester différentes versions pour optimiser leur engagement et leur monétisation.",
+            "Les algorithmes de YouTube analysent les préférences des utilisateurs pour recommander les versions les plus pertinentes."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2338619-gros-changement-sur-youtube-une-chaine-va-pouvoir-publier-3-versions-differentes-dune-meme-video.html"
+            }
+          ]
+        }
+      ]
     },
     {
-      "label": "",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Préparation aux prélèvements bancaires pour impôts : vérifiez vos comptes",
+          "bullets": [
+            "Le Fisc pourrait prélever directement sur les comptes bancaires des contribuables pour régler des dettes fiscales.",
+            "Cette mesure vise à récupérer des impôts impayés ou des redressements non réglés à temps.",
+            "Les banques sont tenues de coopérer et de bloquer les comptes en cas de non-paiement.",
+            "Les contribuables sont invités à vérifier leurs comptes et régulariser leur situation pour éviter tout blocage."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaques sentimentales facilitées par l’IA",
+          "bullets": [
+            "Les arnaques sentimentales se multiplient grâce à l’utilisation de l’intelligence artificielle pour créer des profils trompeurs.",
+            "Les escrocs utilisent des photos et des voix générées par IA pour établir des relations de confiance avec leurs victimes.",
+            "Les plateformes de rencontre et les réseaux sociaux peinent à détecter ces profils frauduleux.",
+            "Les autorités appellent à la vigilance et conseillent de vérifier systématiquement l’identité des interlocuteurs en ligne."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Propositions des candidats de la primaire à gauche : mesures phares",
+          "bullets": [
+            "Les candidats à la primaire de la gauche ont présenté leurs propositions économiques et sociales lors du débat.",
+            "Parmi les mesures phares : triplement du chèque-énergie, plafonnement des marges sur l’essence à 1,70 euro par litre.",
+            "D’autres propositions incluent une hausse du SMIC et des investissements massifs dans les transports en commun.",
+            "Les candidats ont également évoqué la nécessité de renforcer les services publics et de lutter contre les inégalités."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Mondiaux de cyclisme sur route : parcours et défis des coureurs",
+          "bullets": [
+            "Les Championnats du monde de cyclisme sur route 2026 débutent avec un parcours exigeant pour les coureurs.",
+            "Le tracé comprend des montées techniques et des descentes rapides, testant la résistance et la technique des athlètes.",
+            "Les favoris, comme Tadej Pogačar et Jonas Vingegaard, devront gérer la fatigue accumulée sur la longue distance.",
+            "Les organisateurs espèrent une compétition intense et spectaculaire, avec des moments de suspense jusqu’au bout."
+          ],
+          "sources": []
+        },
+        {
+          "title": "ASM Basket : l’équipe amateur rappelle son existence en NM3",
+          "bullets": [
+            "L’équipe amateur de basket-ball de l’AS Monaco (ASM) a participé à un tournoi en NM3 pour rappeler sa présence.",
+            "Les joueurs ont démontré leur engagement et leur volonté de progresser malgré les contraintes financières.",
+            "Ce tournoi a permis de renforcer la cohésion d’équipe et de motiver les joueurs pour la saison à venir.",
+            "Les supporters locaux ont montré leur soutien, soulignant l’importance de maintenir une équipe amateur dans la région."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
@@ -166,24 +341,6 @@
             {
               "name": "Wikipédia",
               "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Sport — NFL à la TV aujourd'hui",
-      "sujets": [
-        {
-          "title": "Football américain à la télévision (heures de Paris)",
-          "bullets": [
-            "Kansas City Chiefs – Indianapolis Colts · 18h15 · beIN SPORTS 3 · rediffusion",
-            "Los Angeles Rams – New York Giants · 22h00 · beIN SPORTS 3 · rediffusion"
-          ],
-          "sources": [
-            {
-              "name": "tv-sports.fr",
-              "url": "https://tv-sports.fr/football-americain/nfl"
             }
           ]
         }
