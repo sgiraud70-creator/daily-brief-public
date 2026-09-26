@@ -1,18 +1,18 @@
 {
-  "date_str": "Vendredi 25 septembre 2026",
+  "date_str": "Samedi 26 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Aurélie, Cléophas et Solenne",
+          "title": "Aujourd'hui, on souhaite la fête : Côme, Damien, Eusèbe, Gédéon et Nil",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/25/9/2026/25-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/26/9/2026/26-Septembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,47 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : les candidats s’accordent sur une IA « souveraine » malgré des visions politiques opposées",
+          "title": "Visite du Pape à Paris : le RN exalte les « racines chrétiennes » de la France",
           "bullets": [
-            "Un débat sur l’intelligence artificielle réunira les représentants des candidats à Marseille le 25 septembre.",
-            "Tous les partis s’accordent sur la nécessité d’une IA « souveraine » et indépendante des géants américains.",
-            "Les divergences portent sur l’encadrement juridique et les applications concrètes (sécurité, santé, éducation).",
-            "Ce consensus reflète une volonté de positionnement technologique avant le premier tour prévu en avril 2027."
+            "Marine Le Pen et Jordan Bardella assisteront à la messe du pape François samedi.",
+            "Le Rassemblement National (RN) met en avant un discours sur les « racines chrétiennes » de la France, en contradiction avec la laïcité.",
+            "Cette position s’inscrit dans une montée des conservateurs catholiques en Europe.",
+            "La visite du pape intervient dans un contexte de tensions politiques sur la place de la religion en France."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-une-ia-souveraine-unique-consensus-de-candidats-aux-visions-opposees_6781933_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/26/visite-du-pape-a-paris-au-rn-la-laicite-cede-la-place-a-l-exaltation-des-racines-chretiennes-de-la-france_6783010_823448.html"
             }
           ]
         },
         {
-          "title": "Sénatoriales 2026 : le Sénat en quête d’une nouvelle légitimité avant l’alternance présidentielle",
+          "title": "Sénatoriales 2026 : un scrutin « très serré » dans les Bouches-du-Rhône",
           "bullets": [
-            "Les élections sénatoriales du 27 septembre s’annoncent comme un test pour la chambre haute après deux mandats d’Emmanuel Macron.",
-            "Le Sénat doit clarifier son rôle face à une Assemblée nationale plus influente et à une montée des tensions politiques.",
-            "Les partis cherchent à capitaliser sur des enjeux locaux (finances territoriales, transition écologique).",
-            "Les abstentionnistes pourraient peser lourd dans un scrutin marqué par une faible mobilisation attendue."
+            "Les divisions politiques à droite et à gauche compliquent la dynamique électorale.",
+            "La Métropole Aix-Marseille-Provence et les tensions internes à l’extrême droite perturbent les alliances.",
+            "Les candidats anticipent un scrutin serré, avec des enjeux locaux majeurs.",
+            "Les sénatoriales se dérouleront ce dimanche 27 septembre."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-la-chambre-du-controle-au-defi-de-trouver-sa-place-avant-l-alternance-presidentielle_6781930_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-au-salon-des-maires-des-bouches-du-rhone-les-candidats-s-attendent-a-un-scrutin-tres-serre_6782619_823448.html"
             }
           ]
         },
         {
-          "title": "Polynésie française : autonomistes et indépendantistes unis pour un dialogue avec Paris sur l’avenir institutionnel",
+          "title": "Rationalisation des agences de l’État : Sénat et gouvernement relancent le chantier",
           "bullets": [
-            "L’Assemblée de Polynésie a voté une résolution appelant à une mission d’information des Nations unies sur son statut.",
-            "Les indépendantistes (Tavini Huiraatira) et autonomistes (Tahoeraa Huiraatira) unissent leurs forces pour une négociation avec l’État français.",
-            "La demande porte sur une refonte du statut d’autonomie, incluant une plus grande autonomie fiscale et politique.",
-            "Paris reste réticent à céder du terrain, mais le gouvernement a promis une « écoute attentive » aux revendications."
+            "Le Sénat travaille sur une proposition de loi visant à supprimer plusieurs agences de l’État.",
+            "Le gouvernement soutient cette initiative pour optimiser les dépenses publiques.",
+            "L’examen de la proposition est prévu début 2027.",
+            "Cette réforme s’inscrit dans une volonté de modernisation de l’administration."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/outre-mer/article/2026/09/25/en-polynesie-independantistes-et-autonomistes-s-unissent-pour-demander-l-ouverture-d-un-dialogue-avec-paris-sur-l-avenir-institutionnel-du-territoire_6781860_1840826.html"
-            }
-          ]
-        },
-        {
-          "title": "Crise des carburants : Macron envoie des « moyens militaires » en Arabie saoudite et envisage une baisse des taxes",
-          "bullets": [
-            "Emmanuel Macron annonce l’envoi de « moyens militaires » pour protéger un site stratégique saoudien (Yanbou).",
-            "Le président exclut une rupture des relations avec Riyad mais évoque une « révision » des taxes sur les carburants.",
-            "La flambée des prix s’explique par une baisse de la production pétrolière et des tensions géopolitiques au Moyen-Orient.",
-            "Les syndicats et l’opposition dénoncent une mesure insuffisante face à la colère sociale."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Métropole de Bordeaux : risque de tutelle financière après un endettement record",
-          "bullets": [
-            "La métropole bordelaise affiche un endettement « extrême » avec une dette nette dépassant 1,5 milliard d’euros.",
-            "Le président Thomas Cazenave alerte sur une « croissance démesurée des dépenses » sous la précédente mandature.",
-            "Les collectivités locales pourraient être placées sous tutelle si elles ne respectent pas les règles budgétaires.",
-            "La situation aggrave les tensions entre l’État et les élus locaux sur la gestion des finances publiques."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/25/la-metropole-de-bordeaux-confrontee-a-un-endettement-extreme-avec-risque-de-mise-sous-tutelle-alerte-thomas-cazenave_6781686_3234.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/25/agences-de-l-etat-le-senat-relance-le-chantier-de-la-rationalisation-le-gouvernement-aussi_6782615_823448.html"
             }
           ]
         }
@@ -102,77 +72,62 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Mort d’un homme blessé lors de la tentative d’assassinat contre Donald Trump en 2024",
+          "title": "Guerre en Ukraine : frappe russe à Zaporijia fait deux morts",
           "bullets": [
-            "James Copenhaver, touché au bras et à l’abdomen lors de l’attentat du 13 juillet 2024, est décédé des suites de ses blessures.",
-            "L’incident avait visé Donald Trump, alors blessé à l’oreille, lors d’un meeting à Butler (Pennsylvanie).",
-            "L’enquête sur les circonstances de l’attaque et les motivations du tireur reste en cours.",
-            "Cet événement a relancé les débats sur la sécurité des figures politiques aux États-Unis."
+            "Deux femmes sont décédées dans une frappe russe sur une habitation privée à Zaporijia.",
+            "Plusieurs blessés ont également été recensés dans l’attaque.",
+            "L’administration militaire locale confirme les victimes et dénonce les frappes russes.",
+            "Cette attaque s’inscrit dans un contexte de tensions accrues dans la région."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/25/l-un-des-hommes-touches-lors-de-la-tentative-d-assassinat-contre-donald-trump-en-2024-est-mort-des-suites-de-complications-liees-a-ses-blessures_6781938_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-une-attaque-russe-a-zaporijia-fait-deux-morts-selon-l-administration-militaire-locale_6777944_3210.html"
             }
           ]
         },
         {
-          "title": "L’Estonie mise sur l’IA pour renforcer sa défense face à la menace russe",
+          "title": "Arabie saoudite : envoi de moyens militaires français pour protéger les infrastructures énergétiques",
           "bullets": [
-            "Le pays balte, pionnier en numérique, utilise l’IA pour améliorer sa cybersécurité et sa surveillance frontalière.",
-            "Les systèmes d’IA permettent de détecter les cyberattaques et d’analyser les mouvements militaires russes en temps réel.",
-            "L’Estonie collabore avec l’OTAN pour intégrer ces technologies dans sa stratégie de défense.",
-            "Cette approche vise à compenser sa taille réduite face à la puissance militaire russe."
+            "La France envoie soldats, radars et systèmes de défense pour protéger les infrastructures saoudiennes.",
+            "Ces déploiements interviennent après des attaques houthis contre le royaume.",
+            "La coopération militaire entre Paris et Riyad se renforce dans un contexte de tensions régionales.",
+            "L’objectif est de sécuriser les sites énergétiques face aux menaces persistantes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/25/grace-a-l-ia-l-estonie-espere-compenser-sa-petite-taille-face-a-la-menace-du-geant-russe_6781931_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html"
             }
           ]
         },
         {
-          "title": "Ukraine : la « dronophobie » devient un problème de santé publique",
+          "title": "Arabie saoudite : nouvelles attaques houthises sur Riyad et une ville du sud-ouest",
           "bullets": [
-            "L’usage massif de drones par la Russie provoque des troubles anxieux et des symptômes de stress post-traumatique chez les Ukrainiens.",
-            "Les engins volants ciblent à la fois les zones de combat et les populations civiles, aggravant l’insécurité.",
-            "Les autorités ukrainiennes lancent des campagnes de sensibilisation et de soutien psychologique.",
-            "Ce phénomène illustre les conséquences psychologiques prolongées de la guerre."
+            "Des drones et missiles balistiques ont visé Riyad et une ville abritant une base militaire.",
+            "Les Houthis continuent leurs attaques contre les infrastructures saoudiennes.",
+            "Le royaume subit une escalade des tensions avec les rebelles yéménites.",
+            "Ces frappes s’ajoutent aux précédentes attaques récentes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/25/face-aux-drones-il-est-difficile-de-tenir-le-coup-a-long-terme-la-dronophobie-ce-nouveau-mal-ukrainien_6781859_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html"
             }
           ]
         },
         {
-          "title": "Israël rejette les accusations à l’ONU : « Honte à vous d’inverser victime et agresseur »",
+          "title": "Saoudien Omar Al-Bayoumi : l’« ange gardien » de deux terroristes du 11-Septembre",
           "bullets": [
-            "Benyamin Nétanyahou s’est vivement opposé aux critiques portées contre Israël à l’ONU, les qualifiant d’injustes.",
-            "Le premier ministre israélien a accusé les pays occidentaux de « double standard » dans leur condamnation des actions militaires.",
-            "La résolution critiquant Israël a été adoptée avec une majorité, reflétant une division au sein de la communauté internationale.",
-            "Cette réaction intervient dans un contexte de tensions accrues avant les élections législatives israéliennes."
+            "Omar Al-Bayoumi est accusé d’avoir soutenu deux des principaux terroristes du 11-Septembre.",
+            "Il nie être un extrémiste ou un espion, mais des documents le lient à des réseaux liés à Al-Qaïda.",
+            "Son rôle dans la préparation des attentats est au cœur d’une enquête américaine.",
+            "Cette affaire relance les questions sur les liens entre l’Arabie saoudite et le terrorisme."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/25/a-l-onu-la-replique-de-benyamin-netanyahou-aux-accusations-contre-israel-honte-a-vous-d-inverser-la-victime-et-l-agresseur_6781789_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Donald Trump et Xi Jinping célèbrent une « stabilité stratégique » lors de leur rencontre à la Maison Blanche",
-          "bullets": [
-            "Le président américain a accueilli son homologue chinois dans un cadre solennel, marquant un rapprochement diplomatique.",
-            "Les deux dirigeants ont évoqué la coopération économique et la réduction des tensions dans le détroit de Taïwan.",
-            "Aucun accord concret n’a été annoncé, mais les médias soulignent une volonté de stabiliser les relations bilatérales.",
-            "Cette rencontre intervient dans un contexte de montée des tensions commerciales et technologiques entre les deux pays."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/25/donald-trump-accueille-xi-jinping-en-majeste-a-la-maison-blanche-pour-celebrer-la-stabilite-strategique-entre-les-etats-unis-et-la-chine_6781787_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/26/le-saoudien-omar-al-bayoumi-ange-gardien-de-deux-terroristes-du-11-septembre_6783014_3210.html"
             }
           ]
         }
@@ -180,84 +135,64 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Meta corrige une faille critique dans son assistant IA Muse pour Mac",
+          "title": "Haute-Saône : deux frères condamnés pour viols sur mineurs à 18 et 8 ans de prison",
           "bullets": [
-            "Une faille permettait à un attaquant de prendre le contrôle d’un Mac via l’agent IA Muse.",
-            "Le chercheur Patrick Wardle a révélé cette vulnérabilité, exploitable sans interaction utilisateur.",
-            "Meta a publié une mise à jour urgente pour corriger le problème et éviter des piratages.",
-            "Cette faille illustre les risques croissants liés à l’intégration d’IA dans les systèmes d’exploitation."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2339633-premier-couac-cyber-pour-muse-meta-a-corrige-en-urgence-une-faille-de-son-agent-ia.html"
-            }
-          ]
-        },
-        {
-          "title": "Un agent IA d’OpenAI infiltré dans un système gouvernemental australien",
-          "bullets": [
-            "Un agent IA d’OpenAI a accédé sans autorisation à un site du gouvernement australien.",
-            "Les autorités ont découvert l’intrusion trois mois après l’incident, déclenchant une enquête approfondie.",
-            "Cette faille soulève des questions sur la sécurité des systèmes publics face aux outils d’IA.",
-            "L’Australie a activé une cellule de crise pour évaluer les risques et renforcer les protections."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Muse, l’agent IA de Meta, débarque officiellement sur Mac",
-          "bullets": [
-            "Meta lance Muse sur Mac, son assistant IA conçu pour aider à la productivité et à la gestion des tâches.",
-            "L’outil intègre des fonctionnalités de recherche, de résumé et de génération de contenu.",
-            "Plus de 560 000 utilisateurs avaient déjà testé la version bêta avant sa sortie officielle.",
-            "Cette expansion marque une nouvelle étape dans l’intégration de l’IA dans les écosystèmes grand public."
+            "Les deux frères ont été condamnés pour des viols sur des enfants âgés de 8 à 18 ans.",
+            "La peine prononcée est de 18 ans de réclusion pour l’un et 8 ans de prison ferme pour l’autre.",
+            "Le procès s’est tenu aux assises de Haute-Saône.",
+            "Les victimes, entre 8 et 18 ans, ont été entendues lors de l’enquête."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Impression 3D",
+      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Des chercheurs impriment en 3D un guide pour apprendre à jouer du shakuhachi",
+          "title": "Microsoft Copilot : une refonte autour de trois onglets pour rivaliser avec Claude et ChatGPT",
           "bullets": [
-            "Une équipe de l’Université de Science de Tokyo a conçu un dispositif imprimé en 3D pour aider les débutants en musique.",
-            "Le guide reproduit la relation spatiale entre les lèvres et l’instrument, facilitant l’apprentissage.",
-            "Cette innovation pourrait démocratiser l’accès à des instruments traditionnels comme le shakuhachi.",
-            "L’impression 3D permet une personnalisation et une production à moindre coût."
+            "Microsoft annonce une refonte de son application Copilot avec trois onglets : Home, Code et Autopilot.",
+            "L’objectif est de créer un outil polyvalent pour les tâches quotidiennes, le développement et l’automatisation.",
+            "L’entreprise mise sur l’intégration d’IA avancée pour concurrencer les solutions comme Claude et ChatGPT.",
+            "Cette évolution s’inscrit dans une stratégie globale pour dominer le marché des assistants IA."
           ],
           "sources": [
             {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/impression-3d-instrument-shakuhachi-25092026/"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html"
             }
           ]
         },
         {
-          "title": "1 000 pièces imprimées en 3D habillent un front de mer en Espagne",
+          "title": "Drones terrestres : déminage accéléré en Ukraine lors de la contre-offensive",
           "bullets": [
-            "Le projet Layn, mené par une entreprise espagnole, a transformé un front de mer avec 1 000 éléments imprimés en 3D.",
-            "Ces pièces, conçues pour résister aux intempéries, créent une ambiance esthétique et durable.",
-            "L’impression 3D a permis une production rapide et une personnalisation des motifs.",
-            "Ce projet illustre l’usage croissant de l’impression 3D dans l’aménagement urbain et paysager."
+            "Les drones terrestres ont permis de déminer 30 kilomètres en seulement deux nuits en Ukraine.",
+            "Ces robots sont utilisés pour des missions de déminage, de largage derrière les lignes russes et de logistique.",
+            "Ils jouent un rôle clé dans la contre-offensive ukrainienne dans le nord de la région.",
+            "Cette technologie réduit les risques pour les soldats humains tout en accélérant les opérations."
           ],
           "sources": [
             {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/layn-impression-3d-plage-24092026/"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2340485-30-km-demines-en-deux-nuits-comment-les-drones-terrestres-se-sont-imposes-dans-la-contre-offensive-ukrainienne.html"
+            }
+          ]
+        },
+        {
+          "title": "Couverture 5G en France : la moitié du territoire reste encore à l’écart",
+          "bullets": [
+            "Presque toute la population capte désormais le réseau 5G en France.",
+            "Cependant, la moitié du territoire reste encore sans couverture 5G.",
+            "Le déploiement a fortement progressé ces six dernières années.",
+            "Les zones rurales et certaines régions isolées restent en retard."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2340813-couverture-5g-en-france-presque-tout-le-monde-capte-mais-la-moitie-du-territoire-est-encore-a-lecart.html"
             }
           ]
         }
@@ -267,32 +202,22 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque crypto : des Rolex achetées avec de faux stablecoins",
+          "title": "Logements fantômes sur Booking.com : une nouvelle arnaque en hausse en France",
           "bullets": [
-            "Des escrocs ont utilisé de faux stablecoins pour acheter de vraies montres de luxe, dont des Rolex, auprès de vendeurs mal informés.",
-            "Les victimes ont découvert l’arnaque après avoir reçu des montres volées ou contrefaites.",
-            "Les plateformes d’échange de cryptomonnaies sont pointées du doigt pour leur manque de vigilance.",
-            "Les autorités appellent à une plus grande prudence dans les transactions crypto."
+            "Des annonces de logements inexistants ou non disponibles se multiplient sur la plateforme.",
+            "Les voyageurs sont souvent invités à payer des frais de réservation avant de découvrir l’arnaque.",
+            "Booking.com et les autorités tentent de lutter contre ce phénomène en renforçant les contrôles.",
+            "Les victimes sont parfois confrontées à des difficultés pour récupérer leur argent."
           ],
           "sources": []
         },
         {
-          "title": "Cyberattaque sur la DGFiP : comment contester une fausse déclaration fiscale",
+          "title": "Arnaque au faux RIB : recours et remboursement possibles après un paiement à un escroc",
           "bullets": [
-            "Une cyberattaque a permis à des escrocs de modifier des déclarations fiscales et d’émettre de faux avis.",
-            "Les victimes doivent signaler l’incident à la DGFiP et fournir des preuves pour contester les modifications.",
-            "Les autorités recommandent de vérifier régulièrement ses comptes en ligne et de signaler toute anomalie.",
-            "Les escrocs exploitent souvent la crédulité des victimes en se faisant passer pour des agents officiels."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie 2027 : vers un envoi anticipé dès janvier",
-          "bullets": [
-            "Le gouvernement envisage d’envoyer le chèque énergie dès janvier 2027, contre février habituellement.",
-            "Cette mesure vise à aider les ménages à faire face à la hausse des prix de l’énergie.",
-            "Les bénéficiaires devraient être informés par courrier ou en ligne avant la fin de l’année.",
-            "Cette anticipation pourrait soulager les ménages en début d’année, période souvent coûteuse."
+            "Une entreprise a payé un escroc via un faux RIB et doit payer deux fois.",
+            "Un arrêt de la Cour de cassation du 17 juin 2026 ouvre la voie à des recours pour remboursement.",
+            "Les victimes peuvent demander réparation auprès de leur banque ou via des actions en justice.",
+            "Cette décision encourage les entreprises à vérifier systématiquement les coordonnées bancaires."
           ],
           "sources": []
         }
@@ -302,32 +227,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Mondiaux de cyclisme : sélectionneur espagnol exclu pour excès de vitesse pendant une course",
+          "title": "Championnats du monde de cyclisme féminin : programme et horaires de diffusion",
           "bullets": [
-            "Le sélectionneur des juniors espagnols a été exclu après avoir été contrôlé à plus de 130 km/h en pleine compétition.",
-            "Cette sanction intervient dans un contexte de tensions autour de la sécurité et de l’éthique sportive.",
-            "L’UCI (Union Cycliste Internationale) a réagi en renforçant les contrôles lors des compétitions internationales.",
-            "L’incident soulève des questions sur la gestion des équipes et la discipline en compétition."
+            "Les Championnats du monde de cyclisme féminin se déroulent cette semaine.",
+            "Les épreuves seront diffusées sur plusieurs chaînes, dont France 4 et Eurosport.",
+            "Les horaires et les parcours des compétitions sont disponibles sur le site officiel.",
+            "Les fans peuvent suivre les performances des athlètes en direct."
           ],
           "sources": []
         },
         {
-          "title": "Japon bat la Chine en finale des Jeux Asiatiques : fin d’une série de 36 ans",
+          "title": "Championnats du monde 2027 en Haute-Savoie : parcours dévoilés avec 5 700 mètres de dénivelé",
           "bullets": [
-            "Le Japon a remporté la finale par équipes devant la Chine, mettant fin à une série de victoires chinoises remontant à 1990.",
-            "Cette victoire marque un tournant dans les compétitions asiatiques, notamment dans le domaine sportif.",
-            "Les deux nations dominent traditionnellement les Jeux Asiatiques, mais le Japon renforce sa position.",
-            "L’événement a attiré l’attention sur les performances sportives et les enjeux géopolitiques en Asie."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Cyclisme : consultation de l’UCI sur la sécurité et l’équité financière du sport",
-          "bullets": [
-            "L’UCI a lancé une consultation pour améliorer la sécurité, l’équité financière et le calendrier des courses cyclistes.",
-            "Les participants ont exprimé leur soutien à une meilleure régulation des droits commerciaux et médiatiques.",
-            "Cette initiative vise à moderniser le cyclisme professionnel et à attirer davantage de sponsors.",
-            "Les retours des coureurs, équipes et organisateurs seront analysés avant la mise en place de réformes."
+            "Les parcours des Championnats du monde 2027 en Haute-Savoie ont été dévoilés.",
+            "Les épreuves incluent des dénivelés importants, jusqu’à 5 700 mètres.",
+            "Les organisateurs ont choisi des sites emblématiques autour du lac d’Annecy.",
+            "Les athlètes devront affronter des défis techniques et physiques."
           ],
           "sources": []
         }
@@ -388,7 +303,7 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Green Bay Packers – Atlanta Falcons · 23h00 · beIN SPORTS 1 · rediffusion"
+            "Green Bay Packers – Atlanta Falcons · 20h45 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
