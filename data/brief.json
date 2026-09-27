@@ -1,5 +1,5 @@
 {
-  "date_str": "Samedi 26 septembre 2026",
+  "date_str": "Dimanche 27 septembre 2026",
   "audio_minutes": 11,
   "read_minutes": 6,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Côme, Damien, Eusèbe, Gédéon et Nil",
+          "title": "Aujourd'hui, on souhaite la fête : Vincent et Hiltrude",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/26/9/2026/26-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/27/9/2026/27-Septembre-2026.html"
             }
           ]
         }
@@ -22,47 +22,32 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Visite du Pape à Paris : le RN exalte les « racines chrétiennes » de la France",
+          "title": "Martinique : adoption d’un plan de redressement budgétaire de 69 millions d’euros",
           "bullets": [
-            "Marine Le Pen et Jordan Bardella assisteront à la messe du pape François samedi.",
-            "Le Rassemblement National (RN) met en avant un discours sur les « racines chrétiennes » de la France, en contradiction avec la laïcité.",
-            "Cette position s’inscrit dans une montée des conservateurs catholiques en Europe.",
-            "La visite du pape intervient dans un contexte de tensions politiques sur la place de la religion en France."
+            "La Collectivité territoriale de Martinique adopte un plan de redressement sur deux ans (2027-2028) pour réduire sa dette record.",
+            "Mesures phares : coupes budgétaires, cessions d’actifs publics et nouvelle taxe patronale.",
+            "L’opposition dénonce un « plan d’austérité » inéquitable, touchant principalement les services publics et les ménages.",
+            "Serge Letchimy, président de la Collectivité, justifie cette mesure par une « situation financière critique » nécessitant des réformes structurelles."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/26/visite-du-pape-a-paris-au-rn-la-laicite-cede-la-place-a-l-exaltation-des-racines-chretiennes-de-la-france_6783010_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html"
             }
           ]
         },
         {
-          "title": "Sénatoriales 2026 : un scrutin « très serré » dans les Bouches-du-Rhône",
+          "title": "Annulation d’un hommage aux travailleuses forcées soviétiques en Lorraine",
           "bullets": [
-            "Les divisions politiques à droite et à gauche compliquent la dynamique électorale.",
-            "La Métropole Aix-Marseille-Provence et les tensions internes à l’extrême droite perturbent les alliances.",
-            "Les candidats anticipent un scrutin serré, avec des enjeux locaux majeurs.",
-            "Les sénatoriales se dérouleront ce dimanche 27 septembre."
+            "La mairie de Thil (Meurthe-et-Moselle) a reporté sa cérémonie d’hommage à 37 travailleuses forcées soviétiques, victimes des nazis.",
+            "La décision intervient après des polémiques liées au contexte géopolitique actuel (guerre en Ukraine).",
+            "Les autorités locales évoquent un « manque de consensus » pour organiser l’événement dans les délais prévus.",
+            "L’hommage devait initialement avoir lieu le 26 septembre, mais a été annulé en raison des tensions internationales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-au-salon-des-maires-des-bouches-du-rhone-les-candidats-s-attendent-a-un-scrutin-tres-serre_6782619_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Rationalisation des agences de l’État : Sénat et gouvernement relancent le chantier",
-          "bullets": [
-            "Le Sénat travaille sur une proposition de loi visant à supprimer plusieurs agences de l’État.",
-            "Le gouvernement soutient cette initiative pour optimiser les dépenses publiques.",
-            "L’examen de la proposition est prévu début 2027.",
-            "Cette réforme s’inscrit dans une volonté de modernisation de l’administration."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/25/agences-de-l-etat-le-senat-relance-le-chantier-de-la-rationalisation-le-gouvernement-aussi_6782615_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/09/26/a-thil-en-lorraine-l-hommage-a-37-travailleuses-forcees-sovietiques-victimes-des-nazis-annule-a-cause-du-conflit-russo-ukrainien_6783059_3224.html"
             }
           ]
         }
@@ -72,62 +57,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : frappe russe à Zaporijia fait deux morts",
+          "title": "Attaque russe en Ukraine : au moins un mort dans la région de Zaporijia",
           "bullets": [
-            "Deux femmes sont décédées dans une frappe russe sur une habitation privée à Zaporijia.",
-            "Plusieurs blessés ont également été recensés dans l’attaque.",
-            "L’administration militaire locale confirme les victimes et dénonce les frappes russes.",
-            "Cette attaque s’inscrit dans un contexte de tensions accrues dans la région."
+            "Une attaque russe dans la région de Zaporijia a fait au moins un mort et une blessée, selon les autorités locales.",
+            "Des habitations ont été détruites ou endommagées lors de l’offensive, selon Ivan Fedorov, chef de l’administration régionale.",
+            "Les combats s’intensifient dans cette zone stratégique, contrôlée par les forces russes depuis 2022.",
+            "L’Ukraine accuse la Russie de cibler délibérément les infrastructures civiles pour affaiblir la résistance locale."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-une-attaque-russe-a-zaporijia-fait-deux-morts-selon-l-administration-militaire-locale_6777944_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "Arabie saoudite : envoi de moyens militaires français pour protéger les infrastructures énergétiques",
+          "title": "Tempête majeure aux États-Unis : inondations côtières redoutées dans le Nord-Est",
           "bullets": [
-            "La France envoie soldats, radars et systèmes de défense pour protéger les infrastructures saoudiennes.",
-            "Ces déploiements interviennent après des attaques houthis contre le royaume.",
-            "La coopération militaire entre Paris et Riyad se renforce dans un contexte de tensions régionales.",
-            "L’objectif est de sécuriser les sites énergétiques face aux menaces persistantes."
+            "Une puissante tempête frappe le Nord-Est des États-Unis, avec des « inondations côtières majeures » annoncées.",
+            "Le New Jersey et Long Island sont particulièrement menacés, avec des vents atteignant jusqu’à 120 km/h.",
+            "Les autorités ont lancé des alertes pour évacuations préventives dans les zones vulnérables.",
+            "Cette tempête survient après une série de phénomènes extrêmes en 2026, exacerbés par le réchauffement climatique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html"
             }
           ]
         },
         {
-          "title": "Arabie saoudite : nouvelles attaques houthises sur Riyad et une ville du sud-ouest",
+          "title": "L’ONU adopte une résolution pour corriger les déformations cartographiques de l’Afrique",
           "bullets": [
-            "Des drones et missiles balistiques ont visé Riyad et une ville abritant une base militaire.",
-            "Les Houthis continuent leurs attaques contre les infrastructures saoudiennes.",
-            "Le royaume subit une escalade des tensions avec les rebelles yéménites.",
-            "Ces frappes s’ajoutent aux précédentes attaques récentes."
+            "L’Organisation des Nations unies a adopté une résolution appelant à corriger les déformations de la projection de Mercator.",
+            "Cette projection visuelle sous-représente l’Afrique au profit des régions du Nord, depuis le XVIe siècle.",
+            "La résolution vise à promouvoir une représentation plus équitable des territoires dans les cartes officielles.",
+            "L’Afrique, deuxième continent le plus étendu, est souvent minimisée dans les représentations géographiques traditionnelles."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html"
+              "url": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html"
             }
           ]
         },
         {
-          "title": "Saoudien Omar Al-Bayoumi : l’« ange gardien » de deux terroristes du 11-Septembre",
+          "title": "Documents révélant le financement saoudien d’Al-Qaïda avant le 11-Septembre",
           "bullets": [
-            "Omar Al-Bayoumi est accusé d’avoir soutenu deux des principaux terroristes du 11-Septembre.",
-            "Il nie être un extrémiste ou un espion, mais des documents le lient à des réseaux liés à Al-Qaïda.",
-            "Son rôle dans la préparation des attentats est au cœur d’une enquête américaine.",
-            "Cette affaire relance les questions sur les liens entre l’Arabie saoudite et le terrorisme."
+            "Des archives montrent que des membres du gotha saoudien ont financé Al-Qaïda avant les attentats du 11 septembre 2001.",
+            "Oussama Ben Laden aurait été poussé à l’exil par les autorités saoudiennes après avoir été présenté comme « indésirable ».",
+            "Ces révélations pourraient relancer les débats sur la responsabilité de l’Arabie saoudite dans le terrorisme international.",
+            "Les documents proviennent d’enquêtes américaines et ont été publiés à l’occasion du 25e anniversaire des attentats."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/26/le-saoudien-omar-al-bayoumi-ange-gardien-de-deux-terroristes-du-11-septembre_6783014_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/27/vingt-cinq-ans-apres-le-11-septembre-des-documents-qui-montrent-que-des-membres-du-gotha-saoudien-ont-finance-al-qaida_6783750_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Évacuation d’une poétesse gazaouie en France grâce à une mobilisation citoyenne",
+          "bullets": [
+            "Alaa Al-Qatrawi, poétesse gazaouie, a été évacuée de Gaza vers la Drôme grâce à l’intervention de deux couples locaux.",
+            "Son parcours a débuté à Dieulefit, puis s’est poursuivi à Montélimar, où elle a trouvé refuge.",
+            "Cette opération humanitaire illustre les efforts des citoyens français pour venir en aide aux civils palestiniens.",
+            "La situation humanitaire à Gaza reste critique, avec des milliers de personnes toujours bloquées ou en déplacement forcé."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html"
+            }
+          ]
+        },
+        {
+          "title": "Donald Trump rejette le plan iranien de réouverture du détroit d’Ormuz",
+          "bullets": [
+            "Le président américain Donald Trump a rejeté un plan iranien visant à réouvrir le détroit d’Ormuz, stratégique pour le commerce mondial.",
+            "Téhéran affirme que les sanctions actuelles « méchamment » nuisent à son économie et justifient une réouverture sous conditions.",
+            "Cette décision s’inscrit dans une stratégie plus large de pression sur l’Iran, notamment sur son programme nucléaire.",
+            "Les tensions dans la région du Golfe restent élevées, avec des risques accrus de conflits indirects."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html"
             }
           ]
         }
@@ -135,89 +150,84 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Haute-Saône : deux frères condamnés pour viols sur mineurs à 18 et 8 ans de prison",
-          "bullets": [
-            "Les deux frères ont été condamnés pour des viols sur des enfants âgés de 8 à 18 ans.",
-            "La peine prononcée est de 18 ans de réclusion pour l’un et 8 ans de prison ferme pour l’autre.",
-            "Le procès s’est tenu aux assises de Haute-Saône.",
-            "Les victimes, entre 8 et 18 ans, ont été entendues lors de l’enquête."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Microsoft Copilot : une refonte autour de trois onglets pour rivaliser avec Claude et ChatGPT",
+          "title": "Fort-Dactylo : un jeu gratuit pour apprendre à taper au clavier",
           "bullets": [
-            "Microsoft annonce une refonte de son application Copilot avec trois onglets : Home, Code et Autopilot.",
-            "L’objectif est de créer un outil polyvalent pour les tâches quotidiennes, le développement et l’automatisation.",
-            "L’entreprise mise sur l’intégration d’IA avancée pour concurrencer les solutions comme Claude et ChatGPT.",
-            "Cette évolution s’inscrit dans une stratégie globale pour dominer le marché des assistants IA."
+            "Nicolas Drolo a créé Fort-Dactylo, un jeu gratuit pour aider les enfants dyslexiques à maîtriser la frappe au clavier.",
+            "Le jeu combine destruction de lettres et affrontement de boss pour rendre l’apprentissage ludique.",
+            "Destiné aux enfants de 6 à 12 ans, il s’appuie sur des mécaniques de jeu vidéo pour motiver les utilisateurs.",
+            "Disponible en ligne, il est déjà utilisé dans plusieurs écoles et centres spécialisés."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html"
+              "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html"
             }
           ]
         },
         {
-          "title": "Drones terrestres : déminage accéléré en Ukraine lors de la contre-offensive",
+          "title": "EA Sports lance FC 27 Lite, une version gratuite de son jeu phare",
           "bullets": [
-            "Les drones terrestres ont permis de déminer 30 kilomètres en seulement deux nuits en Ukraine.",
-            "Ces robots sont utilisés pour des missions de déminage, de largage derrière les lignes russes et de logistique.",
-            "Ils jouent un rôle clé dans la contre-offensive ukrainienne dans le nord de la région.",
-            "Cette technologie réduit les risques pour les soldats humains tout en accélérant les opérations."
+            "EA Sports propose pour la première fois une version gratuite de son jeu de football, FC 27 Lite.",
+            "Cette déclinaison « Lite » inclut des fonctionnalités réduites mais permet d’accéder au gameplay complet.",
+            "Le jeu est disponible sur PC et consoles, avec une mise à jour régulière pour améliorer l’expérience.",
+            "Cette initiative vise à élargir l’accès au jeu et à fidéliser une nouvelle audience."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2340485-30-km-demines-en-deux-nuits-comment-les-drones-terrestres-se-sont-imposes-dans-la-contre-offensive-ukrainienne.html"
-            }
-          ]
-        },
-        {
-          "title": "Couverture 5G en France : la moitié du territoire reste encore à l’écart",
-          "bullets": [
-            "Presque toute la population capte désormais le réseau 5G en France.",
-            "Cependant, la moitié du territoire reste encore sans couverture 5G.",
-            "Le déploiement a fortement progressé ces six dernières années.",
-            "Les zones rurales et certaines régions isolées restent en retard."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2340813-couverture-5g-en-france-presque-tout-le-monde-capte-mais-la-moitie-du-territoire-est-encore-a-lecart.html"
+              "url": "https://www.numerama.com/pop-culture/2341117-fc-27-lite-ea-sports-lache-une-version-gratuite-pour-la-premiere-fois-de-son-histoire.html"
             }
           ]
         }
       ]
     },
     {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Logements fantômes sur Booking.com : une nouvelle arnaque en hausse en France",
+          "title": "Engie offre un nouveau coup de pouce aux bénéficiaires du chèque énergie",
           "bullets": [
-            "Des annonces de logements inexistants ou non disponibles se multiplient sur la plateforme.",
-            "Les voyageurs sont souvent invités à payer des frais de réservation avant de découvrir l’arnaque.",
-            "Booking.com et les autorités tentent de lutter contre ce phénomène en renforçant les contrôles.",
-            "Les victimes sont parfois confrontées à des difficultés pour récupérer leur argent."
+            "Engie annonce un nouveau soutien financier pour les ménages éligibles au chèque énergie.",
+            "Cette aide vise à atténuer le coût croissant de l’énergie, notamment pour le chauffage et l’électricité.",
+            "Les bénéficiaires recevront un montant supplémentaire, sans condition supplémentaire de revenus.",
+            "Cette mesure s’inscrit dans un contexte de hausse des prix de l’énergie et de pouvoir d’achat en baisse."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque au faux RIB : recours et remboursement possibles après un paiement à un escroc",
+          "title": "Attention aux arnaques au remboursement de vacances",
           "bullets": [
-            "Une entreprise a payé un escroc via un faux RIB et doit payer deux fois.",
-            "Un arrêt de la Cour de cassation du 17 juin 2026 ouvre la voie à des recours pour remboursement.",
-            "Les victimes peuvent demander réparation auprès de leur banque ou via des actions en justice.",
-            "Cette décision encourage les entreprises à vérifier systématiquement les coordonnées bancaires."
+            "Des escrocs profitent des retours de vacances pour envoyer des faux emails ou SMS promettant des remboursements.",
+            "Les victimes sont invitées à cliquer sur des liens malveillants ou à fournir leurs coordonnées bancaires.",
+            "Les autorités conseillent de vérifier systématiquement l’identité de l’expéditeur avant toute transaction.",
+            "Les plateformes de réservation légitimes ne demandent jamais de paiement pour un remboursement automatique."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Augmentation des impôts en 2027 malgré les promesses gouvernementales",
+          "bullets": [
+            "Malgré les engagements de stabilité budgétaire, les impôts devraient augmenter en 2027 pour les ménages et entreprises.",
+            "Les mesures concernent notamment la fiscalité sur le revenu, les sociétés et les taxes locales.",
+            "Les associations de consommateurs dénoncent une « trahison » des promesses électorales.",
+            "Le gouvernement justifie ces hausses par le besoin de financer les dépenses publiques et les réformes."
           ],
           "sources": []
         }
@@ -227,22 +237,12 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats du monde de cyclisme féminin : programme et horaires de diffusion",
+          "title": "Demi Vollering sacrée championne du monde de cyclisme à Montréal",
           "bullets": [
-            "Les Championnats du monde de cyclisme féminin se déroulent cette semaine.",
-            "Les épreuves seront diffusées sur plusieurs chaînes, dont France 4 et Eurosport.",
-            "Les horaires et les parcours des compétitions sont disponibles sur le site officiel.",
-            "Les fans peuvent suivre les performances des athlètes en direct."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Championnats du monde 2027 en Haute-Savoie : parcours dévoilés avec 5 700 mètres de dénivelé",
-          "bullets": [
-            "Les parcours des Championnats du monde 2027 en Haute-Savoie ont été dévoilés.",
-            "Les épreuves incluent des dénivelés importants, jusqu’à 5 700 mètres.",
-            "Les organisateurs ont choisi des sites emblématiques autour du lac d’Annecy.",
-            "Les athlètes devront affronter des défis techniques et physiques."
+            "La Néerlandaise Demi Vollering remporte son premier titre de championne du monde de cyclisme sur route.",
+            "Elle s’impose lors d’une course intense et spectaculaire à Montréal, devant un public enthousiaste.",
+            "Cette victoire couronne une saison exceptionnelle pour la cycliste, déjà médaillée olympique en 2021.",
+            "Vollering devient une figure majeure du cyclisme féminin, inspirant une nouvelle génération d’athlètes."
           ],
           "sources": []
         }
@@ -303,7 +303,10 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Green Bay Packers – Atlanta Falcons · 20h45 · beIN SPORTS 3 · rediffusion"
+            "Pittsburgh Steelers – Cincinnati Bengals · 19h00 · beIN SPORTS 1 · direct",
+            "San Francisco 49ers – Arizona Cardinals · 22h00 · beIN SPORTS MAX 5 · direct",
+            "Dallas Cowboys – Baltimore Ravens · 22h30 · beIN SPORTS 1 · direct",
+            "Dallas Cowboys – Baltimore Ravens · 22h55 · L&#039;Equipe · direct"
           ],
           "sources": [
             {

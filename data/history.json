@@ -1,59 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html",
-    "title": "Macron alerte les candidats présidentiels sur les risques géopolitiques aggravant la crise des carburants",
-    "rubrique": "France",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/19/pourquoi-emmanuel-macron-insiste-sur-les-risques-d-intensification-de-la-guerre-hybride-russe-en-france_6777145_3210.html",
-    "title": "Macron met en garde contre l’intensification de la guerre hybride russe en France",
-    "rubrique": "France",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/18/en-martinique-le-derapage-des-comptes-de-la-collectivite-territoriale-penalise-la-vie-quotidienne_6776821_823448.html",
-    "title": "Martinique : la dérive financière de la collectivité territoriale pénalise les services publics",
-    "rubrique": "France",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/18/rima-hassan-porte-plainte-contre-le-ministre-laurent-nunez-devant-la-cour-de-justice-de-la-republique-pour-violation-du-secret-de-l-enquete_6776807_823448.html",
-    "title": "Rima Hassan porte plainte contre Laurent Nuñez pour violation du secret de l’enquête",
-    "rubrique": "France",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/09/19/etats-unis-la-deferlante-ia-destabilise-l-administration-trump-avant-la-visite-de-xi-jinping_6777224_3234.html",
-    "title": "États-Unis : erreur d’IA faillit déclencher une frappe contre un navire chinois",
-    "rubrique": "International",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/19/pas-touche-au-kennedy-center-des-milliers-de-personnes-reunies-autour-de-l-institution-culturelle-menacee-de-disparition-par-l-administration-trump_6777227_3210.html",
-    "title": "Kennedy Center : mobilisation massive contre la menace de fermeture par l’administration Trump",
-    "rubrique": "International",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/09/19/steffen-mau-sociologue-en-allemagne-ce-qui-a-ete-concu-pour-proteger-la-democratie-alimente-aujourd-hui-l-extremisme_6777225_3232.html",
-    "title": "Allemagne : les mécanismes démocratiques alimentent l’extrémisme politique",
-    "rubrique": "International",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2335725-sophie-adenot-a-une-peluche-pikachu-dans-liss-et-ce-nest-pas-pour-devenir-la-meilleure-dresseuse.html",
-    "title": "Sophie Adenot emmène une peluche Pikachu dans l’ISS pour une mission scientifique",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2335251-test-de-control-resonant-le-nouveau-chef-doeuvre-de-remedy.html",
-    "title": "Test de *Control Resonant* : un chef-d’œuvre immersif de Remedy Entertainment",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-19"
-  },
-  {
     "url": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
     "title": "Macron réaffirme la souveraineté française sur Saint-Pierre-et-Miquelon face aux ambitions de Trump",
     "rubrique": "France",
@@ -550,5 +496,65 @@
     "title": "Couverture 5G en France : la moitié du territoire reste encore à l’écart",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html",
+    "title": "Martinique : adoption d’un plan de redressement budgétaire de 69 millions d’euros",
+    "rubrique": "France",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/09/26/a-thil-en-lorraine-l-hommage-a-37-travailleuses-forcees-sovietiques-victimes-des-nazis-annule-a-cause-du-conflit-russo-ukrainien_6783059_3224.html",
+    "title": "Annulation d’un hommage aux travailleuses forcées soviétiques en Lorraine",
+    "rubrique": "France",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html",
+    "title": "Attaque russe en Ukraine : au moins un mort dans la région de Zaporijia",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html",
+    "title": "Tempête majeure aux États-Unis : inondations côtières redoutées dans le Nord-Est",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html",
+    "title": "L’ONU adopte une résolution pour corriger les déformations cartographiques de l’Afrique",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/27/vingt-cinq-ans-apres-le-11-septembre-des-documents-qui-montrent-que-des-membres-du-gotha-saoudien-ont-finance-al-qaida_6783750_3210.html",
+    "title": "Documents révélant le financement saoudien d’Al-Qaïda avant le 11-Septembre",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html",
+    "title": "Évacuation d’une poétesse gazaouie en France grâce à une mobilisation citoyenne",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
+    "title": "Donald Trump rejette le plan iranien de réouverture du détroit d’Ormuz",
+    "rubrique": "International",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html",
+    "title": "Fort-Dactylo : un jeu gratuit pour apprendre à taper au clavier",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2341117-fc-27-lite-ea-sports-lache-une-version-gratuite-pour-la-premiere-fois-de-son-histoire.html",
+    "title": "EA Sports lance FC 27 Lite, une version gratuite de son jeu phare",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-09-27"
   }
 ]
