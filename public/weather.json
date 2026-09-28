@@ -1,78 +1,78 @@
 {
   "current": {
-    "temp": 10,
-    "feels": 10,
+    "temp": 15,
+    "feels": 15,
     "code": 2,
     "is_night": true,
-    "tmax": 30,
-    "tmin": 10,
-    "precip_prob": 0,
-    "wind": 16
+    "tmax": 28,
+    "tmin": 14,
+    "precip_prob": 5,
+    "wind": 13
   },
   "steps": [
     {
       "hh": "07h",
       "code": 2,
       "is_night": false,
-      "temp": 10,
-      "precip": 0.0,
-      "wind": 0
-    },
-    {
-      "hh": "09h",
-      "code": 1,
-      "is_night": false,
-      "temp": 12,
+      "temp": 15,
       "precip": 0.0,
       "wind": 2
     },
     {
-      "hh": "11h",
-      "code": 0,
+      "hh": "09h",
+      "code": 3,
       "is_night": false,
-      "temp": 21,
+      "temp": 16,
+      "precip": 0.0,
+      "wind": 1
+    },
+    {
+      "hh": "11h",
+      "code": 3,
+      "is_night": false,
+      "temp": 23,
+      "precip": 0.0,
+      "wind": 10
+    },
+    {
+      "hh": "13h",
+      "code": 2,
+      "is_night": false,
+      "temp": 27,
+      "precip": 0.0,
+      "wind": 12
+    },
+    {
+      "hh": "15h",
+      "code": 3,
+      "is_night": false,
+      "temp": 28,
+      "precip": 0.0,
+      "wind": 10
+    },
+    {
+      "hh": "17h",
+      "code": 3,
+      "is_night": false,
+      "temp": 28,
+      "precip": 0.0,
+      "wind": 8
+    },
+    {
+      "hh": "19h",
+      "code": 3,
+      "is_night": false,
+      "temp": 25,
       "precip": 0.0,
       "wind": 5
     },
     {
-      "hh": "13h",
-      "code": 0,
-      "is_night": false,
-      "temp": 27,
-      "precip": 0.0,
-      "wind": 14
-    },
-    {
-      "hh": "15h",
-      "code": 0,
-      "is_night": false,
-      "temp": 29,
-      "precip": 0.0,
-      "wind": 16
-    },
-    {
-      "hh": "17h",
-      "code": 1,
-      "is_night": false,
-      "temp": 29,
-      "precip": 0.0,
-      "wind": 13
-    },
-    {
-      "hh": "19h",
-      "code": 1,
-      "is_night": false,
-      "temp": 26,
-      "precip": 0.0,
-      "wind": 6
-    },
-    {
       "hh": "21h",
-      "code": 2,
+      "code": 3,
       "is_night": true,
       "temp": 21,
       "precip": 0.0,
-      "wind": 3
+      "wind": 2
     },
     {
       "hh": "23h",
@@ -85,40 +85,40 @@
   ],
   "days": [
     {
-      "name": "Lun",
-      "code": 3,
-      "tmax": 29,
-      "tmin": 15
-    },
-    {
       "name": "Mar",
       "code": 3,
-      "tmax": 27,
-      "tmin": 18
+      "tmax": 28,
+      "tmin": 14
     },
     {
       "name": "Mer",
       "code": 61,
-      "tmax": 25,
-      "tmin": 18
-    },
-    {
-      "name": "Jeu",
-      "code": 61,
-      "tmax": 19,
+      "tmax": 22,
       "tmin": 16
     },
     {
+      "name": "Jeu",
+      "code": 80,
+      "tmax": 18,
+      "tmin": 14
+    },
+    {
       "name": "Ven",
-      "code": 2,
-      "tmax": 21,
-      "tmin": 13
+      "code": 45,
+      "tmax": 22,
+      "tmin": 12
     },
     {
       "name": "Sam",
-      "code": 3,
-      "tmax": 24,
-      "tmin": 13
+      "code": 45,
+      "tmax": 23,
+      "tmin": 12
+    },
+    {
+      "name": "Dim",
+      "code": 45,
+      "tmax": 23,
+      "tmin": 10
     }
   ],
   "source": "Open-Meteo",

@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
-    "title": "Macron réaffirme la souveraineté française sur Saint-Pierre-et-Miquelon face aux ambitions de Trump",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
-    "title": "Macron réaffirme la souveraineté française sur Saint-Pierre-et-Miquelon face aux ambitions de Trump",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-nicolas-dupont-aignan-candidat-pour-la-quatrieme-fois_6777845_823448.html",
-    "title": "Présidentielle 2027 : Nicolas Dupont-Aignan annonce sa candidature pour un quatrième mandat",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/19/logement-le-gouvernement-annonce-vouloir-geler-les-apl-en-2027_6777834_823448.html",
-    "title": "Gel des APL annoncé pour 2027 : le gouvernement limite les aides au logement",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html",
-    "title": "Festival du Monde : la place des femmes dans la statuaire parisienne questionnée",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/09/19/a-l-assemblee-citoyenne-lancee-par-jean-marc-jancovici-ce-n-est-pas-si-souvent-qu-on-a-l-occasion-de-faire-entendre-nos-idees_6777828_3244.html",
-    "title": "Assemblée citoyenne sur la transition écologique : 156 citoyens tirés au sort pour proposer des solutions",
-    "rubrique": "France",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/20/en-asie-l-imprevisibilite-de-donald-trump-pousse-ses-allies-a-repenser-leur-securite_6778054_3210.html",
-    "title": "L’imprévisibilité de Trump pousse les alliés asiatiques à repenser leur stratégie de sécurité",
-    "rubrique": "International",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/20/a-gaza-les-femmes-seules-desormais-responsables-de-la-survie-de-leur-famille-des-gens-etaient-tues-en-chemin-mais-il-fallait-que-j-avance-pour-trouver-a-manger-pour-les-enfants_6778046_3210.html",
-    "title": "Gaza : les femmes seules deviennent les piliers de la survie familiale sous les bombardements",
-    "rubrique": "International",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-trois-morts-dont-deux-enfants-de-2-ans-et-3-ans-dans-une-frappe-russe-pres-de-kiev_6777944_3210.html",
-    "title": "Ukraine : attaque massive de drones sur Moscou fait au moins deux morts",
-    "rubrique": "International",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/09/20/l-australie-se-demande-comment-sauver-ses-forets-d-eucalyptus-ancestrales-nous-devons-absolument-arreter-d-y-toucher_6778050_3244.html",
-    "title": "Australie : urgence écologique pour sauver les forêts de jarrah ancestrales",
-    "rubrique": "International",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/culture/article/2026/09/20/ed-sheeran-reconnait-avoir-commis-des-erreurs-lors-du-premier-concert-donne-depuis-l-eviction-de-sa-tournee-du-rappeur-propalestinien-macklemore_6778049_3246.html",
-    "title": "Ed Sheeran s’excuse pour ses erreurs lors de concerts après l’éviction de Macklemore",
-    "rubrique": "International",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
-    "title": "Les « AI doomers » : un courant de pensée prônant l’apocalypse technologique via l’IA",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html",
-    "title": "OpenAI : un agent IA s’invente un personnage libre et contourne ses garde-fous",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2336405-midea-revoit-son-climatiseur-portasplit-pour-2027-nouveau-gaz-refrigerant-et-compatibilite-matter.html",
-    "title": "Midea réaménage son climatiseur PortaSplit pour 2027 : compatibilité Matter et gaz réfrigérant amélioré",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2335725-pourquoi-pikachu-a-voyage-dans-liss-avec-sophie-adenot-et-ce-que-ca-change-pour-les-fans-de-pokemon.html",
-    "title": "Pikachu voyage dans l’ISS : partenariat entre Pokémon et l’Agence spatiale européenne",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-20"
-  },
-  {
     "url": "https://www.lemonde.fr/culture/article/2026/09/21/populaire-toutes-nos-histoires-la-riposte-de-la-seine-saint-denis-a-la-bataille-culturelle-menee-par-la-droite-identitaire_6778692_3246.html",
     "title": "Seine-Saint-Denis : trois spectacles historiques lancés pour contrer la droite identitaire",
     "rubrique": "France",
@@ -556,5 +466,119 @@
     "title": "EA Sports lance FC 27 Lite, une version gratuite de son jeu phare",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-en-formant-un-groupe-pour-la-premiere-fois-le-rassemblement-national-conforte-son-recit-de-marche-vers-le-pouvoir_6784663_823448.html",
+    "title": "Sénatoriales 2026 : le Rassemblement National obtient un groupe au Sénat",
+    "rubrique": "France",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-les-republicains-limitent-les-degats-et-minimisent-l-arrivee-historique-d-un-groupe-d-extreme-droite_6784629_823448.html",
+    "title": "Les Républicains limitent les dégâts aux sénatoriales",
+    "rubrique": "France",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-la-gauche-resiste-lfi-fait-son-entree-mais-les-divisions-persistent_6784664_823448.html",
+    "title": "La gauche résiste aux sénatoriales, LFI entre au Sénat",
+    "rubrique": "France",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html",
+    "title": "Visite du pape François à Metz : Emmanuel Macron présent à la messe",
+    "rubrique": "France",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/27/senatoriales-2026-la-nouvelle-composition-du-senat-en-graphiques_6784562_4355770.html",
+    "title": "Nouvelle composition du Sénat : graphiques et enjeux territoriaux",
+    "rubrique": "France",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/28/israel-annonce-avoir-tue-dans-la-bande-de-gaza-le-ravisseur-d-un-couple-d-otages-du-7-octobre_6784799_3210.html",
+    "title": "Israël annonce la mort du ravisseur d’un couple d’otages du 7-Octobre dans la bande de Gaza",
+    "rubrique": "International",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/09/28/en-direct-guerre-en-ukraine-seoul-exige-des-excuses-de-kiev-pour-avoir-rendu-publique-la-detention-de-prisonniers-de-guerre-nord-coreens_6783795_3210.html",
+    "title": "Tensions accrues en Corée du Nord : Séoul exige des excuses de Kiev pour la détention de prisonniers",
+    "rubrique": "International",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html",
+    "title": "Élections au Brésil : Rio de Janeiro sous la menace du crime organisé",
+    "rubrique": "International",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/09/28/les-ambiguites-de-l-etat-saoudien-face-a-oussama-ben-laden-et-a-al-qaida_6784873_3210.html",
+    "title": "Les ambiguïtés de l’État saoudien face à Al-Qaïda et Ben Laden",
+    "rubrique": "International",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
+    "title": "El Niño : un phénomène climatique aux conséquences mondiales",
+    "rubrique": "International",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDktYkFmYU1MXzVIRXBRbmlmdGhqaXluLURBNkdLZGVkQU1iWkQ4U2gybWQyQ1VsR1ZiUmp2bHcxTE92RWE1djMyNzl0SmlHQmowZDlfT0U4bkFxOG40dmRTaUFRQmlYaERMaGhsN250Wl8yd2N3VlNUaHdzcVBWMkFjYjZiLVYyeHJOQXV2aw?oc=5",
+    "title": "Haute-Saône : deux sénateurs LR élus dès le premier tour",
+    "rubrique": "Actualité locale",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObWtGQ0MtaUN4Sktpa2FGMUFWaWxtV3U0bUNLZzltNHA2aFVIVXN6U2tyUVJrdF9RNVBzMHhtQ21NLXVvR19NNE1leTB3ZTRIUDN5UElmaG9EcXVueDV0U0ZmUEJ1M3RjaVFFbDQ0ek5BcGJKb0dWWjdyRFRsOHJLTWdkWVJUallrbzl2ckRSMjdJV0p2R1J6ZU9EaHlmYW9GVXEwZXFNUkhzWkFpVnlpT042NlhtdFYxT1FmdVNzXzNyYlkwRHEyRFJ4MDQySWI2Q0pLWHJpd01RbHJsZVFYZUN6NFdJa2RhTkxtbmpHdkxBX21SSGhtQ0xvaml1R1FHNE5iQnl0RnlTcFdrNDItUkk3SUs?oc=5",
+    "title": "Arnaque au CPF : plus de 6 millions d’euros détournés dans la région nantaise",
+    "rubrique": "À savoir · vie pratique",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEk3ckJ2V3ZuNmduNzROeVVWQzlpdWlmRkpkYVhhczZOZksyWFJ4RW9vaXQ0bkM3bmp3aVpiQWdBeDJOZktjdDV2WU5LTjZMX0FpMFlmZkxTaFpUem5NcmQ4WElUbDMtWktORmlXZHItQzBsa0NtX1V2R0FKa2ZfVVZVY1dGdDcyUWFEVFNlQTViRjYyT3g0Rg?oc=5",
+    "title": "Prélèvement à la source : paiement unique ou en quatre mensualités ?",
+    "rubrique": "À savoir · vie pratique",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkkyR2diWEdvVDh2cWs0OC1jOUllS1U0TGItZDdTNUtuc01rQTdqbTM3NzlMekIzOGR1clh1SU9IU2ttSkFSYXZ0Nzl2UWZRWkhITVJmNjVjTE9kNGY0R2QzNlFTNGFCdGtQbTFYbGRWTVJGNjB2ZzZVbFRaYXllNDAxZDZCRDJWeGs3UHBCWERxdXMwR21KQUxoSDBwcV9aRWVrVUpoV0E1N1U0aHk5X0E1MG1Bdw?oc=5",
+    "title": "Attention aux arnaques au compteur kilométrique sur les voitures d’occasion",
+    "rubrique": "À savoir · vie pratique",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUTF3Z1RyN2RJWERzN1ZOMjE5ZjMxMFNNX1A5aGg1WnAyVkJOMkZTRUlpbXcxRzBxdTNxX2haamQxbmtnN1M5RTEwQ1JfcmNQbERTQ0pkOFdWUDZSajE1Xy13ZTZTT2pCemlWajdwaWNZdE1hZTFndUtfVTNERnd1QUZYTUxjd1JycUpMU0k3YmpnSjRRTVAta1pVc2R3R0JVRUJWZnVPZDVwWXV5SHFYcGpkbVJFZm9VLXpmSVZfWGVEckRrV3lqRWd0ZnB6dncyM2taaExtYmgxSXN0VkFzaVZNQ3F6WmpLZ0pPV0JheFBvcjljMGtWZWIwYTlkZmNoazVlVUl3ZEs2U0NlQ0FFVFhYUW9oLUFLak5GU3BPWUR3YjNkU1RqcHc0ckVQdktRejFUMi15ckFrWEZVbVk4Mg?oc=5",
+    "title": "Mondiaux de cyclisme 2026 : Brandon McNulty sacré champion du monde à Montréal",
+    "rubrique": "Sport général",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjlUY3JKb1dWWmdCS3A4SGtKUXNuTm5NeTVHcktaY0o0YUtnZHR5QkR3X1NTeXFPRkVoQWlFeUZSMk5TU3k5QUNXSVdIeWVSWDJ2c2IwTzQ1Q29QTkc2cFU5aFpWQzNsd3pRbGF2eWV5aGd0VTNWSkJURjZ0em9hcDJqdk13LXVaLS1ic3BkdjItc3JLd1dGS3Nyc0FxWGtiYTFrUHFZdF9ocjBMc2FwMWtFbzBtdXAxLVlJb0w1eElSMHdyamRTRkRaUQ?oc=5",
+    "title": "Mondiaux de cyclisme : Paul Seixas déçu après une course difficile",
+    "rubrique": "Sport général",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2340811-google-simplifie-la-double-authentification-le-fbi-pirate-par-vengeance-et-lassistant-de-code-de-z-ai-qui-envoyait-vos-projets-en-chine-on-vous-raconte-la-semaine-cyberguerre.html",
+    "title": "Google simplifie la double authentification et autres actualités cybersécurité",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2335099-entretien-avec-arlequin-ai-la-startup-francaise-qui-veut-remplacer-les-llm-la-ou-lerreur-est-interdite.html",
+    "title": "Arlequin AI : vers une nouvelle ère au-delà des modèles de langage",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.3dnatives.com/zetamix-porte-avions-impression-3d-28092026/",
+    "title": "Le porte-avions Charles de Gaulle imprime ses pièces métalliques avec une solution tricolore",
+    "rubrique": "Impression 3D",
+    "date": "2026-09-28"
   }
 ]

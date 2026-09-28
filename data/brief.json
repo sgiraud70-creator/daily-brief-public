@@ -1,5 +1,5 @@
 {
-  "date_str": "Dimanche 27 septembre 2026",
+  "date_str": "Lundi 28 septembre 2026",
   "audio_minutes": 11,
   "read_minutes": 6,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Vincent et Hiltrude",
+          "title": "Aujourd'hui, on souhaite la fête : Venceslas, Loucas et Lucas",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/27/9/2026/27-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/28/9/2026/28-Septembre-2026.html"
             }
           ]
         }
@@ -22,32 +22,73 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Martinique : adoption d’un plan de redressement budgétaire de 69 millions d’euros",
+          "title": "Sénatoriales 2026 : le Rassemblement National obtient un groupe au Sénat",
           "bullets": [
-            "La Collectivité territoriale de Martinique adopte un plan de redressement sur deux ans (2027-2028) pour réduire sa dette record.",
-            "Mesures phares : coupes budgétaires, cessions d’actifs publics et nouvelle taxe patronale.",
-            "L’opposition dénonce un « plan d’austérité » inéquitable, touchant principalement les services publics et les ménages.",
-            "Serge Letchimy, président de la Collectivité, justifie cette mesure par une « situation financière critique » nécessitant des réformes structurelles."
+            "Le RN, avec 14 sénateurs, forme un groupe pour la première fois, renforcé par trois sénateurs UDR.",
+            "Cette victoire confirme son ascension politique et lui ouvre des moyens supplémentaires au Palais du Luxembourg.",
+            "Le groupe RN-UDR devient la troisième force politique du Sénat, derrière Les Républicains et le groupe central.",
+            "Le président du Sénat, Gérard Larcher, maintient une position d’ouverture malgré cette avancée de l’extrême droite."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-en-formant-un-groupe-pour-la-premiere-fois-le-rassemblement-national-conforte-son-recit-de-marche-vers-le-pouvoir_6784663_823448.html"
             }
           ]
         },
         {
-          "title": "Annulation d’un hommage aux travailleuses forcées soviétiques en Lorraine",
+          "title": "Les Républicains limitent les dégâts aux sénatoriales",
           "bullets": [
-            "La mairie de Thil (Meurthe-et-Moselle) a reporté sa cérémonie d’hommage à 37 travailleuses forcées soviétiques, victimes des nazis.",
-            "La décision intervient après des polémiques liées au contexte géopolitique actuel (guerre en Ukraine).",
-            "Les autorités locales évoquent un « manque de consensus » pour organiser l’événement dans les délais prévus.",
-            "L’hommage devait initialement avoir lieu le 26 septembre, mais a été annulé en raison des tensions internationales."
+            "LR conserve sa première place au Sénat mais enregistre une baisse de 5 à 7 sièges.",
+            "Le parti minimise l’impact de l’arrivée historique du groupe RN-UDR.",
+            "Une stratégie de défense des territoires et de modération pour contrer la montée de l’extrême droite."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/26/a-thil-en-lorraine-l-hommage-a-37-travailleuses-forcees-sovietiques-victimes-des-nazis-annule-a-cause-du-conflit-russo-ukrainien_6783059_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-les-republicains-limitent-les-degats-et-minimisent-l-arrivee-historique-d-un-groupe-d-extreme-droite_6784629_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "La gauche résiste aux sénatoriales, LFI entre au Sénat",
+          "bullets": [
+            "Le groupe socialiste et écologiste maintient sa présence au Sénat malgré des pertes.",
+            "La France Insoumise (LFI) fait son entrée avec plusieurs sénateurs élus.",
+            "Persistance des divisions internes à gauche, notamment entre socialistes et insoumis."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-la-gauche-resiste-lfi-fait-son-entree-mais-les-divisions-persistent_6784664_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Visite du pape François à Metz : Emmanuel Macron présent à la messe",
+          "bullets": [
+            "Le président Macron assistera à la messe célébrée par le pape François à la cathédrale Saint-Étienne de Metz.",
+            "Le pape prononcera un discours sur l’Europe et la paix, en présence de dirigeants européens.",
+            "Metz, ville symbole de la réconciliation européenne, espère redorer son image grâce à cet événement."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Nouvelle composition du Sénat : graphiques et enjeux territoriaux",
+          "bullets": [
+            "Le Sénat, souvent décrit comme la chambre des territoires, voit sa composition révélée après le renouvellement.",
+            "Analyse des dynamiques politiques et géographiques post-scrutin.",
+            "Rééquilibrage des forces politiques avec une montée de l’extrême droite et une stabilité relative de la gauche."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/27/senatoriales-2026-la-nouvelle-composition-du-senat-en-graphiques_6784562_4355770.html"
             }
           ]
         }
@@ -57,92 +98,72 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Attaque russe en Ukraine : au moins un mort dans la région de Zaporijia",
+          "title": "Israël annonce la mort du ravisseur d’un couple d’otages du 7-Octobre dans la bande de Gaza",
           "bullets": [
-            "Une attaque russe dans la région de Zaporijia a fait au moins un mort et une blessée, selon les autorités locales.",
-            "Des habitations ont été détruites ou endommagées lors de l’offensive, selon Ivan Fedorov, chef de l’administration régionale.",
-            "Les combats s’intensifient dans cette zone stratégique, contrôlée par les forces russes depuis 2022.",
-            "L’Ukraine accuse la Russie de cibler délibérément les infrastructures civiles pour affaiblir la résistance locale."
+            "Un membre du Hamas, identifié comme responsable de l’enlèvement de Noa Argamani et Avinatan Or, est tué lors d’une opération militaire israélienne.",
+            "Le couple avait été libéré après plusieurs mois de captivité.",
+            "Cette frappe s’inscrit dans la poursuite des opérations militaires israéliennes dans la bande de Gaza."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/28/israel-annonce-avoir-tue-dans-la-bande-de-gaza-le-ravisseur-d-un-couple-d-otages-du-7-octobre_6784799_3210.html"
             }
           ]
         },
         {
-          "title": "Tempête majeure aux États-Unis : inondations côtières redoutées dans le Nord-Est",
+          "title": "Tensions accrues en Corée du Nord : Séoul exige des excuses de Kiev pour la détention de prisonniers",
           "bullets": [
-            "Une puissante tempête frappe le Nord-Est des États-Unis, avec des « inondations côtières majeures » annoncées.",
-            "Le New Jersey et Long Island sont particulièrement menacés, avec des vents atteignant jusqu’à 120 km/h.",
-            "Les autorités ont lancé des alertes pour évacuations préventives dans les zones vulnérables.",
-            "Cette tempête survient après une série de phénomènes extrêmes en 2026, exacerbés par le réchauffement climatique."
+            "Deux soldats nord-coréens, capturés en janvier 2025 en Ukraine, sont détenus par Kiev.",
+            "La Corée du Sud exige des excuses officielles et la libération immédiate des prisonniers.",
+            "Ce conflit s’inscrit dans les tensions géopolitiques autour du soutien militaire de Pyongyang à Moscou."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html"
+              "url": "https://www.lemonde.fr/international/live/2026/09/28/en-direct-guerre-en-ukraine-seoul-exige-des-excuses-de-kiev-pour-avoir-rendu-publique-la-detention-de-prisonniers-de-guerre-nord-coreens_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "L’ONU adopte une résolution pour corriger les déformations cartographiques de l’Afrique",
+          "title": "Élections au Brésil : Rio de Janeiro sous la menace du crime organisé",
           "bullets": [
-            "L’Organisation des Nations unies a adopté une résolution appelant à corriger les déformations de la projection de Mercator.",
-            "Cette projection visuelle sous-représente l’Afrique au profit des régions du Nord, depuis le XVIe siècle.",
-            "La résolution vise à promouvoir une représentation plus équitable des territoires dans les cartes officielles.",
-            "L’Afrique, deuxième continent le plus étendu, est souvent minimisée dans les représentations géographiques traditionnelles."
+            "Violences et intimidations contre les candidats et sympathisants dans plusieurs partis à Rio de Janeiro.",
+            "Le crime organisé influence les résultats électoraux dans certaines zones.",
+            "Scrutin du 4 octobre marqué par une forte insécurité politique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html"
             }
           ]
         },
         {
-          "title": "Documents révélant le financement saoudien d’Al-Qaïda avant le 11-Septembre",
+          "title": "Les ambiguïtés de l’État saoudien face à Al-Qaïda et Ben Laden",
           "bullets": [
-            "Des archives montrent que des membres du gotha saoudien ont financé Al-Qaïda avant les attentats du 11 septembre 2001.",
-            "Oussama Ben Laden aurait été poussé à l’exil par les autorités saoudiennes après avoir été présenté comme « indésirable ».",
-            "Ces révélations pourraient relancer les débats sur la responsabilité de l’Arabie saoudite dans le terrorisme international.",
-            "Les documents proviennent d’enquêtes américaines et ont été publiés à l’occasion du 25e anniversaire des attentats."
+            "Analyse des relations complexes entre Riyad et Al-Qaïda dans les années 1990.",
+            "Révélations sur les liens historiques entre l’Arabie saoudite et les figures extrémistes.",
+            "Implications actuelles sur la politique sécuritaire et religieuse du royaume."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/27/vingt-cinq-ans-apres-le-11-septembre-des-documents-qui-montrent-que-des-membres-du-gotha-saoudien-ont-finance-al-qaida_6783750_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/28/les-ambiguites-de-l-etat-saoudien-face-a-oussama-ben-laden-et-a-al-qaida_6784873_3210.html"
             }
           ]
         },
         {
-          "title": "Évacuation d’une poétesse gazaouie en France grâce à une mobilisation citoyenne",
+          "title": "El Niño : un phénomène climatique aux conséquences mondiales",
           "bullets": [
-            "Alaa Al-Qatrawi, poétesse gazaouie, a été évacuée de Gaza vers la Drôme grâce à l’intervention de deux couples locaux.",
-            "Son parcours a débuté à Dieulefit, puis s’est poursuivi à Montélimar, où elle a trouvé refuge.",
-            "Cette opération humanitaire illustre les efforts des citoyens français pour venir en aide aux civils palestiniens.",
-            "La situation humanitaire à Gaza reste critique, avec des milliers de personnes toujours bloquées ou en déplacement forcé."
+            "Capacité d'El Niño à provoquer des pluies diluviennes et des sécheresses intenses dans plusieurs régions du globe.",
+            "Impact sur les populations et les écosystèmes, avec des risques accrus de catastrophes naturelles.",
+            "Appel à une vigilance accrue face à ce phénomène climatique récurrent."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html"
-            }
-          ]
-        },
-        {
-          "title": "Donald Trump rejette le plan iranien de réouverture du détroit d’Ormuz",
-          "bullets": [
-            "Le président américain Donald Trump a rejeté un plan iranien visant à réouvrir le détroit d’Ormuz, stratégique pour le commerce mondial.",
-            "Téhéran affirme que les sanctions actuelles « méchamment » nuisent à son économie et justifient une réouverture sous conditions.",
-            "Cette décision s’inscrit dans une stratégie plus large de pression sur l’Iran, notamment sur son programme nucléaire.",
-            "Les tensions dans la région du Golfe restent élevées, avec des risques accrus de conflits indirects."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html"
+              "url": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html"
             }
           ]
         }
@@ -150,86 +171,76 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "source indisponible ce matin"
-    },
-    {
-      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Fort-Dactylo : un jeu gratuit pour apprendre à taper au clavier",
+          "title": "Haute-Saône : deux sénateurs LR élus dès le premier tour",
           "bullets": [
-            "Nicolas Drolo a créé Fort-Dactylo, un jeu gratuit pour aider les enfants dyslexiques à maîtriser la frappe au clavier.",
-            "Le jeu combine destruction de lettres et affrontement de boss pour rendre l’apprentissage ludique.",
-            "Destiné aux enfants de 6 à 12 ans, il s’appuie sur des mécaniques de jeu vidéo pour motiver les utilisateurs.",
-            "Disponible en ligne, il est déjà utilisé dans plusieurs écoles et centres spécialisés."
+            "Olivier Rietmann est reconduit dans ses fonctions de sénateur.",
+            "Dimitri Doussot succède à Alain Joyandet, également élu.",
+            "Une victoire nette pour Les Républicains dans ce département de Franche-Comté."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html"
+              "name": "Le Trois",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDktYkFmYU1MXzVIRXBRbmlmdGhqaXluLURBNkdLZGVkQU1iWkQ4U2gybWQyQ1VsR1ZiUmp2bHcxTE92RWE1djMyNzl0SmlHQmowZDlfT0U4bkFxOG40dmRTaUFRQmlYaERMaGhsN250Wl8yd2N3VlNUaHdzcVBWMkFjYjZiLVYyeHJOQXV2aw?oc=5"
             }
           ]
         },
         {
-          "title": "EA Sports lance FC 27 Lite, une version gratuite de son jeu phare",
+          "title": "Incendie majeur dans une sapinière à Confracourt (Haute-Saône)",
           "bullets": [
-            "EA Sports propose pour la première fois une version gratuite de son jeu de football, FC 27 Lite.",
-            "Cette déclinaison « Lite » inclut des fonctionnalités réduites mais permet d’accéder au gameplay complet.",
-            "Le jeu est disponible sur PC et consoles, avec une mise à jour régulière pour améliorer l’expérience.",
-            "Cette initiative vise à élargir l’accès au jeu et à fidéliser une nouvelle audience."
+            "Un feu a détruit une partie d’une sapinière dans cette commune de Haute-Saône.",
+            "Les causes de l’incendie sont encore en cours d’enquête.",
+            "Les pompiers et les autorités locales interviennent pour limiter les dégâts."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2341117-fc-27-lite-ea-sports-lache-une-version-gratuite-pour-la-premiere-fois-de-son-histoire.html"
-            }
-          ]
+          "sources": []
         }
       ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "source indisponible ce matin"
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "source indisponible ce matin"
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Engie offre un nouveau coup de pouce aux bénéficiaires du chèque énergie",
+          "title": "Arnaque au CPF : plus de 6 millions d’euros détournés dans la région nantaise",
           "bullets": [
-            "Engie annonce un nouveau soutien financier pour les ménages éligibles au chèque énergie.",
-            "Cette aide vise à atténuer le coût croissant de l’énergie, notamment pour le chauffage et l’électricité.",
-            "Les bénéficiaires recevront un montant supplémentaire, sans condition supplémentaire de revenus.",
-            "Cette mesure s’inscrit dans un contexte de hausse des prix de l’énergie et de pouvoir d’achat en baisse."
+            "Un réseau est soupçonné d’avoir détourné plus de 6 millions d’euros via des formations frauduleuses.",
+            "Les autorités enquêtent pour identifier les responsables et récupérer les fonds illégalement obtenus.",
+            "Appel à la vigilance des usagers concernant les formations financées par le CPF."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Le Parisien",
+              "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObWtGQ0MtaUN4Sktpa2FGMUFWaWxtV3U0bUNLZzltNHA2aFVIVXN6U2tyUVJrdF9RNVBzMHhtQ21NLXVvR19NNE1leTB3ZTRIUDN5UElmaG9EcXVueDV0U0ZmUEJ1M3RjaVFFbDQ0ek5BcGJKb0dWWjdyRFRsOHJLTWdkWVJUallrbzl2ckRSMjdJV0p2R1J6ZU9EaHlmYW9GVXEwZXFNUkhzWkFpVnlpT042NlhtdFYxT1FmdVNzXzNyYlkwRHEyRFJ4MDQySWI2Q0pLWHJpd01RbHJsZVFYZUN6NFdJa2RhTkxtbmpHdkxBX21SSGhtQ0xvaml1R1FHNE5iQnl0RnlTcFdrNDItUkk3SUs?oc=5"
+            }
+          ]
         },
         {
-          "title": "Attention aux arnaques au remboursement de vacances",
+          "title": "Prélèvement à la source : paiement unique ou en quatre mensualités ?",
           "bullets": [
-            "Des escrocs profitent des retours de vacances pour envoyer des faux emails ou SMS promettant des remboursements.",
-            "Les victimes sont invitées à cliquer sur des liens malveillants ou à fournir leurs coordonnées bancaires.",
-            "Les autorités conseillent de vérifier systématiquement l’identité de l’expéditeur avant toute transaction.",
-            "Les plateformes de réservation légitimes ne demandent jamais de paiement pour un remboursement automatique."
+            "Options disponibles pour le paiement des impôts sur le revenu en 2027.",
+            "Comparaison entre un prélèvement unique et un étalement en quatre mensualités.",
+            "Conseils pour optimiser le choix en fonction de sa situation financière."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "LégiFiscal",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEk3ckJ2V3ZuNmduNzROeVVWQzlpdWlmRkpkYVhhczZOZksyWFJ4RW9vaXQ0bkM3bmp3aVpiQWdBeDJOZktjdDV2WU5LTjZMX0FpMFlmZkxTaFpUem5NcmQ4WElUbDMtWktORmlXZHItQzBsa0NtX1V2R0FKa2ZfVVZVY1dGdDcyUWFEVFNlQTViRjYyT3g0Rg?oc=5"
+            }
+          ]
         },
         {
-          "title": "Augmentation des impôts en 2027 malgré les promesses gouvernementales",
+          "title": "Attention aux arnaques au compteur kilométrique sur les voitures d’occasion",
           "bullets": [
-            "Malgré les engagements de stabilité budgétaire, les impôts devraient augmenter en 2027 pour les ménages et entreprises.",
-            "Les mesures concernent notamment la fiscalité sur le revenu, les sociétés et les taxes locales.",
-            "Les associations de consommateurs dénoncent une « trahison » des promesses électorales.",
-            "Le gouvernement justifie ces hausses par le besoin de financer les dépenses publiques et les réformes."
+            "Méthodes frauduleuses pour truquer les compteurs kilométriques.",
+            "Risques pour les acheteurs et conseils pour éviter ces arnaques.",
+            "Importance de vérifier l’historique du véhicule avant achat."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Radio VINCI Autoroutes",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkkyR2diWEdvVDh2cWs0OC1jOUllS1U0TGItZDdTNUtuc01rQTdqbTM3NzlMekIzOGR1clh1SU9IU2ttSkFSYXZ0Nzl2UWZRWkhITVJmNjVjTE9kNGY0R2QzNlFTNGFCdGtQbTFYbGRWTVJGNjB2ZzZVbFRaYXllNDAxZDZCRDJWeGs3UHBCWERxdXMwR21KQUxoSDBwcV9aRWVrVUpoV0E1N1U0aHk5X0E1MG1Bdw?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -237,14 +248,84 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Demi Vollering sacrée championne du monde de cyclisme à Montréal",
+          "title": "Mondiaux de cyclisme 2026 : Brandon McNulty sacré champion du monde à Montréal",
           "bullets": [
-            "La Néerlandaise Demi Vollering remporte son premier titre de championne du monde de cyclisme sur route.",
-            "Elle s’impose lors d’une course intense et spectaculaire à Montréal, devant un public enthousiaste.",
-            "Cette victoire couronne une saison exceptionnelle pour la cycliste, déjà médaillée olympique en 2021.",
-            "Vollering devient une figure majeure du cyclisme féminin, inspirant une nouvelle génération d’athlètes."
+            "Le coureur américain Brandon McNulty remporte la course en ligne des Championnats du monde à Montréal.",
+            "Une victoire surprise qui marque un tournant dans le cyclisme mondial.",
+            "Analyse des performances et des stratégies des favoris lors de cette compétition."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "franceinfo",
+              "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUTF3Z1RyN2RJWERzN1ZOMjE5ZjMxMFNNX1A5aGg1WnAyVkJOMkZTRUlpbXcxRzBxdTNxX2haamQxbmtnN1M5RTEwQ1JfcmNQbERTQ0pkOFdWUDZSajE1Xy13ZTZTT2pCemlWajdwaWNZdE1hZTFndUtfVTNERnd1QUZYTUxjd1JycUpMU0k3YmpnSjRRTVAta1pVc2R3R0JVRUJWZnVPZDVwWXV5SHFYcGpkbVJFZm9VLXpmSVZfWGVEckRrV3lqRWd0ZnB6dncyM2taaExtYmgxSXN0VkFzaVZNQ3F6WmpLZ0pPV0JheFBvcjljMGtWZWIwYTlkZmNoazVlVUl3ZEs2U0NlQ0FFVFhYUW9oLUFLak5GU3BPWUR3YjNkU1RqcHc0ckVQdktRejFUMi15ckFrWEZVbVk4Mg?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Mondiaux de cyclisme : Paul Seixas déçu après une course difficile",
+          "bullets": [
+            "Le coureur français Paul Seixas exprime son dégoût après une course marquée par des crampes et des difficultés.",
+            "Une performance en deçà de ses attentes malgré une bonne préparation.",
+            "Analyse des conditions de course et des stratégies adoptées."
+          ],
+          "sources": [
+            {
+              "name": "RMC Sport",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjlUY3JKb1dWWmdCS3A4SGtKUXNuTm5NeTVHcktaY0o0YUtnZHR5QkR3X1NTeXFPRkVoQWlFeUZSMk5TU3k5QUNXSVdIeWVSWDJ2c2IwTzQ1Q29QTkc2cFU5aFpWQzNsd3pRbGF2eWV5aGd0VTNWSkJURjZ0em9hcDJqdk13LXVaLS1ic3BkdjItc3JLd1dGS3Nyc0FxWGtiYTFrUHFZdF9ocjBMc2FwMWtFbzBtdXAxLVlJb0w1eElSMHdyamRTRkRaUQ?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "Google simplifie la double authentification et autres actualités cybersécurité",
+          "bullets": [
+            "Google facilite l’authentification à deux facteurs pour améliorer la sécurité des comptes.",
+            "Un piratage du FBI par vengeance et un assistant IA envoyant des projets en Chine.",
+            "Analyse des risques et des solutions pour sécuriser les données personnelles."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2340811-google-simplifie-la-double-authentification-le-fbi-pirate-par-vengeance-et-lassistant-de-code-de-z-ai-qui-envoyait-vos-projets-en-chine-on-vous-raconte-la-semaine-cyberguerre.html"
+            }
+          ]
+        },
+        {
+          "title": "Arlequin AI : vers une nouvelle ère au-delà des modèles de langage",
+          "bullets": [
+            "La startup française Arlequin AI vise à remplacer les grands modèles de langage (LLM) dans des domaines critiques.",
+            "Une approche centrée sur la précision et l’interdiction de l’erreur pour des applications sensibles.",
+            "Potentiel pour des applications industrielles et médicales."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2335099-entretien-avec-arlequin-ai-la-startup-francaise-qui-veut-remplacer-les-llm-la-ou-lerreur-est-interdite.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "Le porte-avions Charles de Gaulle imprime ses pièces métalliques avec une solution tricolore",
+          "bullets": [
+            "Naval Group et le Service de Soutien à la Flotte (SSF) utilisent l’impression 3D pour produire des pièces métalliques à bord du porte-avions.",
+            "Une avancée technologique pour la maintenance et la réparation en mer.",
+            "Collaboration entre acteurs publics et privés pour renforcer l’autonomie industrielle française."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/zetamix-porte-avions-impression-3d-28092026/"
+            }
+          ]
         }
       ]
     },
@@ -252,15 +333,15 @@
       "label": "Sport — Pittsburgh Steelers",
       "sujets": [
         {
-          "title": "Prochain match : les Steelers à domicile contre Cincinnati Bengals",
+          "title": "Prochain match : les Steelers à l'extérieur contre Cleveland Browns",
           "bullets": [
-            "Adversaire : Cincinnati Bengals (à domicile)",
+            "Adversaire : Cleveland Browns (à l'extérieur)",
             "Compétition : NFL",
-            "Date : dimanche 27 septembre à 19h00 (heure de Paris)",
-            "Stade : Acrisure Stadium",
+            "Date : vendredi 2 octobre à 02h15 (heure de Paris)",
+            "Stade : Huntington Bank Field",
             "Diffusion : à confirmer",
-            "Classement : 3e de l'AFC Nord (1-1)",
-            "Adversaire au classement : 1er de l'AFC Nord (2-0)",
+            "Classement : 1er de l'AFC Nord (2-1)",
+            "Adversaire au classement : 3e de l'AFC Nord (2-1)",
             "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
           ],
           "sources": [
@@ -303,10 +384,9 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Pittsburgh Steelers – Cincinnati Bengals · 19h00 · beIN SPORTS 1 · direct",
-            "San Francisco 49ers – Arizona Cardinals · 22h00 · beIN SPORTS MAX 5 · direct",
-            "Dallas Cowboys – Baltimore Ravens · 22h30 · beIN SPORTS 1 · direct",
-            "Dallas Cowboys – Baltimore Ravens · 22h55 · L&#039;Equipe · direct"
+            "Pittsburgh Steelers – Cincinnati Bengals · 16h30 · beIN SPORTS 3 · rediffusion",
+            "Dallas Cowboys – Baltimore Ravens · 19h00 · beIN SPORTS 3 · rediffusion",
+            "Denver Broncos – Los Angeles Rams · 21h30 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
