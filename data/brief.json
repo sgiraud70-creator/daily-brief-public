@@ -1,18 +1,18 @@
 {
-  "date_str": "Lundi 28 septembre 2026",
+  "date_str": "Mardi 29 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Venceslas, Loucas et Lucas",
+          "title": "Aujourd'hui, on souhaite la fête : Gabriel, Michel, Raphaël, Gaïane et Rhipsimé",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/28/9/2026/28-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/29/9/2026/29-Septembre-2026.html"
             }
           ]
         }
@@ -22,73 +22,92 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Sénatoriales 2026 : le Rassemblement National obtient un groupe au Sénat",
+          "title": "Dette publique : la France sous pression avec des taux d’emprunt en hausse",
           "bullets": [
-            "Le RN, avec 14 sénateurs, forme un groupe pour la première fois, renforcé par trois sénateurs UDR.",
-            "Cette victoire confirme son ascension politique et lui ouvre des moyens supplémentaires au Palais du Luxembourg.",
-            "Le groupe RN-UDR devient la troisième force politique du Sénat, derrière Les Républicains et le groupe central.",
-            "Le président du Sénat, Gérard Larcher, maintient une position d’ouverture malgré cette avancée de l’extrême droite."
+            "Les taux imposés à la France ont augmenté plus fortement que pour presque tous les autres grands pays depuis janvier 2026, reflétant une défiance accrue des marchés.",
+            "Cette hausse des coûts de financement aggrave la charge de la dette, déjà élevée à plus de 110 % du PIB.",
+            "Le gouvernement doit justifier cette situation face aux partenaires européens et aux investisseurs internationaux.",
+            "Les risques de dégradation de la note souveraine par les agences de notation restent une préoccupation majeure."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-en-formant-un-groupe-pour-la-premiere-fois-le-rassemblement-national-conforte-son-recit-de-marche-vers-le-pouvoir_6784663_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/dette-la-france-au-c-ur-des-inquietudes-internationales_6785556_823448.html"
             }
           ]
         },
         {
-          "title": "Les Républicains limitent les dégâts aux sénatoriales",
+          "title": "Gel des salaires dans la fonction publique : les syndicats appellent à la mobilisation",
           "bullets": [
-            "LR conserve sa première place au Sénat mais enregistre une baisse de 5 à 7 sièges.",
-            "Le parti minimise l’impact de l’arrivée historique du groupe RN-UDR.",
-            "Une stratégie de défense des territoires et de modération pour contrer la montée de l’extrême droite."
+            "Le gouvernement annonce un nouveau gel de la valeur du point d’indice, aggravant le pouvoir d’achat des agents publics.",
+            "Les syndicats dénoncent une mesure qui « casse la confiance » et préparent une journée de mobilisation nationale pour le 29 septembre.",
+            "Les fonctionnaires, déjà en tension depuis plusieurs années, craignent une dégradation des conditions de travail et des rémunérations.",
+            "Cette décision intervient dans un contexte de tensions budgétaires et de réformes des dépenses publiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-les-republicains-limitent-les-degats-et-minimisent-l-arrivee-historique-d-un-groupe-d-extreme-droite_6784629_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/dans-la-fonction-publique-le-nouveau-gel-des-salaires-accentue-le-malaise-la-corde-n-est-pas-loin-de-casser_6785446_823448.html"
             }
           ]
         },
         {
-          "title": "La gauche résiste aux sénatoriales, LFI entre au Sénat",
+          "title": "Blocus des lycées : mouvement social en extension et tensions politiques",
           "bullets": [
-            "Le groupe socialiste et écologiste maintient sa présence au Sénat malgré des pertes.",
-            "La France Insoumise (LFI) fait son entrée avec plusieurs sénateurs élus.",
-            "Persistance des divisions internes à gauche, notamment entre socialistes et insoumis."
+            "Le mouvement de blocus des lycées s’étend à 180 établissements, au-delà de l’Île-de-France, avec une participation croissante des élèves.",
+            "La France Insoumise et le gouvernement s’opposent sur les causes et les solutions, avec des accusations mutuelles de manipulation politique.",
+            "Les élèves dénoncent des conditions de vie précaires et des problèmes structurels dans les établissements.",
+            "Le ministre de l’Intérieur évoque une « instrumentalisation » du mouvement par certains partis politiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-la-gauche-resiste-lfi-fait-son-entree-mais-les-divisions-persistent_6784664_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html"
             }
           ]
         },
         {
-          "title": "Visite du pape François à Metz : Emmanuel Macron présent à la messe",
+          "title": "Procès en appel des assistants parlementaires du MoDem : François Bayrou visé par une peine sévère",
           "bullets": [
-            "Le président Macron assistera à la messe célébrée par le pape François à la cathédrale Saint-Étienne de Metz.",
-            "Le pape prononcera un discours sur l’Europe et la paix, en présence de dirigeants européens.",
-            "Metz, ville symbole de la réconciliation européenne, espère redorer son image grâce à cet événement."
+            "Le parquet général demande deux ans d’emprisonnement avec sursis contre François Bayrou pour détournement de fonds publics.",
+            "Le MoDem et son ancêtre l’UDF sont également condamnés à 100 000 euros d’amende chacun.",
+            "Ce procès concerne des emplois fictifs et des détournements de fonds au sein de l’assemblée nationale.",
+            "L’ancien Premier ministre et figure politique doit répondre de ses responsabilités dans cette affaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/28/proces-en-appel-des-assistants-parlementaires-du-modem-deux-ans-d-emprisonnement-avec-sursis-requis-contre-francois-bayrou_6785102_823448.html"
             }
           ]
         },
         {
-          "title": "Nouvelle composition du Sénat : graphiques et enjeux territoriaux",
+          "title": "Renaud Muselier quitte la présidence de la région PACA pour se concentrer sur la présidentielle",
           "bullets": [
-            "Le Sénat, souvent décrit comme la chambre des territoires, voit sa composition révélée après le renouvellement.",
-            "Analyse des dynamiques politiques et géographiques post-scrutin.",
-            "Rééquilibrage des forces politiques avec une montée de l’extrême droite et une stabilité relative de la gauche."
+            "Élu au Sénat de justesse, Renaud Muselier annonce son retrait de la présidence de la région Provence-Alpes-Côte d’Azur.",
+            "Il soutient désormais Gérard Larcher, président du Sénat, dans sa stratégie pour la présidentielle de 2027.",
+            "Cette décision marque un tournant dans sa carrière politique, avec une orientation vers une candidature à l’élection présidentielle.",
+            "La région PACA est désormais dirigée par un intérim jusqu’à l’élection d’un nouveau président."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/27/senatoriales-2026-la-nouvelle-composition-du-senat-en-graphiques_6784562_4355770.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/28/elu-au-senat-de-justesse-renaud-muselier-quitte-la-presidence-de-la-region-provence-alpes-cote-d-azur-et-soutient-gerard-larcher_6785096_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "France Travail : agents en grève contre les coupes budgétaires et la surcharge de travail",
+          "bullets": [
+            "Les syndicats appellent à une manifestation nationale le 29 septembre pour dénoncer les réductions budgétaires répétées depuis 2018.",
+            "Les agents dénoncent une situation de « toujours plus avec toujours moins », avec une charge de travail accrue et des moyens insuffisants.",
+            "Cette mobilisation intervient dans un contexte de réforme du service public de l’emploi.",
+            "Le gouvernement maintient sa politique de rigueur budgétaire malgré les critiques des syndicats."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/toujours-plus-avec-toujours-moins-les-agents-de-france-travail-se-mobilisent-contre-les-coupes-budgetaires_6785410_823448.html"
             }
           ]
         }
@@ -98,72 +117,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Israël annonce la mort du ravisseur d’un couple d’otages du 7-Octobre dans la bande de Gaza",
+          "title": "Corée du Nord : formation de 10 000 soldats supplémentaires pour soutenir la Russie en Ukraine",
           "bullets": [
-            "Un membre du Hamas, identifié comme responsable de l’enlèvement de Noa Argamani et Avinatan Or, est tué lors d’une opération militaire israélienne.",
-            "Le couple avait été libéré après plusieurs mois de captivité.",
-            "Cette frappe s’inscrit dans la poursuite des opérations militaires israéliennes dans la bande de Gaza."
+            "Volodymyr Zelensky affirme que la Corée du Nord forme 10 000 soldats supplémentaires pour renforcer les capacités militaires russes.",
+            "Plus de 8 000 militaires nord-coréens seraient déjà déployés sur le territoire russe en soutien à l’effort de guerre.",
+            "Cette aide militaire s’inscrit dans une stratégie de coopération accrue entre Moscou et Pyongyang.",
+            "L’Ukraine et ses alliés craignent une escalade des tensions et une prolongation du conflit."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/28/israel-annonce-avoir-tue-dans-la-bande-de-gaza-le-ravisseur-d-un-couple-d-otages-du-7-octobre_6784799_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-la-coree-du-nord-va-former-10-000-soldats-supplementaires-pour-aider-la-russie-affirme-volodymyr-zelensky_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "Tensions accrues en Corée du Nord : Séoul exige des excuses de Kiev pour la détention de prisonniers",
+          "title": "ONU : recul de l’aide internationale menace huit millions de réfugiés et déplacés",
           "bullets": [
-            "Deux soldats nord-coréens, capturés en janvier 2025 en Ukraine, sont détenus par Kiev.",
-            "La Corée du Sud exige des excuses officielles et la libération immédiate des prisonniers.",
-            "Ce conflit s’inscrit dans les tensions géopolitiques autour du soutien militaire de Pyongyang à Moscou."
+            "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) alerte sur la baisse des contributions financières, obligeant à réduire des programmes essentiels.",
+            "Plus de huit millions de réfugiés et déplacés dans le monde sont directement menacés par cette réduction des fonds.",
+            "Les crises humanitaires en Syrie, Soudan, et Afrique subsaharienne sont particulièrement touchées.",
+            "L’ONU appelle à une mobilisation internationale pour éviter une aggravation des situations de crise."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/28/en-direct-guerre-en-ukraine-seoul-exige-des-excuses-de-kiev-pour-avoir-rendu-publique-la-detention-de-prisonniers-de-guerre-nord-coreens_6783795_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/29/le-recul-de-l-aide-internationale-menace-plus-de-huit-millions-de-refugies-et-de-deplaces-alerte-l-onu_6785482_3210.html"
             }
           ]
         },
         {
-          "title": "Élections au Brésil : Rio de Janeiro sous la menace du crime organisé",
+          "title": "Attentats du 11-Septembre : 25 ans après, la justice américaine toujours bloquée par des obstacles politiques",
           "bullets": [
-            "Violences et intimidations contre les candidats et sympathisants dans plusieurs partis à Rio de Janeiro.",
-            "Le crime organisé influence les résultats électoraux dans certaines zones.",
-            "Scrutin du 4 octobre marqué par une forte insécurité politique."
+            "Un quart de siècle après les attentats, aucune condamnation n’a été prononcée pour les principaux responsables saoudiens impliqués.",
+            "Des obstacles politiques et diplomatiques, notamment liés à la relation avec l’Arabie saoudite, freinent les enquêtes.",
+            "Les familles des victimes continuent de réclamer justice et transparence.",
+            "Les archives et documents classifiés restent un obstacle majeur à la résolution de cette affaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/29/attentats-du-11-septembre-la-justice-empechee-et-paralysee-entre-raison-d-etat-et-influence-saoudienne_6785515_3210.html"
             }
           ]
         },
         {
-          "title": "Les ambiguïtés de l’État saoudien face à Al-Qaïda et Ben Laden",
+          "title": "Force internationale pour Gaza : les armées africaines envisagées pour stabiliser la bande de Gaza",
           "bullets": [
-            "Analyse des relations complexes entre Riyad et Al-Qaïda dans les années 1990.",
-            "Révélations sur les liens historiques entre l’Arabie saoudite et les figures extrémistes.",
-            "Implications actuelles sur la politique sécuritaire et religieuse du royaume."
+            "Le plan de paix proposé par Donald Trump prévoit le déploiement de troupes étrangères dans la bande de Gaza sous contrôle du Hamas.",
+            "Les armées africaines, bien que peu expérimentées dans ce type de mission, sont envisagées pour renforcer la stabilité.",
+            "Les défis logistiques, sécuritaires et politiques restent immenses pour une telle opération.",
+            "Israël et le Hamas doivent d’abord accepter les termes de ce plan pour que sa mise en œuvre soit possible."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/28/les-ambiguites-de-l-etat-saoudien-face-a-oussama-ben-laden-et-a-al-qaida_6784873_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/09/29/les-armees-africaines-improbables-recrues-de-la-force-internationale-censee-stabiliser-la-bande-de-gaza_6785522_3212.html"
             }
           ]
         },
         {
-          "title": "El Niño : un phénomène climatique aux conséquences mondiales",
+          "title": "Mexique : nouveaux suspects identifiés dans l’affaire des 43 étudiants disparus d’Ayotzinapa",
           "bullets": [
-            "Capacité d'El Niño à provoquer des pluies diluviennes et des sécheresses intenses dans plusieurs régions du globe.",
-            "Impact sur les populations et les écosystèmes, avec des risques accrus de catastrophes naturelles.",
-            "Appel à une vigilance accrue face à ce phénomène climatique récurrent."
+            "Dix-sept personnes supplémentaires font l’objet d’une enquête dans cette affaire emblématique de corruption et de violences d’État.",
+            "Les investigations visent à élucider le sort des 43 étudiants enlevés en 2014 et probablement assassinés.",
+            "Les familles des victimes continuent de réclamer vérité et justice après des années d’enquêtes et de silences.",
+            "Le parquet mexicain annonce une intensification des efforts pour résoudre ce dossier."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/29/au-mexique-de-nouveaux-suspects-identifies-dans-l-affaire-des-43-etudiants-disparus-d-ayotzinapa-en-2014_6785376_3210.html"
             }
           ]
         }
@@ -171,27 +195,64 @@
     },
     {
       "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Haute-Saône : deux sénateurs LR élus dès le premier tour",
+          "title": "Starship : SpaceX réussit un vol orbital écourté mais marque un pas vers la Lune et Mars",
           "bullets": [
-            "Olivier Rietmann est reconduit dans ses fonctions de sénateur.",
-            "Dimitri Doussot succède à Alain Joyandet, également élu.",
-            "Une victoire nette pour Les Républicains dans ce département de Franche-Comté."
+            "SpaceX a réalisé avec succès le 14e vol d’essai de sa fusée Starship, avec un vol orbital écourté (3 heures au lieu de 10 prévues).",
+            "Ce vol a permis de tester des systèmes critiques pour les futures missions lunaires et martiennes.",
+            "Malgré un écourtement prématuré, les données recueillies sont essentielles pour améliorer la fiabilité du vaisseau.",
+            "SpaceX vise désormais une certification pour les missions habitées vers la Lune dans le cadre du programme Artemis."
           ],
           "sources": [
             {
-              "name": "Le Trois",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDktYkFmYU1MXzVIRXBRbmlmdGhqaXluLURBNkdLZGVkQU1iWkQ4U2gybWQyQ1VsR1ZiUmp2bHcxTE92RWE1djMyNzl0SmlHQmowZDlfT0U4bkFxOG40dmRTaUFRQmlYaERMaGhsN250Wl8yd2N3VlNUaHdzcVBWMkFjYjZiLVYyeHJOQXV2aw?oc=5"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2341883-voici-les-premieres-images-du-decollage-du-starship-pour-son-vol-orbital-ecourte.html"
             }
           ]
         },
         {
-          "title": "Incendie majeur dans une sapinière à Confracourt (Haute-Saône)",
+          "title": "Dacia Hipster : une voiture électrique abordable à 11 000 euros pour 2027",
           "bullets": [
-            "Un feu a détruit une partie d’une sapinière dans cette commune de Haute-Saône.",
-            "Les causes de l’incendie sont encore en cours d’enquête.",
-            "Les pompiers et les autorités locales interviennent pour limiter les dégâts."
+            "Dacia annonce le lancement de sa petite voiture électrique Hipster en 2027, avec un prix visé autour de 11 000 euros.",
+            "Ce modèle sera produit en Chine et vise à démocratiser l’accès à la mobilité électrique en Europe.",
+            "La concurrence asiatique et les attentes des consommateurs en termes de prix et d’accessibilité sont au cœur de ce projet.",
+            "Dacia mise sur une autonomie et des performances adaptées aux besoins des conducteurs urbains."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2341743-dacia-hipster-une-petite-voiture-electrique-a-11-000-euros-arrivera-des-2027.html"
+            }
+          ]
+        },
+        {
+          "title": "Meta lance Muse, son agent IA, mais des controverses émergent sur sa sécurité",
+          "bullets": [
+            "Meta a lancé Muse, un agent IA capable d’agir en autonomie sur les appareils Mac, suscitant des craintes sur la sécurité et la vie privée.",
+            "Des utilisateurs rapportent des incidents où Muse a accédé à des données sensibles, comme l’historique des messages.",
+            "Les critiques soulignent les risques de fuites de données et de comportements imprévisibles de l’IA.",
+            "Meta travaille à corriger ces failles pour rassurer les utilisateurs avant une généralisation de l’outil."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "GTA 6 : un fan recrée une figurine du coffret à 400 dollars pour impression 3D",
+          "bullets": [
+            "Un fan a créé une réplique imprimable en 3D de la figurine officielle de GTA 6, initialement vendue 400 dollars.",
+            "Cette initiative permet aux joueurs de posséder une réplique à moindre coût et de personnaliser leur collection.",
+            "Le fichier est disponible gratuitement en ligne, encourageant la communauté des passionnés d’impression 3D.",
+            "Ce projet illustre l’innovation et la créativité des fans dans l’accès aux produits de leurs jeux préférés."
           ],
           "sources": []
         }
@@ -201,46 +262,24 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque au CPF : plus de 6 millions d’euros détournés dans la région nantaise",
+          "title": "Arnaque à la vente de fourrage : les éleveurs ciblés par une nouvelle escroquerie en période de sécheresse",
           "bullets": [
-            "Un réseau est soupçonné d’avoir détourné plus de 6 millions d’euros via des formations frauduleuses.",
-            "Les autorités enquêtent pour identifier les responsables et récupérer les fonds illégalement obtenus.",
-            "Appel à la vigilance des usagers concernant les formations financées par le CPF."
+            "Des arnaques à la vente de fourrage frauduleux ciblent les éleveurs, notamment dans les régions touchées par la sécheresse.",
+            "Les escrocs proposent des livraisons de fourrage non conformes ou inexistantes, exploitant l’urgence des besoins des agriculteurs.",
+            "Les autorités alertent sur les méthodes utilisées, comme les faux sites de vente ou les paiements anticipés sans livraison.",
+            "Les éleveurs sont invités à vérifier les sources et à signaler les tentatives d’escroquerie aux gendarmeries."
           ],
-          "sources": [
-            {
-              "name": "Le Parisien",
-              "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObWtGQ0MtaUN4Sktpa2FGMUFWaWxtV3U0bUNLZzltNHA2aFVIVXN6U2tyUVJrdF9RNVBzMHhtQ21NLXVvR19NNE1leTB3ZTRIUDN5UElmaG9EcXVueDV0U0ZmUEJ1M3RjaVFFbDQ0ek5BcGJKb0dWWjdyRFRsOHJLTWdkWVJUallrbzl2ckRSMjdJV0p2R1J6ZU9EaHlmYW9GVXEwZXFNUkhzWkFpVnlpT042NlhtdFYxT1FmdVNzXzNyYlkwRHEyRFJ4MDQySWI2Q0pLWHJpd01RbHJsZVFYZUN6NFdJa2RhTkxtbmpHdkxBX21SSGhtQ0xvaml1R1FHNE5iQnl0RnlTcFdrNDItUkk3SUs?oc=5"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Prélèvement à la source : paiement unique ou en quatre mensualités ?",
+          "title": "Virements instantanés : attention aux arnaques ciblant les comptes bancaires",
           "bullets": [
-            "Options disponibles pour le paiement des impôts sur le revenu en 2027.",
-            "Comparaison entre un prélèvement unique et un étalement en quatre mensualités.",
-            "Conseils pour optimiser le choix en fonction de sa situation financière."
+            "Les arnaqueurs exploitent les virements instantanés pour soutirer des fonds aux victimes, souvent sous prétexte d’urgence.",
+            "Les techniques incluent l’usurpation d’identité ou la simulation de demandes de paiement de la part de proches ou d’organismes officiels.",
+            "Les banques et les autorités rappellent de toujours vérifier l’authenticité des demandes avant d’effectuer un virement.",
+            "Les victimes sont invitées à signaler ces tentatives via les plateformes dédiées."
           ],
-          "sources": [
-            {
-              "name": "LégiFiscal",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEk3ckJ2V3ZuNmduNzROeVVWQzlpdWlmRkpkYVhhczZOZksyWFJ4RW9vaXQ0bkM3bmp3aVpiQWdBeDJOZktjdDV2WU5LTjZMX0FpMFlmZkxTaFpUem5NcmQ4WElUbDMtWktORmlXZHItQzBsa0NtX1V2R0FKa2ZfVVZVY1dGdDcyUWFEVFNlQTViRjYyT3g0Rg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Attention aux arnaques au compteur kilométrique sur les voitures d’occasion",
-          "bullets": [
-            "Méthodes frauduleuses pour truquer les compteurs kilométriques.",
-            "Risques pour les acheteurs et conseils pour éviter ces arnaques.",
-            "Importance de vérifier l’historique du véhicule avant achat."
-          ],
-          "sources": [
-            {
-              "name": "Radio VINCI Autoroutes",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkkyR2diWEdvVDh2cWs0OC1jOUllS1U0TGItZDdTNUtuc01rQTdqbTM3NzlMekIzOGR1clh1SU9IU2ttSkFSYXZ0Nzl2UWZRWkhITVJmNjVjTE9kNGY0R2QzNlFTNGFCdGtQbTFYbGRWTVJGNjB2ZzZVbFRaYXllNDAxZDZCRDJWeGs3UHBCWERxdXMwR21KQUxoSDBwcV9aRWVrVUpoV0E1N1U0aHk5X0E1MG1Bdw?oc=5"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -248,84 +287,14 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Mondiaux de cyclisme 2026 : Brandon McNulty sacré champion du monde à Montréal",
+          "title": "Nuit du Rugby 2026 : Willis et Bielle-Biarrey récompensés dans un palmarès prestigieux",
           "bullets": [
-            "Le coureur américain Brandon McNulty remporte la course en ligne des Championnats du monde à Montréal.",
-            "Une victoire surprise qui marque un tournant dans le cyclisme mondial.",
-            "Analyse des performances et des stratégies des favoris lors de cette compétition."
+            "La Nuit du Rugby 2026 a récompensé plusieurs joueurs et équipes, avec une attention particulière pour les talents émergents et confirmés.",
+            "Willis et Bielle-Biarrey ont été honorés pour leurs performances exceptionnelles cette saison.",
+            "Les Bleus, notamment Bielle-Biarrey, sont mis en avant pour leur contribution au rugby français.",
+            "Cette cérémonie met en lumière les valeurs du rugby et les parcours inspirants des athlètes."
           ],
-          "sources": [
-            {
-              "name": "franceinfo",
-              "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUTF3Z1RyN2RJWERzN1ZOMjE5ZjMxMFNNX1A5aGg1WnAyVkJOMkZTRUlpbXcxRzBxdTNxX2haamQxbmtnN1M5RTEwQ1JfcmNQbERTQ0pkOFdWUDZSajE1Xy13ZTZTT2pCemlWajdwaWNZdE1hZTFndUtfVTNERnd1QUZYTUxjd1JycUpMU0k3YmpnSjRRTVAta1pVc2R3R0JVRUJWZnVPZDVwWXV5SHFYcGpkbVJFZm9VLXpmSVZfWGVEckRrV3lqRWd0ZnB6dncyM2taaExtYmgxSXN0VkFzaVZNQ3F6WmpLZ0pPV0JheFBvcjljMGtWZWIwYTlkZmNoazVlVUl3ZEs2U0NlQ0FFVFhYUW9oLUFLak5GU3BPWUR3YjNkU1RqcHc0ckVQdktRejFUMi15ckFrWEZVbVk4Mg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Mondiaux de cyclisme : Paul Seixas déçu après une course difficile",
-          "bullets": [
-            "Le coureur français Paul Seixas exprime son dégoût après une course marquée par des crampes et des difficultés.",
-            "Une performance en deçà de ses attentes malgré une bonne préparation.",
-            "Analyse des conditions de course et des stratégies adoptées."
-          ],
-          "sources": [
-            {
-              "name": "RMC Sport",
-              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjlUY3JKb1dWWmdCS3A4SGtKUXNuTm5NeTVHcktaY0o0YUtnZHR5QkR3X1NTeXFPRkVoQWlFeUZSMk5TU3k5QUNXSVdIeWVSWDJ2c2IwTzQ1Q29QTkc2cFU5aFpWQzNsd3pRbGF2eWV5aGd0VTNWSkJURjZ0em9hcDJqdk13LXVaLS1ic3BkdjItc3JLd1dGS3Nyc0FxWGtiYTFrUHFZdF9ocjBMc2FwMWtFbzBtdXAxLVlJb0w1eElSMHdyamRTRkRaUQ?oc=5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Google simplifie la double authentification et autres actualités cybersécurité",
-          "bullets": [
-            "Google facilite l’authentification à deux facteurs pour améliorer la sécurité des comptes.",
-            "Un piratage du FBI par vengeance et un assistant IA envoyant des projets en Chine.",
-            "Analyse des risques et des solutions pour sécuriser les données personnelles."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2340811-google-simplifie-la-double-authentification-le-fbi-pirate-par-vengeance-et-lassistant-de-code-de-z-ai-qui-envoyait-vos-projets-en-chine-on-vous-raconte-la-semaine-cyberguerre.html"
-            }
-          ]
-        },
-        {
-          "title": "Arlequin AI : vers une nouvelle ère au-delà des modèles de langage",
-          "bullets": [
-            "La startup française Arlequin AI vise à remplacer les grands modèles de langage (LLM) dans des domaines critiques.",
-            "Une approche centrée sur la précision et l’interdiction de l’erreur pour des applications sensibles.",
-            "Potentiel pour des applications industrielles et médicales."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2335099-entretien-avec-arlequin-ai-la-startup-francaise-qui-veut-remplacer-les-llm-la-ou-lerreur-est-interdite.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Le porte-avions Charles de Gaulle imprime ses pièces métalliques avec une solution tricolore",
-          "bullets": [
-            "Naval Group et le Service de Soutien à la Flotte (SSF) utilisent l’impression 3D pour produire des pièces métalliques à bord du porte-avions.",
-            "Une avancée technologique pour la maintenance et la réparation en mer.",
-            "Collaboration entre acteurs publics et privés pour renforcer l’autonomie industrielle française."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/zetamix-porte-avions-impression-3d-28092026/"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -384,9 +353,7 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Pittsburgh Steelers – Cincinnati Bengals · 16h30 · beIN SPORTS 3 · rediffusion",
-            "Dallas Cowboys – Baltimore Ravens · 19h00 · beIN SPORTS 3 · rediffusion",
-            "Denver Broncos – Los Angeles Rams · 21h30 · beIN SPORTS 3 · rediffusion"
+            "Chicago Bears – Philadelphia Eagles · 18h00 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
