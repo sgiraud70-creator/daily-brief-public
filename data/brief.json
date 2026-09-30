@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 29 septembre 2026",
+  "date_str": "Mercredi 30 septembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 11,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Gabriel, Michel, Raphaël, Gaïane et Rhipsimé",
+          "title": "Aujourd'hui, on souhaite la fête : Jérôme, Félicie et Ours",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/29/9/2026/29-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/30/9/2026/30-Septembre-2026.html"
             }
           ]
         }
@@ -22,92 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Dette publique : la France sous pression avec des taux d’emprunt en hausse",
+          "title": "Bruno Retailleau remettrait en cause la primauté du droit européen en cas de victoire présidentielle",
           "bullets": [
-            "Les taux imposés à la France ont augmenté plus fortement que pour presque tous les autres grands pays depuis janvier 2026, reflétant une défiance accrue des marchés.",
-            "Cette hausse des coûts de financement aggrave la charge de la dette, déjà élevée à plus de 110 % du PIB.",
-            "Le gouvernement doit justifier cette situation face aux partenaires européens et aux investisseurs internationaux.",
-            "Les risques de dégradation de la note souveraine par les agences de notation restent une préoccupation majeure."
+            "Le candidat LR à la présidentielle 2027 propose de donner au Conseil constitutionnel le pouvoir de vérifier si le droit européen respecte la Constitution française.",
+            "Cette proposition divise la droite européenne et pourrait fragiliser les alliances transnationales.",
+            "Retailleau défend une vision souverainiste de l’Europe, critiquant son manque de démocratie selon lui.",
+            "Ses déclarations suscitent des inquiétudes parmi les partenaires européens sur l’avenir des traités et de l’intégration juridique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/dette-la-france-au-c-ur-des-inquietudes-internationales_6785556_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/30/presidentielle-2027-bruno-retailleau-gene-la-droite-europeenne-avec-sa-remise-en-cause-de-la-primaute-du-droit-de-l-ue_6785972_823448.html"
             }
           ]
         },
         {
-          "title": "Gel des salaires dans la fonction publique : les syndicats appellent à la mobilisation",
+          "title": "Édouard Philippe propose une réforme des retraites à 65 ans et 45 annuités",
           "bullets": [
-            "Le gouvernement annonce un nouveau gel de la valeur du point d’indice, aggravant le pouvoir d’achat des agents publics.",
-            "Les syndicats dénoncent une mesure qui « casse la confiance » et préparent une journée de mobilisation nationale pour le 29 septembre.",
-            "Les fonctionnaires, déjà en tension depuis plusieurs années, craignent une dégradation des conditions de travail et des rémunérations.",
-            "Cette décision intervient dans un contexte de tensions budgétaires et de réformes des dépenses publiques."
+            "L’ancien Premier ministre annonce un projet de réforme visant à relever l’âge légal de départ à 65 ans et à exiger 45 annuités de cotisations.",
+            "Cette mesure s’inscrit dans une volonté de « justice sociale » et de pérennisation du système par répartition.",
+            "Les détails de la réforme, notamment les modalités de transition, restent à préciser.",
+            "Les syndicats et partis d’opposition pourraient s’opposer à cette réforme, jugée trop restrictive."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/dans-la-fonction-publique-le-nouveau-gel-des-salaires-accentue-le-malaise-la-corde-n-est-pas-loin-de-casser_6785446_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/presidentielle-2027-edouard-philippe-devoile-son-projet-de-retraite-a-65-ans-et-45-annuites_6785692_823448.html"
             }
           ]
         },
         {
-          "title": "Blocus des lycées : mouvement social en extension et tensions politiques",
+          "title": "Médias Bolloré : révélations sur des accusations de « taupe » au sein du RN",
           "bullets": [
-            "Le mouvement de blocus des lycées s’étend à 180 établissements, au-delà de l’Île-de-France, avec une participation croissante des élèves.",
-            "La France Insoumise et le gouvernement s’opposent sur les causes et les solutions, avec des accusations mutuelles de manipulation politique.",
-            "Les élèves dénoncent des conditions de vie précaires et des problèmes structurels dans les établissements.",
-            "Le ministre de l’Intérieur évoque une « instrumentalisation » du mouvement par certains partis politiques."
+            "Le média « L’Infiltré » a annoncé abandonner ses accusations contre un prétendu « traître » au sein du Rassemblement National après des réactions virulentes.",
+            "Jordan Bardella et le RN dénoncent une campagne de diffamation et une « violence sidérante » contre leurs militants.",
+            "Le média a été critiqué pour ses méthodes et ses sources non vérifiées.",
+            "Cette affaire relance le débat sur la désinformation et les méthodes journalistiques dans le paysage politique français."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/les-medias-bollore-chassent-la-taupe-d-un-rn-paranoiaque_6785691_823448.html"
             }
           ]
         },
         {
-          "title": "Procès en appel des assistants parlementaires du MoDem : François Bayrou visé par une peine sévère",
+          "title": "Fonction publique en grève : mobilisation contre le gel des salaires",
           "bullets": [
-            "Le parquet général demande deux ans d’emprisonnement avec sursis contre François Bayrou pour détournement de fonds publics.",
-            "Le MoDem et son ancêtre l’UDF sont également condamnés à 100 000 euros d’amende chacun.",
-            "Ce procès concerne des emplois fictifs et des détournements de fonds au sein de l’assemblée nationale.",
-            "L’ancien Premier ministre et figure politique doit répondre de ses responsabilités dans cette affaire."
+            "Les syndicats appellent à une journée de mobilisation pour protester contre le gel des salaires dans la fonction publique, annoncé par le gouvernement.",
+            "Les agents dénoncent une « précarisation » et réclament des augmentations pour faire face à l’inflation.",
+            "Les grèves pourraient perturber les services publics, notamment dans l’éducation et la santé.",
+            "Le gouvernement maintient sa position, invoquant des contraintes budgétaires."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/28/proces-en-appel-des-assistants-parlementaires-du-modem-deux-ans-d-emprisonnement-avec-sursis-requis-contre-francois-bayrou_6785102_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/pouvoir-d-achat-la-fonction-publique-dans-la-rue-pour-reclamer-autre-chose-que-des-remerciements_6785684_823448.html"
             }
           ]
         },
         {
-          "title": "Renaud Muselier quitte la présidence de la région PACA pour se concentrer sur la présidentielle",
+          "title": "Annulation des élections municipales à Vaulx-en-Velin pour irrégularités",
           "bullets": [
-            "Élu au Sénat de justesse, Renaud Muselier annonce son retrait de la présidence de la région Provence-Alpes-Côte d’Azur.",
-            "Il soutient désormais Gérard Larcher, président du Sénat, dans sa stratégie pour la présidentielle de 2027.",
-            "Cette décision marque un tournant dans sa carrière politique, avec une orientation vers une candidature à l’élection présidentielle.",
-            "La région PACA est désormais dirigée par un intérim jusqu’à l’élection d’un nouveau président."
+            "La justice a annulé les élections municipales remportées par La France insoumise (LFI) en raison d’irrégularités sur une liste divers centre.",
+            "Abdelkader Lahmar, député « insoumis » élu, se voit privé de son mandat.",
+            "Cette décision pourrait entraîner de nouvelles élections locales dans la commune lyonnaise.",
+            "L’affaire soulève des questions sur la régularité des scrutins et la transparence des élections municipales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/28/elu-au-senat-de-justesse-renaud-muselier-quitte-la-presidence-de-la-region-provence-alpes-cote-d-azur-et-soutient-gerard-larcher_6785096_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/municipales-a-vaulx-en-velin-la-justice-annule-les-elections-remportees-par-lfi-apres-celles-de-venissieux_6785680_823448.html"
             }
           ]
         },
         {
-          "title": "France Travail : agents en grève contre les coupes budgétaires et la surcharge de travail",
+          "title": "Enquête sur Jordan Bardella : révélations de messages antisémites de 2013",
           "bullets": [
-            "Les syndicats appellent à une manifestation nationale le 29 septembre pour dénoncer les réductions budgétaires répétées depuis 2018.",
-            "Les agents dénoncent une situation de « toujours plus avec toujours moins », avec une charge de travail accrue et des moyens insuffisants.",
-            "Cette mobilisation intervient dans un contexte de réforme du service public de l’emploi.",
-            "Le gouvernement maintient sa politique de rigueur budgétaire malgré les critiques des syndicats."
+            "Le média « Mediapart » publie des messages antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national.",
+            "Le président du RN réagit en dénonçant une manipulation et une « campagne de haine » contre son parti.",
+            "Ces révélations pourraient avoir des conséquences sur sa campagne présidentielle et son image publique.",
+            "Le RN accuse « Mediapart » de diffamation et de manque de rigueur journalistique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/toujours-plus-avec-toujours-moins-les-agents-de-france-travail-se-mobilisent-contre-les-coupes-budgetaires_6785410_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/enquete-sur-jordan-bardella-apres-la-reaction-du-president-du-rn-mediapart-denonce-la-violence-siderante-du-parti-d-extreme-droite_6785580_823449.html"
+            }
+          ]
+        },
+        {
+          "title": "Sénat : refus des écologistes d’accueillir Gabriel Amard (LFI)",
+          "bullets": [
+            "Les sénateurs écologistes rejettent la demande de Gabriel Amard (LFI) pour rejoindre leur groupe parlementaire.",
+            "Cette décision vise à éviter une fracture au sein du groupe écologiste et à préserver la cohésion politique.",
+            "LFI dénonce une exclusion politique et une volonté de marginalisation.",
+            "Cette affaire illustre les tensions entre les différents groupes politiques au Sénat."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/09/29/senat-les-ecologistes-refusent-d-accueillir-l-insoumis-gabriel-amard-dans-leur-groupe_6785675_823448.html"
             }
           ]
         }
@@ -117,77 +132,107 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Corée du Nord : formation de 10 000 soldats supplémentaires pour soutenir la Russie en Ukraine",
+          "title": "Guerre en Ukraine : frappe russe tue un enfant près de Kiev",
           "bullets": [
-            "Volodymyr Zelensky affirme que la Corée du Nord forme 10 000 soldats supplémentaires pour renforcer les capacités militaires russes.",
-            "Plus de 8 000 militaires nord-coréens seraient déjà déployés sur le territoire russe en soutien à l’effort de guerre.",
-            "Cette aide militaire s’inscrit dans une stratégie de coopération accrue entre Moscou et Pyongyang.",
-            "L’Ukraine et ses alliés craignent une escalade des tensions et une prolongation du conflit."
+            "Un enfant est tué et plusieurs civils blessés par des frappes russes dans la région de Kiev, selon les autorités ukrainiennes.",
+            "Volodymyr Zelensky demande une accélération de la production de systèmes anti-drones pour contrer les attaques russes.",
+            "Les frappes russes visent des infrastructures civiles et militaires dans le cadre de la guerre en cours depuis 2022.",
+            "L’ONU et les pays occidentaux condamnent ces attaques et appellent au respect du droit international humanitaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-la-coree-du-nord-va-former-10-000-soldats-supplementaires-pour-aider-la-russie-affirme-volodymyr-zelensky_6783795_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-un-enfant-tue-par-des-frappes-russes-dans-la-region-de-kiev_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "ONU : recul de l’aide internationale menace huit millions de réfugiés et déplacés",
+          "title": "Fin de l’accord « un qui entre, un qui sort » entre la France et le Royaume-Uni sur l’immigration",
           "bullets": [
-            "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) alerte sur la baisse des contributions financières, obligeant à réduire des programmes essentiels.",
-            "Plus de huit millions de réfugiés et déplacés dans le monde sont directement menacés par cette réduction des fonds.",
-            "Les crises humanitaires en Syrie, Soudan, et Afrique subsaharienne sont particulièrement touchées.",
-            "L’ONU appelle à une mobilisation internationale pour éviter une aggravation des situations de crise."
+            "La France met fin à l’accord expérimental avec le Royaume-Uni, jugé inefficace pour contrôler les flux migratoires illégaux.",
+            "Paris critique l’absence de résultats concrets malgré deux ans de coopération.",
+            "Le Royaume-Uni maintient sa politique de contrôle aux frontières, mais les tensions persistent sur la gestion des demandeurs d’asile.",
+            "Cette décision pourrait impacter les relations bilatérales et les politiques migratoires européennes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/29/le-recul-de-l-aide-internationale-menace-plus-de-huit-millions-de-refugies-et-de-deplaces-alerte-l-onu_6785482_3210.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html"
             }
           ]
         },
         {
-          "title": "Attentats du 11-Septembre : 25 ans après, la justice américaine toujours bloquée par des obstacles politiques",
+          "title": "Montée historique de l’AfD en Allemagne : un séisme politique",
           "bullets": [
-            "Un quart de siècle après les attentats, aucune condamnation n’a été prononcée pour les principaux responsables saoudiens impliqués.",
-            "Des obstacles politiques et diplomatiques, notamment liés à la relation avec l’Arabie saoudite, freinent les enquêtes.",
-            "Les familles des victimes continuent de réclamer justice et transparence.",
-            "Les archives et documents classifiés restent un obstacle majeur à la résolution de cette affaire."
+            "Le parti d’extrême droite Alternativ für Deutschland (AfD) progresse massivement lors des élections régionales allemandes.",
+            "Cette poussée fragilise la coalition au pouvoir et pourrait entraîner des changements majeurs dans la politique allemande.",
+            "Les thèmes de l’immigration, de la sécurité et de l’euro sont centraux dans la campagne de l’AfD.",
+            "Le chancelier Friedrich Merz et les partis traditionnels tentent de contenir cette montée en réaffirmant leurs positions sur ces sujets."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/29/attentats-du-11-septembre-la-justice-empechee-et-paralysee-entre-raison-d-etat-et-influence-saoudienne_6785515_3210.html"
+              "url": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html"
             }
           ]
         },
         {
-          "title": "Force internationale pour Gaza : les armées africaines envisagées pour stabiliser la bande de Gaza",
+          "title": "Retrait complet de la coalition antidjihadiste d’Irak après 12 ans de présence",
           "bullets": [
-            "Le plan de paix proposé par Donald Trump prévoit le déploiement de troupes étrangères dans la bande de Gaza sous contrôle du Hamas.",
-            "Les armées africaines, bien que peu expérimentées dans ce type de mission, sont envisagées pour renforcer la stabilité.",
-            "Les défis logistiques, sécuritaires et politiques restent immenses pour une telle opération.",
-            "Israël et le Hamas doivent d’abord accepter les termes de ce plan pour que sa mise en œuvre soit possible."
+            "La coalition internationale, dirigée par les États-Unis, achève son retrait total de l’Irak après avoir contribué à vaincre l’État islamique.",
+            "Le pays reste marqué par des tensions internes, des attaques terroristes résiduelles et des défis sécuritaires persistants.",
+            "Les États-Unis et leurs alliés laissent derrière eux une armée irakienne et des forces de sécurité locales pour assurer la stabilité.",
+            "Cette décision marque la fin d’une présence militaire occidentale majeure dans le pays."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/09/29/les-armees-africaines-improbables-recrues-de-la-force-internationale-censee-stabiliser-la-bande-de-gaza_6785522_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/09/30/apres-douze-ans-de-presence-en-irak-la-coalition-antidjihadiste-acheve-son-retrait-complet-du-territoire_6785892_3210.html"
             }
           ]
         },
         {
-          "title": "Mexique : nouveaux suspects identifiés dans l’affaire des 43 étudiants disparus d’Ayotzinapa",
+          "title": "Cuba sous nouvelles sanctions américaines",
           "bullets": [
-            "Dix-sept personnes supplémentaires font l’objet d’une enquête dans cette affaire emblématique de corruption et de violences d’État.",
-            "Les investigations visent à élucider le sort des 43 étudiants enlevés en 2014 et probablement assassinés.",
-            "Les familles des victimes continuent de réclamer vérité et justice après des années d’enquêtes et de silences.",
-            "Le parquet mexicain annonce une intensification des efforts pour résoudre ce dossier."
+            "Les États-Unis imposent de nouvelles restrictions financières contre Cuba, en plus du blocus énergétique en place depuis des décennies.",
+            "Ces sanctions visent à limiter les transactions financières et les échanges commerciaux avec l’île communiste.",
+            "Le gouvernement cubain dénonce une mesure unilatérale qui aggrave la crise économique du pays.",
+            "La communauté internationale, notamment l’Union européenne, exprime son inquiétude face à l’escalade des tensions."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/29/au-mexique-de-nouveaux-suspects-identifies-dans-l-affaire-des-43-etudiants-disparus-d-ayotzinapa-en-2014_6785376_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "Tennessee : une femme pourrait devenir la première exécutée depuis 200 ans",
+          "bullets": [
+            "Christa Pike, condamnée pour le meurtre en 1995 de sa camarade d’école, pourrait être exécutée par injection létale.",
+            "Son cas relance le débat sur la peine de mort aux États-Unis, notamment en raison de son jeune âge au moment des faits (18 ans).",
+            "Les défenseurs de Pike soulignent les risques de condamnations erronées et appellent à une révision de sa peine.",
+            "L’État du Tennessee maintient sa position et prépare l’exécution prévue pour octobre 2026."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/09/30/l-americaine-christa-pike-devrait-etre-la-premiere-femme-executee-dans-l-etat-du-tennessee-depuis-200-ans_6785927_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Boeing remporte un contrat de 20 milliards de dollars pour l’avion de combat de la marine américaine",
+          "bullets": [
+            "Le constructeur aéronautique Boeing a été choisi pour développer et fabriquer le futur avion de combat pour la marine américaine.",
+            "Le contrat, évalué à 20 milliards de dollars, inclut la conception, la production et le soutien logistique.",
+            "Ce projet s’inscrit dans la modernisation de la flotte aérienne de l’US Navy et pourrait créer des milliers d’emplois.",
+            "Boeing devra respecter des délais stricts pour livrer le premier prototype d’ici 2030."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html"
             }
           ]
         }
@@ -196,63 +241,98 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Starship : SpaceX réussit un vol orbital écourté mais marque un pas vers la Lune et Mars",
+          "title": "OpenAI lance GPT-6.1 Sol, une semaine après GPT-6 Sol",
           "bullets": [
-            "SpaceX a réalisé avec succès le 14e vol d’essai de sa fusée Starship, avec un vol orbital écourté (3 heures au lieu de 10 prévues).",
-            "Ce vol a permis de tester des systèmes critiques pour les futures missions lunaires et martiennes.",
-            "Malgré un écourtement prématuré, les données recueillies sont essentielles pour améliorer la fiabilité du vaisseau.",
-            "SpaceX vise désormais une certification pour les missions habitées vers la Lune dans le cadre du programme Artemis."
+            "OpenAI annonce GPT-6.1 Sol, un nouveau modèle d’IA cinq fois moins cher que son prédécesseur GPT-6 Astra.",
+            "Ce modèle vise à démocratiser l’accès aux technologies avancées d’IA pour les entreprises et les développeurs.",
+            "GPT-6.1 Sol intègre des améliorations en termes de performance et de coût, tout en maintenant une précision élevée.",
+            "L’entreprise continue de rivaliser avec d’autres acteurs comme Google et Meta dans le domaine de l’IA générative."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2341883-voici-les-premieres-images-du-decollage-du-starship-pour-son-vol-orbital-ecourte.html"
+              "url": "https://www.numerama.com/tech/2343303-openai-lance-deja-gpt-6-1-sol-une-semaine-seulement-apres-gpt-6-sol.html"
             }
           ]
         },
         {
-          "title": "Dacia Hipster : une voiture électrique abordable à 11 000 euros pour 2027",
+          "title": "OpenAI dévoile « dots », ses assistants IA pour démocratiser l’IA agentique (sauf en Europe)",
           "bullets": [
-            "Dacia annonce le lancement de sa petite voiture électrique Hipster en 2027, avec un prix visé autour de 11 000 euros.",
-            "Ce modèle sera produit en Chine et vise à démocratiser l’accès à la mobilité électrique en Europe.",
-            "La concurrence asiatique et les attentes des consommateurs en termes de prix et d’accessibilité sont au cœur de ce projet.",
-            "Dacia mise sur une autonomie et des performances adaptées aux besoins des conducteurs urbains."
+            "OpenAI présente « dots », un service d’agents IA toujours actifs, capables d’effectuer des tâches complexes pour les utilisateurs.",
+            "Ces assistants sont conçus pour interagir de manière autonome avec des outils et des systèmes externes.",
+            "Le service est initialement disponible hors d’Europe en raison de réglementations locales sur la protection des données.",
+            "Meta et Google développent également des agents IA similaires, dans une course technologique pour dominer le marché des assistants autonomes."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2341743-dacia-hipster-une-petite-voiture-electrique-a-11-000-euros-arrivera-des-2027.html"
+              "url": "https://www.numerama.com/tech/2343069-openai-devoile-dots-ses-assistants-mignons-pour-democratiser-lia-agentique-sauf-en-europe.html"
             }
           ]
         },
         {
-          "title": "Meta lance Muse, son agent IA, mais des controverses émergent sur sa sécurité",
+          "title": "ANSSI dissèque le piratage de la DGFiP : des mots de passe volés ont suffi",
           "bullets": [
-            "Meta a lancé Muse, un agent IA capable d’agir en autonomie sur les appareils Mac, suscitant des craintes sur la sécurité et la vie privée.",
-            "Des utilisateurs rapportent des incidents où Muse a accédé à des données sensibles, comme l’historique des messages.",
-            "Les critiques soulignent les risques de fuites de données et de comportements imprévisibles de l’IA.",
-            "Meta travaille à corriger ces failles pour rassurer les utilisateurs avant une généralisation de l’outil."
+            "Un rapport de l’ANSSI révèle que le piratage de la Direction générale des finances publiques (DGFiP) a été facilité par des mots de passe volés et des accès mal sécurisés.",
+            "Des données sensibles ont été exfiltrées sans déclencher d’alerte, en raison de failles dans les protocoles de sécurité.",
+            "L’ANSSI recommande des mesures renforcées pour sécuriser les systèmes gouvernementaux contre les cyberattaques.",
+            "Ce piratage illustre les risques persistants liés à la sécurité des infrastructures critiques."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2343289-des-mots-de-passe-voles-ont-suffi-et-personne-na-rien-vu-lanssi-disseque-le-piratage-de-la-dgfip.html"
+            }
+          ]
+        },
+        {
+          "title": "Nasa relance le projet Starliner malgré un vol test calamiteux",
+          "bullets": [
+            "La Nasa prévoit de refaire voler des astronautes dans la capsule Starliner de Boeing d’ici 2028, malgré un vol test raté en 2025.",
+            "Les problèmes techniques et les retards ont entraîné des critiques envers Boeing et la Nasa.",
+            "Le projet vise à rétablir la capacité américaine de transport habité vers la Station spatiale internationale (ISS).",
+            "Les partenaires internationaux, comme l’Agence spatiale européenne (ESA), suivent de près l’évolution de ce programme."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2343083-apres-un-vol-test-calamiteux-la-nasa-veut-quand-meme-refaire-voler-des-astronautes-dans-le-starliner-dici-2028.html"
+            }
+          ]
+        },
+        {
+          "title": "The Witcher 3 Remastered : une nouveauté majeure qui change la donne",
+          "bullets": [
+            "The Witcher 3 Remastered ajoute une fonctionnalité majeure : le loot à cheval, permettant de transporter plus d’objets et d’améliorer l’expérience de jeu.",
+            "Ce remaster inclut également du path tracing et des textures améliorées pour une qualité graphique supérieure.",
+            "Le jeu est gratuit pour les possesseurs de la version originale sortie en 2015.",
+            "Cette mise à jour renforce l’attrait du jeu et prolonge son cycle de vie dans le paysage du gaming."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2342405-ok-the-witcher-3-remastered-est-sublime-mais-cest-cette-nouveaute-qui-compte-vraiment.html"
+            }
+          ]
         }
       ]
     },
     {
-      "label": "Impression 3D",
+      "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "GTA 6 : un fan recrée une figurine du coffret à 400 dollars pour impression 3D",
+          "title": "Meta étend son agent IA Muse aux petites entreprises",
           "bullets": [
-            "Un fan a créé une réplique imprimable en 3D de la figurine officielle de GTA 6, initialement vendue 400 dollars.",
-            "Cette initiative permet aux joueurs de posséder une réplique à moindre coût et de personnaliser leur collection.",
-            "Le fichier est disponible gratuitement en ligne, encourageant la communauté des passionnés d’impression 3D.",
-            "Ce projet illustre l’innovation et la créativité des fans dans l’accès aux produits de leurs jeux préférés."
+            "Meta lance Muse, un agent IA conçu pour aider les petites entreprises dans leurs tâches quotidiennes, comme la gestion administrative ou la communication client.",
+            "Cet outil vise à automatiser et optimiser les processus métiers pour les PME, en réduisant les coûts et en augmentant l’efficacité.",
+            "Muse est disponible sur plusieurs plateformes, y compris Facebook et Instagram, pour une intégration fluide dans les outils existants.",
+            "Les critiques soulignent des questions de confidentialité et de fiabilité des réponses générées par l’IA."
           ],
           "sources": []
         }
@@ -262,22 +342,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque à la vente de fourrage : les éleveurs ciblés par une nouvelle escroquerie en période de sécheresse",
+          "title": "Cyberattaque contre les impôts : des failles ordinaires ont permis le vol de données",
           "bullets": [
-            "Des arnaques à la vente de fourrage frauduleux ciblent les éleveurs, notamment dans les régions touchées par la sécheresse.",
-            "Les escrocs proposent des livraisons de fourrage non conformes ou inexistantes, exploitant l’urgence des besoins des agriculteurs.",
-            "Les autorités alertent sur les méthodes utilisées, comme les faux sites de vente ou les paiements anticipés sans livraison.",
-            "Les éleveurs sont invités à vérifier les sources et à signaler les tentatives d’escroquerie aux gendarmeries."
+            "Une cyberattaque contre les impôts a exploité des failles de sécurité basiques, comme des mots de passe volés et des accès mal sécurisés.",
+            "Des centaines de milliers de données personnelles ont été exfiltrées sans déclencher d’alerte immédiate.",
+            "L’ANSSI recommande des mesures renforcées pour sécuriser les systèmes gouvernementaux contre les cybermenaces.",
+            "Cette attaque souligne la nécessité de renforcer la cybersécurité dans les administrations publiques."
           ],
           "sources": []
         },
         {
-          "title": "Virements instantanés : attention aux arnaques ciblant les comptes bancaires",
+          "title": "Dette française : 119% du PIB malgré 37 milliards d’impôts supplémentaires",
           "bullets": [
-            "Les arnaqueurs exploitent les virements instantanés pour soutirer des fonds aux victimes, souvent sous prétexte d’urgence.",
-            "Les techniques incluent l’usurpation d’identité ou la simulation de demandes de paiement de la part de proches ou d’organismes officiels.",
-            "Les banques et les autorités rappellent de toujours vérifier l’authenticité des demandes avant d’effectuer un virement.",
-            "Les victimes sont invitées à signaler ces tentatives via les plateformes dédiées."
+            "La dette publique française atteint 119% du PIB, malgré une hausse de 37 milliards d’euros de recettes fiscales cette année.",
+            "Cette situation alourdit la charge de la dette et limite les marges de manœuvre budgétaires pour l’État.",
+            "Les experts appellent à des réformes structurelles pour réduire le déficit et améliorer la soutenabilité de la dette.",
+            "Les mesures d’austérité et les hausses d’impôts pourraient être nécessaires pour stabiliser les finances publiques."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque au faux conseiller bancaire : un fils de bonne famille impliqué dans un réseau d’alloteurs",
+          "bullets": [
+            "Un homme issu d’un milieu aisé est soupçonné d’avoir dirigé un réseau d’alloteurs, qui manipulent les cours des actions pour leur profit.",
+            "Les enquêteurs ont identifié des transactions suspectes et des mouvements financiers anormaux liés à ce réseau.",
+            "Cette affaire illustre les risques de fraudes financières et les méthodes sophistiquées utilisées par les escrocs.",
+            "Les autorités judiciaires enquêtent pour déterminer l’étendue des préjudices causés aux investisseurs."
           ],
           "sources": []
         }
@@ -287,12 +377,32 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Nuit du Rugby 2026 : Willis et Bielle-Biarrey récompensés dans un palmarès prestigieux",
+          "title": "Championnats d’Europe de cyclisme 2026 : programme et dates à Ljubljana",
           "bullets": [
-            "La Nuit du Rugby 2026 a récompensé plusieurs joueurs et équipes, avec une attention particulière pour les talents émergents et confirmés.",
-            "Willis et Bielle-Biarrey ont été honorés pour leurs performances exceptionnelles cette saison.",
-            "Les Bleus, notamment Bielle-Biarrey, sont mis en avant pour leur contribution au rugby français.",
-            "Cette cérémonie met en lumière les valeurs du rugby et les parcours inspirants des athlètes."
+            "Les Championnats d’Europe de cyclisme sur route se dérouleront à Ljubljana, en Slovénie, du 25 au 30 septembre 2026.",
+            "Les courses incluent des épreuves masculines et féminines sur différentes distances, ainsi que des contre-la-montre.",
+            "Les favoris, comme les coureurs français et belges, seront en lice pour remporter des médailles.",
+            "Les organisateurs prévoient des mesures pour garantir la sécurité et l’accessibilité des spectateurs."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Paris Basketball battu par le Partizan Belgrade en Euroligue",
+          "bullets": [
+            "Le Paris Basketball s’incline face au Partizan Belgrade lors de son premier match à domicile de la saison en Euroligue.",
+            "Cette défaite marque le début difficile de la saison pour l’équipe parisienne, qui affronte des adversaires de haut niveau.",
+            "Les supporters et les médias analysent les performances des joueurs et les stratégies à adopter pour rebondir.",
+            "Le calendrier chargé de l’Euroligue impose des défis constants pour les équipes engagées."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Disparition tragique de Damien Girard, coureur cycliste de seconde catégorie",
+          "bullets": [
+            "Damien Girard, coureur cycliste de seconde catégorie, est décédé à l’âge de 24 ans, selon les informations disponibles.",
+            "Son décès survient dans un contexte de montée des risques liés à la pratique du cyclisme, notamment en compétition.",
+            "Les organisateurs de courses et les fédérations cyclistes renforcent les mesures de sécurité pour prévenir de tels accidents.",
+            "Les supporters et collègues de Damien Girard rendent hommage à sa passion et à son engagement dans le sport."
           ],
           "sources": []
         }
@@ -353,7 +463,7 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Chicago Bears – Philadelphia Eagles · 18h00 · beIN SPORTS 3 · rediffusion"
+            "Chicago Bears – Philadelphia Eagles · 21h30 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {
