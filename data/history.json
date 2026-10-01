@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/23/primaire-a-gauche-la-valse-hesitation-d-olivier-faure_6780618_823448.html",
-    "title": "Primaire de gauche : Olivier Faure hésite sur sa candidature",
-    "rubrique": "France",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html",
-    "title": "Affaire de violences sexuelles sur mineurs : un intervenant en anglais en garde à vue à Paris",
-    "rubrique": "France",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/23/perpignan-la-mairie-rn-veut-exposer-des-statues-de-la-nativite-pour-les-fetes-de-fin-d-annee_6780366_823448.html",
-    "title": "Perpignan : la mairie RN expose des statues de la Nativité pour les fêtes de fin d’année",
-    "rubrique": "France",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/23/senatoriales-2026-qui-sont-les-candidats_6780576_4355770.html",
-    "title": "Sénatoriales 2026 : qui sont les candidats en lice ?",
-    "rubrique": "France",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/23/a-l-assemblee-generale-de-l-onu-emmanuel-macron-prend-le-contrepied-de-donald-trump_6780583_3210.html",
-    "title": "Assemblée générale de l’ONU : Macron défend le multilatéralisme face à Trump",
-    "rubrique": "International",
-    "date": "2026-09-23"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/09/24/primaire-a-gauche-la-situation-a-gaza-et-l-alliance-avec-lfi-electrisent-le-premier-debat-televise_6781332_823448.html",
     "title": "Débat de la primaire à gauche : Gaza et alliance avec LFI au cœur des tensions",
     "rubrique": "France",
@@ -604,5 +574,83 @@
     "title": "The Witcher 3 Remastered : une nouveauté majeure qui change la donne",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-l-inquietude-des-militants-ecologistes-et-communistes-partisans-d-une-union-a-gauche_6786440_823448.html",
+    "title": "Présidentielle 2027 : tensions au sein de la gauche sur les candidatures autonomes",
+    "rubrique": "France",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/01/loi-integrale-aucun-texte-n-a-pense-la-protection-des-victimes-comme-une-fonction-a-part-entiere_6786435_3232.html",
+    "title": "Loi contre les violences sexistes et sexuelles : lacunes dans la protection des victimes",
+    "rubrique": "France",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html",
+    "title": "Budget 2027 : le gouvernement affronte les critiques sur la surveillance des marchés",
+    "rubrique": "France",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html",
+    "title": "Procès de Robert Ménard : amende requise pour refus de célébrer un mariage sous OQTF",
+    "rubrique": "France",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/09/30/gabriel-serville-president-de-la-collectivite-territoriale-de-guyane-est-mort-a-67-ans_6786126_823448.html",
+    "title": "Décès de Gabriel Serville, président de la collectivité territoriale de Guyane",
+    "rubrique": "France",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/01/d-un-sommet-a-l-autre-la-chine-faconne-un-monde-favorable-a-sa-preeminence_6786446_3232.html",
+    "title": "La Chine renforce son influence via des sommets diplomatiques discrets mais stratégiques",
+    "rubrique": "International",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/01/tout-notre-quotidien-s-est-rencheri-en-europe-la-hausse-des-prix-des-carburants-ampute-le-pouvoir-d-achat-et-pousse-les-gouvernements-a-multiplier-les-aides_6786443_3234.html",
+    "title": "Hausse des prix des carburants en Europe : impact sur le pouvoir d’achat et les aides gouvernementales",
+    "rubrique": "International",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/01/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-je-ne-me-suis-pas-encore-habituee-a-cet-aspect-de-la-guerre-a-dire-adieu-pour-de-vrai_6786394_4500055.html",
+    "title": "Guerre en Ukraine : témoignages poignants de deux sœurs séparées par le conflit",
+    "rubrique": "International",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html",
+    "title": "États-Unis : tentative d’exécution avortée pour Christa Pike, première femme condamnée à mort depuis 2023",
+    "rubrique": "International",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html",
+    "title": "Décès d’Esther Rantzen, militante britannique pour le droit à une mort digne",
+    "rubrique": "International",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html",
+    "title": "Google annonce Gemini 4 Argon, rivalisant avec OpenAI et Anthropic",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2343709-firefox-157-arrive-avec-nova-son-plus-grand-redesign-depuis-2021.html",
+    "title": "Firefox 157 : le nouveau design Nova révolutionne l’expérience utilisateur",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2344073-vigilance-rouge-dans-le-gard-et-lherault-un-episode-mediterraneen-remarquable-voire-exceptionnel-frappe-le-sud-est.html",
+    "title": "Épisode méditerranéen exceptionnel : vigilance rouge dans le Gard et l’Hérault",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-01"
   }
 ]

@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 30 septembre 2026",
+  "date_str": "Jeudi 1 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 11,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Jérôme, Félicie et Ours",
+          "title": "Aujourd'hui, on souhaite la fête : Paësie, Thérèse, Ariel, Arielle, Mélodie et Romanos",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/30/9/2026/30-Septembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/1/10/2026/1-Octobre-2026.html"
             }
           ]
         }
@@ -22,107 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Bruno Retailleau remettrait en cause la primauté du droit européen en cas de victoire présidentielle",
+          "title": "Présidentielle 2027 : tensions au sein de la gauche sur les candidatures autonomes",
           "bullets": [
-            "Le candidat LR à la présidentielle 2027 propose de donner au Conseil constitutionnel le pouvoir de vérifier si le droit européen respecte la Constitution française.",
-            "Cette proposition divise la droite européenne et pourrait fragiliser les alliances transnationales.",
-            "Retailleau défend une vision souverainiste de l’Europe, critiquant son manque de démocratie selon lui.",
-            "Ses déclarations suscitent des inquiétudes parmi les partenaires européens sur l’avenir des traités et de l’intégration juridique."
+            "Marine Tondelier (EELV) et Fabien Roussel (PCF) maintiennent leurs candidatures séparées malgré les appels à l’union.",
+            "Les militants écologistes et communistes craignent une division des voix à gauche et une victoire de la droite.",
+            "Les débats portent sur une stratégie commune pour mobiliser l’électorat face à la montée du RN.",
+            "LFI et Mélenchon restent en retrait, privilégiant une alliance conditionnelle après les primaires."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/30/presidentielle-2027-bruno-retailleau-gene-la-droite-europeenne-avec-sa-remise-en-cause-de-la-primaute-du-droit-de-l-ue_6785972_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-l-inquietude-des-militants-ecologistes-et-communistes-partisans-d-une-union-a-gauche_6786440_823448.html"
             }
           ]
         },
         {
-          "title": "Édouard Philippe propose une réforme des retraites à 65 ans et 45 annuités",
+          "title": "Loi contre les violences sexistes et sexuelles : lacunes dans la protection des victimes",
           "bullets": [
-            "L’ancien Premier ministre annonce un projet de réforme visant à relever l’âge légal de départ à 65 ans et à exiger 45 annuités de cotisations.",
-            "Cette mesure s’inscrit dans une volonté de « justice sociale » et de pérennisation du système par répartition.",
-            "Les détails de la réforme, notamment les modalités de transition, restent à préciser.",
-            "Les syndicats et partis d’opposition pourraient s’opposer à cette réforme, jugée trop restrictive."
+            "La proposition de loi, débattue à l’Assemblée nationale, ne pose pas la protection des victimes comme une priorité autonome.",
+            "Les associations dénoncent un manque de moyens pour les structures d’accueil et de soutien.",
+            "Les députés doivent examiner les amendements pour renforcer les dispositifs existants.",
+            "Les violences conjugales et sexuelles restent un fléau persistant en France, avec des milliers de victimes chaque année."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/presidentielle-2027-edouard-philippe-devoile-son-projet-de-retraite-a-65-ans-et-45-annuites_6785692_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/01/loi-integrale-aucun-texte-n-a-pense-la-protection-des-victimes-comme-une-fonction-a-part-entiere_6786435_3232.html"
             }
           ]
         },
         {
-          "title": "Médias Bolloré : révélations sur des accusations de « taupe » au sein du RN",
+          "title": "Budget 2027 : le gouvernement affronte les critiques sur la surveillance des marchés",
           "bullets": [
-            "Le média « L’Infiltré » a annoncé abandonner ses accusations contre un prétendu « traître » au sein du Rassemblement National après des réactions virulentes.",
-            "Jordan Bardella et le RN dénoncent une campagne de diffamation et une « violence sidérante » contre leurs militants.",
-            "Le média a été critiqué pour ses méthodes et ses sources non vérifiées.",
-            "Cette affaire relance le débat sur la désinformation et les méthodes journalistiques dans le paysage politique français."
+            "Le projet de budget, présenté comme un « budget de redressement », suscite des tensions avec les oppositions.",
+            "Sébastien Lecornu (Ministère de la Transition écologique) doit justifier les mesures de contrôle des marchés financiers.",
+            "Les économistes soulignent un risque de pression accrue sur les ménages et les entreprises.",
+            "Les débats parlementaires s’annoncent houleux, avec des accusations de manque de transparence."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/les-medias-bollore-chassent-la-taupe-d-un-rn-paranoiaque_6785691_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html"
             }
           ]
         },
         {
-          "title": "Fonction publique en grève : mobilisation contre le gel des salaires",
+          "title": "Procès de Robert Ménard : amende requise pour refus de célébrer un mariage sous OQTF",
           "bullets": [
-            "Les syndicats appellent à une journée de mobilisation pour protester contre le gel des salaires dans la fonction publique, annoncé par le gouvernement.",
-            "Les agents dénoncent une « précarisation » et réclament des augmentations pour faire face à l’inflation.",
-            "Les grèves pourraient perturber les services publics, notamment dans l’éducation et la santé.",
-            "Le gouvernement maintient sa position, invoquant des contraintes budgétaires."
+            "Le maire de Béziers est jugé pour avoir refusé de marier un couple dont l’homme était sous obligation de quitter le territoire (OQTF).",
+            "La défense argue que cette décision relève de la liberté municipale, mais le tribunal correctionnel de Montpellier requiert une amende.",
+            "Ce procès interroge sur les limites entre laïcité et droits fondamentaux des étrangers en situation irrégulière.",
+            "L’affaire illustre les tensions autour de l’accueil des étrangers et de la neutralité des collectivités locales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/pouvoir-d-achat-la-fonction-publique-dans-la-rue-pour-reclamer-autre-chose-que-des-remerciements_6785684_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html"
             }
           ]
         },
         {
-          "title": "Annulation des élections municipales à Vaulx-en-Velin pour irrégularités",
+          "title": "Décès de Gabriel Serville, président de la collectivité territoriale de Guyane",
           "bullets": [
-            "La justice a annulé les élections municipales remportées par La France insoumise (LFI) en raison d’irrégularités sur une liste divers centre.",
-            "Abdelkader Lahmar, député « insoumis » élu, se voit privé de son mandat.",
-            "Cette décision pourrait entraîner de nouvelles élections locales dans la commune lyonnaise.",
-            "L’affaire soulève des questions sur la régularité des scrutins et la transparence des élections municipales."
+            "Gabriel Serville, figure politique guyanaise, est décédé à 67 ans après une longue carrière publique.",
+            "Ancien professeur de mathématiques, il a été élu président de la Guyane en 2015 et réélu en 2021.",
+            "Sébastien Lecornu (Premier ministre) a salué son engagement pour le développement de la région.",
+            "Son décès laisse un vide politique dans une collectivité confrontée à des défis économiques et sociaux majeurs."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/municipales-a-vaulx-en-velin-la-justice-annule-les-elections-remportees-par-lfi-apres-celles-de-venissieux_6785680_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Enquête sur Jordan Bardella : révélations de messages antisémites de 2013",
-          "bullets": [
-            "Le média « Mediapart » publie des messages antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national.",
-            "Le président du RN réagit en dénonçant une manipulation et une « campagne de haine » contre son parti.",
-            "Ces révélations pourraient avoir des conséquences sur sa campagne présidentielle et son image publique.",
-            "Le RN accuse « Mediapart » de diffamation et de manque de rigueur journalistique."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/enquete-sur-jordan-bardella-apres-la-reaction-du-president-du-rn-mediapart-denonce-la-violence-siderante-du-parti-d-extreme-droite_6785580_823449.html"
-            }
-          ]
-        },
-        {
-          "title": "Sénat : refus des écologistes d’accueillir Gabriel Amard (LFI)",
-          "bullets": [
-            "Les sénateurs écologistes rejettent la demande de Gabriel Amard (LFI) pour rejoindre leur groupe parlementaire.",
-            "Cette décision vise à éviter une fracture au sein du groupe écologiste et à préserver la cohésion politique.",
-            "LFI dénonce une exclusion politique et une volonté de marginalisation.",
-            "Cette affaire illustre les tensions entre les différents groupes politiques au Sénat."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/29/senat-les-ecologistes-refusent-d-accueillir-l-insoumis-gabriel-amard-dans-leur-groupe_6785675_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/09/30/gabriel-serville-president-de-la-collectivite-territoriale-de-guyane-est-mort-a-67-ans_6786126_823448.html"
             }
           ]
         }
@@ -132,107 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : frappe russe tue un enfant près de Kiev",
+          "title": "La Chine renforce son influence via des sommets diplomatiques discrets mais stratégiques",
           "bullets": [
-            "Un enfant est tué et plusieurs civils blessés par des frappes russes dans la région de Kiev, selon les autorités ukrainiennes.",
-            "Volodymyr Zelensky demande une accélération de la production de systèmes anti-drones pour contrer les attaques russes.",
-            "Les frappes russes visent des infrastructures civiles et militaires dans le cadre de la guerre en cours depuis 2022.",
-            "L’ONU et les pays occidentaux condamnent ces attaques et appellent au respect du droit international humanitaire."
+            "Pékin utilise les réunions internationales pour façonner un ordre mondial favorable à ses intérêts.",
+            "Les accords conclus lors de ces sommets, bien que peu médiatisés, ont un impact géopolitique durable.",
+            "La Chine développe des partenariats économiques et technologiques avec des pays africains et asiatiques.",
+            "Les États-Unis et l’Europe surveillent ces manœuvres, craignant une domination croissante de Pékin."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-un-enfant-tue-par-des-frappes-russes-dans-la-region-de-kiev_6783795_3210.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/01/d-un-sommet-a-l-autre-la-chine-faconne-un-monde-favorable-a-sa-preeminence_6786446_3232.html"
             }
           ]
         },
         {
-          "title": "Fin de l’accord « un qui entre, un qui sort » entre la France et le Royaume-Uni sur l’immigration",
+          "title": "Hausse des prix des carburants en Europe : impact sur le pouvoir d’achat et les aides gouvernementales",
           "bullets": [
-            "La France met fin à l’accord expérimental avec le Royaume-Uni, jugé inefficace pour contrôler les flux migratoires illégaux.",
-            "Paris critique l’absence de résultats concrets malgré deux ans de coopération.",
-            "Le Royaume-Uni maintient sa politique de contrôle aux frontières, mais les tensions persistent sur la gestion des demandeurs d’asile.",
-            "Cette décision pourrait impacter les relations bilatérales et les politiques migratoires européennes."
+            "Les cours du pétrole atteignent de nouveaux sommets, aggravant la crise du pouvoir d’achat en Europe.",
+            "Les gouvernements multiplient les aides financières pour atténuer l’impact sur les ménages et les entreprises.",
+            "L’Allemagne, la France et l’Italie ont annoncé des mesures exceptionnelles pour soutenir les consommateurs.",
+            "Les associations de consommateurs appellent à une régulation des prix et à une transition énergétique accélérée."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/01/tout-notre-quotidien-s-est-rencheri-en-europe-la-hausse-des-prix-des-carburants-ampute-le-pouvoir-d-achat-et-pousse-les-gouvernements-a-multiplier-les-aides_6786443_3234.html"
             }
           ]
         },
         {
-          "title": "Montée historique de l’AfD en Allemagne : un séisme politique",
+          "title": "Guerre en Ukraine : témoignages poignants de deux sœurs séparées par le conflit",
           "bullets": [
-            "Le parti d’extrême droite Alternativ für Deutschland (AfD) progresse massivement lors des élections régionales allemandes.",
-            "Cette poussée fragilise la coalition au pouvoir et pourrait entraîner des changements majeurs dans la politique allemande.",
-            "Les thèmes de l’immigration, de la sécurité et de l’euro sont centraux dans la campagne de l’AfD.",
-            "Le chancelier Friedrich Merz et les partis traditionnels tentent de contenir cette montée en réaffirmant leurs positions sur ces sujets."
+            "Olga vit à Paris, Sasha à Kiev, où les frappes russes se multiplient.",
+            "Sasha décrit son incapacité à s’habituer à l’idée de dire « adieu pour de vrai » à ses proches.",
+            "Les lettres échangées révèlent l’impact psychologique et humain de la guerre sur les civils ukrainiens.",
+            "La communauté internationale reste divisée sur la durée et l’issue du conflit."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html"
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/01/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-je-ne-me-suis-pas-encore-habituee-a-cet-aspect-de-la-guerre-a-dire-adieu-pour-de-vrai_6786394_4500055.html"
             }
           ]
         },
         {
-          "title": "Retrait complet de la coalition antidjihadiste d’Irak après 12 ans de présence",
+          "title": "États-Unis : tentative d’exécution avortée pour Christa Pike, première femme condamnée à mort depuis 2023",
           "bullets": [
-            "La coalition internationale, dirigée par les États-Unis, achève son retrait total de l’Irak après avoir contribué à vaincre l’État islamique.",
-            "Le pays reste marqué par des tensions internes, des attaques terroristes résiduelles et des défis sécuritaires persistants.",
-            "Les États-Unis et leurs alliés laissent derrière eux une armée irakienne et des forces de sécurité locales pour assurer la stabilité.",
-            "Cette décision marque la fin d’une présence militaire occidentale majeure dans le pays."
+            "Christa Pike, condamnée pour meurtre au Tennessee, a survécu à une tentative d’exécution par injection létale.",
+            "Sa défense invoque des irrégularités dans le processus judiciaire et des risques médicaux.",
+            "Les États-Unis restent l’un des rares pays à appliquer la peine capitale, malgré les critiques internationales.",
+            "L’affaire relance le débat sur l’abolition de la peine de mort aux États-Unis."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/30/apres-douze-ans-de-presence-en-irak-la-coalition-antidjihadiste-acheve-son-retrait-complet-du-territoire_6785892_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html"
             }
           ]
         },
         {
-          "title": "Cuba sous nouvelles sanctions américaines",
+          "title": "Décès d’Esther Rantzen, militante britannique pour le droit à une mort digne",
           "bullets": [
-            "Les États-Unis imposent de nouvelles restrictions financières contre Cuba, en plus du blocus énergétique en place depuis des décennies.",
-            "Ces sanctions visent à limiter les transactions financières et les échanges commerciaux avec l’île communiste.",
-            "Le gouvernement cubain dénonce une mesure unilatérale qui aggrave la crise économique du pays.",
-            "La communauté internationale, notamment l’Union européenne, exprime son inquiétude face à l’escalade des tensions."
+            "Esther Rantzen, journaliste et activiste, est morte à 86 ans après un combat contre un cancer du poumon.",
+            "Elle a relancé le débat sur l’euthanasie et l’aide à mourir au Royaume-Uni.",
+            "Son engagement a influencé les lois britanniques sur la fin de vie, notamment le *Medical Aid in Dying Act*.",
+            "Son héritage persiste dans les mouvements pro-droits des patients en Europe."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Tennessee : une femme pourrait devenir la première exécutée depuis 200 ans",
-          "bullets": [
-            "Christa Pike, condamnée pour le meurtre en 1995 de sa camarade d’école, pourrait être exécutée par injection létale.",
-            "Son cas relance le débat sur la peine de mort aux États-Unis, notamment en raison de son jeune âge au moment des faits (18 ans).",
-            "Les défenseurs de Pike soulignent les risques de condamnations erronées et appellent à une révision de sa peine.",
-            "L’État du Tennessee maintient sa position et prépare l’exécution prévue pour octobre 2026."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/09/30/l-americaine-christa-pike-devrait-etre-la-premiere-femme-executee-dans-l-etat-du-tennessee-depuis-200-ans_6785927_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Boeing remporte un contrat de 20 milliards de dollars pour l’avion de combat de la marine américaine",
-          "bullets": [
-            "Le constructeur aéronautique Boeing a été choisi pour développer et fabriquer le futur avion de combat pour la marine américaine.",
-            "Le contrat, évalué à 20 milliards de dollars, inclut la conception, la production et le soutien logistique.",
-            "Ce projet s’inscrit dans la modernisation de la flotte aérienne de l’US Navy et pourrait créer des milliers d’emplois.",
-            "Boeing devra respecter des délais stricts pour livrer le premier prototype d’ici 2030."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html"
             }
           ]
         }
@@ -240,84 +180,64 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "sujets": [
+        {
+          "title": "Haute-Saône : trois hommes jugés pour chasse illégale et braconnage",
+          "bullets": [
+            "Trois hommes sont accusés d’avoir poursuivi des sangliers en voiture et tué des espèces protégées en pleine nuit.",
+            "Les faits remontent à plusieurs mois et ont été commis dans des zones interdites de chasse.",
+            "Les associations de protection de la faune sauvage dénoncent ces pratiques illégales et dangereuses.",
+            "Le tribunal de Vesoul doit statuer sur la peine à infliger aux prévenus."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "OpenAI lance GPT-6.1 Sol, une semaine après GPT-6 Sol",
+          "title": "Google annonce Gemini 4 Argon, rivalisant avec OpenAI et Anthropic",
           "bullets": [
-            "OpenAI annonce GPT-6.1 Sol, un nouveau modèle d’IA cinq fois moins cher que son prédécesseur GPT-6 Astra.",
-            "Ce modèle vise à démocratiser l’accès aux technologies avancées d’IA pour les entreprises et les développeurs.",
-            "GPT-6.1 Sol intègre des améliorations en termes de performance et de coût, tout en maintenant une précision élevée.",
-            "L’entreprise continue de rivaliser avec d’autres acteurs comme Google et Meta dans le domaine de l’IA générative."
+            "Google revendique des performances supérieures à celles de ses concurrents, notamment dans les tâches complexes.",
+            "Gemini 4 Argon intègre des améliorations en matière d’interprétation contextuelle et de génération de contenu.",
+            "Les tests internes montrent une précision accrue, notamment dans les domaines scientifiques et techniques.",
+            "OpenAI et Anthropic maintiennent leur avance en termes de popularité et d’usage grand public."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2343303-openai-lance-deja-gpt-6-1-sol-une-semaine-seulement-apres-gpt-6-sol.html"
+              "url": "https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html"
             }
           ]
         },
         {
-          "title": "OpenAI dévoile « dots », ses assistants IA pour démocratiser l’IA agentique (sauf en Europe)",
+          "title": "Firefox 157 : le nouveau design Nova révolutionne l’expérience utilisateur",
           "bullets": [
-            "OpenAI présente « dots », un service d’agents IA toujours actifs, capables d’effectuer des tâches complexes pour les utilisateurs.",
-            "Ces assistants sont conçus pour interagir de manière autonome avec des outils et des systèmes externes.",
-            "Le service est initialement disponible hors d’Europe en raison de réglementations locales sur la protection des données.",
-            "Meta et Google développent également des agents IA similaires, dans une course technologique pour dominer le marché des assistants autonomes."
+            "Mozilla lance Firefox 157 avec le design Nova, le plus important depuis 2021.",
+            "Les interfaces sur ordinateur et mobile sont repensées pour une navigation plus intuitive et fluide.",
+            "Les utilisateurs bénéficient d’une meilleure organisation des onglets et d’une personnalisation accrue.",
+            "Ce changement vise à concurrencer Chrome et Safari en termes d’ergonomie et d’innovation."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2343069-openai-devoile-dots-ses-assistants-mignons-pour-democratiser-lia-agentique-sauf-en-europe.html"
+              "url": "https://www.numerama.com/tech/2343709-firefox-157-arrive-avec-nova-son-plus-grand-redesign-depuis-2021.html"
             }
           ]
         },
         {
-          "title": "ANSSI dissèque le piratage de la DGFiP : des mots de passe volés ont suffi",
+          "title": "Épisode méditerranéen exceptionnel : vigilance rouge dans le Gard et l’Hérault",
           "bullets": [
-            "Un rapport de l’ANSSI révèle que le piratage de la Direction générale des finances publiques (DGFiP) a été facilité par des mots de passe volés et des accès mal sécurisés.",
-            "Des données sensibles ont été exfiltrées sans déclencher d’alerte, en raison de failles dans les protocoles de sécurité.",
-            "L’ANSSI recommande des mesures renforcées pour sécuriser les systèmes gouvernementaux contre les cyberattaques.",
-            "Ce piratage illustre les risques persistants liés à la sécurité des infrastructures critiques."
+            "Météo-France alerte sur un épisode méditerranéen remarquable, avec des pluies diluviennes et un risque d’inondations.",
+            "Le Gard et l’Hérault sont placés en vigilance rouge, avec des conséquences potentielles graves pour les populations.",
+            "Les services de secours sont en alerte maximale pour intervenir en cas d’urgence.",
+            "Les habitants sont invités à se tenir informés et à suivre les consignes de sécurité."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2343289-des-mots-de-passe-voles-ont-suffi-et-personne-na-rien-vu-lanssi-disseque-le-piratage-de-la-dgfip.html"
-            }
-          ]
-        },
-        {
-          "title": "Nasa relance le projet Starliner malgré un vol test calamiteux",
-          "bullets": [
-            "La Nasa prévoit de refaire voler des astronautes dans la capsule Starliner de Boeing d’ici 2028, malgré un vol test raté en 2025.",
-            "Les problèmes techniques et les retards ont entraîné des critiques envers Boeing et la Nasa.",
-            "Le projet vise à rétablir la capacité américaine de transport habité vers la Station spatiale internationale (ISS).",
-            "Les partenaires internationaux, comme l’Agence spatiale européenne (ESA), suivent de près l’évolution de ce programme."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2343083-apres-un-vol-test-calamiteux-la-nasa-veut-quand-meme-refaire-voler-des-astronautes-dans-le-starliner-dici-2028.html"
-            }
-          ]
-        },
-        {
-          "title": "The Witcher 3 Remastered : une nouveauté majeure qui change la donne",
-          "bullets": [
-            "The Witcher 3 Remastered ajoute une fonctionnalité majeure : le loot à cheval, permettant de transporter plus d’objets et d’améliorer l’expérience de jeu.",
-            "Ce remaster inclut également du path tracing et des textures améliorées pour une qualité graphique supérieure.",
-            "Le jeu est gratuit pour les possesseurs de la version originale sortie en 2015.",
-            "Cette mise à jour renforce l’attrait du jeu et prolonge son cycle de vie dans le paysage du gaming."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2342405-ok-the-witcher-3-remastered-est-sublime-mais-cest-cette-nouveaute-qui-compte-vraiment.html"
+              "url": "https://www.numerama.com/sciences/2344073-vigilance-rouge-dans-le-gard-et-lherault-un-episode-mediterraneen-remarquable-voire-exceptionnel-frappe-le-sud-est.html"
             }
           ]
         }
@@ -327,12 +247,22 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Meta étend son agent IA Muse aux petites entreprises",
+          "title": "OpenAI lance Dots, un agent IA autonome pour accomplir des tâches sans intervention humaine",
           "bullets": [
-            "Meta lance Muse, un agent IA conçu pour aider les petites entreprises dans leurs tâches quotidiennes, comme la gestion administrative ou la communication client.",
-            "Cet outil vise à automatiser et optimiser les processus métiers pour les PME, en réduisant les coûts et en augmentant l’efficacité.",
-            "Muse est disponible sur plusieurs plateformes, y compris Facebook et Instagram, pour une intégration fluide dans les outils existants.",
-            "Les critiques soulignent des questions de confidentialité et de fiabilité des réponses générées par l’IA."
+            "Dots est conçu pour initier des actions et résoudre des problèmes sans instructions explicites.",
+            "L’IA analyse les besoins utilisateurs et agit en conséquence, comme un assistant virtuel proactif.",
+            "OpenAI met en avant ses capacités d’apprentissage et d’adaptation en temps réel.",
+            "Les experts en cybersécurité soulignent les risques potentiels liés à l’autonomie des agents IA."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Nvidia promet de stabiliser les agents IA en millisecondes pour éviter les dysfonctionnements",
+          "bullets": [
+            "Nvidia travaille sur des solutions pour corriger rapidement les erreurs ou comportements indésirables des agents IA.",
+            "Ces technologies visent à garantir une exécution stable et sécurisée des tâches automatisées.",
+            "Les entreprises dépendantes des IA (comme les centres de données ou les robots industriels) y voient un atout majeur.",
+            "Les tests en conditions réelles restent nécessaires pour valider l’efficacité de ces correctifs."
           ],
           "sources": []
         }
@@ -342,32 +272,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Cyberattaque contre les impôts : des failles ordinaires ont permis le vol de données",
+          "title": "Piratage du site des impôts : rapport officiel révèle les failles ayant permis le vol de données",
           "bullets": [
-            "Une cyberattaque contre les impôts a exploité des failles de sécurité basiques, comme des mots de passe volés et des accès mal sécurisés.",
-            "Des centaines de milliers de données personnelles ont été exfiltrées sans déclencher d’alerte immédiate.",
-            "L’ANSSI recommande des mesures renforcées pour sécuriser les systèmes gouvernementaux contre les cybermenaces.",
-            "Cette attaque souligne la nécessité de renforcer la cybersécurité dans les administrations publiques."
+            "Un rapport détaillé expose les vulnérabilités exploitées lors du piratage du site impots.gouv.fr.",
+            "Des centaines de milliers de Français ont vu leurs données personnelles et fiscales compromises.",
+            "Les autorités ont identifié des lacunes dans les protocoles de sécurité et les systèmes de chiffrement.",
+            "Des mesures correctives sont en cours pour renforcer la protection des données sensibles."
           ],
           "sources": []
         },
         {
-          "title": "Dette française : 119% du PIB malgré 37 milliards d’impôts supplémentaires",
+          "title": "Arnaque au blocage de retraite : un mail signé Cnav est un faux",
           "bullets": [
-            "La dette publique française atteint 119% du PIB, malgré une hausse de 37 milliards d’euros de recettes fiscales cette année.",
-            "Cette situation alourdit la charge de la dette et limite les marges de manœuvre budgétaires pour l’État.",
-            "Les experts appellent à des réformes structurelles pour réduire le déficit et améliorer la soutenabilité de la dette.",
-            "Les mesures d’austérité et les hausses d’impôts pourraient être nécessaires pour stabiliser les finances publiques."
+            "Un mail frauduleux, prétendant provenir de la Cnav, informe les retraités d’un prétendu blocage de leur pension.",
+            "Les victimes sont invitées à cliquer sur un lien malveillant pour « débloquer » leur retraite.",
+            "La Cnav rappelle que les communications officielles se font uniquement par courrier ou via son site sécurisé.",
+            "Les retraités sont invités à signaler ces tentatives d’arnaque aux autorités compétentes."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque au faux conseiller bancaire : un fils de bonne famille impliqué dans un réseau d’alloteurs",
+          "title": "Chèque énergie 2026 : dates et montants des aides pour les ménages précaires",
           "bullets": [
-            "Un homme issu d’un milieu aisé est soupçonné d’avoir dirigé un réseau d’alloteurs, qui manipulent les cours des actions pour leur profit.",
-            "Les enquêteurs ont identifié des transactions suspectes et des mouvements financiers anormaux liés à ce réseau.",
-            "Cette affaire illustre les risques de fraudes financières et les méthodes sophistiquées utilisées par les escrocs.",
-            "Les autorités judiciaires enquêtent pour déterminer l’étendue des préjudices causés aux investisseurs."
+            "Les bénéficiaires du chèque énergie 2026 doivent vérifier leur éligibilité et les montants attribués.",
+            "Les envois débutent généralement en octobre, avec des délais variables selon les départements.",
+            "Les ménages modestes peuvent faire une demande en ligne si leur situation a changé depuis 2025.",
+            "Les associations aident les usagers à comprendre et à utiliser ce dispositif d’aide au pouvoir d’achat."
           ],
           "sources": []
         }
@@ -379,30 +309,20 @@
         {
           "title": "Championnats d’Europe de cyclisme 2026 : programme et dates à Ljubljana",
           "bullets": [
-            "Les Championnats d’Europe de cyclisme sur route se dérouleront à Ljubljana, en Slovénie, du 25 au 30 septembre 2026.",
-            "Les courses incluent des épreuves masculines et féminines sur différentes distances, ainsi que des contre-la-montre.",
-            "Les favoris, comme les coureurs français et belges, seront en lice pour remporter des médailles.",
-            "Les organisateurs prévoient des mesures pour garantir la sécurité et l’accessibilité des spectateurs."
+            "Les Championnats d’Europe de cyclisme sur route et piste se déroulent du 12 au 21 septembre 2026 à Ljubljana, en Slovénie.",
+            "Les compétitions incluent des épreuves individuelles et par équipes, avec des parcours variés.",
+            "Les favoris mondiaux sont attendus pour un duel intense, notamment dans les courses contre la montre.",
+            "Les organisateurs misent sur un événement spectaculaire, avec des tribunes remplies et une couverture médiatique renforcée."
           ],
           "sources": []
         },
         {
-          "title": "Paris Basketball battu par le Partizan Belgrade en Euroligue",
+          "title": "ASVEL écrasé par le Panathinaïkos en Euroligue : fin de saison prématurée",
           "bullets": [
-            "Le Paris Basketball s’incline face au Partizan Belgrade lors de son premier match à domicile de la saison en Euroligue.",
-            "Cette défaite marque le début difficile de la saison pour l’équipe parisienne, qui affronte des adversaires de haut niveau.",
-            "Les supporters et les médias analysent les performances des joueurs et les stratégies à adopter pour rebondir.",
-            "Le calendrier chargé de l’Euroligue impose des défis constants pour les équipes engagées."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Disparition tragique de Damien Girard, coureur cycliste de seconde catégorie",
-          "bullets": [
-            "Damien Girard, coureur cycliste de seconde catégorie, est décédé à l’âge de 24 ans, selon les informations disponibles.",
-            "Son décès survient dans un contexte de montée des risques liés à la pratique du cyclisme, notamment en compétition.",
-            "Les organisateurs de courses et les fédérations cyclistes renforcent les mesures de sécurité pour prévenir de tels accidents.",
-            "Les supporters et collègues de Damien Girard rendent hommage à sa passion et à son engagement dans le sport."
+            "L’ASVEL, entraîné par Tony Parker, s’incline lourdement face au Panathinaïkos lors d’un match crucial en Euroligue.",
+            "Le trio français (Nando de Colo, Nando Goudelock, et Rudy Gobert) ne parvient pas à inverser le cours du match.",
+            "Cette défaite marque un tournant dans la saison de l’ASVEL, déjà en difficulté dans la course aux playoffs.",
+            "Les supporters et les médias grecs soulignent la domination technique du Panathinaïkos."
           ],
           "sources": []
         }
@@ -452,23 +372,6 @@
             {
               "name": "Wikipédia",
               "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Sport — NFL à la TV aujourd'hui",
-      "sujets": [
-        {
-          "title": "Football américain à la télévision (heures de Paris)",
-          "bullets": [
-            "Chicago Bears – Philadelphia Eagles · 21h30 · beIN SPORTS 3 · rediffusion"
-          ],
-          "sources": [
-            {
-              "name": "tv-sports.fr",
-              "url": "https://tv-sports.fr/football-americain/nfl"
             }
           ]
         }
