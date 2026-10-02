@@ -1,18 +1,18 @@
 {
-  "date_str": "Jeudi 1 octobre 2026",
+  "date_str": "Vendredi 2 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 12,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Paësie, Thérèse, Ariel, Arielle, Mélodie et Romanos",
+          "title": "Aujourd'hui, on souhaite la fête : Ange, Léger et Ruth",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/1/10/2026/1-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/2/10/2026/2-Octobre-2026.html"
             }
           ]
         }
@@ -22,79 +22,104 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : tensions au sein de la gauche sur les candidatures autonomes",
+          "title": "Attaques contre les médias : Marine Babonneau dénonce un « contexte de brutalité inadmissible »",
           "bullets": [
-            "Marine Tondelier (EELV) et Fabien Roussel (PCF) maintiennent leurs candidatures séparées malgré les appels à l’union.",
-            "Les militants écologistes et communistes craignent une division des voix à gauche et une victoire de la droite.",
-            "Les débats portent sur une stratégie commune pour mobiliser l’électorat face à la montée du RN.",
-            "LFI et Mélenchon restent en retrait, privilégiant une alliance conditionnelle après les primaires."
+            "La journaliste Marine Babonneau réagit aux propos de Marine Le Pen invitant les journalistes de *Mediapart* à porter un « costard en kevlar ».",
+            "Elle souligne une escalade des menaces et agressions envers les professionnels de l’information, notamment depuis les élections européennes.",
+            "L’Association de la presse d’information générale (APIG) et Reporters sans frontières (RSF) ont déjà alerté sur la hausse des violences envers les médias.",
+            "Cette prise de position intervient dans un climat de polarisation politique croissante, avec des attaques ciblées contre des médias perçus comme critiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-l-inquietude-des-militants-ecologistes-et-communistes-partisans-d-une-union-a-gauche_6786440_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/02/marine-babonneau-journaliste-nous-sommes-dans-un-contexte-de-brutalite-inadmissible-dirigee-contre-la-liberte-d-informer_6786903_3232.html"
             }
           ]
         },
         {
-          "title": "Loi contre les violences sexistes et sexuelles : lacunes dans la protection des victimes",
+          "title": "Mobilisation lycéenne : le gouvernement recule sur les frais d’inscription en BTS et classes prépa",
           "bullets": [
-            "La proposition de loi, débattue à l’Assemblée nationale, ne pose pas la protection des victimes comme une priorité autonome.",
-            "Les associations dénoncent un manque de moyens pour les structures d’accueil et de soutien.",
-            "Les députés doivent examiner les amendements pour renforcer les dispositifs existants.",
-            "Les violences conjugales et sexuelles restent un fléau persistant en France, avec des milliers de victimes chaque année."
+            "Le ministre de l’Éducation nationale, Édouard Geffroy, annonce l’abandon des frais d’inscription pour les étudiants non boursiers en BTS et classes préparatoires.",
+            "Cette mesure, initialement prévue dans le budget 2027, répond aux revendications des lycéens mobilisés depuis dix jours.",
+            "Les associations lycéennes (UNL, FIDL) et parents d’élèves (FCPE) saluent un « geste important » mais exigent des mesures durables sur le pouvoir d’achat.",
+            "Le gouvernement maintient cependant des coupes budgétaires dans les politiques de l’emploi (-2,5 milliards d’euros), alimentant les tensions sociales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/01/loi-integrale-aucun-texte-n-a-pense-la-protection-des-victimes-comme-une-fonction-a-part-entiere_6786435_3232.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-le-gouvernement-renonce-a-faire-payer-des-frais-d-inscription-en-bts-et-en-classes-preparatoires-aux-etudiants-non-boursiers-pour-repondre-a-la-mobilisation-des-lyceens_6786590_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : le gouvernement affronte les critiques sur la surveillance des marchés",
+          "title": "CPF : les réformes pénalisent surtout ouvriers et employés",
           "bullets": [
-            "Le projet de budget, présenté comme un « budget de redressement », suscite des tensions avec les oppositions.",
-            "Sébastien Lecornu (Ministère de la Transition écologique) doit justifier les mesures de contrôle des marchés financiers.",
-            "Les économistes soulignent un risque de pression accrue sur les ménages et les entreprises.",
-            "Les débats parlementaires s’annoncent houleux, avec des accusations de manque de transparence."
+            "Une étude du *Monde* révèle que les réformes successives du Compte personnel de formation (CPF) ont réduit l’accès à la formation pour les catégories populaires.",
+            "Les ouvriers et employés voient leurs droits diminués, tandis que les cadres et professions intermédiaires conservent un accès plus large.",
+            "Le gouvernement prévoit désormais un processus de validation renforcé et une hausse du reste à charge pour les utilisateurs.",
+            "Les syndicats (CGT, FO) dénoncent une « inégalité structurelle » et appellent à une refonte globale du dispositif."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html"
+              "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/02/les-differentes-reformes-du-cpf-ont-surtout-penalise-les-ouvriers-et-les-employes_6786901_6768900.html"
             }
           ]
         },
         {
-          "title": "Procès de Robert Ménard : amende requise pour refus de célébrer un mariage sous OQTF",
+          "title": "Primaire à gauche : convergence et fractures persistantes entre candidats",
           "bullets": [
-            "Le maire de Béziers est jugé pour avoir refusé de marier un couple dont l’homme était sous obligation de quitter le territoire (OQTF).",
-            "La défense argue que cette décision relève de la liberté municipale, mais le tribunal correctionnel de Montpellier requiert une amende.",
-            "Ce procès interroge sur les limites entre laïcité et droits fondamentaux des étrangers en situation irrégulière.",
-            "L’affaire illustre les tensions autour de l’accueil des étrangers et de la neutralité des collectivités locales."
+            "Les cinq candidats (Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel, Ségolène Royal) maintiennent leurs positions lors d’un débat sur France 2.",
+            "Les sujets clivants incluent la gestion de la crise à Gaza, les relations avec La France Insoumise (LFI), et le budget 2027.",
+            "Olivier Faure défend un positionnement social-démocrate modéré, tandis que Raphaël Glucksmann insiste sur une ligne plus radicale en politique étrangère.",
+            "Le premier tour de la primaire est prévu pour novembre, avec une campagne marquée par des alliances fragiles et des divergences idéologiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/02/primaire-a-gauche-sur-france-2-les-cinq-candidats-maintiennent-leurs-lignes-de-convergence-et-de-fracture_6786826_823448.html"
             }
           ]
         },
         {
-          "title": "Décès de Gabriel Serville, président de la collectivité territoriale de Guyane",
+          "title": "Jordan Bardella dénonce des « montages grossiers » après la publication d’éléments antisémites",
           "bullets": [
-            "Gabriel Serville, figure politique guyanaise, est décédé à 67 ans après une longue carrière publique.",
-            "Ancien professeur de mathématiques, il a été élu président de la Guyane en 2015 et réélu en 2021.",
-            "Sébastien Lecornu (Premier ministre) a salué son engagement pour le développement de la région.",
-            "Son décès laisse un vide politique dans une collectivité confrontée à des défis économiques et sociaux majeurs."
+            "Mediapart* a authentifié via Meta des messages antisémites de Jordan Bardella datant de 2013, révélant des propos jugés « graves » par le média.",
+            "Le président du RN minimise les faits, accusant le journal d’avoir « monté » les preuves et de chercher à le discréditer.",
+            "L’affaire relance le débat sur les réseaux sociaux et la modération des contenus, avec des appels à une enquête indépendante.",
+            "Le RN maintient son soutien à Bardella, mais des voix internes au parti expriment des réserves sur sa gestion de la crise."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/09/30/gabriel-serville-president-de-la-collectivite-territoriale-de-guyane-est-mort-a-67-ans_6786126_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/01/jordan-bardella-denonce-des-montages-grossiers-apres-que-mediapart-a-publie-ses-elements-de-preuves_6786582_823448.html"
             }
           ]
+        },
+        {
+          "title": "Budget 2027 : les politiques de l’emploi subissent une coupe de 2,5 milliards d’euros",
+          "bullets": [
+            "Le projet de loi de finances 2027 prévoit une réduction de 2,5 milliards d’euros pour les aides à l’emploi, malgré une hausse du chômage à 8,3%.",
+            "Les mesures concernent notamment le Fonds national de l’emploi et les dispositifs d’accompagnement des demandeurs d’emploi.",
+            "Les syndicats (CGT, CFDT) dénoncent une « politique de l’austérité » qui aggravera la précarité.",
+            "Le gouvernement justifie ces coupes par la nécessité de « recentrer les dépenses sur l’essentiel », sans préciser de compensations."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-les-politiques-de-l-emploi-subissent-une-coupe-severe-de-2-5-milliards-d-euros_6786581_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Mobilisation lycéenne : tensions et débordements à Vesoul et Lure (Haute-Saône)",
+          "bullets": [
+            "Des manifestations lycéennes dégénèrent à Vesoul et Lure, avec jets d’objets et affrontements avec les forces de l’ordre.",
+            "Les lycéens dénoncent la hausse des frais d’inscription et la précarité étudiante, réclamant des mesures concrètes.",
+            "Le préfet de la région a activé le plan Vigipirate, craignant des répercussions sur la sécurité publique.",
+            "Le gouvernement maintient un dialogue avec les associations lycéennes, mais les tensions persistent sur le terrain."
+          ],
+          "sources": []
         }
       ]
     },
@@ -102,77 +127,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "La Chine renforce son influence via des sommets diplomatiques discrets mais stratégiques",
+          "title": "Irak : départ définitif des dernières troupes américaines après 23 ans de présence",
           "bullets": [
-            "Pékin utilise les réunions internationales pour façonner un ordre mondial favorable à ses intérêts.",
-            "Les accords conclus lors de ces sommets, bien que peu médiatisés, ont un impact géopolitique durable.",
-            "La Chine développe des partenariats économiques et technologiques avec des pays africains et asiatiques.",
-            "Les États-Unis et l’Europe surveillent ces manœuvres, craignant une domination croissante de Pékin."
+            "L’Irak célèbre le retrait des forces américaines et de la coalition internationale, marquant la fin d’une occupation militaire débutée en 2003.",
+            "Le Premier ministre irakien, Mohammed Shia’ al-Sudani, a déclaré que ce retrait « renforce la souveraineté du pays », malgré des craintes persistantes sur la stabilité régionale.",
+            "Les États-Unis laissent derrière eux une base militaire réduite et un partenariat sécuritaire renforcé, mais des tensions subsistent avec l’Iran et ses proxys.",
+            "La population irakienne reste divisée : certains y voient une libération, d’autres craignent un vide sécuritaire face à Daech et aux milices chiites."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/01/d-un-sommet-a-l-autre-la-chine-faconne-un-monde-favorable-a-sa-preeminence_6786446_3232.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html"
             }
           ]
         },
         {
-          "title": "Hausse des prix des carburants en Europe : impact sur le pouvoir d’achat et les aides gouvernementales",
+          "title": "Corée du Sud exige des excuses officielles de l’Ukraine pour la révélation de prisonniers nord-coréens",
           "bullets": [
-            "Les cours du pétrole atteignent de nouveaux sommets, aggravant la crise du pouvoir d’achat en Europe.",
-            "Les gouvernements multiplient les aides financières pour atténuer l’impact sur les ménages et les entreprises.",
-            "L’Allemagne, la France et l’Italie ont annoncé des mesures exceptionnelles pour soutenir les consommateurs.",
-            "Les associations de consommateurs appellent à une régulation des prix et à une transition énergétique accélérée."
+            "Séoul accuse Kiev d’avoir violé un accord de non-divulgation en révélant le transfert de prisonniers nord-coréens vers la Russie.",
+            "La présidence sud-coréenne menace de prendre « d’autres mesures » si l’Ukraine ne présente pas d’excuses formelles.",
+            "Ce scandale intervient dans un contexte de tensions accrues entre la Corée du Nord et ses partenaires, notamment Moscou.",
+            "La Chine et la Russie ont déjà réagi, appelant à la « prudence » dans les relations intercoréennes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/01/tout-notre-quotidien-s-est-rencheri-en-europe-la-hausse-des-prix-des-carburants-ampute-le-pouvoir-d-achat-et-pousse-les-gouvernements-a-multiplier-les-aides_6786443_3234.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-seoul-exige-une-nouvelle-fois-des-excuses-de-kiev-pour-avoir-devoile-le-transfert-de-prisonniers-nord-coreens_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "Guerre en Ukraine : témoignages poignants de deux sœurs séparées par le conflit",
+          "title": "Johannesburg : découverte de 11 corps révèle l’ampleur des violences sexistes en Afrique du Sud",
           "bullets": [
-            "Olga vit à Paris, Sasha à Kiev, où les frappes russes se multiplient.",
-            "Sasha décrit son incapacité à s’habituer à l’idée de dire « adieu pour de vrai » à ses proches.",
-            "Les lettres échangées révèlent l’impact psychologique et humain de la guerre sur les civils ukrainiens.",
-            "La communauté internationale reste divisée sur la durée et l’issue du conflit."
+            "Onze corps de femmes, violemment battues et parfois nues, ont été retrouvés en banlieue de Johannesburg depuis juillet 2026.",
+            "Les autorités évoquent une « vague de crimes haineux » ciblant les femmes, avec des méthodes sadiques et des mutilations.",
+            "Les associations locales dénoncent l’inaction des forces de l’ordre et appellent à une mobilisation citoyenne pour briser l’impunité.",
+            "Le gouvernement sud-africain a promis une enquête approfondie, mais les familles des victimes réclament des mesures immédiates."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/01/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-je-ne-me-suis-pas-encore-habituee-a-cet-aspect-de-la-guerre-a-dire-adieu-pour-de-vrai_6786394_4500055.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/02/a-johannesburg-la-decouverte-de-onze-corps-revele-l-ampleur-des-violences-a-l-egard-des-femmes_6786898_3212.html"
             }
           ]
         },
         {
-          "title": "États-Unis : tentative d’exécution avortée pour Christa Pike, première femme condamnée à mort depuis 2023",
+          "title": "États-Unis : exécution ratée de Christa Pike relance le débat sur la peine de mort",
           "bullets": [
-            "Christa Pike, condamnée pour meurtre au Tennessee, a survécu à une tentative d’exécution par injection létale.",
-            "Sa défense invoque des irrégularités dans le processus judiciaire et des risques médicaux.",
-            "Les États-Unis restent l’un des rares pays à appliquer la peine capitale, malgré les critiques internationales.",
-            "L’affaire relance le débat sur l’abolition de la peine de mort aux États-Unis."
+            "Christa Pike, condamnée à mort pour un meurtre commis en 1995, a été maintenue en vie après une exécution ratée au Tennessee.",
+            "L’incident, dû à une erreur médicale, a suscité des critiques sur la légalité et l’éthique de la peine capitale aux États-Unis.",
+            "Des États comme l’Ohio et la Virginie ont suspendu leurs exécutions en attendant une enquête, tandis que des associations (ACLU) réclament son abolition.",
+            "Le gouverneur du Tennessee a ordonné une révision de la procédure, mais le débat sur la peine de mort reste clivant, notamment sur son caractère « disproportionné »."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html"
             }
           ]
         },
         {
-          "title": "Décès d’Esther Rantzen, militante britannique pour le droit à une mort digne",
+          "title": "Europe occidentale : l’été 2026, le plus chaud jamais enregistré, sans réponse politique claire",
           "bullets": [
-            "Esther Rantzen, journaliste et activiste, est morte à 86 ans après un combat contre un cancer du poumon.",
-            "Elle a relancé le débat sur l’euthanasie et l’aide à mourir au Royaume-Uni.",
-            "Son engagement a influencé les lois britanniques sur la fin de vie, notamment le *Medical Aid in Dying Act*.",
-            "Son héritage persiste dans les mouvements pro-droits des patients en Europe."
+            "Selon Copernicus, la température moyenne en Europe occidentale a atteint 21,7°C en été 2026, battant tous les records précédents.",
+            "Les sécheresses et incendies ont aggravé les pénuries d’eau et perturbé les écosystèmes, notamment en Espagne et en Italie.",
+            "Les gouvernements européens maintiennent des politiques d’adaptation limitées, malgré les appels des scientifiques à accélérer la transition énergétique.",
+            "Les citoyens, de plus en plus inquiets, réclament des mesures concrètes, mais les institutions peinent à coordonner une réponse globale."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Los Angeles : Nithya Raman, candidate progressiste, défie la maire sortante",
+          "bullets": [
+            "Nithya Raman, diplômée de Harvard et d’origine indienne, se présente contre Karen Bass, maire sortante de Los Angeles, lors des élections du 3 novembre.",
+            "Son programme prône une « nouvelle gauche » avec des mesures sociales ambitieuses (logement, santé, éducation) et une critique des inégalités raciales.",
+            "Bass, soutenue par les syndicats et les élites locales, mise sur son bilan en matière de sécurité et de gestion de crise.",
+            "Le scrutin s’annonce serré, avec un enjeu majeur pour la capitale californienne, troisième ville des États-Unis."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/02/a-los-angeles-nithya-raman-veut-installer-la-nouvelle-gauche-a-la-mairie_6786862_4500055.html"
             }
           ]
         }
@@ -182,87 +222,22 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Haute-Saône : trois hommes jugés pour chasse illégale et braconnage",
+          "title": "Vesoul : 250 lycéens et collégiens manifestent dans la ville, tensions persistantes",
           "bullets": [
-            "Trois hommes sont accusés d’avoir poursuivi des sangliers en voiture et tué des espèces protégées en pleine nuit.",
-            "Les faits remontent à plusieurs mois et ont été commis dans des zones interdites de chasse.",
-            "Les associations de protection de la faune sauvage dénoncent ces pratiques illégales et dangereuses.",
-            "Le tribunal de Vesoul doit statuer sur la peine à infliger aux prévenus."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Google annonce Gemini 4 Argon, rivalisant avec OpenAI et Anthropic",
-          "bullets": [
-            "Google revendique des performances supérieures à celles de ses concurrents, notamment dans les tâches complexes.",
-            "Gemini 4 Argon intègre des améliorations en matière d’interprétation contextuelle et de génération de contenu.",
-            "Les tests internes montrent une précision accrue, notamment dans les domaines scientifiques et techniques.",
-            "OpenAI et Anthropic maintiennent leur avance en termes de popularité et d’usage grand public."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html"
-            }
-          ]
-        },
-        {
-          "title": "Firefox 157 : le nouveau design Nova révolutionne l’expérience utilisateur",
-          "bullets": [
-            "Mozilla lance Firefox 157 avec le design Nova, le plus important depuis 2021.",
-            "Les interfaces sur ordinateur et mobile sont repensées pour une navigation plus intuitive et fluide.",
-            "Les utilisateurs bénéficient d’une meilleure organisation des onglets et d’une personnalisation accrue.",
-            "Ce changement vise à concurrencer Chrome et Safari en termes d’ergonomie et d’innovation."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2343709-firefox-157-arrive-avec-nova-son-plus-grand-redesign-depuis-2021.html"
-            }
-          ]
-        },
-        {
-          "title": "Épisode méditerranéen exceptionnel : vigilance rouge dans le Gard et l’Hérault",
-          "bullets": [
-            "Météo-France alerte sur un épisode méditerranéen remarquable, avec des pluies diluviennes et un risque d’inondations.",
-            "Le Gard et l’Hérault sont placés en vigilance rouge, avec des conséquences potentielles graves pour les populations.",
-            "Les services de secours sont en alerte maximale pour intervenir en cas d’urgence.",
-            "Les habitants sont invités à se tenir informés et à suivre les consignes de sécurité."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2344073-vigilance-rouge-dans-le-gard-et-lherault-un-episode-mediterraneen-remarquable-voire-exceptionnel-frappe-le-sud-est.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "OpenAI lance Dots, un agent IA autonome pour accomplir des tâches sans intervention humaine",
-          "bullets": [
-            "Dots est conçu pour initier des actions et résoudre des problèmes sans instructions explicites.",
-            "L’IA analyse les besoins utilisateurs et agit en conséquence, comme un assistant virtuel proactif.",
-            "OpenAI met en avant ses capacités d’apprentissage et d’adaptation en temps réel.",
-            "Les experts en cybersécurité soulignent les risques potentiels liés à l’autonomie des agents IA."
+            "Des centaines de lycéens et collégiens ont défilé dans les rues de Vesoul, réclamant la suppression des frais d’inscription et une meilleure prise en compte de leur pouvoir d’achat.",
+            "Les manifestations, parfois violentes, ont entraîné des jets d’objets et des affrontements avec les forces de l’ordre.",
+            "Le préfet de la région a activé le plan Vigipirate, craignant des débordements supplémentaires.",
+            "Les associations lycéennes (UNL, FIDL) appellent à une mobilisation nationale pour faire pression sur le gouvernement."
           ],
           "sources": []
         },
         {
-          "title": "Nvidia promet de stabiliser les agents IA en millisecondes pour éviter les dysfonctionnements",
+          "title": "Haute-Saône : trois nouvelles juges installées au tribunal judiciaire de Vesoul",
           "bullets": [
-            "Nvidia travaille sur des solutions pour corriger rapidement les erreurs ou comportements indésirables des agents IA.",
-            "Ces technologies visent à garantir une exécution stable et sécurisée des tâches automatisées.",
-            "Les entreprises dépendantes des IA (comme les centres de données ou les robots industriels) y voient un atout majeur.",
-            "Les tests en conditions réelles restent nécessaires pour valider l’efficacité de ces correctifs."
+            "Trois nouveaux magistrats ont pris leurs fonctions au tribunal judiciaire de Vesoul, renforçant ainsi l’effectif local.",
+            "Cette nomination intervient dans un contexte de saturation des dossiers et de pénurie de juges dans la région.",
+            "Les associations juridiques locales saluent cette mesure, mais appellent à une embauche plus large pour faire face à l’augmentation des affaires.",
+            "Les nouveaux juges devront notamment traiter les dossiers liés aux mobilisations lycéennes et aux affaires criminelles en hausse."
           ],
           "sources": []
         }
@@ -272,32 +247,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Piratage du site des impôts : rapport officiel révèle les failles ayant permis le vol de données",
+          "title": "Budget 2027 : 100 000 foyers supplémentaires bénéficieront du chèque énergie automatique",
           "bullets": [
-            "Un rapport détaillé expose les vulnérabilités exploitées lors du piratage du site impots.gouv.fr.",
-            "Des centaines de milliers de Français ont vu leurs données personnelles et fiscales compromises.",
-            "Les autorités ont identifié des lacunes dans les protocoles de sécurité et les systèmes de chiffrement.",
-            "Des mesures correctives sont en cours pour renforcer la protection des données sensibles."
+            "Le gouvernement étend le dispositif du chèque énergie à 100 000 foyers supplémentaires, sans condition de revenus, pour atténuer la précarité énergétique.",
+            "Cette mesure s’inscrit dans le cadre du budget 2027, qui prévoit aussi une hausse des impôts pour les entreprises et une revalorisation limitée des retraites.",
+            "Les associations de consommateurs (CLCV) saluent cette initiative, mais dénoncent un manque de mesures structurelles pour lutter contre la pauvreté énergétique.",
+            "Les bénéficiaires recevront le chèque sans démarche, via un système automatisé, à partir de novembre 2026."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque au blocage de retraite : un mail signé Cnav est un faux",
+          "title": "Budget 2027 : seuil à partir duquel les retraités paieront plus d’impôts relevé",
           "bullets": [
-            "Un mail frauduleux, prétendant provenir de la Cnav, informe les retraités d’un prétendu blocage de leur pension.",
-            "Les victimes sont invitées à cliquer sur un lien malveillant pour « débloquer » leur retraite.",
-            "La Cnav rappelle que les communications officielles se font uniquement par courrier ou via son site sécurisé.",
-            "Les retraités sont invités à signaler ces tentatives d’arnaque aux autorités compétentes."
+            "Le budget 2027 augmente le seuil de revenus à partir duquel les retraités sont soumis à l’impôt sur le revenu, passant de 11 294 € à 12 000 € pour une personne seule.",
+            "Cette mesure vise à limiter l’impact fiscal sur les petits retraités, mais les associations (CNAV) estiment qu’elle reste insuffisante face à l’inflation.",
+            "Les retraités modestes, déjà touchés par la hausse des prix, voient leur pouvoir d’achat fragilisé malgré cette légère amélioration.",
+            "Le gouvernement maintient cependant une hausse des cotisations sociales pour les plus aisés, alimentant les critiques sur une fiscalité « injuste »."
           ],
           "sources": []
         },
         {
-          "title": "Chèque énergie 2026 : dates et montants des aides pour les ménages précaires",
+          "title": "Arnaque WhatsApp : attention aux photos éphémères envoyées par des inconnus",
           "bullets": [
-            "Les bénéficiaires du chèque énergie 2026 doivent vérifier leur éligibilité et les montants attribués.",
-            "Les envois débutent généralement en octobre, avec des délais variables selon les départements.",
-            "Les ménages modestes peuvent faire une demande en ligne si leur situation a changé depuis 2025.",
-            "Les associations aident les usagers à comprendre et à utiliser ce dispositif d’aide au pouvoir d’achat."
+            "Une nouvelle arnaque consiste à envoyer des photos éphémères via WhatsApp, piégeant les victimes dans un système de chantage ou de vol de données.",
+            "Les escrocs utilisent des profils falsifiés pour gagner la confiance de leurs cibles avant de les inciter à cliquer sur des liens malveillants.",
+            "Les autorités (CNIL, gendarmerie) alertent sur cette technique en hausse, notamment auprès des jeunes et des seniors.",
+            "Pour se protéger, il est conseillé de ne jamais partager ses données personnelles ou cliquer sur des liens suspects, même émis par des contacts inconnus."
           ],
           "sources": []
         }
@@ -307,22 +282,57 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats d’Europe de cyclisme 2026 : programme et dates à Ljubljana",
+          "title": "Championnats d’Europe de cyclisme sur route 2026 : parcours et enjeux en Slovénie",
           "bullets": [
-            "Les Championnats d’Europe de cyclisme sur route et piste se déroulent du 12 au 21 septembre 2026 à Ljubljana, en Slovénie.",
-            "Les compétitions incluent des épreuves individuelles et par équipes, avec des parcours variés.",
-            "Les favoris mondiaux sont attendus pour un duel intense, notamment dans les courses contre la montre.",
-            "Les organisateurs misent sur un événement spectaculaire, avec des tribunes remplies et une couverture médiatique renforcée."
+            "Les Championnats d’Europe de cyclisme sur route 2026 se déroulent en Slovénie du 5 au 9 octobre, avec des parcours variés pour hommes et femmes.",
+            "Les favoris incluent Tadej Pogačar (Slovénie), Jonas Vingegaard (Danemark) et Anna Kiesenhofer (Autriche) pour les femmes.",
+            "Le parcours slovaque, long de 240 km pour les hommes et 140 km pour les femmes, présente des défis techniques avec des cols et des descentes rapides.",
+            "Les spectateurs pourront suivre les courses en direct via les chaînes Eurosport et la plateforme officielle de l’UCI."
           ],
           "sources": []
         },
         {
-          "title": "ASVEL écrasé par le Panathinaïkos en Euroligue : fin de saison prématurée",
+          "title": "Loïs Boisson surclasse Anna Blinkova en quarts de finale à Adana (tennis)",
           "bullets": [
-            "L’ASVEL, entraîné par Tony Parker, s’incline lourdement face au Panathinaïkos lors d’un match crucial en Euroligue.",
-            "Le trio français (Nando de Colo, Nando Goudelock, et Rudy Gobert) ne parvient pas à inverser le cours du match.",
-            "Cette défaite marque un tournant dans la saison de l’ASVEL, déjà en difficulté dans la course aux playoffs.",
-            "Les supporters et les médias grecs soulignent la domination technique du Panathinaïkos."
+            "Loïs Boisson, 21 ans, a battu Anna Blinkova (Russie) en quarts de finale de la WTA d’Adana, confirmant sa bonne forme après une saison prometteuse.",
+            "Ce succès s’inscrit dans une série de performances solides, avec une victoire en demi-finale du tournoi de Rabat quelques semaines plus tôt.",
+            "Boisson, issue du système de formation français, mise sur sa régularité et son mental pour progresser dans le classement WTA.",
+            "La finale du tournoi opposera Loïs Boisson à une autre joueuse française, Alizé Cornet, dans un duel très attendu."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "OpenAI lance Dots, un agent IA autonome fonctionnant 24h/24 en arrière-plan",
+          "bullets": [
+            "OpenAI présente *Dots*, un agent IA capable d’exécuter des tâches autonomes en arrière-plan, sans intervention humaine constante.",
+            "Cette technologie, encore en phase bêta, vise à automatiser des processus répétitifs comme la gestion de calendriers ou la recherche d’informations.",
+            "Dots intègre des outils de planification et d’adaptation, mais soulève des questions sur la confidentialité et le contrôle des données.",
+            "OpenAI met en garde contre les risques d’erreurs ou de biais, appelant à une utilisation encadrée par les utilisateurs."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Un agent IA pirate un site gouvernemental : OpenAI alerte 100 entreprises",
+          "bullets": [
+            "OpenAI a informé plus de 100 entreprises après qu’un agent IA ait réussi à pirater un site web gouvernemental via une faille exploitée par des techniques d’attaque automatisées.",
+            "L’incident, qualifié de « test de sécurité », révèle les vulnérabilités des systèmes face à l’IA malveillante.",
+            "OpenAI appelle à renforcer les protocoles de cybersécurité et à encadrer le développement des agents autonomes.",
+            "Les autorités américaines (CISA) ont été consultées, mais aucune mesure réglementaire immédiate n’a été annoncée."
+          ],
+          "sources": []
+        },
+        {
+          "title": "IA : 80 % du code généré automatiquement, mais appel à encadrer",
+          "bullets": [
+            "Selon une étude de *Brief IA*, 80 % du code informatique est désormais généré par des outils d’IA, réduisant les coûts mais posant des risques de sécurité.",
+            "Les développeurs utilisent des assistants comme GitHub Copilot pour accélérer la production, mais les erreurs et vulnérabilités augmentent.",
+            "Les experts appellent à une régulation pour éviter les abus et garantir la qualité des logiciels critiques (santé, finance).",
+            "Les entreprises doivent former leurs équipes et auditer les codes générés par IA pour limiter les risques."
           ],
           "sources": []
         }
@@ -339,8 +349,8 @@
             "Date : vendredi 2 octobre à 02h15 (heure de Paris)",
             "Stade : Huntington Bank Field",
             "Diffusion : à confirmer",
-            "Classement : 1er de l'AFC Nord (2-1)",
-            "Adversaire au classement : 3e de l'AFC Nord (2-1)",
+            "Classement : 4e de l'AFC Nord (2-2)",
+            "Adversaire au classement : 1er de l'AFC Nord (3-1)",
             "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
           ],
           "sources": [
@@ -372,6 +382,24 @@
             {
               "name": "Wikipédia",
               "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sport — NFL à la TV aujourd'hui",
+      "sujets": [
+        {
+          "title": "Football américain à la télévision (heures de Paris)",
+          "bullets": [
+            "Cleveland Browns – Pittsburgh Steelers · 14h45 · beIN SPORTS 2 · rediffusion",
+            "Cleveland Browns – Pittsburgh Steelers · 19h00 · beIN SPORTS 3 · rediffusion"
+          ],
+          "sources": [
+            {
+              "name": "tv-sports.fr",
+              "url": "https://tv-sports.fr/football-americain/nfl"
             }
           ]
         }
