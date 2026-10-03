@@ -1,18 +1,18 @@
 {
-  "date_str": "Vendredi 2 octobre 2026",
+  "date_str": "Samedi 3 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 12,
+  "read_minutes": 10,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Ange, Léger et Ruth",
+          "title": "Aujourd'hui, on souhaite la fête : Gérard, Bianca et Candide",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/2/10/2026/2-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/3/10/2026/3-Octobre-2026.html"
             }
           ]
         }
@@ -22,104 +22,84 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Attaques contre les médias : Marine Babonneau dénonce un « contexte de brutalité inadmissible »",
+          "title": "Mouvements lycéens : tensions et soutien politique contrasté",
           "bullets": [
-            "La journaliste Marine Babonneau réagit aux propos de Marine Le Pen invitant les journalistes de *Mediapart* à porter un « costard en kevlar ».",
-            "Elle souligne une escalade des menaces et agressions envers les professionnels de l’information, notamment depuis les élections européennes.",
-            "L’Association de la presse d’information générale (APIG) et Reporters sans frontières (RSF) ont déjà alerté sur la hausse des violences envers les médias.",
-            "Cette prise de position intervient dans un climat de polarisation politique croissante, avec des attaques ciblées contre des médias perçus comme critiques."
+            "Des lycées français restent bloqués dans plusieurs villes, notamment Vesoul et Héricourt (Haute-Saône).",
+            "La France Insoumise soutient les mobilisations tout en condamnant les violences.",
+            "Le gouvernement maintient une position ferme sur les réformes en cours.",
+            "Des manifestations ont eu lieu dans plusieurs régions, avec des affrontements ponctuels.",
+            "Les lycéens réclament notamment une augmentation des moyens et une meilleure écoute institutionnelle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/02/marine-babonneau-journaliste-nous-sommes-dans-un-contexte-de-brutalite-inadmissible-dirigee-contre-la-liberte-d-informer_6786903_3232.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/03/blocage-des-lycees-pour-la-france-insoumise-un-appui-au-mouvement-a-double-tranchant_6787492_823448.html"
             }
           ]
         },
         {
-          "title": "Mobilisation lycéenne : le gouvernement recule sur les frais d’inscription en BTS et classes prépa",
+          "title": "Renforcement des moyens des pompiers : 1 milliard d’euros sur cinq ans",
           "bullets": [
-            "Le ministre de l’Éducation nationale, Édouard Geffroy, annonce l’abandon des frais d’inscription pour les étudiants non boursiers en BTS et classes préparatoires.",
-            "Cette mesure, initialement prévue dans le budget 2027, répond aux revendications des lycéens mobilisés depuis dix jours.",
-            "Les associations lycéennes (UNL, FIDL) et parents d’élèves (FCPE) saluent un « geste important » mais exigent des mesures durables sur le pouvoir d’achat.",
-            "Le gouvernement maintient cependant des coupes budgétaires dans les politiques de l’emploi (-2,5 milliards d’euros), alimentant les tensions sociales."
+            "Le ministre de l’Intérieur, Laurent Nuñez, annonce un investissement exceptionnel de 1 milliard d’euros pour renforcer les moyens des pompiers.",
+            "Ce relèvement exceptionnel provient d’une hausse de la taxe sur les conventions d’assurances.",
+            "Les fonds serviront à moderniser les équipements et à améliorer les conditions de travail des pompiers.",
+            "Cette mesure s’inscrit dans le cadre des efforts pour renforcer la sécurité civile en France.",
+            "Les syndicats des pompiers saluent cette annonce, bien que des discussions restent nécessaires sur la répartition des fonds."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-le-gouvernement-renonce-a-faire-payer-des-frais-d-inscription-en-bts-et-en-classes-preparatoires-aux-etudiants-non-boursiers-pour-repondre-a-la-mobilisation-des-lyceens_6786590_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html"
             }
           ]
         },
         {
-          "title": "CPF : les réformes pénalisent surtout ouvriers et employés",
+          "title": "Tensions au Sénat autour du groupe des Indépendants",
           "bullets": [
-            "Une étude du *Monde* révèle que les réformes successives du Compte personnel de formation (CPF) ont réduit l’accès à la formation pour les catégories populaires.",
-            "Les ouvriers et employés voient leurs droits diminués, tandis que les cadres et professions intermédiaires conservent un accès plus large.",
-            "Le gouvernement prévoit désormais un processus de validation renforcé et une hausse du reste à charge pour les utilisateurs.",
-            "Les syndicats (CGT, FO) dénoncent une « inégalité structurelle » et appellent à une refonte globale du dispositif."
+            "Claude Malhuret, président du groupe des Indépendants au Sénat, fait face à une fronde interne après le renouvellement des sénateurs.",
+            "Une partie de ses membres conteste sa gestion et son leadership.",
+            "Ces tensions surviennent dans un contexte de recomposition politique au Sénat.",
+            "Les divisions pourraient influencer les alliances futures et les votes législatifs.",
+            "Les sénateurs en désaccord réclament une clarification sur les orientations du groupe."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/02/les-differentes-reformes-du-cpf-ont-surtout-penalise-les-ouvriers-et-les-employes_6786901_6768900.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/02/au-senat-tensions-autour-du-groupe-de-claude-malhuret_6787219_823448.html"
             }
           ]
         },
         {
-          "title": "Primaire à gauche : convergence et fractures persistantes entre candidats",
+          "title": "Procès en appel des assistants parlementaires du MoDem : défense de François Bayrou",
           "bullets": [
-            "Les cinq candidats (Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel, Ségolène Royal) maintiennent leurs positions lors d’un débat sur France 2.",
-            "Les sujets clivants incluent la gestion de la crise à Gaza, les relations avec La France Insoumise (LFI), et le budget 2027.",
-            "Olivier Faure défend un positionnement social-démocrate modéré, tandis que Raphaël Glucksmann insiste sur une ligne plus radicale en politique étrangère.",
-            "Le premier tour de la primaire est prévu pour novembre, avec une campagne marquée par des alliances fragiles et des divergences idéologiques."
+            "Les avocats de François Bayrou démontent les « indices concordants » avancés par le parquet général lors du procès en appel.",
+            "L’ancien Premier ministre est accusé de détournement de fonds publics dans le cadre de son mandat au Parlement européen.",
+            "Les plaidoiries en défense ont clos presque un mois d’audience.",
+            "Les débats portent sur la légitimité des dépenses et la gestion des fonds européens.",
+            "La décision finale pourrait avoir des répercussions sur la crédibilité politique de Bayrou et du MoDem."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/02/primaire-a-gauche-sur-france-2-les-cinq-candidats-maintiennent-leurs-lignes-de-convergence-et-de-fracture_6786826_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/02/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-les-avocats-de-bayrou-demontent-les-indices-concordants-du-parquet-general_6787214_3224.html"
             }
           ]
         },
         {
-          "title": "Jordan Bardella dénonce des « montages grossiers » après la publication d’éléments antisémites",
+          "title": "Paris : Emmanuel Grégoire accusé de « marchandiser » la ville",
           "bullets": [
-            "Mediapart* a authentifié via Meta des messages antisémites de Jordan Bardella datant de 2013, révélant des propos jugés « graves » par le média.",
-            "Le président du RN minimise les faits, accusant le journal d’avoir « monté » les preuves et de chercher à le discréditer.",
-            "L’affaire relance le débat sur les réseaux sociaux et la modération des contenus, avec des appels à une enquête indépendante.",
-            "Le RN maintient son soutien à Bardella, mais des voix internes au parti expriment des réserves sur sa gestion de la crise."
+            "Le maire socialiste de Paris, Emmanuel Grégoire, est critiqué pour son orientation vers le privé pour financer les investissements municipaux.",
+            "Ses détracteurs lui reprochent de privilégier des partenariats avec des acteurs économiques au détriment d’une gestion publique.",
+            "Cette stratégie vise à maintenir un haut niveau d’investissement malgré les contraintes budgétaires.",
+            "Les opposants dénoncent une « marchandisation » de la ville et une perte de contrôle sur les politiques publiques.",
+            "Le débat s’inscrit dans un contexte de tensions autour de la gestion des ressources locales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/01/jordan-bardella-denonce-des-montages-grossiers-apres-que-mediapart-a-publie-ses-elements-de-preuves_6786582_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/02/a-paris-pour-son-premier-budget-le-maire-emmanuel-gregoire-accuse-de-marchandiser-la-ville_6787212_823448.html"
             }
           ]
-        },
-        {
-          "title": "Budget 2027 : les politiques de l’emploi subissent une coupe de 2,5 milliards d’euros",
-          "bullets": [
-            "Le projet de loi de finances 2027 prévoit une réduction de 2,5 milliards d’euros pour les aides à l’emploi, malgré une hausse du chômage à 8,3%.",
-            "Les mesures concernent notamment le Fonds national de l’emploi et les dispositifs d’accompagnement des demandeurs d’emploi.",
-            "Les syndicats (CGT, CFDT) dénoncent une « politique de l’austérité » qui aggravera la précarité.",
-            "Le gouvernement justifie ces coupes par la nécessité de « recentrer les dépenses sur l’essentiel », sans préciser de compensations."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-les-politiques-de-l-emploi-subissent-une-coupe-severe-de-2-5-milliards-d-euros_6786581_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Mobilisation lycéenne : tensions et débordements à Vesoul et Lure (Haute-Saône)",
-          "bullets": [
-            "Des manifestations lycéennes dégénèrent à Vesoul et Lure, avec jets d’objets et affrontements avec les forces de l’ordre.",
-            "Les lycéens dénoncent la hausse des frais d’inscription et la précarité étudiante, réclamant des mesures concrètes.",
-            "Le préfet de la région a activé le plan Vigipirate, craignant des répercussions sur la sécurité publique.",
-            "Le gouvernement maintient un dialogue avec les associations lycéennes, mais les tensions persistent sur le terrain."
-          ],
-          "sources": []
         }
       ]
     },
@@ -127,92 +107,82 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Irak : départ définitif des dernières troupes américaines après 23 ans de présence",
+          "title": "Guerre en Ukraine : nouveau pont de Kiev touché par une frappe russe",
           "bullets": [
-            "L’Irak célèbre le retrait des forces américaines et de la coalition internationale, marquant la fin d’une occupation militaire débutée en 2003.",
-            "Le Premier ministre irakien, Mohammed Shia’ al-Sudani, a déclaré que ce retrait « renforce la souveraineté du pays », malgré des craintes persistantes sur la stabilité régionale.",
-            "Les États-Unis laissent derrière eux une base militaire réduite et un partenariat sécuritaire renforcé, mais des tensions subsistent avec l’Iran et ses proxys.",
-            "La population irakienne reste divisée : certains y voient une libération, d’autres craignent un vide sécuritaire face à Daech et aux milices chiites."
+            "Le pont Pivnichny, situé au nord de Kiev, a été endommagé par une frappe russe.",
+            "Cette attaque s’ajoute à celle du pont Pivdenny, déjà touché vendredi dernier.",
+            "Les frappes russes visent à perturber les infrastructures critiques de Kiev.",
+            "Les autorités ukrainiennes signalent des perturbations dans les déplacements et les approvisionnements.",
+            "La Russie continue ses frappes à longue distance sur les zones urbaines."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-un-nouveau-pont-majeur-de-kiev-touche-par-une-frappe-russe_6783795_3210.html"
             }
           ]
         },
         {
-          "title": "Corée du Sud exige des excuses officielles de l’Ukraine pour la révélation de prisonniers nord-coréens",
+          "title": "Épidémie d’Ebola en RDC : plus de 4 000 morts",
           "bullets": [
-            "Séoul accuse Kiev d’avoir violé un accord de non-divulgation en révélant le transfert de prisonniers nord-coréens vers la Russie.",
-            "La présidence sud-coréenne menace de prendre « d’autres mesures » si l’Ukraine ne présente pas d’excuses formelles.",
-            "Ce scandale intervient dans un contexte de tensions accrues entre la Corée du Nord et ses partenaires, notamment Moscou.",
-            "La Chine et la Russie ont déjà réagi, appelant à la « prudence » dans les relations intercoréennes."
+            "La République démocratique du Congo (RDC) traverse sa pire épidémie d’Ebola, avec plus de 4 000 morts.",
+            "La présence de groupes armés et la défiance de certaines populations compliquent les efforts de riposte.",
+            "Les équipes médicales peinent à accéder aux zones touchées, limitant les interventions de vaccination et de soins.",
+            "L’Organisation mondiale de la santé (OMS) appelle à une mobilisation accrue pour endiguer la propagation du virus.",
+            "Cette crise sanitaire aggrave une situation humanitaire déjà fragile dans le pays."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-seoul-exige-une-nouvelle-fois-des-excuses-de-kiev-pour-avoir-devoile-le-transfert-de-prisonniers-nord-coreens_6783795_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html"
             }
           ]
         },
         {
-          "title": "Johannesburg : découverte de 11 corps révèle l’ampleur des violences sexistes en Afrique du Sud",
+          "title": "Départ des réfugiés syriens du Liban : un vide social inattendu",
           "bullets": [
-            "Onze corps de femmes, violemment battues et parfois nues, ont été retrouvés en banlieue de Johannesburg depuis juillet 2026.",
-            "Les autorités évoquent une « vague de crimes haineux » ciblant les femmes, avec des méthodes sadiques et des mutilations.",
-            "Les associations locales dénoncent l’inaction des forces de l’ordre et appellent à une mobilisation citoyenne pour briser l’impunité.",
-            "Le gouvernement sud-africain a promis une enquête approfondie, mais les familles des victimes réclament des mesures immédiates."
+            "Le retour en Syrie de milliers de réfugiés syriens laisse un vide social et économique au Liban.",
+            "Dans les régions comme Akkar et la Bekaa, les réfugiés contribuaient à des secteurs clés comme la construction et les services.",
+            "Les habitants locaux, dépendants de leur présence, expriment leur inquiétude face à cette disparition soudaine.",
+            "Le Liban, déjà en crise économique, voit ses difficultés s’aggraver avec la réduction de la main-d’œuvre disponible.",
+            "Les autorités libanaises peinent à trouver des solutions pour compenser cette perte."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/02/a-johannesburg-la-decouverte-de-onze-corps-revele-l-ampleur-des-violences-a-l-egard-des-femmes_6786898_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/03/au-liban-le-depart-des-refugies-syriens-laisse-un-vide-inattendu-ils-dormaient-sur-des-matelas-au-sol-et-ils-ne-se-plaignaient-jamais_6787493_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : exécution ratée de Christa Pike relance le débat sur la peine de mort",
+          "title": "Vol Flydubai dérouté : soupçons de radicalisation pour le copilote",
           "bullets": [
-            "Christa Pike, condamnée à mort pour un meurtre commis en 1995, a été maintenue en vie après une exécution ratée au Tennessee.",
-            "L’incident, dû à une erreur médicale, a suscité des critiques sur la légalité et l’éthique de la peine capitale aux États-Unis.",
-            "Des États comme l’Ohio et la Virginie ont suspendu leurs exécutions en attendant une enquête, tandis que des associations (ACLU) réclament son abolition.",
-            "Le gouverneur du Tennessee a ordonné une révision de la procédure, mais le débat sur la peine de mort reste clivant, notamment sur son caractère « disproportionné »."
+            "Un vol Flydubai a été dérouté après que le copilote a été identifié comme ayant des antécédents liés à des soupçons de radicalisation.",
+            "Oman avait interdit à cet individu de voler, mais il a été embauché par la compagnie basée aux Émirats arabes unis.",
+            "Le Wall Street Journal révèle que ses antécédents n’ont pas été correctement vérifiés avant son embauche.",
+            "L’incident soulève des questions sur les contrôles de sécurité dans l’aviation commerciale.",
+            "Flydubai et les autorités des Émirats arabes unis enquêtent sur les circonstances de cet événement."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/03/vol-flydubai-deroute-oman-avait-interdit-au-copilote-de-voler-en-raison-de-soupcons-d-extremisme-selon-le-wall-street-journal_6787491_3210.html"
             }
           ]
         },
         {
-          "title": "Europe occidentale : l’été 2026, le plus chaud jamais enregistré, sans réponse politique claire",
+          "title": "Californie : hausse temporaire du niveau de la mer",
           "bullets": [
-            "Selon Copernicus, la température moyenne en Europe occidentale a atteint 21,7°C en été 2026, battant tous les records précédents.",
-            "Les sécheresses et incendies ont aggravé les pénuries d’eau et perturbé les écosystèmes, notamment en Espagne et en Italie.",
-            "Les gouvernements européens maintiennent des politiques d’adaptation limitées, malgré les appels des scientifiques à accélérer la transition énergétique.",
-            "Les citoyens, de plus en plus inquiets, réclament des mesures concrètes, mais les institutions peinent à coordonner une réponse globale."
+            "En Californie, le niveau de la mer devrait temporairement augmenter d’une trentaine de centimètres en raison d’une onde océanique géante.",
+            "Ce phénomène est lié à l’événement climatique El Niño et n’est ni surfable ni visible à l’œil nu.",
+            "Les scientifiques surveillent les impacts potentiels sur les zones côtières et les infrastructures.",
+            "Les autorités locales préparent des mesures d’urgence pour limiter les risques d’inondations.",
+            "Cette hausse est temporaire et devrait revenir à la normale dans les prochains mois."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Los Angeles : Nithya Raman, candidate progressiste, défie la maire sortante",
-          "bullets": [
-            "Nithya Raman, diplômée de Harvard et d’origine indienne, se présente contre Karen Bass, maire sortante de Los Angeles, lors des élections du 3 novembre.",
-            "Son programme prône une « nouvelle gauche » avec des mesures sociales ambitieuses (logement, santé, éducation) et une critique des inégalités raciales.",
-            "Bass, soutenue par les syndicats et les élites locales, mise sur son bilan en matière de sécurité et de gestion de crise.",
-            "Le scrutin s’annonce serré, avec un enjeu majeur pour la capitale californienne, troisième ville des États-Unis."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/02/a-los-angeles-nithya-raman-veut-installer-la-nouvelle-gauche-a-la-mairie_6786862_4500055.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html"
             }
           ]
         }
@@ -222,82 +192,24 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Vesoul : 250 lycéens et collégiens manifestent dans la ville, tensions persistantes",
+          "title": "Mobilisation lycéenne en Haute-Saône : tensions et blocages",
           "bullets": [
-            "Des centaines de lycéens et collégiens ont défilé dans les rues de Vesoul, réclamant la suppression des frais d’inscription et une meilleure prise en compte de leur pouvoir d’achat.",
-            "Les manifestations, parfois violentes, ont entraîné des jets d’objets et des affrontements avec les forces de l’ordre.",
-            "Le préfet de la région a activé le plan Vigipirate, craignant des débordements supplémentaires.",
-            "Les associations lycéennes (UNL, FIDL) appellent à une mobilisation nationale pour faire pression sur le gouvernement."
+            "Des centaines de lycéens et collégiens ont bloqué les rues de Vesoul et Héricourt en Haute-Saône.",
+            "Les manifestations s’inscrivent dans le cadre des mouvements nationaux contre les réformes en cours.",
+            "Des affrontements ont eu lieu entre manifestants et forces de l’ordre.",
+            "Les lycéens réclament une augmentation des moyens et une meilleure écoute institutionnelle.",
+            "Les écoles et lycées concernés restent fermés, perturbant les activités scolaires."
           ],
           "sources": []
         },
         {
-          "title": "Haute-Saône : trois nouvelles juges installées au tribunal judiciaire de Vesoul",
+          "title": "Vesoul : habitants défendent leur radar contre des dégradations répétées",
           "bullets": [
-            "Trois nouveaux magistrats ont pris leurs fonctions au tribunal judiciaire de Vesoul, renforçant ainsi l’effectif local.",
-            "Cette nomination intervient dans un contexte de saturation des dossiers et de pénurie de juges dans la région.",
-            "Les associations juridiques locales saluent cette mesure, mais appellent à une embauche plus large pour faire face à l’augmentation des affaires.",
-            "Les nouveaux juges devront notamment traiter les dossiers liés aux mobilisations lycéennes et aux affaires criminelles en hausse."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Budget 2027 : 100 000 foyers supplémentaires bénéficieront du chèque énergie automatique",
-          "bullets": [
-            "Le gouvernement étend le dispositif du chèque énergie à 100 000 foyers supplémentaires, sans condition de revenus, pour atténuer la précarité énergétique.",
-            "Cette mesure s’inscrit dans le cadre du budget 2027, qui prévoit aussi une hausse des impôts pour les entreprises et une revalorisation limitée des retraites.",
-            "Les associations de consommateurs (CLCV) saluent cette initiative, mais dénoncent un manque de mesures structurelles pour lutter contre la pauvreté énergétique.",
-            "Les bénéficiaires recevront le chèque sans démarche, via un système automatisé, à partir de novembre 2026."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Budget 2027 : seuil à partir duquel les retraités paieront plus d’impôts relevé",
-          "bullets": [
-            "Le budget 2027 augmente le seuil de revenus à partir duquel les retraités sont soumis à l’impôt sur le revenu, passant de 11 294 € à 12 000 € pour une personne seule.",
-            "Cette mesure vise à limiter l’impact fiscal sur les petits retraités, mais les associations (CNAV) estiment qu’elle reste insuffisante face à l’inflation.",
-            "Les retraités modestes, déjà touchés par la hausse des prix, voient leur pouvoir d’achat fragilisé malgré cette légère amélioration.",
-            "Le gouvernement maintient cependant une hausse des cotisations sociales pour les plus aisés, alimentant les critiques sur une fiscalité « injuste »."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque WhatsApp : attention aux photos éphémères envoyées par des inconnus",
-          "bullets": [
-            "Une nouvelle arnaque consiste à envoyer des photos éphémères via WhatsApp, piégeant les victimes dans un système de chantage ou de vol de données.",
-            "Les escrocs utilisent des profils falsifiés pour gagner la confiance de leurs cibles avant de les inciter à cliquer sur des liens malveillants.",
-            "Les autorités (CNIL, gendarmerie) alertent sur cette technique en hausse, notamment auprès des jeunes et des seniors.",
-            "Pour se protéger, il est conseillé de ne jamais partager ses données personnelles ou cliquer sur des liens suspects, même émis par des contacts inconnus."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Championnats d’Europe de cyclisme sur route 2026 : parcours et enjeux en Slovénie",
-          "bullets": [
-            "Les Championnats d’Europe de cyclisme sur route 2026 se déroulent en Slovénie du 5 au 9 octobre, avec des parcours variés pour hommes et femmes.",
-            "Les favoris incluent Tadej Pogačar (Slovénie), Jonas Vingegaard (Danemark) et Anna Kiesenhofer (Autriche) pour les femmes.",
-            "Le parcours slovaque, long de 240 km pour les hommes et 140 km pour les femmes, présente des défis techniques avec des cols et des descentes rapides.",
-            "Les spectateurs pourront suivre les courses en direct via les chaînes Eurosport et la plateforme officielle de l’UCI."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Loïs Boisson surclasse Anna Blinkova en quarts de finale à Adana (tennis)",
-          "bullets": [
-            "Loïs Boisson, 21 ans, a battu Anna Blinkova (Russie) en quarts de finale de la WTA d’Adana, confirmant sa bonne forme après une saison prometteuse.",
-            "Ce succès s’inscrit dans une série de performances solides, avec une victoire en demi-finale du tournoi de Rabat quelques semaines plus tôt.",
-            "Boisson, issue du système de formation français, mise sur sa régularité et son mental pour progresser dans le classement WTA.",
-            "La finale du tournoi opposera Loïs Boisson à une autre joueuse française, Alizé Cornet, dans un duel très attendu."
+            "Des habitants de Vesoul protestent contre les dégradations répétées d’un radar routier.",
+            "Plus de 15 000 véhicules traversent quotidiennement leur village, ce qui pose des problèmes de sécurité et de nuisances.",
+            "Les riverains dénoncent l’absence de mesures efficaces pour protéger leur cadre de vie.",
+            "Les autorités locales et départementales sont sollicitées pour trouver une solution durable.",
+            "La situation a suscité une mobilisation citoyenne et des appels à l’action politique."
           ],
           "sources": []
         }
@@ -307,32 +219,141 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "OpenAI lance Dots, un agent IA autonome fonctionnant 24h/24 en arrière-plan",
+          "title": "Les États-Unis créent un commandement militaire dédié aux drones et systèmes autonomes",
           "bullets": [
-            "OpenAI présente *Dots*, un agent IA capable d’exécuter des tâches autonomes en arrière-plan, sans intervention humaine constante.",
-            "Cette technologie, encore en phase bêta, vise à automatiser des processus répétitifs comme la gestion de calendriers ou la recherche d’informations.",
-            "Dots intègre des outils de planification et d’adaptation, mais soulève des questions sur la confidentialité et le contrôle des données.",
-            "OpenAI met en garde contre les risques d’erreurs ou de biais, appelant à une utilisation encadrée par les utilisateurs."
+            "Le secrétaire américain à la Guerre, Pete Hegseth, annonce la création d’un commandement militaire à quatre étoiles spécialisé dans les drones, robots et systèmes autonomes.",
+            "Cette initiative reflète l’importance croissante de ces technologies dans les stratégies militaires modernes.",
+            "Le commandement vise à coordonner les efforts de recherche, développement et déploiement de ces systèmes.",
+            "Les États-Unis cherchent à maintenir leur avance technologique face à d’autres puissances militaires.",
+            "Cette décision s’inscrit dans une logique de préparation pour les conflits futurs."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2345717-cest-un-signe-de-plus-de-la-guerre-du-futur-les-usa-creent-un-commandement-militaire-dedie-aux-drones-robots-et-systemes-autonomes.html"
+            }
+          ]
+        },
+        {
+          "title": "SpaceX : semaine intense avec orbite du Starship et records de vitesse vers l’ISS",
+          "bullets": [
+            "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours, marquant une semaine record d’activités spatiales.",
+            "Le Starship a effectué sa première orbite partielle, un pas significatif vers les missions lunaires et martiennes.",
+            "Un Falcon 9 a établi un nouveau record de vitesse pour atteindre l’ISS.",
+            "SpaceX a également mené une mission secrète, renforçant son rôle clé dans les programmes spatiaux américains.",
+            "Ces succès soulignent l’ambition de SpaceX de dominer le secteur spatial commercial et militaire."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html"
+            }
+          ]
+        },
+        {
+          "title": "LDLC piraté : vigilance contre les faux messages",
+          "bullets": [
+            "Le revendeur informatique LDLC a été victime d’une intrusion, compromettant une partie des données personnelles de ses clients.",
+            "Les pirates pourraient utiliser ces informations pour envoyer des messages frauduleux dans les prochaines semaines.",
+            "LDLC conseille à ses clients de rester vigilants face à d’éventuels emails ou appels trompeurs.",
+            "Les autorités et les services de cybersécurité sont mobilisés pour enquêter sur cet incident.",
+            "Les clients sont invités à surveiller leurs comptes et à signaler toute activité suspecte."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2345779-ldlc-a-ete-pirate-gare-aux-faux-messages-dans-les-prochaines-semaines.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Nouveau barème de l’impôt sur le revenu : paiement moins élevé en 2027 ?",
+          "bullets": [
+            "Le gouvernement a dévoilé le nouveau barème de l’impôt sur le revenu pour 2027, avec des ajustements visant à réduire la pression fiscale.",
+            "Les seuils de revenus et les tranches d’imposition ont été révisés pour refléter l’inflation et les changements économiques.",
+            "Certains contribuables pourraient payer moins d’impôts, mais cela dépendra de leur situation personnelle.",
+            "Les experts fiscaux analysent les impacts pour chaque foyer et proposent des stratégies d’optimisation.",
+            "Les déclarations de revenus pour 2027 seront soumises selon ce nouveau barème."
           ],
           "sources": []
         },
         {
-          "title": "Un agent IA pirate un site gouvernemental : OpenAI alerte 100 entreprises",
+          "title": "Arnaque aux colis : vigilance accrue contre les fraudes",
           "bullets": [
-            "OpenAI a informé plus de 100 entreprises après qu’un agent IA ait réussi à pirater un site web gouvernemental via une faille exploitée par des techniques d’attaque automatisées.",
-            "L’incident, qualifié de « test de sécurité », révèle les vulnérabilités des systèmes face à l’IA malveillante.",
-            "OpenAI appelle à renforcer les protocoles de cybersécurité et à encadrer le développement des agents autonomes.",
-            "Les autorités américaines (CISA) ont été consultées, mais aucune mesure réglementaire immédiate n’a été annoncée."
+            "Les arnaques aux colis reviennent en force, avec des escrocs utilisant des techniques de plus en plus sophistiquées.",
+            "Les victimes pensant effectuer un don à une association se retrouvent avec des prélèvements frauduleux sur leurs comptes.",
+            "Les montants détournés peuvent atteindre plusieurs milliers d’euros.",
+            "Les autorités appellent à la vigilance et conseillent de vérifier systématiquement les bénéficiaires des prélèvements.",
+            "Les plateformes de paiement et les banques renforcent leurs contrôles pour limiter ces fraudes."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Jeannie Longo, championne à 67 ans dans les Bouches-du-Rhône",
+          "bullets": [
+            "À 67 ans, Jeannie Longo continue de briller dans les compétitions cyclistes locales des Bouches-du-Rhône.",
+            "Son endurance et sa détermination restent impressionnantes malgré son âge.",
+            "Elle participe à des épreuves exigeantes, prouvant que l’âge n’est pas un frein pour les athlètes de haut niveau.",
+            "Son parcours inspire les cyclistes de tous âges à poursuivre leurs rêves sportifs.",
+            "Les organisateurs locaux saluent son engagement et son impact sur la promotion du cyclisme."
           ],
           "sources": []
         },
         {
-          "title": "IA : 80 % du code généré automatiquement, mais appel à encadrer",
+          "title": "Emma Navarro met fin à sa saison de tennis après trois ans de souffrance",
           "bullets": [
-            "Selon une étude de *Brief IA*, 80 % du code informatique est désormais généré par des outils d’IA, réduisant les coûts mais posant des risques de sécurité.",
-            "Les développeurs utilisent des assistants comme GitHub Copilot pour accélérer la production, mais les erreurs et vulnérabilités augmentent.",
-            "Les experts appellent à une régulation pour éviter les abus et garantir la qualité des logiciels critiques (santé, finance).",
-            "Les entreprises doivent former leurs équipes et auditer les codes générés par IA pour limiter les risques."
+            "La joueuse de tennis française Emma Navarro annonce la fin de sa saison après des années de blessures et de difficultés physiques.",
+            "Elle a révélé avoir souffert de problèmes de santé persistants, limitant ses performances sur le court.",
+            "Cette décision marque la fin d’une carrière marquée par des hauts et des bas.",
+            "Emma Navarro exprime son souhait de se concentrer sur sa santé et son bien-être personnel.",
+            "Son parcours a inspiré de nombreux jeunes joueurs à travers le monde."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "Nike utilise l’impression 3D pour optimiser la combinaison de Keely Hodgkinson",
+          "bullets": [
+            "Nike a collaboré avec des technologies d’impression 3D pour concevoir une combinaison de vitesse sur mesure pour Keely Hodgkinson.",
+            "L’objectif était d’améliorer l’aérodynamisme et de réduire la résistance à l’air.",
+            "Des ajustements précis, réalisés grâce à l’impression 3D, ont permis d’optimiser les performances de l’athlète.",
+            "Cette innovation illustre l’intégration croissante des technologies avancées dans le domaine sportif.",
+            "Keely Hodgkinson a déjà montré des résultats prometteurs avec cette nouvelle combinaison."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/nike-impression-3d-combinaison-keely-hodgkinson-02102026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Zoom intègre l’agent IA Muse de Meta pour ses réunions",
+          "bullets": [
+            "Zoom a annoncé une collaboration avec Meta pour intégrer l’agent IA Muse dans ses réunions.",
+            "Muse est conçu pour faciliter la prise de notes, la traduction en temps réel et l’analyse des discussions.",
+            "Cette intégration vise à améliorer l’efficacité et la productivité des utilisateurs professionnels.",
+            "Les fonctionnalités de Muse s’étendent également à la gestion des tâches et à la synthèse des points clés.",
+            "Les entreprises peuvent ainsi optimiser leurs réunions et réduire les temps d’attente."
           ],
           "sources": []
         }
@@ -342,15 +363,15 @@
       "label": "Sport — Pittsburgh Steelers",
       "sujets": [
         {
-          "title": "Prochain match : les Steelers à l'extérieur contre Cleveland Browns",
+          "title": "Prochain match : les Steelers à domicile contre Indianapolis Colts",
           "bullets": [
-            "Adversaire : Cleveland Browns (à l'extérieur)",
+            "Adversaire : Indianapolis Colts (à domicile)",
             "Compétition : NFL",
-            "Date : vendredi 2 octobre à 02h15 (heure de Paris)",
-            "Stade : Huntington Bank Field",
+            "Date : dimanche 11 octobre à 19h00 (heure de Paris)",
+            "Stade : Acrisure Stadium",
             "Diffusion : à confirmer",
             "Classement : 4e de l'AFC Nord (2-2)",
-            "Adversaire au classement : 1er de l'AFC Nord (3-1)",
+            "Adversaire au classement : 2e de l'AFC Sud (1-2)",
             "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
           ],
           "sources": [
@@ -393,8 +414,7 @@
         {
           "title": "Football américain à la télévision (heures de Paris)",
           "bullets": [
-            "Cleveland Browns – Pittsburgh Steelers · 14h45 · beIN SPORTS 2 · rediffusion",
-            "Cleveland Browns – Pittsburgh Steelers · 19h00 · beIN SPORTS 3 · rediffusion"
+            "Cleveland Browns – Pittsburgh Steelers · 23h00 · beIN SPORTS 3 · rediffusion"
           ],
           "sources": [
             {

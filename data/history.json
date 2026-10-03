@@ -1,83 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-une-ia-souveraine-unique-consensus-de-candidats-aux-visions-opposees_6781933_823448.html",
-    "title": "Présidentielle 2027 : les candidats s’accordent sur une IA « souveraine » malgré des visions politiques opposées",
-    "rubrique": "France",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-la-chambre-du-controle-au-defi-de-trouver-sa-place-avant-l-alternance-presidentielle_6781930_823448.html",
-    "title": "Sénatoriales 2026 : le Sénat en quête d’une nouvelle légitimité avant l’alternance présidentielle",
-    "rubrique": "France",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/outre-mer/article/2026/09/25/en-polynesie-independantistes-et-autonomistes-s-unissent-pour-demander-l-ouverture-d-un-dialogue-avec-paris-sur-l-avenir-institutionnel-du-territoire_6781860_1840826.html",
-    "title": "Polynésie française : autonomistes et indépendantistes unis pour un dialogue avec Paris sur l’avenir institutionnel",
-    "rubrique": "France",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html",
-    "title": "Crise des carburants : Macron envoie des « moyens militaires » en Arabie saoudite et envisage une baisse des taxes",
-    "rubrique": "France",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/09/25/la-metropole-de-bordeaux-confrontee-a-un-endettement-extreme-avec-risque-de-mise-sous-tutelle-alerte-thomas-cazenave_6781686_3234.html",
-    "title": "Métropole de Bordeaux : risque de tutelle financière après un endettement record",
-    "rubrique": "France",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/25/l-un-des-hommes-touches-lors-de-la-tentative-d-assassinat-contre-donald-trump-en-2024-est-mort-des-suites-de-complications-liees-a-ses-blessures_6781938_3210.html",
-    "title": "Mort d’un homme blessé lors de la tentative d’assassinat contre Donald Trump en 2024",
-    "rubrique": "International",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/25/grace-a-l-ia-l-estonie-espere-compenser-sa-petite-taille-face-a-la-menace-du-geant-russe_6781931_3210.html",
-    "title": "L’Estonie mise sur l’IA pour renforcer sa défense face à la menace russe",
-    "rubrique": "International",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/25/face-aux-drones-il-est-difficile-de-tenir-le-coup-a-long-terme-la-dronophobie-ce-nouveau-mal-ukrainien_6781859_3210.html",
-    "title": "Ukraine : la « dronophobie » devient un problème de santé publique",
-    "rubrique": "International",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/25/a-l-onu-la-replique-de-benyamin-netanyahou-aux-accusations-contre-israel-honte-a-vous-d-inverser-la-victime-et-l-agresseur_6781789_3210.html",
-    "title": "Israël rejette les accusations à l’ONU : « Honte à vous d’inverser victime et agresseur »",
-    "rubrique": "International",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/25/donald-trump-accueille-xi-jinping-en-majeste-a-la-maison-blanche-pour-celebrer-la-stabilite-strategique-entre-les-etats-unis-et-la-chine_6781787_3210.html",
-    "title": "Donald Trump et Xi Jinping célèbrent une « stabilité stratégique » lors de leur rencontre à la Maison Blanche",
-    "rubrique": "International",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2339633-premier-couac-cyber-pour-muse-meta-a-corrige-en-urgence-une-faille-de-son-agent-ia.html",
-    "title": "Meta corrige une faille critique dans son assistant IA Muse pour Mac",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.3dnatives.com/impression-3d-instrument-shakuhachi-25092026/",
-    "title": "Des chercheurs impriment en 3D un guide pour apprendre à jouer du shakuhachi",
-    "rubrique": "Impression 3D",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.3dnatives.com/layn-impression-3d-plage-24092026/",
-    "title": "1 000 pièces imprimées en 3D habillent un front de mer en Espagne",
-    "rubrique": "Impression 3D",
-    "date": "2026-09-25"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/09/26/visite-du-pape-a-paris-au-rn-la-laicite-cede-la-place-a-l-exaltation-des-racines-chretiennes-de-la-france_6783010_823448.html",
     "title": "Visite du Pape à Paris : le RN exalte les « racines chrétiennes » de la France",
     "rubrique": "France",
@@ -652,5 +574,89 @@
     "title": "Los Angeles : Nithya Raman, candidate progressiste, défie la maire sortante",
     "rubrique": "International",
     "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/03/blocage-des-lycees-pour-la-france-insoumise-un-appui-au-mouvement-a-double-tranchant_6787492_823448.html",
+    "title": "Mouvements lycéens : tensions et soutien politique contrasté",
+    "rubrique": "France",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html",
+    "title": "Renforcement des moyens des pompiers : 1 milliard d’euros sur cinq ans",
+    "rubrique": "France",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/02/au-senat-tensions-autour-du-groupe-de-claude-malhuret_6787219_823448.html",
+    "title": "Tensions au Sénat autour du groupe des Indépendants",
+    "rubrique": "France",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/02/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-les-avocats-de-bayrou-demontent-les-indices-concordants-du-parquet-general_6787214_3224.html",
+    "title": "Procès en appel des assistants parlementaires du MoDem : défense de François Bayrou",
+    "rubrique": "France",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/02/a-paris-pour-son-premier-budget-le-maire-emmanuel-gregoire-accuse-de-marchandiser-la-ville_6787212_823448.html",
+    "title": "Paris : Emmanuel Grégoire accusé de « marchandiser » la ville",
+    "rubrique": "France",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-un-nouveau-pont-majeur-de-kiev-touche-par-une-frappe-russe_6783795_3210.html",
+    "title": "Guerre en Ukraine : nouveau pont de Kiev touché par une frappe russe",
+    "rubrique": "International",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
+    "title": "Épidémie d’Ebola en RDC : plus de 4 000 morts",
+    "rubrique": "International",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/03/au-liban-le-depart-des-refugies-syriens-laisse-un-vide-inattendu-ils-dormaient-sur-des-matelas-au-sol-et-ils-ne-se-plaignaient-jamais_6787493_3210.html",
+    "title": "Départ des réfugiés syriens du Liban : un vide social inattendu",
+    "rubrique": "International",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/03/vol-flydubai-deroute-oman-avait-interdit-au-copilote-de-voler-en-raison-de-soupcons-d-extremisme-selon-le-wall-street-journal_6787491_3210.html",
+    "title": "Vol Flydubai dérouté : soupçons de radicalisation pour le copilote",
+    "rubrique": "International",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
+    "title": "Californie : hausse temporaire du niveau de la mer",
+    "rubrique": "International",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2345717-cest-un-signe-de-plus-de-la-guerre-du-futur-les-usa-creent-un-commandement-militaire-dedie-aux-drones-robots-et-systemes-autonomes.html",
+    "title": "Les États-Unis créent un commandement militaire dédié aux drones et systèmes autonomes",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html",
+    "title": "SpaceX : semaine intense avec orbite du Starship et records de vitesse vers l’ISS",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2345779-ldlc-a-ete-pirate-gare-aux-faux-messages-dans-les-prochaines-semaines.html",
+    "title": "LDLC piraté : vigilance contre les faux messages",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.3dnatives.com/nike-impression-3d-combinaison-keely-hodgkinson-02102026/",
+    "title": "Nike utilise l’impression 3D pour optimiser la combinaison de Keely Hodgkinson",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-03"
   }
 ]
