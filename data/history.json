@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/26/visite-du-pape-a-paris-au-rn-la-laicite-cede-la-place-a-l-exaltation-des-racines-chretiennes-de-la-france_6783010_823448.html",
-    "title": "Visite du Pape à Paris : le RN exalte les « racines chrétiennes » de la France",
-    "rubrique": "France",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/25/senatoriales-2026-au-salon-des-maires-des-bouches-du-rhone-les-candidats-s-attendent-a-un-scrutin-tres-serre_6782619_823448.html",
-    "title": "Sénatoriales 2026 : un scrutin « très serré » dans les Bouches-du-Rhône",
-    "rubrique": "France",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/25/agences-de-l-etat-le-senat-relance-le-chantier-de-la-rationalisation-le-gouvernement-aussi_6782615_823448.html",
-    "title": "Rationalisation des agences de l’État : Sénat et gouvernement relancent le chantier",
-    "rubrique": "France",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-une-attaque-russe-a-zaporijia-fait-deux-morts-selon-l-administration-militaire-locale_6777944_3210.html",
-    "title": "Guerre en Ukraine : frappe russe à Zaporijia fait deux morts",
-    "rubrique": "International",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
-    "title": "Arabie saoudite : envoi de moyens militaires français pour protéger les infrastructures énergétiques",
-    "rubrique": "International",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html",
-    "title": "Arabie saoudite : nouvelles attaques houthises sur Riyad et une ville du sud-ouest",
-    "rubrique": "International",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/26/le-saoudien-omar-al-bayoumi-ange-gardien-de-deux-terroristes-du-11-septembre_6783014_3210.html",
-    "title": "Saoudien Omar Al-Bayoumi : l’« ange gardien » de deux terroristes du 11-Septembre",
-    "rubrique": "International",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
-    "title": "Microsoft Copilot : une refonte autour de trois onglets pour rivaliser avec Claude et ChatGPT",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2340485-30-km-demines-en-deux-nuits-comment-les-drones-terrestres-se-sont-imposes-dans-la-contre-offensive-ukrainienne.html",
-    "title": "Drones terrestres : déminage accéléré en Ukraine lors de la contre-offensive",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2340813-couverture-5g-en-france-presque-tout-le-monde-capte-mais-la-moitie-du-territoire-est-encore-a-lecart.html",
-    "title": "Couverture 5G en France : la moitié du territoire reste encore à l’écart",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-26"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html",
     "title": "Martinique : adoption d’un plan de redressement budgétaire de 69 millions d’euros",
     "rubrique": "France",
@@ -658,5 +598,89 @@
     "title": "Nike utilise l’impression 3D pour optimiser la combinaison de Keely Hodgkinson",
     "rubrique": "Impression 3D",
     "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html",
+    "title": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » pour battre Marine Le Pen",
+    "rubrique": "France",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/03/le-permis-de-conduire-peut-desormais-etre-suspendu-pour-usage-du-telephone-partout-en-france_6787789_3224.html",
+    "title": "Téléphone au volant : suspension immédiate du permis possible partout en France",
+    "rubrique": "France",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/04/ecrits-antisemites-de-jordan-bardella-marine-le-pen-au-risque-d-etre-entrainee-dans-la-defense-jusqu-au-boutiste-du-president-du-rn_6788005_823448.html",
+    "title": "Écrits antisémites de Jordan Bardella : Marine Le Pen sous pression pour défendre son président",
+    "rubrique": "France",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-vote-obligatoire-peut-envoyer-le-signal-fort-que-nous-appartenons-a-une-meme-communaute-de-destin_6788003_3232.html",
+    "title": "Débat sur le vote obligatoire : un « signal fort » pour renforcer la cohésion nationale ?",
+    "rubrique": "France",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html",
+    "title": "Crise au sein des rédactions audiovisuelles : tensions sur le pluralisme avant 2027",
+    "rubrique": "France",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-kiev-affirme-avoir-regagne-du-terrain-dans-la-region-du-donbass_6787996_3210.html",
+    "title": "Ukraine : Kiev affirme avoir regagné du terrain dans le Donbass",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html",
+    "title": "Brésil : scrutin incertain sous l’ombre de l’ingérence américaine",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/04/legislatives-en-lettonie-le-parti-pro-europeen-au-pouvoir-en-tete-face-a-une-poussee-populiste_6787992_3210.html",
+    "title": "Lettonie : victoire du parti pro-européen malgré une poussée populiste",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/04/cinq-personnes-mises-en-examen-pour-des-soupcons-de-financement-du-hamas-via-des-associations-humanitaires_6787959_3224.html",
+    "title": "Financement présumé du Hamas : cinq personnes mises en examen en France",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html",
+    "title": "Groenland : exploitation d’un gisement stratégique de graphite",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/04/viol-presume-a-cornell-une-enquete-externe-ouverte-sur-la-gestion-de-l-affaire-par-l-universite-americaine_6788009_3210.html",
+    "title": "Viol présumé à Cornell : enquête externe sur la gestion de l’affaire",
+    "rubrique": "International",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2345965-lebara-propose-un-forfait-200-go-a-moins-de-10-e-par-mois.html",
+    "title": "Lebara propose un forfait mobile 200 Go à moins de 10 €/mois sur SFR",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2345895-jailbreak-de-la-ps5-conference-openai-et-facebook-de-jordan-bardella-le-recap-tech-de-la-semaine.html",
+    "title": "Jailbreak de la PS5 et actualités technologiques de la semaine",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html",
+    "title": "IA : scénarios catastrophiques et risques pour l’humanité analysés",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-04"
   }
 ]
