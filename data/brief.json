@@ -1,18 +1,18 @@
 {
-  "date_str": "Dimanche 4 octobre 2026",
+  "date_str": "Lundi 5 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 5,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Capucin, Capucine, François, Paco et Aure",
+          "title": "Aujourd'hui, on souhaite la fête : Faustine, Marie Faustine, Fleur et Flora",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/4/10/2026/4-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/5/10/2026/5-Octobre-2026.html"
             }
           ]
         }
@@ -22,82 +22,73 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » pour battre Marine Le Pen",
+          "title": "Primaire de la gauche : tensions lors du dernier débat télévisé",
           "bullets": [
-            "Proposition d’une alliance politique large, de la gauche à la droite modérée, pour contrer Marine Le Pen.",
-            "Analyse : « Personne » entre LFI et le RN n’est en position de battre la candidate du RN au second tour.",
-            "Stratégie centrée sur la mobilisation contre l’extrême droite et la défense des valeurs démocratiques.",
-            "Réaction attendue des partis concernés, notamment LR et Renaissance, sur cette initiative.",
-            "Débat sur la faisabilité d’une telle coalition dans un contexte politique polarisé."
+            "Cinq candidats (Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel, Ségolène Royal) en confrontation sur BFM-TV.",
+            "Accusations de manque de professionnalisme et de spectacle inapproprié.",
+            "Prochaine étape : premier tour de la primaire le 20 octobre 2026.",
+            "Enjeu : positionnement face à la présidentielle de 2027 et à la dynamique de l’extrême droite."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/05/avant-la-primaire-a-gauche-un-dernier-debat-televise-sous-tension-le-spectacle-qu-on-a-donne-pendant-vingt-minutes-etait-honteux_6788468_823448.html"
             }
           ]
         },
         {
-          "title": "Téléphone au volant : suspension immédiate du permis possible partout en France",
+          "title": "Blocages de lycées : le gouvernement exige la reprise des cours dès lundi",
           "bullets": [
-            "Nouvelle mesure : suspension du permis de conduire pour usage du téléphone au volant, applicable immédiatement.",
-            "Annonce par Marie-Pierre Vedrenne, ministre déléguée chargée de la citoyenneté, confirmée au Figaro.",
-            "Sanction renforcée pour lutter contre les distractions au volant, responsable d’accidents fréquents.",
-            "Application effective dès maintenant, sans délai de mise en œuvre supplémentaire.",
-            "Objectif : réduire les 400 morts annuels liés aux distractions au volant en France."
+            "Sébastien Lecornu demande la reprise des cours partout où la sécurité le permet.",
+            "Cinq chantiers prioritaires identifiés pour répondre aux revendications des lycéens.",
+            "Tensions persistantes dans plusieurs établissements, notamment à Marseille et en Île-de-France."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/03/le-permis-de-conduire-peut-desormais-etre-suspendu-pour-usage-du-telephone-partout-en-france_6787789_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html"
             }
           ]
         },
         {
-          "title": "Écrits antisémites de Jordan Bardella : Marine Le Pen sous pression pour défendre son président",
+          "title": "Mineur mis en examen pour « acte de barbarie » après agression au spray enflammé",
           "bullets": [
-            "Nouveaux éléments de preuve publiés par *Mediapart* sur des écrits antisémites de Jordan Bardella.",
-            "Marine Le Pen maintient son soutien inconditionnel malgré les révélations controversées.",
-            "Risque de division au sein du RN si la candidate ne prend pas clairement ses distances.",
-            "Débat sur la stratégie du parti face à ces accusations, entre fermeté et gestion de crise.",
-            "Impact potentiel sur les sondages et la crédibilité du RN en vue de la présidentielle 2027."
+            "Un lycéen de 15 ans mis en examen pour agression grave à Marseille.",
+            "Utilisation d’un spray enflammé lors d’un incident dans un établissement scolaire.",
+            "Placement en détention provisoire pour évaluation de la dangerosité."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/04/ecrits-antisemites-de-jordan-bardella-marine-le-pen-au-risque-d-etre-entrainee-dans-la-defense-jusqu-au-boutiste-du-president-du-rn_6788005_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/04/a-marseille-un-lyceen-de-15-ans-mis-en-examen-pour-acte-de-barbarie-apres-une-agression-au-spray-enflamme_6788323_3224.html"
             }
           ]
         },
         {
-          "title": "Débat sur le vote obligatoire : un « signal fort » pour renforcer la cohésion nationale ?",
+          "title": "Projet de loi « casseurs-payeurs » : accélération du calendrier législatif",
           "bullets": [
-            "Proposition d’instaurer le vote obligatoire pour « envoyer un signal de communauté de destin ».",
-            "Argument : réduire l’abstention et polariser moins les campagnes électorales.",
-            "Débat entre partisans d’une démocratie plus engagée et opposants craignant une coercition.",
-            "Analyse des précédents historiques (ex. : Belgique, Australie) et de leurs effets.",
-            "Positionnement des partis politiques sur cette mesure, notamment à gauche et au centre."
+            "Responsabilisation collective des participants à des attroupements violents.",
+            "Limite de responsabilité fixée à 10 000 € par dégradation.",
+            "Objectif : renforcer la répression des violences urbaines et des manifestations perturbatrices."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-vote-obligatoire-peut-envoyer-le-signal-fort-que-nous-appartenons-a-une-meme-communaute-de-destin_6788003_3232.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html"
             }
           ]
         },
         {
-          "title": "Crise au sein des rédactions audiovisuelles : tensions sur le pluralisme avant 2027",
+          "title": "Budget 2027 : priorité au nucléaire avec des ajustements pour les énergies renouvelables",
           "bullets": [
-            "Protestations chez Radio France, France Télévisions et RTL sur la présence de journalistes proches du RN.",
-            "Remise en cause du pluralisme éditorial et des règles de déontologie dans les médias publics.",
-            "Menace de blocages et de grèves si aucune solution n’est trouvée rapidement.",
-            "Interrogations sur l’indépendance des rédactions face à la montée de l’extrême droite.",
-            "Réactions des directions et du gouvernement sur la gestion de cette crise interne."
+            "Suppression de 120 millions d’euros pour les énergies renouvelables.",
+            "Garantie d’État accordée gratuitement pour les prêts liés aux réacteurs EPR2 jusqu’en 2090.",
+            "Investissements massifs dans le nucléaire pour assurer l’indépendance énergétique."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html"
             }
           ]
         }
@@ -107,98 +98,86 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Ukraine : Kiev affirme avoir regagné du terrain dans le Donbass",
+          "title": "Anna Politkovskaïa : hommage à la journaliste assassinée pour son combat contre Poutine",
           "bullets": [
-            "L’armée ukrainienne aurait repris environ 125 à 140 km² dans l’est du pays, selon Volodymyr Zelensky.",
-            "Objectif : reprendre le contrôle de territoires occupés par la Russie depuis 2014.",
-            "Réactions russes non confirmées, mais tensions persistantes dans la région.",
-            "Impact sur les négociations de paix et la stratégie militaire ukrainienne.",
-            "Analyse des pertes humaines et matérielles des deux camps dans cette offensive."
+            "Décès en 2006, mais son héritage reste d’actualité avec la guerre en Ukraine.",
+            "Avertissements lucides sur les dérives autoritaires du régime russe.",
+            "Son travail a inspiré des générations de journalistes indépendants."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-kiev-affirme-avoir-regagne-du-terrain-dans-la-region-du-donbass_6787996_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/05/anna-politkovskaia-la-journaliste-morte-il-y-a-vingt-ans-d-avoir-compris-le-regime-poutine-avant-les-autres_6788480_3210.html"
             }
           ]
         },
         {
-          "title": "Brésil : scrutin incertain sous l’ombre de l’ingérence américaine",
+          "title": "Bosnie-Herzégovine : montée des partis nationalistes après les élections",
           "bullets": [
-            "Lula (gauche) et Flavio Bolsonaro (extrême droite) en tête des sondages avant les élections générales.",
-            "Accusations de pression politique américaine sur le résultat final.",
-            "Risque de contestation des résultats et de tensions post-électorales.",
-            "Enjeux économiques et géopolitiques liés à l’issue du scrutin.",
-            "Réactions des partis brésiliens et de la communauté internationale."
+            "Serbes et Croates gagnent du terrain face aux Bosniaques musulmans.",
+            "Risque accru de tensions ethniques et politiques dans un pays déjà fragilisé.",
+            "Enjeu : stabilité régionale et respect des accords de paix post-guerre."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/05/elections-generales-en-bosnie-herzegovine-les-partis-nationalistes-serbes-et-croates-gagnent-du-terrain_6788479_3210.html"
             }
           ]
         },
         {
-          "title": "Lettonie : victoire du parti pro-européen malgré une poussée populiste",
+          "title": "Kiev sous les bombardements : une ville en état de guerre permanente",
           "bullets": [
-            "Formation du premier ministre Andris Kulbergs obtient environ 40 sièges sur 100.",
-            "Résistance face à une montée des partis nationalistes et eurosceptiques.",
-            "Alliance possible avec d’autres partis modérés pour former une coalition stable.",
-            "Enjeux européens et défense face à la pression russe dans la région.",
-            "Analyse des conséquences pour la politique intérieure et extérieure de la Lettonie."
+            "Fréquence accrue des alertes et frappes russes depuis août 2026.",
+            "Impact psychologique et matériel sur la population civile.",
+            "Appels à la solidarité internationale pour soutenir la résistance ukrainienne."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/04/legislatives-en-lettonie-le-parti-pro-europeen-au-pouvoir-en-tete-face-a-une-poussee-populiste_6787992_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/05/a-kiev-une-atmosphere-de-guerre-permanente-l-ennemi-est-en-train-de-detruire-la-ville_6788472_3210.html"
             }
           ]
         },
         {
-          "title": "Financement présumé du Hamas : cinq personnes mises en examen en France",
+          "title": "Brésil : Flavio Bolsonaro devance Lula au second tour de la présidentielle",
           "bullets": [
-            "Trois suspects, dont deux présidents d’associations caritatives, liés à une liste noire américaine.",
-            "Enquête pour financement illégal d’une organisation classée terroriste.",
-            "Risque de poursuites judiciaires et de sanctions internationales pour ces individus.",
-            "Impact sur les associations humanitaires en France et en Europe.",
-            "Réactions des autorités françaises et des organisations concernées."
+            "Fils de l’ancien président Jair Bolsonaro, condamné à 27 ans de prison.",
+            "Candidat conservateur en forte progression dans les sondages.",
+            "Enjeu : polarisation politique et héritage de l’extrême droite au Brésil."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/04/cinq-personnes-mises-en-examen-pour-des-soupcons-de-financement-du-hamas-via-des-associations-humanitaires_6787959_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/05/presidentielle-au-bresil-flavio-bolsonaro-fils-de-l-ancien-chef-d-etat-d-extreme-droite-devance-lula-et-l-affrontera-au-second-tour_6788432_3210.html"
             }
           ]
         },
         {
-          "title": "Groenland : exploitation d’un gisement stratégique de graphite",
+          "title": "Incident à la base militaire britannique : retrait des bombardiers américains",
           "bullets": [
-            "L’UE cherche à réduire sa dépendance à la Chine pour le graphite, crucial pour la défense et la transition écologique.",
-            "Projet minier au Groenland, territoire autonome danois, sous haute surveillance.",
-            "Enjeux géopolitiques et économiques liés à cette ressource stratégique.",
-            "Analyse des défis environnementaux et sociaux de l’exploitation minière.",
-            "Réactions des pays européens et des acteurs chinois sur ce projet."
+            "Six hommes sous contrôle judiciaire pour détournement d’essence près de la base de Fairford.",
+            "Mesures de sécurité renforcées et retrait temporaire des appareils militaires.",
+            "Enjeu : sécurité des bases alliées en Europe."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html"
             }
           ]
         },
         {
-          "title": "Viol présumé à Cornell : enquête externe sur la gestion de l’affaire",
+          "title": "Gaza : Israël tue un membre du Hamas lié à une ONG turque",
           "bullets": [
-            "Un cabinet d’avocats analyse les procédures de l’université américaine après des accusations de négligence.",
-            "Allégations selon lesquelles la police du campus aurait expurgé des preuves.",
-            "Enjeux de transparence et de responsabilité dans les universités américaines.",
-            "Impact sur les politiques de sécurité et de prévention des violences sur les campus.",
-            "Réactions des étudiants, des associations et des autorités locales."
+            "Saqr Nabil Musa Qaisi, dirigeant d’une ONG turque et membre de l’unité Nukhba du Hamas, neutralisé.",
+            "Tensions accrues entre Israël et la Turquie dans le contexte de la guerre à Gaza.",
+            "Conséquences : escalade des violences et risques de représailles."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/04/viol-presume-a-cornell-une-enquete-externe-ouverte-sur-la-gestion-de-l-affaire-par-l-universite-americaine_6788009_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html"
             }
           ]
         }
@@ -207,56 +186,31 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "sources indisponibles ce matin"
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Lebara propose un forfait mobile 200 Go à moins de 10 €/mois sur SFR",
+          "title": "Meta lance Muse, un agent IA capable de téléphoner et de collecter des données",
           "bullets": [
-            "Forfait 5G incluant 200 Go de données à 9,99 €/mois, sans engagement.",
-            "Disponible uniquement sur le réseau SFR, avec une offre limitée dans le temps.",
-            "Stratégie de Lebara pour attirer une clientèle sensible au prix et aux données mobiles.",
-            "Comparaison avec les offres concurrentes sur le marché français.",
-            "Conditions d’éligibilité et durée de l’offre promotionnelle."
+            "Capacité à interagir par téléphone et à traiter des données sensibles.",
+            "Critiques sur la collecte massive de données et les risques pour la vie privée.",
+            "Concurrence accrue avec d’autres agents IA comme Google’s Duet AI."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2345965-lebara-propose-un-forfait-200-go-a-moins-de-10-e-par-mois.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Jailbreak de la PS5 et actualités technologiques de la semaine",
+          "title": "LLM-jacking : une nouvelle menace cyber avec la revente de comptes IA volés",
           "bullets": [
-            "Annonce d’un jailbreak pour la PS5, permettant de contourner les restrictions de Sony.",
-            "Conférence d’OpenAI sur les avancées de l’IA et ses implications futures.",
-            "Intervention de Jordan Bardella sur un réseau social majeur, analysée par les médias tech.",
-            "Débat sur les enjeux éthiques et sécuritaires liés à ces innovations.",
-            "Impact sur les joueurs, les développeurs et les fabricants de consoles."
+            "Vol et revente de comptes d’IA à bas prix sur le dark web.",
+            "Détournement discret de serveurs cloud pour des attaques ciblées.",
+            "Alertes de Google sur l’essor de cette nouvelle forme de cybercriminalité."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2345895-jailbreak-de-la-ps5-conference-openai-et-facebook-de-jordan-bardella-le-recap-tech-de-la-semaine.html"
-            }
-          ]
-        },
-        {
-          "title": "IA : scénarios catastrophiques et risques pour l’humanité analysés",
-          "bullets": [
-            "Étude des scénarios où une IA surpuissante pourrait menacer la survie humaine.",
-            "Risques liés à la création d’armes biologiques ou à l’autonomie dangereuse des systèmes.",
-            "Analyse des mesures de régulation et de sécurité proposées par les experts.",
-            "Débat sur la nécessité d’une gouvernance internationale de l’IA.",
-            "Réactions des acteurs technologiques et des institutions face à ces risques."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html"
             }
           ]
         }
@@ -264,58 +218,46 @@
     },
     {
       "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "sources indisponibles ce matin"
+      "sujets": [
+        {
+          "title": "Meta Muse : des humains supervisent les appels de l’agent IA",
+          "bullets": [
+            "Intervention humaine pour valider les interactions téléphoniques de Muse.",
+            "Objectif : garantir la qualité et éviter les erreurs ou abus.",
+            "Transparence limitée sur les protocoles de supervision en place."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "sources indisponibles ce matin"
+      "sujets": [
+        {
+          "title": "Des rubis et saphirs cultivés dans du platine imprimé en 3D",
+          "bullets": [
+            "Méthode innovante développée par l’UWE Bristol pour insérer des cristaux dans des structures métalliques.",
+            "Applications potentielles en joaillerie et en électronique haute performance.",
+            "Processus d’impression 3D combiné à la croissance cristalline."
+          ],
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/neo-gemstone-bague-3d-05102026/"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Dates clés des impôts en octobre 2026 : échéances à respecter",
+          "title": "Arnaque au « fichage à la Banque de France » : attention aux SMS suspects",
           "bullets": [
-            "Dernières dates pour déclarer ses revenus et régler ses impôts en 2026.",
-            "Échéances spécifiques pour les professionnels et les particuliers.",
-            "Sanctions en cas de retard ou d’oubli de déclaration.",
-            "Conseils pour optimiser sa déclaration et éviter les erreurs.",
-            "Impact des changements législatifs sur les modalités de paiement."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au « Nous avons retrouvé votre argent » : nouvelle tactique des escrocs",
-          "bullets": [
-            "Appels frauduleux imitant les services officiels pour piéger les victimes.",
-            "Méthode : demander des informations bancaires sous prétexte de remboursement.",
-            "Risque de double escroquerie après une première arnaque (ex. : vishing).",
-            "Conseils pour reconnaître et éviter ce type de fraude.",
-            "Réactions des autorités et des associations de consommateurs."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Barème de l’impôt sur le revenu 2027 : baisse ou hausse pour les contribuables ?",
-          "bullets": [
-            "Nouveau barème fiscal pour 2027 avec ajustements des tranches d’imposition.",
-            "Analyse des changements par rapport à 2026 et leur impact sur les ménages.",
-            "Simulations pour évaluer si les contribuables paieront plus ou moins d’impôts.",
-            "Exemples concrets selon les revenus et la situation familiale.",
-            "Conseils pour optimiser sa déclaration en fonction des nouvelles règles."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie 2027 : moins d’oubliés grâce à l’envoi automatique",
-          "bullets": [
-            "Mesure gouvernementale pour réduire les oublis dans l’attribution du chèque énergie.",
-            "Envoi systématique aux bénéficiaires éligibles, sans déclaration préalable.",
-            "Montant et conditions d’éligibilité pour 2027.",
-            "Impact sur les ménages modestes et les foyers précaires.",
-            "Délais et modalités de réception pour les bénéficiaires."
+            "Arnaque courante ciblant les personnes en difficulté financière.",
+            "Demande de paiement ou de partage de données personnelles.",
+            "Conseils : ne pas répondre et signaler le numéro à la Banque de France."
           ],
           "sources": []
         }
@@ -325,35 +267,20 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnats d’Europe de cyclisme : favoris et enjeux pour la médaille d’or",
+          "title": "Remco Evenepoel sacré champion d’Europe de cyclisme sur route",
           "bullets": [
-            "Analyse des principaux favoris : Pedersen, Vauquelin, Roglic et Ciccone.",
-            "Evenepoel, revanchard après une saison difficile, vise une nouvelle victoire.",
-            "Détails des épreuves et des parcours pour les championnats 2026.",
-            "Enjeux nationaux et stratégies des équipes pour remporter l’or.",
-            "Calendrier des courses et chaînes de diffusion pour suivre les épreuves."
+            "Victoire serrée à la photo-finish lors des championnats d’Europe.",
+            "Performance remarquée malgré une course intense et des conditions difficiles.",
+            "Consécration pour le cycliste belge, déjà médaillé aux mondiaux."
           ],
           "sources": []
         },
         {
-          "title": "Handball : Metz Handball préserve son invincibilité face à Nykøbing",
+          "title": "Paris Basket écrase Le Mans au buzzer en Betclic Élite",
           "bullets": [
-            "Victoire 28-26 du Metz Handball contre Nykøbing dans le cadre de la Ligue des champions.",
-            "Invincibilité maintenue pour le club alsacien en début de saison.",
-            "Analyse des performances clés et des tactiques employées par l’équipe.",
-            "Prochaines rencontres et défis pour la suite de la compétition.",
-            "Impact de cette victoire sur la dynamique collective et les ambitions européennes."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Tennis de table : Félix Lebrun vise le titre mondial à Shanghai",
-          "bullets": [
-            "Félix Lebrun en lice pour devenir n°1 mondial lors du Grand Smash de Chine.",
-            "Analyse de sa préparation et de ses performances récentes.",
-            "Enjeux du tournoi et concurrence avec d’autres joueurs mondiaux.",
-            "Impact d’une victoire sur sa carrière et son classement international.",
-            "Calendrier et modalités pour suivre le tournoi en direct."
+            "Victoire serrée (88-86) lors d’un match intense et spectaculaire.",
+            "Performance décisive de Paris Basket en fin de rencontre.",
+            "Enjeu : maintien en Betclic Élite et préparation pour les playoffs."
           ],
           "sources": []
         }
@@ -370,8 +297,8 @@
             "Date : dimanche 11 octobre à 19h00 (heure de Paris)",
             "Stade : Acrisure Stadium",
             "Diffusion : à confirmer",
-            "Classement : 4e de l'AFC Nord (2-2)",
-            "Adversaire au classement : 2e de l'AFC Sud (1-2)",
+            "Classement : 3e de l'AFC Nord (2-2)",
+            "Adversaire au classement : 2e de l'AFC Sud (2-2)",
             "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
           ],
           "sources": [
@@ -403,26 +330,6 @@
             {
               "name": "Wikipédia",
               "url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Sport — NFL à la TV aujourd'hui",
-      "sujets": [
-        {
-          "title": "Football américain à la télévision (heures de Paris)",
-          "bullets": [
-            "Washington Commanders – Indianapolis Colts · 15h25 · beIN SPORTS MAX 4 · direct",
-            "Philadelphia Eagles – Los Angeles Rams · 19h00 · beIN SPORTS 1 · direct",
-            "San Francisco 49ers – Denver Broncos · 22h30 · beIN SPORTS 1 · direct",
-            "Las Vegas Raiders – Kansas City Chiefs · 23h00 · L&#039;Equipe · direct"
-          ],
-          "sources": [
-            {
-              "name": "tv-sports.fr",
-              "url": "https://tv-sports.fr/football-americain/nfl"
             }
           ]
         }

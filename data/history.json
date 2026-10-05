@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html",
-    "title": "Martinique : adoption d’un plan de redressement budgétaire de 69 millions d’euros",
-    "rubrique": "France",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/09/26/a-thil-en-lorraine-l-hommage-a-37-travailleuses-forcees-sovietiques-victimes-des-nazis-annule-a-cause-du-conflit-russo-ukrainien_6783059_3224.html",
-    "title": "Annulation d’un hommage aux travailleuses forcées soviétiques en Lorraine",
-    "rubrique": "France",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html",
-    "title": "Attaque russe en Ukraine : au moins un mort dans la région de Zaporijia",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html",
-    "title": "Tempête majeure aux États-Unis : inondations côtières redoutées dans le Nord-Est",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html",
-    "title": "L’ONU adopte une résolution pour corriger les déformations cartographiques de l’Afrique",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/27/vingt-cinq-ans-apres-le-11-septembre-des-documents-qui-montrent-que-des-membres-du-gotha-saoudien-ont-finance-al-qaida_6783750_3210.html",
-    "title": "Documents révélant le financement saoudien d’Al-Qaïda avant le 11-Septembre",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html",
-    "title": "Évacuation d’une poétesse gazaouie en France grâce à une mobilisation citoyenne",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
-    "title": "Donald Trump rejette le plan iranien de réouverture du détroit d’Ormuz",
-    "rubrique": "International",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html",
-    "title": "Fort-Dactylo : un jeu gratuit pour apprendre à taper au clavier",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2341117-fc-27-lite-ea-sports-lache-une-version-gratuite-pour-la-premiere-fois-de-son-histoire.html",
-    "title": "EA Sports lance FC 27 Lite, une version gratuite de son jeu phare",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-27"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-en-formant-un-groupe-pour-la-premiere-fois-le-rassemblement-national-conforte-son-recit-de-marche-vers-le-pouvoir_6784663_823448.html",
     "title": "Sénatoriales 2026 : le Rassemblement National obtient un groupe au Sénat",
     "rubrique": "France",
@@ -682,5 +622,83 @@
     "title": "IA : scénarios catastrophiques et risques pour l’humanité analysés",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/05/avant-la-primaire-a-gauche-un-dernier-debat-televise-sous-tension-le-spectacle-qu-on-a-donne-pendant-vingt-minutes-etait-honteux_6788468_823448.html",
+    "title": "Primaire de la gauche : tensions lors du dernier débat télévisé",
+    "rubrique": "France",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+    "title": "Blocages de lycées : le gouvernement exige la reprise des cours dès lundi",
+    "rubrique": "France",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/04/a-marseille-un-lyceen-de-15-ans-mis-en-examen-pour-acte-de-barbarie-apres-une-agression-au-spray-enflamme_6788323_3224.html",
+    "title": "Mineur mis en examen pour « acte de barbarie » après agression au spray enflammé",
+    "rubrique": "France",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
+    "title": "Projet de loi « casseurs-payeurs » : accélération du calendrier législatif",
+    "rubrique": "France",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
+    "title": "Budget 2027 : priorité au nucléaire avec des ajustements pour les énergies renouvelables",
+    "rubrique": "France",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/05/anna-politkovskaia-la-journaliste-morte-il-y-a-vingt-ans-d-avoir-compris-le-regime-poutine-avant-les-autres_6788480_3210.html",
+    "title": "Anna Politkovskaïa : hommage à la journaliste assassinée pour son combat contre Poutine",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/05/elections-generales-en-bosnie-herzegovine-les-partis-nationalistes-serbes-et-croates-gagnent-du-terrain_6788479_3210.html",
+    "title": "Bosnie-Herzégovine : montée des partis nationalistes après les élections",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/05/a-kiev-une-atmosphere-de-guerre-permanente-l-ennemi-est-en-train-de-detruire-la-ville_6788472_3210.html",
+    "title": "Kiev sous les bombardements : une ville en état de guerre permanente",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/05/presidentielle-au-bresil-flavio-bolsonaro-fils-de-l-ancien-chef-d-etat-d-extreme-droite-devance-lula-et-l-affrontera-au-second-tour_6788432_3210.html",
+    "title": "Brésil : Flavio Bolsonaro devance Lula au second tour de la présidentielle",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html",
+    "title": "Incident à la base militaire britannique : retrait des bombardiers américains",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
+    "title": "Gaza : Israël tue un membre du Hamas lié à une ONG turque",
+    "rubrique": "International",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html",
+    "title": "LLM-jacking : une nouvelle menace cyber avec la revente de comptes IA volés",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.3dnatives.com/neo-gemstone-bague-3d-05102026/",
+    "title": "Des rubis et saphirs cultivés dans du platine imprimé en 3D",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-05"
   }
 ]
