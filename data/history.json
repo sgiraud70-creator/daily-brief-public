@@ -1,83 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/dette-la-france-au-c-ur-des-inquietudes-internationales_6785556_823448.html",
-    "title": "Dette publique : la France sous pression avec des taux d’emprunt en hausse",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/dans-la-fonction-publique-le-nouveau-gel-des-salaires-accentue-le-malaise-la-corde-n-est-pas-loin-de-casser_6785446_823448.html",
-    "title": "Gel des salaires dans la fonction publique : les syndicats appellent à la mobilisation",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
-    "title": "Blocus des lycées : mouvement social en extension et tensions politiques",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/28/proces-en-appel-des-assistants-parlementaires-du-modem-deux-ans-d-emprisonnement-avec-sursis-requis-contre-francois-bayrou_6785102_823448.html",
-    "title": "Procès en appel des assistants parlementaires du MoDem : François Bayrou visé par une peine sévère",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/28/elu-au-senat-de-justesse-renaud-muselier-quitte-la-presidence-de-la-region-provence-alpes-cote-d-azur-et-soutient-gerard-larcher_6785096_823448.html",
-    "title": "Renaud Muselier quitte la présidence de la région PACA pour se concentrer sur la présidentielle",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/toujours-plus-avec-toujours-moins-les-agents-de-france-travail-se-mobilisent-contre-les-coupes-budgetaires_6785410_823448.html",
-    "title": "France Travail : agents en grève contre les coupes budgétaires et la surcharge de travail",
-    "rubrique": "France",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-la-coree-du-nord-va-former-10-000-soldats-supplementaires-pour-aider-la-russie-affirme-volodymyr-zelensky_6783795_3210.html",
-    "title": "Corée du Nord : formation de 10 000 soldats supplémentaires pour soutenir la Russie en Ukraine",
-    "rubrique": "International",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/29/le-recul-de-l-aide-internationale-menace-plus-de-huit-millions-de-refugies-et-de-deplaces-alerte-l-onu_6785482_3210.html",
-    "title": "ONU : recul de l’aide internationale menace huit millions de réfugiés et déplacés",
-    "rubrique": "International",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/29/attentats-du-11-septembre-la-justice-empechee-et-paralysee-entre-raison-d-etat-et-influence-saoudienne_6785515_3210.html",
-    "title": "Attentats du 11-Septembre : 25 ans après, la justice américaine toujours bloquée par des obstacles politiques",
-    "rubrique": "International",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/09/29/les-armees-africaines-improbables-recrues-de-la-force-internationale-censee-stabiliser-la-bande-de-gaza_6785522_3212.html",
-    "title": "Force internationale pour Gaza : les armées africaines envisagées pour stabiliser la bande de Gaza",
-    "rubrique": "International",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/29/au-mexique-de-nouveaux-suspects-identifies-dans-l-affaire-des-43-etudiants-disparus-d-ayotzinapa-en-2014_6785376_3210.html",
-    "title": "Mexique : nouveaux suspects identifiés dans l’affaire des 43 étudiants disparus d’Ayotzinapa",
-    "rubrique": "International",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2341883-voici-les-premieres-images-du-decollage-du-starship-pour-son-vol-orbital-ecourte.html",
-    "title": "Starship : SpaceX réussit un vol orbital écourté mais marque un pas vers la Lune et Mars",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2341743-dacia-hipster-une-petite-voiture-electrique-a-11-000-euros-arrivera-des-2027.html",
-    "title": "Dacia Hipster : une voiture électrique abordable à 11 000 euros pour 2027",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-29"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/09/30/presidentielle-2027-bruno-retailleau-gene-la-droite-europeenne-avec-sa-remise-en-cause-de-la-primaute-du-droit-de-l-ue_6785972_823448.html",
     "title": "Bruno Retailleau remettrait en cause la primauté du droit européen en cas de victoire présidentielle",
     "rubrique": "France",
@@ -688,5 +610,101 @@
     "title": "Fast and Furious : Vin Diesel révèle enfin le destin de Dom après la saga",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/07/emmanuel-roman-patron-du-geant-de-la-finance-pimco-les-marches-envoient-un-signal-serieux-a-la-france-sur-sa-dette-l-heure-est-grave_6789539_3234.html",
+    "title": "Dette publique : Pimco tire la sonnette d’alarme sur la dérive budgétaire française",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/07/mouvement-lyceen-sebastien-lecornu-sous-la-pression-de-la-rue-des-oppositions-et-d-emmanuel-macron_6789500_823448.html",
+    "title": "Mobilisation lycéenne : le gouvernement sous pression face aux blocages et aux critiques",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/10/07/ecrits-antisemites-de-jordan-bardella-quelles-turbulences-au-rn_6789432_5463015.html",
+    "title": "Affaire Bardella : le RN divisé entre déni et gestion de crise",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/07/le-pretre-jean-bernard-plessy-ancien-directeur-des-chartreux-a-lyon-mis-en-examen-pour-viol-aggrave_6789198_3224.html",
+    "title": "Violences sexuelles : un prêtre mis en examen pour viol aggravé",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/06/inceste-les-deputes-votent-pour-creer-une-infraction-specifique-et-elargir-sa-definition-aux-cousins_6789127_823448.html",
+    "title": "Loi contre les violences sexuelles : élargissement de la définition de l’inceste",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-l-affaire-jordan-bardella-plombe-la-sequence-budgetaire-du-rn_6789091_823448.html",
+    "title": "Budget 2027 : le RN en difficulté après la révélation de propos antisémites",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/video/2026/10/06/blocages-des-lycees-les-deputes-interpellent-vivement-le-gouvernement_6789043_823448.html",
+    "title": "Crise lycéenne : les députés interpellent le gouvernement sur les blocages",
+    "rubrique": "France",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
+    "title": "Arabie saoudite : interception de missiles houthistes et renforcement de la coalition anti-Yémen",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
+    "title": "Israël : trois ans après le 7-Octobre, le pays marqué par les traumatismes et les divisions",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
+    "title": "Cisjordanie : photojournaliste palestinien roué de coups par des colons israéliens",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/07/a-pekin-l-heure-de-verite-pour-le-commissaire-europeen-au-commerce-pour-contrer-l-envolee-des-exportations-chinoises-vers-l-europe_6789537_3234.html",
+    "title": "Chine : l’UE en négociations tendues pour limiter les exportations industrielles",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html",
+    "title": "Australie : la justice bloque l’extension d’une mine de charbon",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-allemagne-la-succession-de-friedrich-merz-en-filigrane-dans-le-duel-entre-munich-et-cologne-pour-accueillir-les-jo_6789466_3210.html",
+    "title": "Allemagne : rivalité entre Munich et Cologne pour accueillir les JO de 2036",
+    "rubrique": "International",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2348011-plaider-en-faveur-dune-homologation-rapide-lallemagne-est-prete-a-accelerer-pour-autoriser-le-tesla-fsd-en-europe.html",
+    "title": "Tesla accélère l’homologation du FSD en Europe grâce à l’Allemagne",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2347737-ne-payez-jamais-un-moteur-de-donnees-volees-tend-un-nouveau-piege-a-ses-victimes.html",
+    "title": "Volonté de suppression de données volées : un nouveau piège pour les victimes",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.3dnatives.com/propulseurs-imprimes-en-3d-espace-07102026/",
+    "title": "Retour sur Terre de propulseurs imprimés en 3D depuis l’ISS",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-07"
   }
 ]
