@@ -1,119 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/30/presidentielle-2027-bruno-retailleau-gene-la-droite-europeenne-avec-sa-remise-en-cause-de-la-primaute-du-droit-de-l-ue_6785972_823448.html",
-    "title": "Bruno Retailleau remettrait en cause la primauté du droit européen en cas de victoire présidentielle",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/presidentielle-2027-edouard-philippe-devoile-son-projet-de-retraite-a-65-ans-et-45-annuites_6785692_823448.html",
-    "title": "Édouard Philippe propose une réforme des retraites à 65 ans et 45 annuités",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/les-medias-bollore-chassent-la-taupe-d-un-rn-paranoiaque_6785691_823448.html",
-    "title": "Médias Bolloré : révélations sur des accusations de « taupe » au sein du RN",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/pouvoir-d-achat-la-fonction-publique-dans-la-rue-pour-reclamer-autre-chose-que-des-remerciements_6785684_823448.html",
-    "title": "Fonction publique en grève : mobilisation contre le gel des salaires",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/municipales-a-vaulx-en-velin-la-justice-annule-les-elections-remportees-par-lfi-apres-celles-de-venissieux_6785680_823448.html",
-    "title": "Annulation des élections municipales à Vaulx-en-Velin pour irrégularités",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/enquete-sur-jordan-bardella-apres-la-reaction-du-president-du-rn-mediapart-denonce-la-violence-siderante-du-parti-d-extreme-droite_6785580_823449.html",
-    "title": "Enquête sur Jordan Bardella : révélations de messages antisémites de 2013",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/29/senat-les-ecologistes-refusent-d-accueillir-l-insoumis-gabriel-amard-dans-leur-groupe_6785675_823448.html",
-    "title": "Sénat : refus des écologistes d’accueillir Gabriel Amard (LFI)",
-    "rubrique": "France",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-un-enfant-tue-par-des-frappes-russes-dans-la-region-de-kiev_6783795_3210.html",
-    "title": "Guerre en Ukraine : frappe russe tue un enfant près de Kiev",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html",
-    "title": "Fin de l’accord « un qui entre, un qui sort » entre la France et le Royaume-Uni sur l’immigration",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html",
-    "title": "Montée historique de l’AfD en Allemagne : un séisme politique",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/30/apres-douze-ans-de-presence-en-irak-la-coalition-antidjihadiste-acheve-son-retrait-complet-du-territoire_6785892_3210.html",
-    "title": "Retrait complet de la coalition antidjihadiste d’Irak après 12 ans de présence",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html",
-    "title": "Cuba sous nouvelles sanctions américaines",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/09/30/l-americaine-christa-pike-devrait-etre-la-premiere-femme-executee-dans-l-etat-du-tennessee-depuis-200-ans_6785927_3210.html",
-    "title": "Tennessee : une femme pourrait devenir la première exécutée depuis 200 ans",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
-    "title": "Boeing remporte un contrat de 20 milliards de dollars pour l’avion de combat de la marine américaine",
-    "rubrique": "International",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2343303-openai-lance-deja-gpt-6-1-sol-une-semaine-seulement-apres-gpt-6-sol.html",
-    "title": "OpenAI lance GPT-6.1 Sol, une semaine après GPT-6 Sol",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2343069-openai-devoile-dots-ses-assistants-mignons-pour-democratiser-lia-agentique-sauf-en-europe.html",
-    "title": "OpenAI dévoile « dots », ses assistants IA pour démocratiser l’IA agentique (sauf en Europe)",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2343289-des-mots-de-passe-voles-ont-suffi-et-personne-na-rien-vu-lanssi-disseque-le-piratage-de-la-dgfip.html",
-    "title": "ANSSI dissèque le piratage de la DGFiP : des mots de passe volés ont suffi",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2343083-apres-un-vol-test-calamiteux-la-nasa-veut-quand-meme-refaire-voler-des-astronautes-dans-le-starliner-dici-2028.html",
-    "title": "Nasa relance le projet Starliner malgré un vol test calamiteux",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2342405-ok-the-witcher-3-remastered-est-sublime-mais-cest-cette-nouveaute-qui-compte-vraiment.html",
-    "title": "The Witcher 3 Remastered : une nouveauté majeure qui change la donne",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-09-30"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-l-inquietude-des-militants-ecologistes-et-communistes-partisans-d-une-union-a-gauche_6786440_823448.html",
     "title": "Présidentielle 2027 : tensions au sein de la gauche sur les candidatures autonomes",
     "rubrique": "France",
@@ -706,5 +592,107 @@
     "title": "Retour sur Terre de propulseurs imprimés en 3D depuis l’ISS",
     "rubrique": "Impression 3D",
     "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
+    "title": "Rassemblement National : Marine Le Pen propose une taxe de 1 000 € pour embaucher un travailleur extra-européen",
+    "rubrique": "France",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/08/la-gouvernance-nebuleuse-de-paris-ou-le-pouvoir-se-dilue-entre-le-maire-ses-adjoints-et-l-administration_6789927_3232.html",
+    "title": "Gouvernance parisienne : crise de pouvoir entre le maire et ses adjoints après un scandale de violences sur mineurs",
+    "rubrique": "France",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/video/2026/10/07/les-premieres-decisions-du-gouvernement-en-reponse-aux-revendications-des-lyceens-seront-presentees-a-la-fin-du-mois-d-octobre-annonce-sebastien-lecornu_6789652_823448.html",
+    "title": "Sébastien Lecornu annonce des mesures pour les lycéens d’ici la fin octobre",
+    "rubrique": "France",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/07/les-affections-longue-duree-ont-coute-pres-de-20-milliards-d-euros-a-l-assurance-maladie-en-2025_6789647_3224.html",
+    "title": "Dépenses de santé : les affections longues durée coûtent près de 20 milliards d’euros à l’Assurance-maladie en 2025",
+    "rubrique": "France",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/07/carburants-sebastien-lecornu-annonce-que-dix-millions-de-barils-de-gazole-seront-mis-a-la-disposition-des-distributeurs-et-espere-une-baisse-des-prix-comprise-entre-12-a-18-centimes-le-litre-a-la-pompe_6789646_3234.html",
+    "title": "Carburants : baisse des prix espérée grâce à 10 millions de barils de gazole mis à disposition",
+    "rubrique": "France",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/08/mehmet-sahan-un-francais-attaque-par-son-ex-employeur-thales-croupit-dans-l-enfer-des-prisons-azerbaidjanaises-depuis-2022_6789932_4355770.html",
+    "title": "Azerbaïdjan : un Français, Mehmet Sahan, emprisonné depuis 2022, dénonce des conditions de détention inhumaines",
+    "rubrique": "International",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/08/finale-de-la-can-2025-le-tribunal-arbitral-du-sport-appele-a-trancher-entre-le-maroc-et-le-senegal_6789931_3212.html",
+    "title": "CAN 2025 : le Tribunal arbitral du sport (TAS) doit trancher le conflit entre le Maroc et le Sénégal pour la finale",
+    "rubrique": "International",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/08/l-arabie-saoudite-deplore-trois-morts-dans-des-attaques-houthistes-contre-des-aeroports_6789723_3210.html",
+    "title": "Arabie saoudite : trois morts dans des attaques houthistes contre des aéroports",
+    "rubrique": "International",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
+    "title": "Ukraine : frappe russe cause au moins 28 morts, dont cinq enfants, à Prylouky",
+    "rubrique": "International",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/08/en-egypte-les-six-journalistes-du-media-d-investigation-matsadaash-inculpes-d-infractions-liees-au-terrorisme_6789789_3212.html",
+    "title": "Égypte : six journalistes du média d’investigation « Mastadaash » inculpés pour infractions liées au terrorisme",
+    "rubrique": "International",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2348527-synthid-detector-google-lance-un-outil-pour-reperer-les-contenus-generes-par-ia.html",
+    "title": "Google lance SynthID Detector pour repérer les contenus générés par IA",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2348687-bmw-devoile-lix4-le-clone-profile-de-lix3-promet-jusqua-828-km-dautonomie.html",
+    "title": "BMW dévoile l’iX4 : un SUV électrique avec une autonomie jusqu’à 828 km",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2348767-cyber-for-good-lance-lacademy-six-webinaires-gratuits-pour-aider-les-associations-a-mieux-se-proteger.html",
+    "title": "Cyber for Good lance l’Academy : six webinaires gratuits pour sécuriser les associations",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2348765-les-arnaques-aux-cartes-pokemon-se-multiplient-avec-58-fausses-boutiques-recensees-en-quelques-semaines.html",
+    "title": "Arnaques aux cartes Pokémon : 58 boutiques frauduleuses recensées en quelques semaines",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2348685-comment-des-hackers-ont-pu-se-faire-passer-pour-google-en-piratant-trois-extensions-nationales.html",
+    "title": "Hackers piratent trois extensions nationales pour se faire passer pour Google",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.3dnatives.com/scrap-labs-impression-3d-metal-08102026/",
+    "title": "Scrap Labs réduit l’impression 3D métal au format de bureau",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.3dnatives.com/alexis-aubert-champion-worldskills-071020263/",
+    "title": "Alexis Aubert, 21 ans, sacré champion du monde en fabrication additive",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-08"
   }
 ]
