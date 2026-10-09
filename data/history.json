@@ -1,83 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/01/presidentielle-2027-l-inquietude-des-militants-ecologistes-et-communistes-partisans-d-une-union-a-gauche_6786440_823448.html",
-    "title": "Présidentielle 2027 : tensions au sein de la gauche sur les candidatures autonomes",
-    "rubrique": "France",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/01/loi-integrale-aucun-texte-n-a-pense-la-protection-des-victimes-comme-une-fonction-a-part-entiere_6786435_3232.html",
-    "title": "Loi contre les violences sexistes et sexuelles : lacunes dans la protection des victimes",
-    "rubrique": "France",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html",
-    "title": "Budget 2027 : le gouvernement affronte les critiques sur la surveillance des marchés",
-    "rubrique": "France",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html",
-    "title": "Procès de Robert Ménard : amende requise pour refus de célébrer un mariage sous OQTF",
-    "rubrique": "France",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/09/30/gabriel-serville-president-de-la-collectivite-territoriale-de-guyane-est-mort-a-67-ans_6786126_823448.html",
-    "title": "Décès de Gabriel Serville, président de la collectivité territoriale de Guyane",
-    "rubrique": "France",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/01/d-un-sommet-a-l-autre-la-chine-faconne-un-monde-favorable-a-sa-preeminence_6786446_3232.html",
-    "title": "La Chine renforce son influence via des sommets diplomatiques discrets mais stratégiques",
-    "rubrique": "International",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/01/tout-notre-quotidien-s-est-rencheri-en-europe-la-hausse-des-prix-des-carburants-ampute-le-pouvoir-d-achat-et-pousse-les-gouvernements-a-multiplier-les-aides_6786443_3234.html",
-    "title": "Hausse des prix des carburants en Europe : impact sur le pouvoir d’achat et les aides gouvernementales",
-    "rubrique": "International",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/01/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-je-ne-me-suis-pas-encore-habituee-a-cet-aspect-de-la-guerre-a-dire-adieu-pour-de-vrai_6786394_4500055.html",
-    "title": "Guerre en Ukraine : témoignages poignants de deux sœurs séparées par le conflit",
-    "rubrique": "International",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html",
-    "title": "États-Unis : tentative d’exécution avortée pour Christa Pike, première femme condamnée à mort depuis 2023",
-    "rubrique": "International",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html",
-    "title": "Décès d’Esther Rantzen, militante britannique pour le droit à une mort digne",
-    "rubrique": "International",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html",
-    "title": "Google annonce Gemini 4 Argon, rivalisant avec OpenAI et Anthropic",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2343709-firefox-157-arrive-avec-nova-son-plus-grand-redesign-depuis-2021.html",
-    "title": "Firefox 157 : le nouveau design Nova révolutionne l’expérience utilisateur",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2344073-vigilance-rouge-dans-le-gard-et-lherault-un-episode-mediterraneen-remarquable-voire-exceptionnel-frappe-le-sud-est.html",
-    "title": "Épisode méditerranéen exceptionnel : vigilance rouge dans le Gard et l’Hérault",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-01"
-  },
-  {
     "url": "https://www.lemonde.fr/idees/article/2026/10/02/marine-babonneau-journaliste-nous-sommes-dans-un-contexte-de-brutalite-inadmissible-dirigee-contre-la-liberte-d-informer_6786903_3232.html",
     "title": "Attaques contre les médias : Marine Babonneau dénonce un « contexte de brutalité inadmissible »",
     "rubrique": "France",
@@ -694,5 +616,95 @@
     "title": "Alexis Aubert, 21 ans, sacré champion du monde en fabrication additive",
     "rubrique": "Impression 3D",
     "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-genocide-a-gaza-ce-mot-qui-cree-une-fracture-entre-les-candidats_6790502_823448.html",
+    "title": "Primaire de la gauche : fracture sur le terme « génocide » à Gaza divise les candidats",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html",
+    "title": "Budget 2027 : les socialistes menacent de bloquer les recettes",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/emmanuel-maurel-la-surprise-des-debats-de-la-primaire-sociale-democrate_6790531_823448.html",
+    "title": "Emmanuel Maurel, révélation des débats de la primaire sociale-démocrate",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/jerome-guedj-la-mauvaise-conscience-de-la-primaire-de-la-gauche_6790524_823448.html",
+    "title": "Jérôme Guedj, figure de la gauche républicaine et laïque",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/09/vote-a-16-ans-elargir-le-cercle-des-electeurs-c-est-la-maniere-dont-une-democratie-se-rend-des-comptes-a-elle-meme_6790503_3232.html",
+    "title": "Vote à 16 ans : une tribune défend son extension",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-avec-plus-de-140-000-votants-pour-designer-leur-candidat-a-la-presidentielle-une-election-plus-incertaine-que-prevu_6790500_823448.html",
+    "title": "Primaire de gauche : plus de 140 000 votants pour un scrutin incertain",
+    "rubrique": "France",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay-pour-ses-efforts-en-faveur-de-la-paix-et-du-droit-international_6790542_3210.html",
+    "title": "Prix Nobel de la paix 2026 décerné à Navanethem Pillay pour ses combats juridiques et humanitaires",
+    "rubrique": "International",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html",
+    "title": "Deuxième attaque ukrainienne contre des infrastructures russes en 48 heures",
+    "rubrique": "International",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/09/naza-le-documentaire-sur-gaza-prime-a-la-mostra-bientot-diffuse-en-france-et-en-ligne_6790538_3210.html",
+    "title": "Documentaire sur Gaza primé à Venise, bientôt disponible en France",
+    "rubrique": "International",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/09/en-coree-du-sud-la-degradation-des-relations-avec-l-ukraine-suscite-l-inquietude_6790529_3210.html",
+    "title": "Corée du Sud rappelle son ambassadeur à Kiev après révélations sur livraisons de carburant à la Russie",
+    "rubrique": "International",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/09/defense-les-armees-regrettent-l-abandon-par-berlin-du-projet-de-char-franco-allemand_6790521_3234.html",
+    "title": "Berlin abandonne le projet franco-allemand de char, un coup dur pour la défense européenne",
+    "rubrique": "International",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2349885-tesla-renomme-son-fsd-en-europe-signe-dune-homologation-prochaine.html",
+    "title": "Tesla renomme son système FSD en Europe : une étape vers l’homologation officielle",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2349933-effare-il-decouvre-par-hasard-que-la-cafetiere-connectee-de-ses-parents-envoie-un-teraoctet-de-donnees-en-dix-jours.html",
+    "title": "Une cafetière connectée envoie des données massives sans consentement",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2349909-il-est-desormais-interdit-de-harceler-claude-ai.html",
+    "title": "Interdiction de harceler Claude AI : une avancée pour le respect des utilisateurs",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.3dnatives.com/titane-flottant-fabrication-additive-09102026/",
+    "title": "Des chercheurs australiens créent une structure en titane flottant grâce à l’impression 3D",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-09"
   }
 ]
