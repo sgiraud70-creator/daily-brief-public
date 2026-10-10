@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/02/marine-babonneau-journaliste-nous-sommes-dans-un-contexte-de-brutalite-inadmissible-dirigee-contre-la-liberte-d-informer_6786903_3232.html",
-    "title": "Attaques contre les médias : Marine Babonneau dénonce un « contexte de brutalité inadmissible »",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-le-gouvernement-renonce-a-faire-payer-des-frais-d-inscription-en-bts-et-en-classes-preparatoires-aux-etudiants-non-boursiers-pour-repondre-a-la-mobilisation-des-lyceens_6786590_823448.html",
-    "title": "Mobilisation lycéenne : le gouvernement recule sur les frais d’inscription en BTS et classes prépa",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/02/les-differentes-reformes-du-cpf-ont-surtout-penalise-les-ouvriers-et-les-employes_6786901_6768900.html",
-    "title": "CPF : les réformes pénalisent surtout ouvriers et employés",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/02/primaire-a-gauche-sur-france-2-les-cinq-candidats-maintiennent-leurs-lignes-de-convergence-et-de-fracture_6786826_823448.html",
-    "title": "Primaire à gauche : convergence et fractures persistantes entre candidats",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/01/jordan-bardella-denonce-des-montages-grossiers-apres-que-mediapart-a-publie-ses-elements-de-preuves_6786582_823448.html",
-    "title": "Jordan Bardella dénonce des « montages grossiers » après la publication d’éléments antisémites",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-2027-les-politiques-de-l-emploi-subissent-une-coupe-severe-de-2-5-milliards-d-euros_6786581_823448.html",
-    "title": "Budget 2027 : les politiques de l’emploi subissent une coupe de 2,5 milliards d’euros",
-    "rubrique": "France",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html",
-    "title": "Irak : départ définitif des dernières troupes américaines après 23 ans de présence",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-seoul-exige-une-nouvelle-fois-des-excuses-de-kiev-pour-avoir-devoile-le-transfert-de-prisonniers-nord-coreens_6783795_3210.html",
-    "title": "Corée du Sud exige des excuses officielles de l’Ukraine pour la révélation de prisonniers nord-coréens",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/02/a-johannesburg-la-decouverte-de-onze-corps-revele-l-ampleur-des-violences-a-l-egard-des-femmes_6786898_3212.html",
-    "title": "Johannesburg : découverte de 11 corps révèle l’ampleur des violences sexistes en Afrique du Sud",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html",
-    "title": "États-Unis : exécution ratée de Christa Pike relance le débat sur la peine de mort",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
-    "title": "Europe occidentale : l’été 2026, le plus chaud jamais enregistré, sans réponse politique claire",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/02/a-los-angeles-nithya-raman-veut-installer-la-nouvelle-gauche-a-la-mairie_6786862_4500055.html",
-    "title": "Los Angeles : Nithya Raman, candidate progressiste, défie la maire sortante",
-    "rubrique": "International",
-    "date": "2026-10-02"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/03/blocage-des-lycees-pour-la-france-insoumise-un-appui-au-mouvement-a-double-tranchant_6787492_823448.html",
     "title": "Mouvements lycéens : tensions et soutien politique contrasté",
     "rubrique": "France",
@@ -706,5 +634,83 @@
     "title": "Des chercheurs australiens créent une structure en titane flottant grâce à l’impression 3D",
     "rubrique": "Impression 3D",
     "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html",
+    "title": "Référendum : l’article 11 de la Constitution au cœur des débats présidentiels",
+    "rubrique": "France",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
+    "title": "Budget 2027 : rejet massif des recettes fiscales par les députés en commission",
+    "rubrique": "France",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html",
+    "title": "Primaire à gauche : cyberattaque perturbe le vote, mais l’intégrité garantie",
+    "rubrique": "France",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-acteurs-de-la-formation-denoncent-la-retroactivite-de-la-reforme-du-cpf_6790603_823448.html",
+    "title": "Réforme du CPF : les acteurs de la formation dénoncent la rétroactivité",
+    "rubrique": "France",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/09/presidentielle-2027-francois-baroin-apporte-son-soutien-a-bruno-retailleau-contre-un-edouard-philippe-premier-de-cordee-du-macronisme_6790608_823448.html",
+    "title": "François Baroin soutient Bruno Retailleau contre Édouard Philippe",
+    "rubrique": "France",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html",
+    "title": "Ukraine : conditions désespérées à Olechky sous occupation russe",
+    "rubrique": "International",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html",
+    "title": "Accord gazole Trump-Poutine : l’Ukraine et ses alliés s’y opposent",
+    "rubrique": "International",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
+    "title": "Sanctions américaines contre la CPI : ultimatum aux États membres",
+    "rubrique": "International",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/video/2026/10/10/pourquoi-des-millions-de-contraceptifs-destines-a-plusieurs-pays-africains-sont-ils-bloques-en-belgique_6790940_1669088.html",
+    "title": "Millions de contraceptifs bloqués en Belgique pour l’Afrique",
+    "rubrique": "International",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/10/comment-les-etats-utilisent-leurs-fonds-souverains-pour-etendre-leur-influence_6790948_3234.html",
+    "title": "Fonds souverains : les États étendent leur influence économique",
+    "rubrique": "International",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2350425-ledger-lance-lalerte-sur-un-revendeur-apres-des-vols-de-cryptos-estimes-a-86-millions-de-dollars.html",
+    "title": "Ledger alerte sur un revendeur impliqué dans des vols de cryptomonnaies",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2350363-successeur-du-rafale-la-france-fixe-seule-les-jalons-2027-et-2029-du-ngf-apres-le-retrait-de-lallemagne.html",
+    "title": "Successeur du Rafale : la France avance seule sur le NGF",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html",
+    "title": "OpenAI : licenciement de chercheurs en sécurité provoque un bras de fer public",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-10"
   }
 ]

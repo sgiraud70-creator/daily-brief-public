@@ -1,18 +1,18 @@
 {
-  "date_str": "Vendredi 9 octobre 2026",
+  "date_str": "Samedi 10 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Denis, Abraham, Ghislain et Sibylle",
+          "title": "Aujourd'hui, on souhaite la fête : Clair et Hugolin",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/9/10/2026/9-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/10/10/2026/10-Octobre-2026.html"
             }
           ]
         }
@@ -22,92 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Primaire de la gauche : fracture sur le terme « génocide » à Gaza divise les candidats",
+          "title": "Référendum : l’article 11 de la Constitution au cœur des débats présidentiels",
           "bullets": [
-            "Le débat sur l’usage du mot « génocide » à Gaza oppose Olivier Faure et Ségolène Royal, d’une part, à Jérôme Guedj et Raphaël Glucksmann, d’autre part.",
-            "Cette divergence reflète des tensions idéologiques au sein de la gauche sur la manière de qualifier les violences en cours.",
-            "Les candidats socialistes doivent trancher avant le premier tour de la primaire, prévu ce week-end.",
-            "Le sujet pourrait influencer les choix des électeurs, notamment parmi les jeunes et les progressistes."
+            "Bruno Retailleau (LR) et Marine Le Pen (RN) souhaitent modifier ce texte pour élargir les possibilités de référendum.",
+            "L’article 11 limite actuellement les consultations populaires aux questions de droit commun et aux traités internationaux.",
+            "Cette réforme pourrait faciliter des consultations sur des sujets comme l’immigration ou la sécurité.",
+            "Le débat s’inscrit dans la campagne pour la présidentielle de 2027."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-genocide-a-gaza-ce-mot-qui-cree-une-fracture-entre-les-candidats_6790502_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : les socialistes menacent de bloquer les recettes",
+          "title": "Budget 2027 : rejet massif des recettes fiscales par les députés en commission",
           "bullets": [
-            "Les députés socialistes ont déposé une motion de rejet préalable sur la première partie du projet de loi de finances.",
-            "Si adoptée mardi 13 octobre, cette motion pourrait paralyser les discussions budgétaires.",
-            "Les enjeux portent sur les recettes fiscales, avec des tensions sur les mesures d’austérité proposées.",
-            "Cette stratégie vise à faire pression sur le gouvernement avant les élections de 2027."
+            "Les députés ont largement rejeté la partie « recettes » du budget 2027 en commission.",
+            "Les mesures controversées incluent une hausse de la contribution des retraités et des collectivités locales.",
+            "Le texte sera débattu à partir du 13 octobre en séance plénière à l’Assemblée nationale.",
+            "Les tensions persistent sur la fiscalité et les équilibres budgétaires."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html"
             }
           ]
         },
         {
-          "title": "Emmanuel Maurel, révélation des débats de la primaire sociale-démocrate",
+          "title": "Primaire à gauche : cyberattaque perturbe le vote, mais l’intégrité garantie",
           "bullets": [
-            "Le député du Val-d’Oise, tête de liste de la Gauche républicaine et socialiste (GRS), a marqué les esprits lors des trois débats télévisés.",
-            "Son discours calme et mesuré contraste avec les autres candidats, notamment Ségolène Royal et Raphaël Glucksmann.",
-            "Maurel mise sur une gauche « républicaine et universaliste » pour séduire l’électorat modéré.",
-            "Son ascension pourrait redéfinir les enjeux de la primaire avant le premier tour."
+            "Une cyberattaque a paralysé temporairement la plateforme de vote de la primaire à gauche.",
+            "La commission d’organisation assure que les votes déjà exprimés restent sécurisés.",
+            "Le vote est prolongé jusqu’à 18 heures dimanche pour permettre aux électeurs de voter.",
+            "Cette attaque intervient dans un contexte de tensions autour de la désignation du candidat."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/emmanuel-maurel-la-surprise-des-debats-de-la-primaire-sociale-democrate_6790531_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html"
             }
           ]
         },
         {
-          "title": "Jérôme Guedj, figure de la gauche républicaine et laïque",
+          "title": "Réforme du CPF : les acteurs de la formation dénoncent la rétroactivité",
           "bullets": [
-            "Le député de l’Essonne insiste sur la nécessité d’une gauche « universaliste et laïque » face aux défis sociétaux.",
-            "Il dénonce régulièrement les dérives de l’extrême droite et appelle à une mobilisation républicaine.",
-            "Son positionnement pourrait séduire les électeurs attachés aux valeurs de laïcité et de cohésion nationale.",
-            "Guedj se présente comme une alternative aux candidats perçus comme trop clivants."
+            "Le projet de loi de finances 2027 prévoit une réforme du Compte Personnel de Formation (CPF).",
+            "Les acteurs de la formation critiquent une mesure rétroactive, affectant les droits acquis.",
+            "Cette réforme pourrait impacter les salariés et les demandeurs d’emploi.",
+            "Les débats sur le texte débutent mardi 13 octobre à l’Assemblée nationale."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/jerome-guedj-la-mauvaise-conscience-de-la-primaire-de-la-gauche_6790524_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-acteurs-de-la-formation-denoncent-la-retroactivite-de-la-reforme-du-cpf_6790603_823448.html"
             }
           ]
         },
         {
-          "title": "Vote à 16 ans : une tribune défend son extension",
+          "title": "François Baroin soutient Bruno Retailleau contre Édouard Philippe",
           "bullets": [
-            "Ridhwane Allouche, chargé d’enseignement en droit, plaide pour l’abaissement de l’âge du vote à 16 ans.",
-            "Il souligne que cette mesure renforcerait la légitimité démocratique en impliquant davantage les jeunes.",
-            "Le débat s’inscrit dans un contexte de mobilisations lycéennes et étudiantes récurrentes.",
-            "Cette proposition pourrait être un enjeu clé pour les candidats de la primaire de gauche."
+            "François Baroin apporte son soutien à Bruno Retailleau pour la présidentielle 2027.",
+            "Il critique Édouard Philippe, qu’il qualifie de « premier de cordée » du macronisme.",
+            "Baroin estime que Retailleau incarne un « chemin possible » pour battre Marine Le Pen.",
+            "Cette alliance s’inscrit dans la dynamique de la droite et du centre."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/09/vote-a-16-ans-elargir-le-cercle-des-electeurs-c-est-la-maniere-dont-une-democratie-se-rend-des-comptes-a-elle-meme_6790503_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Primaire de gauche : plus de 140 000 votants pour un scrutin incertain",
-          "bullets": [
-            "Le premier tour de la primaire sociale-démocrate a enregistré plus de 140 000 votants, dépassant les attentes.",
-            "Cette participation élevée rend le scrutin plus compétitif et moins prévisible.",
-            "Les cinq candidats (Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel, Ségolène Royal) s’affrontent dans un contexte de divisions idéologiques.",
-            "Les résultats pourraient être annoncés rapidement, avec un second tour potentiel dès la semaine suivante."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-avec-plus-de-140-000-votants-pour-designer-leur-candidat-a-la-presidentielle-une-election-plus-incertaine-que-prevu_6790500_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/09/presidentielle-2027-francois-baroin-apporte-son-soutien-a-bruno-retailleau-contre-un-edouard-philippe-premier-de-cordee-du-macronisme_6790608_823448.html"
             }
           ]
         }
@@ -117,77 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Prix Nobel de la paix 2026 décerné à Navanethem Pillay pour ses combats juridiques et humanitaires",
+          "title": "Ukraine : conditions désespérées à Olechky sous occupation russe",
           "bullets": [
-            "L’avocate sud-africaine Navanethem Pillay a reçu le prix Nobel de la paix pour ses efforts en faveur de la paix et du droit international.",
-            "Son engagement inclut la lutte contre l’impunité et la promotion des droits humains, notamment en Afrique du Sud et dans d’autres conflits.",
-            "Pillay a été juge à la Cour pénale internationale et haute commissaire des Nations unies aux droits de l’homme.",
-            "Ce prix souligne son rôle dans la protection des victimes de violations des droits humains."
+            "Les habitants de Olechky, en région de Kherson, subissent des bombardements et une pénurie alimentaire.",
+            "Coupés du monde extérieur, ils dépendent de livraisons humanitaires irrégulières.",
+            "L’Ukraine dénonce les crimes de guerre commis par la Russie dans les zones occupées.",
+            "La situation humanitaire s’aggrave avec l’hiver approchant."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay-pour-ses-efforts-en-faveur-de-la-paix-et-du-droit-international_6790542_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html"
             }
           ]
         },
         {
-          "title": "Deuxième attaque ukrainienne contre des infrastructures russes en 48 heures",
+          "title": "Accord gazole Trump-Poutine : l’Ukraine et ses alliés s’y opposent",
           "bullets": [
-            "Un centre de données de Yandex, surnommé le « Google russe », a été endommagé par des drones ukrainiens à Kalouga.",
-            "Cette attaque s’ajoute à celle du 7 octobre contre un autre site de Yandex, montrant une escalade des frappes ukrainiennes sur le territoire russe.",
-            "Les autorités russes n’ont pas confirmé la responsabilité de l’Ukraine, mais les médias locaux évoquent une « cyberattaque ».",
-            "Ces frappes visent à affaiblir les infrastructures technologiques russes, cruciales pour la guerre en cours."
+            "Donald Trump annonce un accord entre la Russie et les États-Unis pour livrer 5 millions de tonnes de gazole.",
+            "Cet accord vise à stabiliser les prix de l’énergie et à réduire la dépendance aux importations.",
+            "L’Ukraine et ses alliés craignent que cela ne profite à Moscou financièrement.",
+            "Les tensions géopolitiques autour de l’énergie persistent."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html"
             }
           ]
         },
         {
-          "title": "Documentaire sur Gaza primé à Venise, bientôt disponible en France",
+          "title": "Sanctions américaines contre la CPI : ultimatum aux États membres",
           "bullets": [
-            "Le film « NAZA », documentaire sur la situation à Gaza, a remporté le prix du jury à la Mostra de Venise.",
-            "Il a été salué par une ovation historique de 25 minutes lors de sa projection.",
-            "Le film aborde les conséquences humanitaires de la guerre et a suscité des débats internationaux.",
-            "Sa diffusion en France est prévue prochainement, avec une sortie en ligne également."
+            "Les États-Unis menacent de sanctions contre les États membres de la Cour pénale internationale (CPI).",
+            "Washington exige que les pays cessent de coopérer avec la CPI, notamment sur les crimes en Ukraine.",
+            "Cette pression s’inscrit dans une stratégie plus large contre les enquêtes internationales.",
+            "La CPI enquête sur les crimes de guerre présumés en Ukraine et en Palestine."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/09/naza-le-documentaire-sur-gaza-prime-a-la-mostra-bientot-diffuse-en-france-et-en-ligne_6790538_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html"
             }
           ]
         },
         {
-          "title": "Corée du Sud rappelle son ambassadeur à Kiev après révélations sur livraisons de carburant à la Russie",
+          "title": "Millions de contraceptifs bloqués en Belgique pour l’Afrique",
           "bullets": [
-            "Seoul a rappelé son ambassadeur à Kiev après des informations révélant que la Corée du Sud avait fourni du carburant à la Russie.",
-            "Cette décision s’inscrit dans un contexte de tensions croissantes entre la Corée du Sud et l’Ukraine.",
-            "Les autorités sud-coréennes n’ont pas confirmé ces allégations, mais cette mesure reflète une dégradation des relations diplomatiques.",
-            "L’Ukraine exige des excuses officielles et une clarification de cette affaire."
+            "Des millions de contraceptifs financés par l’USAID sont immobilisés en Belgique depuis plus d’un an.",
+            "Ces colis humanitaires étaient destinés à plusieurs pays africains en manque de moyens contraceptifs.",
+            "La situation aggrave les défis démographiques et de santé publique en Afrique subsaharienne.",
+            "Les autorités belges et américaines cherchent une solution urgente."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/09/en-coree-du-sud-la-degradation-des-relations-avec-l-ukraine-suscite-l-inquietude_6790529_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/videos/video/2026/10/10/pourquoi-des-millions-de-contraceptifs-destines-a-plusieurs-pays-africains-sont-ils-bloques-en-belgique_6790940_1669088.html"
             }
           ]
         },
         {
-          "title": "Berlin abandonne le projet franco-allemand de char, un coup dur pour la défense européenne",
+          "title": "Fonds souverains : les États étendent leur influence économique",
           "bullets": [
-            "L’Allemagne a annoncé l’abandon du projet de char franco-allemand, un coup dur pour la coopération militaire européenne.",
-            "Fabien Mandon, chef d’état-major des armées françaises, a exprimé sa déception et souligné l’importance de ce projet pour la défense commune.",
-            "Ce retrait pourrait affaiblir la capacité de l’Europe à rivaliser avec les puissances militaires américaines et russes.",
-            "La France cherche désormais d’autres partenaires pour développer ses équipements militaires."
+            "Les fonds souverains ont vu leurs actifs passer de 1 000 à 16 000 milliards de dollars en vingt ans.",
+            "Ces fonds investissent massivement dans des secteurs stratégiques comme l’énergie et les technologies.",
+            "Certains pays utilisent ces fonds pour renforcer leur soft power et leur influence géopolitique.",
+            "La Chine, l’Arabie saoudite et les Émirats arabes unis dominent ce marché."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/09/defense-les-armees-regrettent-l-abandon-par-berlin-du-projet-de-char-franco-allemand_6790521_3234.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/10/comment-les-etats-utilisent-leurs-fonds-souverains-pour-etendre-leur-influence_6790948_3234.html"
             }
           ]
         }
@@ -202,72 +187,47 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Tesla renomme son système FSD en Europe : une étape vers l’homologation officielle",
+          "title": "Ledger alerte sur un revendeur impliqué dans des vols de cryptomonnaies",
           "bullets": [
-            "En Europe, le système de conduite autonome de Tesla, initialement appelé FSD (Full Self-Driving), est désormais désigné sous le nom de « Tesla Conduite Assistée ».",
-            "Ce changement de dénomination vise à clarifier que le logiciel est une aide à la conduite et non un système autonome complet.",
-            "Cette évolution pourrait être une étape vers une homologation officielle du système en Europe.",
-            "Tesla mise sur une approche progressive pour rassurer les régulateurs et les utilisateurs."
+            "Ledger enquête sur des vols de cryptomonnaies touchant des clients d’un revendeur asiatique, CryptoBilis.",
+            "Les pertes estimées s’élèvent à 86 millions de dollars.",
+            "Les victimes sont principalement des particuliers et des entreprises en Asie du Sud-Est.",
+            "Ledger appelle à la vigilance et à la signalement des fraudes."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2349885-tesla-renomme-son-fsd-en-europe-signe-dune-homologation-prochaine.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/cyberguerre/2350425-ledger-lance-lalerte-sur-un-revendeur-apres-des-vols-de-cryptos-estimes-a-86-millions-de-dollars.html"
             }
           ]
         },
         {
-          "title": "Une cafetière connectée envoie des données massives sans consentement",
+          "title": "Successeur du Rafale : la France avance seule sur le NGF",
           "bullets": [
-            "Un informaticien a découvert qu’une cafetière connectée de ses parents avait transmis plus de 1 000 gigaoctets de données en dix jours.",
-            "Les données incluaient des informations personnelles et des logs d’utilisation, sans que les utilisateurs en soient informés.",
-            "La marque concernée a été contactée et a réagi en promettant de corriger le problème.",
-            "Ce cas illustre les risques de vie privée liés aux objets connectés du quotidien."
+            "Le ministère des Armées lance en 2027 la phase de prototype pour le successeur du Rafale, le NGF.",
+            "L’Allemagne a quitté le projet, laissant la France piloter seule ce programme.",
+            "Les jalons 2027 et 2029 visent à développer un avion de combat de nouvelle génération.",
+            "Ce projet s’inscrit dans la stratégie européenne de défense autonome."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2349933-effare-il-decouvre-par-hasard-que-la-cafetiere-connectee-de-ses-parents-envoie-un-teraoctet-de-donnees-en-dix-jours.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2350363-successeur-du-rafale-la-france-fixe-seule-les-jalons-2027-et-2029-du-ngf-apres-le-retrait-de-lallemagne.html"
             }
           ]
         },
         {
-          "title": "Interdiction de harceler Claude AI : une avancée pour le respect des utilisateurs",
+          "title": "OpenAI : licenciement de chercheurs en sécurité provoque un bras de fer public",
           "bullets": [
-            "Anthropic, l’entreprise derrière Claude AI, a mis à jour sa politique d’utilisation pour interdire les comportements cruels et répétés envers son IA.",
-            "Cette décision entre en vigueur le 12 novembre et vise à protéger les utilisateurs contre les abus.",
-            "Claude AI devient ainsi l’un des premiers systèmes d’IA à adopter une telle mesure.",
-            "Cette évolution reflète une prise de conscience croissante des enjeux éthiques liés aux interactions avec les IA."
+            "OpenAI a licencié trois chercheurs spécialisés en sécurité, suscitant une polémique.",
+            "Les chercheurs contestent ces licenciements dans une lettre publique, dénonçant une atteinte à la transparence.",
+            "Cette affaire révèle les tensions internes à OpenAI sur la gouvernance et l’éthique de l’IA.",
+            "Les critiques portent sur la gestion des risques liés aux modèles d’IA avancés."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2349909-il-est-desormais-interdit-de-harceler-claude-ai.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Des chercheurs australiens créent une structure en titane flottant grâce à l’impression 3D",
-          "bullets": [
-            "Des ingénieurs de l’université RMIT, à Melbourne, ont conçu une structure lattice en titane imprimée en 3D qui flotte sur l’eau.",
-            "Cette innovation pourrait révolutionner les applications médicales et industrielles, notamment dans les prothèses légères ou les matériaux résistants.",
-            "Le secret réside dans la conception de la structure, optimisée pour réduire la densité tout en conservant la résistance.",
-            "Cette découverte ouvre la voie à de nouvelles possibilités dans les matériaux légers et durables."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/titane-flottant-fabrication-additive-09102026/"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html"
             }
           ]
         }
@@ -277,22 +237,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Numéros uniques pour les professionnels : simplification des démarches fiscales",
+          "title": "Barème progressif de l’impôt sur le revenu revalorisé en 2027",
           "bullets": [
-            "Un numéro unique dédié est désormais disponible pour les professionnels afin de faciliter leurs interactions avec les services des impôts.",
-            "Cette mesure vise à simplifier les démarches administratives et à réduire les délais de traitement.",
-            "Les entreprises pourront centraliser leurs échanges avec l’administration fiscale via ce numéro.",
-            "Cette initiative s’inscrit dans le cadre de la modernisation des services publics."
+            "Le barème progressif de l’impôt sur le revenu sera revalorisé pour 2027.",
+            "Cette revalorisation vise à tenir compte de l’inflation et des changements économiques.",
+            "Les tranches d’imposition seront ajustées pour limiter l’impact fiscal sur les ménages.",
+            "Les détails des ajustements seront précisés dans le projet de loi de finances."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque « email bombing » : attention aux boîtes mail saturées",
+          "title": "Chèque énergie : envoi anticipé en 2027",
           "bullets": [
-            "L’arnaque dite « email bombing » consiste à submerger une boîte mail de messages pour voler les données personnelles.",
-            "Cette technique exploite la saturation pour inciter la victime à cliquer sur des liens malveillants ou à divulguer des informations sensibles.",
-            "Les autorités conseillent de ne pas ouvrir les emails suspects et de signaler les tentatives d’arnaque.",
-            "Les entreprises et particuliers doivent renforcer leur vigilance face à ce type de cybermenace."
+            "Les bénéficiaires du chèque énergie recevront leur aide plus tôt qu’habituellement en 2027.",
+            "Les envois commenceront dès le début de l’année pour éviter les retards.",
+            "Cette mesure vise à soutenir les ménages en difficulté face à la hausse des prix de l’énergie.",
+            "Les dates exactes seront communiquées par les services fiscaux."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Numéros uniques pour les professionnels : simplification des démarches fiscales",
+          "bullets": [
+            "Un numéro unique dédié sera attribué aux professionnels pour simplifier leurs démarches fiscales.",
+            "Ce numéro permettra de centraliser les échanges avec l’administration fiscale.",
+            "L’objectif est de réduire les formalités administratives et d’améliorer le service aux entreprises.",
+            "Les détails pratiques seront communiqués par Bercy."
           ],
           "sources": []
         }
@@ -302,22 +272,52 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Les frères Lebrun en finale du double au WTT Grand Smash de Chine",
+          "title": "Pro D2 : Oyonnax domine Narbonne et reste invaincu en tête du championnat",
           "bullets": [
-            "Les frères Lebrun, Simon et Antoine, se qualifient pour la finale du double messieurs au WTT Grand Smash de Chine.",
-            "Ce tournoi, l’un des plus prestigieux de table tennis, marque une nouvelle étape dans leur carrière internationale.",
-            "Les deux athlètes français, déjà médaillés aux Jeux Olympiques, visent une victoire qui renforcerait leur statut d’experts mondiaux.",
-            "Leur performance reflète l’excellence du sport français en table tennis."
+            "L’équipe d’Oyonnax a remporté un match serré contre Narbonne en Pro D2.",
+            "Ce succès permet à Oyonnax de conserver la première place du championnat.",
+            "Le club affiche une série invaincue et se rapproche des barrages pour la montée en Top 14.",
+            "Les supporters et les joueurs misent sur une fin de saison victorieuse."
           ],
           "sources": []
         },
         {
-          "title": "Victor Wembanyama soutient les lycéens en grève et interpelle le gouvernement",
+          "title": "Soyaux-Angoulême bat Provence Rugby en Pro D2",
           "bullets": [
-            "Le basketteur Victor Wembanyama, star de la NBA, a réaffirmé son soutien aux lycéens en grève et appelé le gouvernement à dialoguer.",
-            "Il a partagé un message sur les réseaux sociaux, soulignant l’importance de la voix des jeunes dans les débats sociétaux.",
-            "Cette prise de position s’inscrit dans un contexte de mobilisations massives contre les réformes éducatives.",
-            "Wembanyama, figure médiatique, utilise son influence pour porter des causes sociales et politiques."
+            "Soyaux-Angoulême a remporté un match en Pro D2 contre Provence Rugby (26-28).",
+            "Ce résultat place Soyaux-Angoulême en position de force dans la course aux barrages.",
+            "Les deux équipes s’affrontent dans un championnat très disputé.",
+            "Les supporters attendent une fin de saison intense et compétitive."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Félix Lebrun vise le numéro 1 mondial au Grand Smash de Chine",
+          "bullets": [
+            "Le joueur de tennis de table Félix Lebrun vise une place parmi les meilleurs mondiaux.",
+            "Le Grand Smash de Chine, prévu en novembre, est une étape clé pour confirmer sa progression.",
+            "Lebrun a montré des performances prometteuses cette saison, notamment en Europe.",
+            "Son objectif est de figurer dans le top 10 mondial d’ici la fin de l’année."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "IA et automatisation renforcent la sécurité sur les chantiers nucléaires",
+          "bullets": [
+            "Des robots et agents IA sont déployés pour améliorer la sécurité sur les chantiers nucléaires.",
+            "Ces technologies permettent de surveiller les zones à risque et d’anticiper les incidents.",
+            "L’objectif est de réduire les risques d’accidents et d’optimiser les opérations.",
+            "Les chantiers nucléaires français intègrent progressivement ces innovations."
           ],
           "sources": []
         }
