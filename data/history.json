@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/03/blocage-des-lycees-pour-la-france-insoumise-un-appui-au-mouvement-a-double-tranchant_6787492_823448.html",
-    "title": "Mouvements lycéens : tensions et soutien politique contrasté",
-    "rubrique": "France",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html",
-    "title": "Renforcement des moyens des pompiers : 1 milliard d’euros sur cinq ans",
-    "rubrique": "France",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/02/au-senat-tensions-autour-du-groupe-de-claude-malhuret_6787219_823448.html",
-    "title": "Tensions au Sénat autour du groupe des Indépendants",
-    "rubrique": "France",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/02/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-les-avocats-de-bayrou-demontent-les-indices-concordants-du-parquet-general_6787214_3224.html",
-    "title": "Procès en appel des assistants parlementaires du MoDem : défense de François Bayrou",
-    "rubrique": "France",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/02/a-paris-pour-son-premier-budget-le-maire-emmanuel-gregoire-accuse-de-marchandiser-la-ville_6787212_823448.html",
-    "title": "Paris : Emmanuel Grégoire accusé de « marchandiser » la ville",
-    "rubrique": "France",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-un-nouveau-pont-majeur-de-kiev-touche-par-une-frappe-russe_6783795_3210.html",
-    "title": "Guerre en Ukraine : nouveau pont de Kiev touché par une frappe russe",
-    "rubrique": "International",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
-    "title": "Épidémie d’Ebola en RDC : plus de 4 000 morts",
-    "rubrique": "International",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/03/au-liban-le-depart-des-refugies-syriens-laisse-un-vide-inattendu-ils-dormaient-sur-des-matelas-au-sol-et-ils-ne-se-plaignaient-jamais_6787493_3210.html",
-    "title": "Départ des réfugiés syriens du Liban : un vide social inattendu",
-    "rubrique": "International",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/03/vol-flydubai-deroute-oman-avait-interdit-au-copilote-de-voler-en-raison-de-soupcons-d-extremisme-selon-le-wall-street-journal_6787491_3210.html",
-    "title": "Vol Flydubai dérouté : soupçons de radicalisation pour le copilote",
-    "rubrique": "International",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
-    "title": "Californie : hausse temporaire du niveau de la mer",
-    "rubrique": "International",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2345717-cest-un-signe-de-plus-de-la-guerre-du-futur-les-usa-creent-un-commandement-militaire-dedie-aux-drones-robots-et-systemes-autonomes.html",
-    "title": "Les États-Unis créent un commandement militaire dédié aux drones et systèmes autonomes",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html",
-    "title": "SpaceX : semaine intense avec orbite du Starship et records de vitesse vers l’ISS",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2345779-ldlc-a-ete-pirate-gare-aux-faux-messages-dans-les-prochaines-semaines.html",
-    "title": "LDLC piraté : vigilance contre les faux messages",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.3dnatives.com/nike-impression-3d-combinaison-keely-hodgkinson-02102026/",
-    "title": "Nike utilise l’impression 3D pour optimiser la combinaison de Keely Hodgkinson",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-03"
-  },
-  {
     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html",
     "title": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » pour battre Marine Le Pen",
     "rubrique": "France",
@@ -712,5 +628,95 @@
     "title": "OpenAI : licenciement de chercheurs en sécurité provoque un bras de fer public",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html",
+    "title": "Crise sociale : agriculture, lycées et pouvoir d’achat sous tension",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html",
+    "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html",
+    "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html",
+    "title": "Gabriel Attal réajuste son programme face au mouvement lycéen",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/10/octobre-rose-mathilde-panot-refuse-de-porter-le-ruban-tolle-au-gouvernement-et-au-rn_6791027_823448.html",
+    "title": "Mathilde Panot et le tollé autour du ruban d’Octobre rose",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/10/a-public-senat-les-notes-de-frais-embarrassantes-de-jean-emmanuel-casalta-president-de-la-chaine_6791002_3234.html",
+    "title": "Notes de frais controversées du président de Public Sénat",
+    "rubrique": "France",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
+    "title": "Arabie saoudite : attaque terroriste à l’aéroport de Riyad",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/11/pourquoi-ceuta-et-melilla-restent-un-sujet-de-discorde-entre-l-espagne-et-le-maroc_6791307_3210.html",
+    "title": "Tensions Espagne-Maroc : Ceuta et Melilla sous pression migratoire",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/video/2026/10/11/face-aux-drones-ukrainiens-des-navires-lies-a-la-russie-se-drapent-de-filets-en-mer-noire_6791267_1669088.html",
+    "title": "Ukraine : la Russie se protège des drones ukrainiens en Mer Noire",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
+    "title": "Cisjordanie : la solitude des Palestiniens face à l’impunité israélienne",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html",
+    "title": "Donald Trump et Vladimir Poutine : un dialogue tendu sur la guerre en Ukraine",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/11/delphine-horvilleur-rabbine-apres-le-7-octobre-il-m-a-fallu-du-temps-pour-parler-de-la-souffrance-des-palestiniens-innocents_6791269_6038514.html",
+    "title": "Delphine Horvilleur : trois ans après le 7-Octobre, la souffrance palestinienne toujours silencieuse",
+    "rubrique": "International",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2349581-vous-pouvez-maintenant-jouer-a-super-mario-bros-directement-sur-youtube.html",
+    "title": "Super Mario Bros. jouable directement sur YouTube grâce à une innovation technique",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html",
+    "title": "Faille critique dans Telegram Desktop : vol de comptes en un clic",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html",
+    "title": "Outil IA open source pour la rétro-ingénierie : démocratisation de l’analyse logicielle",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-11"
   }
 ]

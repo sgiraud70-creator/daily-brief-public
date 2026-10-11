@@ -1,18 +1,18 @@
 {
-  "date_str": "Samedi 10 octobre 2026",
+  "date_str": "Dimanche 11 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Clair et Hugolin",
+          "title": "Aujourd'hui, on souhaite la fête : Emmanuelle, Firmin et Soledad",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/10/10/2026/10-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/11/10/2026/11-Octobre-2026.html"
             }
           ]
         }
@@ -22,77 +22,76 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Référendum : l’article 11 de la Constitution au cœur des débats présidentiels",
+          "title": "Crise sociale : agriculture, lycées et pouvoir d’achat sous tension",
           "bullets": [
-            "Bruno Retailleau (LR) et Marine Le Pen (RN) souhaitent modifier ce texte pour élargir les possibilités de référendum.",
-            "L’article 11 limite actuellement les consultations populaires aux questions de droit commun et aux traités internationaux.",
-            "Cette réforme pourrait faciliter des consultations sur des sujets comme l’immigration ou la sécurité.",
-            "Le débat s’inscrit dans la campagne pour la présidentielle de 2027."
+            "Canicules et hausse des taux d’intérêt aggravent la crise agricole, avec une dette hors de contrôle pour les exploitants.",
+            "Blocages lycéens persistants, notamment à Lyon, poussent le gouvernement à ajuster ses propositions pour la jeunesse avant la présidentielle 2027.",
+            "Baisse du pouvoir d’achat et inflation maintiennent une pression sociale généralisée sur les ménages."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : rejet massif des recettes fiscales par les députés en commission",
+          "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
           "bullets": [
-            "Les députés ont largement rejeté la partie « recettes » du budget 2027 en commission.",
-            "Les mesures controversées incluent une hausse de la contribution des retraités et des collectivités locales.",
-            "Le texte sera débattu à partir du 13 octobre en séance plénière à l’Assemblée nationale.",
-            "Les tensions persistent sur la fiscalité et les équilibres budgétaires."
+            "Plus de 100 000 personnes ont déjà voté, soit 75 % des inscrits, contre 20 000 vendredi dernier.",
+            "Cyberattaque initiale perturbant la plateforme a été surmontée, mais des désaccords persistent sur l’organisation locale.",
+            "Jean-Luc Mélenchon critique ouvertement la primaire « sociale-démocrate », la qualifiant de « déconnectée » des enjeux populaires."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html"
             }
           ]
         },
         {
-          "title": "Primaire à gauche : cyberattaque perturbe le vote, mais l’intégrité garantie",
+          "title": "Gabriel Attal réajuste son programme face au mouvement lycéen",
           "bullets": [
-            "Une cyberattaque a paralysé temporairement la plateforme de vote de la primaire à gauche.",
-            "La commission d’organisation assure que les votes déjà exprimés restent sécurisés.",
-            "Le vote est prolongé jusqu’à 18 heures dimanche pour permettre aux électeurs de voter.",
-            "Cette attaque intervient dans un contexte de tensions autour de la désignation du candidat."
+            "Le porte-parole du parti Renaissance propose un « pacte pour la jeunesse » incluant des mesures sociales et éducatives.",
+            "Renforcement des investissements dans les lycées et soutien aux familles en difficulté financière.",
+            "Stratégie de communication pour contrer l’avance de Jean-Luc Mélenchon dans les sondages."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html"
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
             }
           ]
         },
         {
-          "title": "Réforme du CPF : les acteurs de la formation dénoncent la rétroactivité",
+          "title": "Mathilde Panot et le tollé autour du ruban d’Octobre rose",
           "bullets": [
-            "Le projet de loi de finances 2027 prévoit une réforme du Compte Personnel de Formation (CPF).",
-            "Les acteurs de la formation critiquent une mesure rétroactive, affectant les droits acquis.",
-            "Cette réforme pourrait impacter les salariés et les demandeurs d’emploi.",
-            "Les débats sur le texte débutent mardi 13 octobre à l’Assemblée nationale."
+            "La députée LFI refuse de porter le ruban, dénonçant un « cynisme » lié à l’industrie chimique et à Israël.",
+            "Réactions vives au gouvernement et au RN, accusant Panot de « provocation » et de « minimisation des enjeux sanitaires. »",
+            "Débat sur la politisation de la santé publique et les liens entre santé et géopolitique."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-acteurs-de-la-formation-denoncent-la-retroactivite-de-la-reforme-du-cpf_6790603_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/10/octobre-rose-mathilde-panot-refuse-de-porter-le-ruban-tolle-au-gouvernement-et-au-rn_6791027_823448.html"
             }
           ]
         },
         {
-          "title": "François Baroin soutient Bruno Retailleau contre Édouard Philippe",
+          "title": "Notes de frais controversées du président de Public Sénat",
           "bullets": [
-            "François Baroin apporte son soutien à Bruno Retailleau pour la présidentielle 2027.",
-            "Il critique Édouard Philippe, qu’il qualifie de « premier de cordée » du macronisme.",
-            "Baroin estime que Retailleau incarne un « chemin possible » pour battre Marine Le Pen.",
-            "Cette alliance s’inscrit dans la dynamique de la droite et du centre."
+            "Jean-Emmanuel Casalta, président de la chaîne, fait face à des accusations de dépenses personnelles non justifiées.",
+            "Les salariés de Public Sénat préparent une réunion pour exiger des comptes avant sa réunion prévue au Sénat.",
+            "Questionnement sur la transparence financière et la gestion des deniers publics dans les médias audiovisuels."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/09/presidentielle-2027-francois-baroin-apporte-son-soutien-a-bruno-retailleau-contre-un-edouard-philippe-premier-de-cordee-du-macronisme_6790608_823448.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/10/a-public-senat-les-notes-de-frais-embarrassantes-de-jean-emmanuel-casalta-president-de-la-chaine_6791002_3234.html"
             }
           ]
         }
@@ -102,77 +101,86 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Ukraine : conditions désespérées à Olechky sous occupation russe",
+          "title": "Arabie saoudite : attaque terroriste à l’aéroport de Riyad",
           "bullets": [
-            "Les habitants de Olechky, en région de Kherson, subissent des bombardements et une pénurie alimentaire.",
-            "Coupés du monde extérieur, ils dépendent de livraisons humanitaires irrégulières.",
-            "L’Ukraine dénonce les crimes de guerre commis par la Russie dans les zones occupées.",
-            "La situation humanitaire s’aggrave avec l’hiver approchant."
+            "Douze morts, dont quatre Saoudiens et huit étrangers (dont un Américain), dans une attaque attribuée aux houthistes yéménites.",
+            "L’aéroport international King Khalid, cible principale, a été partiellement paralysé pendant plusieurs heures.",
+            "Renforcement des mesures de sécurité dans tout le royaume, avec des patrouilles accrues dans les zones sensibles."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html"
             }
           ]
         },
         {
-          "title": "Accord gazole Trump-Poutine : l’Ukraine et ses alliés s’y opposent",
+          "title": "Tensions Espagne-Maroc : Ceuta et Melilla sous pression migratoire",
           "bullets": [
-            "Donald Trump annonce un accord entre la Russie et les États-Unis pour livrer 5 millions de tonnes de gazole.",
-            "Cet accord vise à stabiliser les prix de l’énergie et à réduire la dépendance aux importations.",
-            "L’Ukraine et ses alliés craignent que cela ne profite à Moscou financièrement.",
-            "Les tensions géopolitiques autour de l’énergie persistent."
+            "Plus de 72 000 migrants ont traversé vers Ceuta en juillet dernier, ravivant les tensions sur la souveraineté espagnole.",
+            "Madrid exige une coopération renforcée avec Rabat pour gérer les flux migratoires illégaux.",
+            "Risque de nouvelles crises diplomatiques si les mesures de contrôle ne sont pas renforcées rapidement."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/11/pourquoi-ceuta-et-melilla-restent-un-sujet-de-discorde-entre-l-espagne-et-le-maroc_6791307_3210.html"
             }
           ]
         },
         {
-          "title": "Sanctions américaines contre la CPI : ultimatum aux États membres",
+          "title": "Ukraine : la Russie se protège des drones ukrainiens en Mer Noire",
           "bullets": [
-            "Les États-Unis menacent de sanctions contre les États membres de la Cour pénale internationale (CPI).",
-            "Washington exige que les pays cessent de coopérer avec la CPI, notamment sur les crimes en Ukraine.",
-            "Cette pression s’inscrit dans une stratégie plus large contre les enquêtes internationales.",
-            "La CPI enquête sur les crimes de guerre présumés en Ukraine et en Palestine."
+            "Des navires russes ou liés à la flotte russe se drapent de filets pour éviter les attaques par drones ukrainiens.",
+            "Stratégie de dissimulation pour contourner les frappes ciblées sur les ports et les bases navales.",
+            "Escalade technologique dans la guerre des drones, avec des contre-mesures toujours plus sophistiquées."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html"
+              "url": "https://www.lemonde.fr/videos/video/2026/10/11/face-aux-drones-ukrainiens-des-navires-lies-a-la-russie-se-drapent-de-filets-en-mer-noire_6791267_1669088.html"
             }
           ]
         },
         {
-          "title": "Millions de contraceptifs bloqués en Belgique pour l’Afrique",
+          "title": "Cisjordanie : la solitude des Palestiniens face à l’impunité israélienne",
           "bullets": [
-            "Des millions de contraceptifs financés par l’USAID sont immobilisés en Belgique depuis plus d’un an.",
-            "Ces colis humanitaires étaient destinés à plusieurs pays africains en manque de moyens contraceptifs.",
-            "La situation aggrave les défis démographiques et de santé publique en Afrique subsaharienne.",
-            "Les autorités belges et américaines cherchent une solution urgente."
+            "Les Palestiniens documentent les violences commises par des colons israéliens, faute de protection juridique effective.",
+            "La Cour suprême israélienne ignore ou rejette la plupart des recours palestiniens.",
+            "Montée des tensions et des violences communautaires dans les territoires occupés."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/10/pourquoi-des-millions-de-contraceptifs-destines-a-plusieurs-pays-africains-sont-ils-bloques-en-belgique_6790940_1669088.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html"
             }
           ]
         },
         {
-          "title": "Fonds souverains : les États étendent leur influence économique",
+          "title": "Donald Trump et Vladimir Poutine : un dialogue tendu sur la guerre en Ukraine",
           "bullets": [
-            "Les fonds souverains ont vu leurs actifs passer de 1 000 à 16 000 milliards de dollars en vingt ans.",
-            "Ces fonds investissent massivement dans des secteurs stratégiques comme l’énergie et les technologies.",
-            "Certains pays utilisent ces fonds pour renforcer leur soft power et leur influence géopolitique.",
-            "La Chine, l’Arabie saoudite et les Émirats arabes unis dominent ce marché."
+            "Trump affirme que la Russie « aimerait voir un règlement » avec Kiev, mais que des obstacles persistent.",
+            "Poutine maintient une position intransigeante, refusant toute négociation sans garanties territoriales.",
+            "Tensions accrues entre Washington et Moscou, avec des signes de divergence sur la voie à suivre."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/10/comment-les-etats-utilisent-leurs-fonds-souverains-pour-etendre-leur-influence_6790948_3234.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Delphine Horvilleur : trois ans après le 7-Octobre, la souffrance palestinienne toujours silencieuse",
+          "bullets": [
+            "La rabbine Delphine Horvilleur reconnaît avoir mis du temps à aborder la souffrance des Palestiniens après l’attaque du Hamas.",
+            "Appel à une réflexion plus nuancée sur le conflit israélo-palestinien et à une prise en compte des victimes des deux côtés.",
+            "Réflexion sur le rôle des communautés juives dans la médiation et la paix au Proche-Orient."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/11/delphine-horvilleur-rabbine-apres-le-7-octobre-il-m-a-fallu-du-temps-pour-parler-de-la-souffrance-des-palestiniens-innocents_6791269_6038514.html"
             }
           ]
         }
@@ -181,88 +189,92 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Ledger alerte sur un revendeur impliqué dans des vols de cryptomonnaies",
+          "title": "Super Mario Bros. jouable directement sur YouTube grâce à une innovation technique",
           "bullets": [
-            "Ledger enquête sur des vols de cryptomonnaies touchant des clients d’un revendeur asiatique, CryptoBilis.",
-            "Les pertes estimées s’élèvent à 86 millions de dollars.",
-            "Les victimes sont principalement des particuliers et des entreprises en Asie du Sud-Est.",
-            "Ledger appelle à la vigilance et à la signalement des fraudes."
+            "Une technique permet de transformer une vidéo YouTube en jeu interactif jouable via navigateur et souris.",
+            "Pas besoin de télécharger un émulateur ou un client dédié pour jouer à Super Mario Bros.",
+            "Potentiel pour démocratiser l’accès aux jeux rétro et aux expériences interactives en ligne."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/cyberguerre/2350425-ledger-lance-lalerte-sur-un-revendeur-apres-des-vols-de-cryptos-estimes-a-86-millions-de-dollars.html"
+              "url": "https://www.numerama.com/pop-culture/2349581-vous-pouvez-maintenant-jouer-a-super-mario-bros-directement-sur-youtube.html"
             }
           ]
         },
         {
-          "title": "Successeur du Rafale : la France avance seule sur le NGF",
+          "title": "Faille critique dans Telegram Desktop : vol de comptes en un clic",
           "bullets": [
-            "Le ministère des Armées lance en 2027 la phase de prototype pour le successeur du Rafale, le NGF.",
-            "L’Allemagne a quitté le projet, laissant la France piloter seule ce programme.",
-            "Les jalons 2027 et 2029 visent à développer un avion de combat de nouvelle génération.",
-            "Ce projet s’inscrit dans la stratégie européenne de défense autonome."
+            "Une vulnérabilité permet à un attaquant de voler un compte Telegram en un clic via un lien malveillant.",
+            "La faille a été corrigée, mais les utilisateurs sont invités à mettre à jour leur application rapidement.",
+            "Risque accru pour les comptes sensibles et les échanges sécurisés via Telegram."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2350363-successeur-du-rafale-la-france-fixe-seule-les-jalons-2027-et-2029-du-ngf-apres-le-retrait-de-lallemagne.html"
+              "url": "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
             }
           ]
         },
         {
-          "title": "OpenAI : licenciement de chercheurs en sécurité provoque un bras de fer public",
+          "title": "Outil IA open source pour la rétro-ingénierie : démocratisation de l’analyse logicielle",
           "bullets": [
-            "OpenAI a licencié trois chercheurs spécialisés en sécurité, suscitant une polémique.",
-            "Les chercheurs contestent ces licenciements dans une lettre publique, dénonçant une atteinte à la transparence.",
-            "Cette affaire révèle les tensions internes à OpenAI sur la gouvernance et l’éthique de l’IA.",
-            "Les critiques portent sur la gestion des risques liés aux modèles d’IA avancés."
+            "REA, un outil branché sur les assistants de code, permet de décortiquer un logiciel via une IA en posant simplement une question.",
+            "Accessible à tous, il facilite la compréhension des programmes complexes et l’apprentissage du code.",
+            "Potentiel pour l’éducation, la maintenance logicielle et la recherche en informatique."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html"
+              "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html"
             }
           ]
         }
       ]
     },
     {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
+          "title": "Arnaque Wero : un SMS suffit pour vider les comptes bancaires",
+          "bullets": [
+            "Une nouvelle arnaque utilise des SMS pour inciter les victimes à transférer de l’argent vers des comptes frauduleux.",
+            "Les escrocs se font passer pour des services officiels ou des proches en urgence.",
+            "Conseils pour éviter les pièges : vérifier les numéros et les demandes suspectes."
+          ],
+          "sources": []
+        },
+        {
           "title": "Barème progressif de l’impôt sur le revenu revalorisé en 2027",
           "bullets": [
-            "Le barème progressif de l’impôt sur le revenu sera revalorisé pour 2027.",
-            "Cette revalorisation vise à tenir compte de l’inflation et des changements économiques.",
-            "Les tranches d’imposition seront ajustées pour limiter l’impact fiscal sur les ménages.",
-            "Les détails des ajustements seront précisés dans le projet de loi de finances."
+            "Le gouvernement annonce une revalorisation du barème pour tenir compte de l’inflation.",
+            "Objectif : atténuer l’impact de la hausse des prix sur le pouvoir d’achat des contribuables.",
+            "Détails des ajustements à venir publiés avant la fin de l’année."
           ],
           "sources": []
         },
         {
-          "title": "Chèque énergie : envoi anticipé en 2027",
+          "title": "Chèque énergie : coup de pouce de 75 € pour les bénéficiaires Engie",
           "bullets": [
-            "Les bénéficiaires du chèque énergie recevront leur aide plus tôt qu’habituellement en 2027.",
-            "Les envois commenceront dès le début de l’année pour éviter les retards.",
-            "Cette mesure vise à soutenir les ménages en difficulté face à la hausse des prix de l’énergie.",
-            "Les dates exactes seront communiquées par les services fiscaux."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Numéros uniques pour les professionnels : simplification des démarches fiscales",
-          "bullets": [
-            "Un numéro unique dédié sera attribué aux professionnels pour simplifier leurs démarches fiscales.",
-            "Ce numéro permettra de centraliser les échanges avec l’administration fiscale.",
-            "L’objectif est de réduire les formalités administratives et d’améliorer le service aux entreprises.",
-            "Les détails pratiques seront communiqués par Bercy."
+            "Un bonus de 75 € sera ajouté automatiquement sur les factures Engie pour les foyers éligibles.",
+            "Condition : être bénéficiaire du chèque énergie et client Engie pour le chauffage.",
+            "Mesure visant à soulager les ménages face à la hausse des coûts énergétiques."
           ],
           "sources": []
         }
@@ -272,52 +284,20 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Pro D2 : Oyonnax domine Narbonne et reste invaincu en tête du championnat",
+          "title": "Paul Seixas, 23 ans, remporte le Tour de Lombardie et entre dans l’histoire",
           "bullets": [
-            "L’équipe d’Oyonnax a remporté un match serré contre Narbonne en Pro D2.",
-            "Ce succès permet à Oyonnax de conserver la première place du championnat.",
-            "Le club affiche une série invaincue et se rapproche des barrages pour la montée en Top 14.",
-            "Les supporters et les joueurs misent sur une fin de saison victorieuse."
+            "Le jeune coureur français devient le plus jeune vainqueur de l’épreuve depuis 1935.",
+            "Performance remarquée dans un « cercle très fermé » des vainqueurs précoces des Monuments du cyclisme.",
+            "Consécration pour une carrière prometteuse, avec une ascension fulgurante dans le peloton professionnel."
           ],
           "sources": []
         },
         {
-          "title": "Soyaux-Angoulême bat Provence Rugby en Pro D2",
+          "title": "Boulazac Basket Dordogne bat Bourg-en-Bresse en ouverture de saison",
           "bullets": [
-            "Soyaux-Angoulême a remporté un match en Pro D2 contre Provence Rugby (26-28).",
-            "Ce résultat place Soyaux-Angoulême en position de force dans la course aux barrages.",
-            "Les deux équipes s’affrontent dans un championnat très disputé.",
-            "Les supporters attendent une fin de saison intense et compétitive."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Félix Lebrun vise le numéro 1 mondial au Grand Smash de Chine",
-          "bullets": [
-            "Le joueur de tennis de table Félix Lebrun vise une place parmi les meilleurs mondiaux.",
-            "Le Grand Smash de Chine, prévu en novembre, est une étape clé pour confirmer sa progression.",
-            "Lebrun a montré des performances prometteuses cette saison, notamment en Europe.",
-            "Son objectif est de figurer dans le top 10 mondial d’ici la fin de l’année."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "IA et automatisation renforcent la sécurité sur les chantiers nucléaires",
-          "bullets": [
-            "Des robots et agents IA sont déployés pour améliorer la sécurité sur les chantiers nucléaires.",
-            "Ces technologies permettent de surveiller les zones à risque et d’anticiper les incidents.",
-            "L’objectif est de réduire les risques d’accidents et d’optimiser les opérations.",
-            "Les chantiers nucléaires français intègrent progressivement ces innovations."
+            "Victoire 80-72 pour le Boulazac Basket Dordogne lors de son premier match de la saison 2026-2027.",
+            "Performance solide avec une défense renforcée et une attaque équilibrée.",
+            "Objectif affiché : confirmer ce début prometteur et viser une place en haut du classement."
           ],
           "sources": []
         }
@@ -351,17 +331,13 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à domicile contre Le Mans FC",
+          "title": "Prochain match : le PSG à l'extérieur contre Manchester City",
           "bullets": [
-            "Adversaire : Le Mans FC (à domicile)",
-            "Compétition : Ligue 1",
-            "Date : samedi 10 octobre à 20h45 (heure de Paris)",
-            "Stade : Parc des Princes",
-            "Diffusion : Ligue 1+",
+            "Adversaire : Manchester City (à l'extérieur)",
+            "Date : mercredi 14 octobre à 21h00 (heure de Paris)",
+            "Diffusion : Canal+",
             "Classement : 6e de Ligue 1 — 8 pts en 5 matchs",
-            "Ligue des champions : 1er de la phase de ligue (3 pts)",
-            "Adversaire au classement : 9e de Ligue 1 (6 pts)",
-            "Le Mans FC — Stade : Stade Marie-Marvingt · Capacité : 25 064 places · Entraîneur : Patrick Videira"
+            "Ligue des champions : 1er de la phase de ligue (3 pts)"
           ],
           "sources": [
             {
