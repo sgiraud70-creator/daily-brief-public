@@ -1,18 +1,18 @@
 {
-  "date_str": "Dimanche 11 octobre 2026",
+  "date_str": "Lundi 12 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Emmanuelle, Firmin et Soledad",
+          "title": "Aujourd'hui, on souhaite la fête : Edwin, Félix et Wilfrid",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/11/10/2026/11-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/12/10/2026/12-Octobre-2026.html"
             }
           ]
         }
@@ -22,76 +22,78 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Crise sociale : agriculture, lycées et pouvoir d’achat sous tension",
+          "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
           "bullets": [
-            "Canicules et hausse des taux d’intérêt aggravent la crise agricole, avec une dette hors de contrôle pour les exploitants.",
-            "Blocages lycéens persistants, notamment à Lyon, poussent le gouvernement à ajuster ses propositions pour la jeunesse avant la présidentielle 2027.",
-            "Baisse du pouvoir d’achat et inflation maintiennent une pression sociale généralisée sur les ménages."
+            "Les blocages dans plusieurs lycées se poursuivent, notamment à La Réunion, où le maire LFI Alexis Chaussalet soutient les lycéens contre les conditions d’études dégradées.",
+            "Le gouvernement exige la reprise des cours, tandis que les syndicats lycéens dénoncent un manque de réponses concrètes sur les effectifs et les locaux.",
+            "La question des alliances politiques à gauche, notamment avec LFI, divise encore la gauche après la victoire de Raphaël Glucksmann à la primaire.",
+            "Les blocages sont présentés comme une action minoritaire violente, mais les lycéens revendiquent une fonction historique de contestation.",
+            "Le mouvement s’inscrit dans une tradition de 20 ans de mobilisations lycéennes perturbant les établissements."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
-          "bullets": [
-            "Plus de 100 000 personnes ont déjà voté, soit 75 % des inscrits, contre 20 000 vendredi dernier.",
-            "Cyberattaque initiale perturbant la plateforme a été surmontée, mais des désaccords persistent sur l’organisation locale.",
-            "Jean-Luc Mélenchon critique ouvertement la primaire « sociale-démocrate », la qualifiant de « déconnectée » des enjeux populaires."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/12/mobilisation-lyceenne-presenter-le-blocage-comme-l-action-d-une-minorite-violente-conduit-a-manquer-sa-fonction-historique_6792457_3232.html"
             },
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/12/mobilisation-lyceenne-a-la-reunion-le-maire-lfi-du-tampon-alexis-chaussalet-dans-le-role-du-grand-frere_6792344_823448.html"
             }
           ]
         },
         {
-          "title": "Gabriel Attal réajuste son programme face au mouvement lycéen",
+          "title": "Budget 2027 : rejet en commission et examen serré à l’Assemblée",
           "bullets": [
-            "Le porte-parole du parti Renaissance propose un « pacte pour la jeunesse » incluant des mesures sociales et éducatives.",
-            "Renforcement des investissements dans les lycées et soutien aux familles en difficulté financière.",
-            "Stratégie de communication pour contrer l’avance de Jean-Luc Mélenchon dans les sondages."
+            "Le projet de loi de finances pour 2027 a été rejeté en commission, malgré les efforts pour éviter une crise de la dette avant l’élection présidentielle.",
+            "Les débats à l’Assemblée nationale débutent mardi, avec des enjeux majeurs sur les dépenses et les recettes.",
+            "Les partis d’opposition, notamment le RN, critiquent les choix budgétaires et les priorités gouvernementales.",
+            "Le texte doit permettre de tenir jusqu’à l’élection sans compromettre la stabilité financière.",
+            "Les ajustements sur les énergies renouvelables et le nucléaire restent au cœur des discussions."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-rejete-en-commission-le-projet-de-loi-de-finances-arrive-dans-le-chaudron-de-l-assemblee-nationale_6792420_823448.html"
             }
           ]
         },
         {
-          "title": "Mathilde Panot et le tollé autour du ruban d’Octobre rose",
+          "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
           "bullets": [
-            "La députée LFI refuse de porter le ruban, dénonçant un « cynisme » lié à l’industrie chimique et à Israël.",
-            "Réactions vives au gouvernement et au RN, accusant Panot de « provocation » et de « minimisation des enjeux sanitaires. »",
-            "Débat sur la politisation de la santé publique et les liens entre santé et géopolitique."
+            "Raphaël Glucksmann a été élu dès le premier tour de la primaire à gauche avec 66 % des voix, promettant de rassembler la gauche contre l’extrême droite.",
+            "Il rejette toute alliance avec LFI aux législatives, une position fragile qui divise son camp.",
+            "Glucksmann revendique une rupture avec le macronisme et une refonte de la stratégie sociale-démocrate.",
+            "Jean-Luc Mélenchon, lui, continue de soutenir les lycéens en grève et promet de supprimer Parcoursup.",
+            "La gauche doit désormais se structurer pour affronter l’élection présidentielle de 2027."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/10/octobre-rose-mathilde-panot-refuse-de-porter-le-ruban-tolle-au-gouvernement-et-au-rn_6791027_823448.html"
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-raphael-glucksmann-elu-des-le-premier-tour-promet-de-rassembler-la-gauche-pour-battre-l-extreme-droite-et-reaffirme-son-refus-de-s-allier-avec-lfi_6791926_6205049.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-jean-luc-melenchon-promet-de-supprimer-l-ignominie-parcoursup-devant-une-salle-comble-a-clermont-ferrand_6792108_6205049.html"
             }
           ]
         },
         {
-          "title": "Notes de frais controversées du président de Public Sénat",
+          "title": "Benoît Mathieu : un tour de France à vélo pour ausculter la colère sociale",
           "bullets": [
-            "Jean-Emmanuel Casalta, président de la chaîne, fait face à des accusations de dépenses personnelles non justifiées.",
-            "Les salariés de Public Sénat préparent une réunion pour exiger des comptes avant sa réunion prévue au Sénat.",
-            "Questionnement sur la transparence financière et la gestion des deniers publics dans les médias audiovisuels."
+            "Ancien professeur de maths, Benoît Mathieu parcourt la France à vélo pour écouter les maires sans étiquette et les citoyens.",
+            "Son projet, « La France buissonnière », révèle un sentiment généralisé de colère et de désillusion politique.",
+            "Il rencontre des élus locaux et des habitants pour comprendre les attentes et les frustrations.",
+            "Son initiative s’inscrit dans un contexte de montée des tensions sociales et politiques.",
+            "Il cherche à identifier des solutions concrètes pour répondre aux défis actuels."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/10/a-public-senat-les-notes-de-frais-embarrassantes-de-jean-emmanuel-casalta-president-de-la-chaine_6791002_3234.html"
+              "url": "https://www.lemonde.fr/m-perso/article/2026/10/12/ce-qui-ressort-c-est-un-sentiment-de-colere-benoit-mathieu-le-microcandidat-a-la-presidentielle-qui-ausculte-la-france-a-velo_6792421_4497916.html"
             }
           ]
         }
@@ -101,86 +103,86 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Arabie saoudite : attaque terroriste à l’aéroport de Riyad",
+          "title": "Guerre en Ukraine : frappe russe près de Kharkiv cause trois morts, dont un adolescent",
           "bullets": [
-            "Douze morts, dont quatre Saoudiens et huit étrangers (dont un Américain), dans une attaque attribuée aux houthistes yéménites.",
-            "L’aéroport international King Khalid, cible principale, a été partiellement paralysé pendant plusieurs heures.",
-            "Renforcement des mesures de sécurité dans tout le royaume, avec des patrouilles accrues dans les zones sensibles."
+            "Une attaque russe près de Kharkiv a fait trois morts, dont un adolescent de 16 ans, et 25 blessés selon les autorités ukrainiennes.",
+            "L’Ukraine et l’Europe tentent de maintenir la pression sur le Kremlin malgré un accord entre Donald Trump et Vladimir Poutine sur le diesel russe.",
+            "L’accord entre Trump et Poutine sur un cessez-le-feu énergétique a été annoncé sans consultation préalable avec Kiev.",
+            "Les tensions persistent sur le front énergétique et militaire en Ukraine.",
+            "L’Ukraine dénonce une violation de sa souveraineté et exige des garanties supplémentaires."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html"
             }
           ]
         },
         {
-          "title": "Tensions Espagne-Maroc : Ceuta et Melilla sous pression migratoire",
+          "title": "Inde : manifestations étudiantes contre la « culture du viol »",
           "bullets": [
-            "Plus de 72 000 migrants ont traversé vers Ceuta en juillet dernier, ravivant les tensions sur la souveraineté espagnole.",
-            "Madrid exige une coopération renforcée avec Rabat pour gérer les flux migratoires illégaux.",
-            "Risque de nouvelles crises diplomatiques si les mesures de contrôle ne sont pas renforcées rapidement."
+            "Des milliers d’étudiantes manifestent à New Delhi pour dénoncer les violences sexuelles et les meurtres de jeunes femmes.",
+            "Les autorités sont critiquées pour leur réponse jugée insuffisante face à ces crimes.",
+            "Les manifestations s’inscrivent dans un mouvement plus large contre l’impunité des agresseurs.",
+            "Les étudiantes réclament des mesures concrètes, comme une meilleure protection et des peines plus lourdes.",
+            "Le gouvernement indien est sous pression pour agir face à cette crise sociale."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/11/pourquoi-ceuta-et-melilla-restent-un-sujet-de-discorde-entre-l-espagne-et-le-maroc_6791307_3210.html"
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/12/en-inde-les-etudiantes-marchent-contre-la-culture-du-viol_6792378_4500055.html"
             }
           ]
         },
         {
-          "title": "Ukraine : la Russie se protège des drones ukrainiens en Mer Noire",
+          "title": "Maroc : Fouad Ali El-Himma, homme de confiance de Mohammed VI, consolidé politiquement",
           "bullets": [
-            "Des navires russes ou liés à la flotte russe se drapent de filets pour éviter les attaques par drones ukrainiens.",
-            "Stratégie de dissimulation pour contourner les frappes ciblées sur les ports et les bases navales.",
-            "Escalade technologique dans la guerre des drones, avec des contre-mesures toujours plus sophistiquées."
+            "Fouad Ali El-Himma, conseiller influent du roi Mohammed VI, voit sa position renforcée par sa nomination à la tête du Parti Authenticité et Modernité.",
+            "Ancien camarade de classe du souverain, il joue un rôle clé dans la gouvernance et les réformes politiques marocaines.",
+            "Son parti, créé en 2021, vise à moderniser le Maroc tout en maintenant la stabilité politique.",
+            "El-Himma est perçu comme un acteur central dans la stratégie de développement du pays.",
+            "Sa position renforce l’influence de la monarchie sur les institutions politiques."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/11/face-aux-drones-ukrainiens-des-navires-lies-a-la-russie-se-drapent-de-filets-en-mer-noire_6791267_1669088.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/12/au-maroc-la-consecration-de-fouad-ali-el-himma-homme-de-l-ombre-au-service-de-mohammed-vi_6792417_3212.html"
             }
           ]
         },
         {
-          "title": "Cisjordanie : la solitude des Palestiniens face à l’impunité israélienne",
+          "title": "Israël : clarification sur les « NAZA », dommages collatéraux calculés par l’armée",
           "bullets": [
-            "Les Palestiniens documentent les violences commises par des colons israéliens, faute de protection juridique effective.",
-            "La Cour suprême israélienne ignore ou rejette la plupart des recours palestiniens.",
-            "Montée des tensions et des violences communautaires dans les territoires occupés."
+            "Le terme « NAZA » désigne une méthode israélienne de calcul des dommages collatéraux lors des frappes militaires.",
+            "Cette acronyme hébreu (« Nitzotz Ayon Zmanot ») signifie « évaluation des conséquences temporelles » et vise à minimiser les pertes civiles.",
+            "Le documentaire « NAZA » révèle les méthodes et les dilemmes éthiques de l’armée israélienne.",
+            "Les critiques dénoncent une normalisation des pertes civiles dans les zones de conflit.",
+            "L’armée israélienne justifie ces pratiques par la nécessité de protéger ses propres troupes."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html"
+              "url": "https://www.lemonde.fr/videos/video/2026/10/12/que-sont-les-naza-les-dommages-collateraux-calcules-par-l-armee-israelienne_6792416_1669088.html"
             }
           ]
         },
         {
-          "title": "Donald Trump et Vladimir Poutine : un dialogue tendu sur la guerre en Ukraine",
+          "title": "France et Espagne : stratégies divergentes face à la Chine",
           "bullets": [
-            "Trump affirme que la Russie « aimerait voir un règlement » avec Kiev, mais que des obstacles persistent.",
-            "Poutine maintient une position intransigeante, refusant toute négociation sans garanties territoriales.",
-            "Tensions accrues entre Washington et Moscou, avec des signes de divergence sur la voie à suivre."
+            "La France et l’Espagne maintiennent leur ouverture aux investissements chinois pour stimuler leur réindustrialisation.",
+            "Paris plaide au niveau européen pour obtenir des contreparties en matière de souveraineté technologique et industrielle.",
+            "L’Espagne adopte une approche plus pragmatique, privilégiant les partenariats économiques sans conditions strictes.",
+            "Les deux pays cherchent à équilibrer leurs relations avec la Chine tout en préservant leurs intérêts stratégiques.",
+            "Cette divergence reflète des priorités différentes au sein de l’UE sur la gestion des risques géopolitiques."
           ],
           "sources": [
             {
               "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Delphine Horvilleur : trois ans après le 7-Octobre, la souffrance palestinienne toujours silencieuse",
-          "bullets": [
-            "La rabbine Delphine Horvilleur reconnaît avoir mis du temps à aborder la souffrance des Palestiniens après l’attaque du Hamas.",
-            "Appel à une réflexion plus nuancée sur le conflit israélo-palestinien et à une prise en compte des victimes des deux côtés.",
-            "Réflexion sur le rôle des communautés juives dans la médiation et la paix au Proche-Orient."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/11/delphine-horvilleur-rabbine-apres-le-7-octobre-il-m-a-fallu-du-temps-pour-parler-de-la-souffrance-des-palestiniens-innocents_6791269_6038514.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/12/face-a-la-chine-la-france-et-l-espagne-defendent-des-strategies-differentes_6792345_3234.html"
             }
           ]
         }
@@ -195,44 +197,50 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Super Mario Bros. jouable directement sur YouTube grâce à une innovation technique",
+          "title": "Peugeot ressuscite sa sportive mythique en version électrique : la E-T16 Concept",
           "bullets": [
-            "Une technique permet de transformer une vidéo YouTube en jeu interactif jouable via navigateur et souris.",
-            "Pas besoin de télécharger un émulateur ou un client dédié pour jouer à Super Mario Bros.",
-            "Potentiel pour démocratiser l’accès aux jeux rétro et aux expériences interactives en ligne."
+            "Peugeot présente la E-T16 Concept, une version électrique de la légendaire Renault 5 Turbo 3E, avec 816 chevaux et un 0 à 100 km/h en 2,5 secondes.",
+            "Ce concept s’inscrit dans une démarche de réinterprétation des icônes automobiles des rallyes.",
+            "La voiture mise sur une autonomie et des performances extrêmes pour séduire les amateurs de sport automobile.",
+            "Peugeot confirme son engagement dans l’électrification tout en célébrant son héritage sportif.",
+            "La E-T16 Concept pourrait inspirer une future production en série."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2349581-vous-pouvez-maintenant-jouer-a-super-mario-bros-directement-sur-youtube.html"
+              "url": "https://www.numerama.com/vroom/2350343-816-ch-et-un-0-a-100-km-h-en-25-s-peugeot-ressuscite-sa-sportive-la-plus-folle-en-electrique.html"
             }
           ]
         },
         {
-          "title": "Faille critique dans Telegram Desktop : vol de comptes en un clic",
+          "title": "Cafetière connectée : fuite de données massive et autres menaces cyber",
           "bullets": [
-            "Une vulnérabilité permet à un attaquant de voler un compte Telegram en un clic via un lien malveillant.",
-            "La faille a été corrigée, mais les utilisateurs sont invités à mettre à jour leur application rapidement.",
-            "Risque accru pour les comptes sensibles et les échanges sécurisés via Telegram."
+            "Une cafetière connectée a généré un trafic de données équivalent à 1 téraoctet, sans explication technique claire.",
+            "OpenAI est accusée de représailles contre ses chercheurs en sécurité après des fuites de données sensibles.",
+            "58 boutiques Pokémon frauduleuses ont été recensées en quelques semaines, exploitant des failles de sécurité.",
+            "Ces incidents soulignent les risques croissants liés à l’IoT et aux cyberattaques ciblant les objets connectés.",
+            "Les fabricants et les utilisateurs doivent renforcer leurs protections contre ces menaces."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
+              "url": "https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html"
             }
           ]
         },
         {
-          "title": "Outil IA open source pour la rétro-ingénierie : démocratisation de l’analyse logicielle",
+          "title": "Signal cosmique : origine d’un sursaut radio rapide après 10 milliards d’années-lumière",
           "bullets": [
-            "REA, un outil branché sur les assistants de code, permet de décortiquer un logiciel via une IA en posant simplement une question.",
-            "Accessible à tous, il facilite la compréhension des programmes complexes et l’apprentissage du code.",
-            "Potentiel pour l’éducation, la maintenance logicielle et la recherche en informatique."
+            "Un sursaut radio rapide, détecté à 10 milliards d’années-lumière, a été étudié grâce à plusieurs télescopes et au James Webb.",
+            "Les scientifiques ont pu identifier sa galaxie hôte et son environnement, offrant des indices sur sa nature et son origine.",
+            "Ce phénomène rare permet d’étudier l’univers primitif et les propriétés de la matière intergalactique.",
+            "Les observations révèlent des informations précieuses sur l’évolution des galaxies et des trous noirs supermassifs.",
+            "Cette découverte renforce notre compréhension des mécanismes extrêmes de l’univers."
           ],
           "sources": [
             {
               "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html"
+              "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html"
             }
           ]
         }
@@ -245,36 +253,47 @@
     },
     {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "source indisponible ce matin"
+      "sujets": [
+        {
+          "title": "Église imprimée en 3D à Neratovice : un projet architectural ambitieux",
+          "bullets": [
+            "Une église en cours de construction à Neratovice, en République tchèque, est imprimée en 3D, représentant l’un des plus grands projets de ce type au monde.",
+            "Ce chantier innovant utilise des technologies d’impression 3D pour réduire les coûts et les délais de construction.",
+            "L’objectif est de démontrer la faisabilité et l’efficacité de l’impression 3D pour les grands édifices religieux.",
+            "Le projet pourrait inspirer d’autres constructions similaires dans le monde.",
+            "L’église devrait être achevée dans les prochains mois."
+          ],
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/eglise-imprimee-en-3d-neratovice-12102026/"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque Wero : un SMS suffit pour vider les comptes bancaires",
+          "title": "Arnaque « Zero-click » sur WhatsApp : comment se protéger ?",
           "bullets": [
-            "Une nouvelle arnaque utilise des SMS pour inciter les victimes à transférer de l’argent vers des comptes frauduleux.",
-            "Les escrocs se font passer pour des services officiels ou des proches en urgence.",
-            "Conseils pour éviter les pièges : vérifier les numéros et les demandes suspectes."
+            "L’arnaque « Zero-click » exploite des vulnérabilités dans les applications de messagerie pour infecter les appareils sans interaction de l’utilisateur.",
+            "Les escrocs envoient des messages malveillants via des liens ou des fichiers piégés, permettant un accès à distance aux données personnelles.",
+            "Les victimes peuvent subir des vols d’identité, des extorsions ou des fuites de données sensibles.",
+            "Pour se protéger, il est conseillé de désactiver les liens automatiques, de mettre à jour ses applications et d’utiliser des solutions antivirus.",
+            "Les autorités appellent à la vigilance et à la signalisation des tentatives d’arnaque."
           ],
           "sources": []
         },
         {
-          "title": "Barème progressif de l’impôt sur le revenu revalorisé en 2027",
+          "title": "Fuite de données : comment protéger vos informations personnelles ?",
           "bullets": [
-            "Le gouvernement annonce une revalorisation du barème pour tenir compte de l’inflation.",
-            "Objectif : atténuer l’impact de la hausse des prix sur le pouvoir d’achat des contribuables.",
-            "Détails des ajustements à venir publiés avant la fin de l’année."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie : coup de pouce de 75 € pour les bénéficiaires Engie",
-          "bullets": [
-            "Un bonus de 75 € sera ajouté automatiquement sur les factures Engie pour les foyers éligibles.",
-            "Condition : être bénéficiaire du chèque énergie et client Engie pour le chauffage.",
-            "Mesure visant à soulager les ménages face à la hausse des coûts énergétiques."
+            "Les fuites de données touchent de plus en plus d’institutions, incluant les banques, les impôts et les opérateurs télécoms.",
+            "Les cybercriminels exploitent ces fuites pour commettre des fraudes, des usurpations d’identité ou des extorsions.",
+            "Pour limiter les risques, il est recommandé de surveiller ses comptes, d’utiliser des mots de passe complexes et un gestionnaire de mots de passe.",
+            "Les autorités conseillent de vérifier régulièrement ses données personnelles et de signaler toute anomalie.",
+            "Les victimes peuvent demander la suppression de leurs données exposées via des plateformes dédiées."
           ],
           "sources": []
         }
@@ -284,20 +303,24 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Paul Seixas, 23 ans, remporte le Tour de Lombardie et entre dans l’histoire",
+          "title": "Paris-Tours : victoire du Norvégien Per Strand Hagenes",
           "bullets": [
-            "Le jeune coureur français devient le plus jeune vainqueur de l’épreuve depuis 1935.",
-            "Performance remarquée dans un « cercle très fermé » des vainqueurs précoces des Monuments du cyclisme.",
-            "Consécration pour une carrière prometteuse, avec une ascension fulgurante dans le peloton professionnel."
+            "Le cycliste norvégien Per Strand Hagenes remporte la course Paris-Tours après une arrivée au sprint.",
+            "Il devance un peloton serré, avec des coureurs français et internationaux en lice pour les places d’honneur.",
+            "Cette victoire marque un nouveau succès pour le jeune coureur, déjà connu pour ses performances en montagne.",
+            "La course a été marquée par des conditions météo changeantes et des attaques tactiques.",
+            "Paris-Tours reste une épreuve emblématique du calendrier cycliste français."
           ],
           "sources": []
         },
         {
-          "title": "Boulazac Basket Dordogne bat Bourg-en-Bresse en ouverture de saison",
+          "title": "Stade Français : Lucas Peyresblanques opéré, absence prolongée",
           "bullets": [
-            "Victoire 80-72 pour le Boulazac Basket Dordogne lors de son premier match de la saison 2026-2027.",
-            "Performance solide avec une défense renforcée et une attaque équilibrée.",
-            "Objectif affiché : confirmer ce début prometteur et viser une place en haut du classement."
+            "Le talonneur du Stade Français, Lucas Peyresblanques, a été opéré et devrait être absent plusieurs mois.",
+            "Cette blessure met en péril la préparation de l’équipe pour la saison à venir, notamment en Top 14.",
+            "Le club a annoncé une période de rééducation intensive pour permettre un retour progressif.",
+            "Les supporters et les partenaires du club expriment leur soutien au joueur blessé.",
+            "Le Stade Français devra s’adapter en attendant son retour."
           ],
           "sources": []
         }
@@ -307,15 +330,15 @@
       "label": "Sport — Pittsburgh Steelers",
       "sujets": [
         {
-          "title": "Prochain match : les Steelers à domicile contre Indianapolis Colts",
+          "title": "Prochain match : les Steelers à l'extérieur contre Tampa Bay Buccaneers",
           "bullets": [
-            "Adversaire : Indianapolis Colts (à domicile)",
+            "Adversaire : Tampa Bay Buccaneers (à l'extérieur)",
             "Compétition : NFL",
-            "Date : dimanche 11 octobre à 19h00 (heure de Paris)",
-            "Stade : Acrisure Stadium",
+            "Date : dimanche 18 octobre à 19h00 (heure de Paris)",
+            "Stade : Raymond James Stadium",
             "Diffusion : à confirmer",
-            "Classement : 3e de l'AFC Nord (2-2)",
-            "Adversaire au classement : 2e de l'AFC Sud (2-2)",
+            "Classement : 3e de l'AFC Nord (3-2)",
+            "Adversaire au classement : 3e de l'NFC Sud (1-4)",
             "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
           ],
           "sources": [
@@ -336,7 +359,7 @@
             "Adversaire : Manchester City (à l'extérieur)",
             "Date : mercredi 14 octobre à 21h00 (heure de Paris)",
             "Diffusion : Canal+",
-            "Classement : 6e de Ligue 1 — 8 pts en 5 matchs",
+            "Classement : 6e de Ligue 1 — 11 pts en 6 matchs",
             "Ligue des champions : 1er de la phase de ligue (3 pts)"
           ],
           "sources": [

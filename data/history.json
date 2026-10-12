@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html",
-    "title": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » pour battre Marine Le Pen",
-    "rubrique": "France",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/03/le-permis-de-conduire-peut-desormais-etre-suspendu-pour-usage-du-telephone-partout-en-france_6787789_3224.html",
-    "title": "Téléphone au volant : suspension immédiate du permis possible partout en France",
-    "rubrique": "France",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/04/ecrits-antisemites-de-jordan-bardella-marine-le-pen-au-risque-d-etre-entrainee-dans-la-defense-jusqu-au-boutiste-du-president-du-rn_6788005_823448.html",
-    "title": "Écrits antisémites de Jordan Bardella : Marine Le Pen sous pression pour défendre son président",
-    "rubrique": "France",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/04/le-vote-obligatoire-peut-envoyer-le-signal-fort-que-nous-appartenons-a-une-meme-communaute-de-destin_6788003_3232.html",
-    "title": "Débat sur le vote obligatoire : un « signal fort » pour renforcer la cohésion nationale ?",
-    "rubrique": "France",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html",
-    "title": "Crise au sein des rédactions audiovisuelles : tensions sur le pluralisme avant 2027",
-    "rubrique": "France",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-kiev-affirme-avoir-regagne-du-terrain-dans-la-region-du-donbass_6787996_3210.html",
-    "title": "Ukraine : Kiev affirme avoir regagné du terrain dans le Donbass",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html",
-    "title": "Brésil : scrutin incertain sous l’ombre de l’ingérence américaine",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/04/legislatives-en-lettonie-le-parti-pro-europeen-au-pouvoir-en-tete-face-a-une-poussee-populiste_6787992_3210.html",
-    "title": "Lettonie : victoire du parti pro-européen malgré une poussée populiste",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/04/cinq-personnes-mises-en-examen-pour-des-soupcons-de-financement-du-hamas-via-des-associations-humanitaires_6787959_3224.html",
-    "title": "Financement présumé du Hamas : cinq personnes mises en examen en France",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html",
-    "title": "Groenland : exploitation d’un gisement stratégique de graphite",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/04/viol-presume-a-cornell-une-enquete-externe-ouverte-sur-la-gestion-de-l-affaire-par-l-universite-americaine_6788009_3210.html",
-    "title": "Viol présumé à Cornell : enquête externe sur la gestion de l’affaire",
-    "rubrique": "International",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2345965-lebara-propose-un-forfait-200-go-a-moins-de-10-e-par-mois.html",
-    "title": "Lebara propose un forfait mobile 200 Go à moins de 10 €/mois sur SFR",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2345895-jailbreak-de-la-ps5-conference-openai-et-facebook-de-jordan-bardella-le-recap-tech-de-la-semaine.html",
-    "title": "Jailbreak de la PS5 et actualités technologiques de la semaine",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html",
-    "title": "IA : scénarios catastrophiques et risques pour l’humanité analysés",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-04"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/05/avant-la-primaire-a-gauche-un-dernier-debat-televise-sous-tension-le-spectacle-qu-on-a-donne-pendant-vingt-minutes-etait-honteux_6788468_823448.html",
     "title": "Primaire de la gauche : tensions lors du dernier débat télévisé",
     "rubrique": "France",
@@ -718,5 +634,107 @@
     "title": "Outil IA open source pour la rétro-ingénierie : démocratisation de l’analyse logicielle",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/12/mobilisation-lyceenne-presenter-le-blocage-comme-l-action-d-une-minorite-violente-conduit-a-manquer-sa-fonction-historique_6792457_3232.html",
+    "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/12/mobilisation-lyceenne-a-la-reunion-le-maire-lfi-du-tampon-alexis-chaussalet-dans-le-role-du-grand-frere_6792344_823448.html",
+    "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-rejete-en-commission-le-projet-de-loi-de-finances-arrive-dans-le-chaudron-de-l-assemblee-nationale_6792420_823448.html",
+    "title": "Budget 2027 : rejet en commission et examen serré à l’Assemblée",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-raphael-glucksmann-elu-des-le-premier-tour-promet-de-rassembler-la-gauche-pour-battre-l-extreme-droite-et-reaffirme-son-refus-de-s-allier-avec-lfi_6791926_6205049.html",
+    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
+    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-jean-luc-melenchon-promet-de-supprimer-l-ignominie-parcoursup-devant-une-salle-comble-a-clermont-ferrand_6792108_6205049.html",
+    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-perso/article/2026/10/12/ce-qui-ressort-c-est-un-sentiment-de-colere-benoit-mathieu-le-microcandidat-a-la-presidentielle-qui-ausculte-la-france-a-velo_6792421_4497916.html",
+    "title": "Benoît Mathieu : un tour de France à vélo pour ausculter la colère sociale",
+    "rubrique": "France",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
+    "title": "Guerre en Ukraine : frappe russe près de Kharkiv cause trois morts, dont un adolescent",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
+    "title": "Guerre en Ukraine : frappe russe près de Kharkiv cause trois morts, dont un adolescent",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/12/en-inde-les-etudiantes-marchent-contre-la-culture-du-viol_6792378_4500055.html",
+    "title": "Inde : manifestations étudiantes contre la « culture du viol »",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/12/au-maroc-la-consecration-de-fouad-ali-el-himma-homme-de-l-ombre-au-service-de-mohammed-vi_6792417_3212.html",
+    "title": "Maroc : Fouad Ali El-Himma, homme de confiance de Mohammed VI, consolidé politiquement",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/video/2026/10/12/que-sont-les-naza-les-dommages-collateraux-calcules-par-l-armee-israelienne_6792416_1669088.html",
+    "title": "Israël : clarification sur les « NAZA », dommages collatéraux calculés par l’armée",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/12/face-a-la-chine-la-france-et-l-espagne-defendent-des-strategies-differentes_6792345_3234.html",
+    "title": "France et Espagne : stratégies divergentes face à la Chine",
+    "rubrique": "International",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2350343-816-ch-et-un-0-a-100-km-h-en-25-s-peugeot-ressuscite-sa-sportive-la-plus-folle-en-electrique.html",
+    "title": "Peugeot ressuscite sa sportive mythique en version électrique : la E-T16 Concept",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html",
+    "title": "Cafetière connectée : fuite de données massive et autres menaces cyber",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html",
+    "title": "Signal cosmique : origine d’un sursaut radio rapide après 10 milliards d’années-lumière",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.3dnatives.com/eglise-imprimee-en-3d-neratovice-12102026/",
+    "title": "Église imprimée en 3D à Neratovice : un projet architectural ambitieux",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-12"
   }
 ]
