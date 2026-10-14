@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/06/mouvement-des-lycees-impuissant-l-executif-a-la-merci-d-un-embrasement_6788869_823448.html",
-    "title": "Mobilisation lycéenne : tensions et risques d’embrasement national",
-    "rubrique": "France",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/video/2026/10/05/blocage-de-lycee-a-lens-ce-que-l-on-sait-du-jeune-homme-qui-a-eu-la-main-arrachee-par-une-grenade_6788576_3224.html",
-    "title": "Mobilisation lycéenne : tensions et risques d’embrasement national",
-    "rubrique": "France",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/06/primaire-a-gauche-plus-de-140-000-inscrits-appeles-a-designer-leur-candidat-a-la-presidentielle_6788654_823448.html",
-    "title": "Primaire à gauche : plus de 140 000 inscrits pour désigner le candidat à la présidentielle",
-    "rubrique": "France",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/05/au-senat-les-centristes-deviennent-la-deuxieme-force-politique-au-detriment-des-socialistes-fragilises_6788588_823448.html",
-    "title": "Sénat : les centristes deviennent la deuxième force politique, au détriment des socialistes",
-    "rubrique": "France",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/06/loi-integrale-contre-les-violences-sexuelles-les-deputes-adoptent-la-creation-d-unites-speciales-au-sein-de-la-police_6788655_3224.html",
-    "title": "Adoption d’unités spécialisées policières contre les violences sexuelles",
-    "rubrique": "France",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/10/06/soupcon-de-peste-en-siberie-les-declarations-du-kremlin-ne-rassurent-pas_6788824_3244.html",
-    "title": "Suspicion de peste en Sibérie : le Kremlin minimise la crise tout en renforçant les mesures sanitaires",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-les-independantistes-remportent-les-elections-provinciales-et-promettent-un-nouveau-referendum-sur-la-sortie-du-canada_6788755_3210.html",
-    "title": "Québec : les indépendantistes remportent les élections provinciales et promettent un référendum sur l’indépendance",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/06/en-grece-un-celebre-chanteur-meurt-apres-un-traitement-dans-une-clinique-de-rajeunissement_6788722_3210.html",
-    "title": "Mort d’un chanteur grec après un traitement en clinique de rajeunissement",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/06/l-armee-americaine-va-mettre-a-mort-par-peloton-d-execution-un-condamne-a-la-peine-capitale_6788689_3210.html",
-    "title": "États-Unis : exécution par peloton d’exécution pour Nidal Hasan, auteur de la tuerie de Fort Hood",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/06/sur-le-campus-de-cornell-aux-etats-unis-tout-le-monde-est-revolte-par-la-gestion-d-une-affaire-de-viols-par-la-police-et-l-universite_6788831_3210.html",
-    "title": "Campus de Cornell : révolte étudiante après la gestion d’une affaire de viol par la police et l’université",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/06/pascal-lamy-ancien-directeur-de-l-omc-fait-son-mea-culpa-nous-avons-fait-une-erreur-de-parallaxe-historique-avec-la-chine_6788832_3234.html",
-    "title": "Pascal Lamy, ancien directeur de l’OMC, reconnaît une « erreur historique » dans la relation avec la Chine",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/sport/article/2026/10/06/comment-la-fifa-a-contourne-son-reglement-pour-favoriser-la-qualification-de-la-republique-democratique-du-congo-a-la-coupe-du-monde-2026_6788836_3242.html",
-    "title": "FIFA : révélations sur des pratiques controversées pour favoriser la qualification de la RDC à la Coupe du monde 2026",
-    "rubrique": "International",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2346659-apple-va-brider-une-fonction-cruciale-des-mac-pour-empecher-les-agents-ia-de-fouiller-partout.html",
-    "title": "Apple limite l’accès aux données des Mac pour empêcher les agents IA de fouiller les fichiers",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2346787-credit-agricole-en-panne-ce-lundi-le-site-et-lapplication-de-la-banque-francaise-rencontrent-des-bugs.html",
-    "title": "Crédit Agricole en panne : site et application indisponibles en raison de bugs techniques",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2346707-gpt-6-astra-devait-creer-un-bot-starcraft-lia-a-prefere-tricher-en-copiant-le-meilleur-humain.html",
-    "title": "GPT-6 Astra triche en copiant les stratégies du meilleur joueur humain pour un bot StarCraft",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2346757-quand-les-bornes-de-recharge-ultra-rapides-de-byd-sont-detournees-en-balancoires-par-des-enfants.html",
-    "title": "Bornes de recharge BYD détournées en balançoires par des enfants en Chine",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2346729-fast-and-furious-vin-diesel-lache-enfin-linfo-que-tous-les-fans-attendaient.html",
-    "title": "Fast and Furious : Vin Diesel révèle enfin le destin de Dom après la saga",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-06"
-  },
-  {
     "url": "https://www.lemonde.fr/economie/article/2026/10/07/emmanuel-roman-patron-du-geant-de-la-finance-pimco-les-marches-envoient-un-signal-serieux-a-la-france-sur-sa-dette-l-heure-est-grave_6789539_3234.html",
     "title": "Dette publique : Pimco tire la sonnette d’alarme sur la dérive budgétaire française",
     "rubrique": "France",
@@ -742,5 +640,89 @@
     "title": "Piratage des frigos des supermarchés : pourquoi ces appareils sont connectés à Internet ?",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-13"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html",
+    "title": "Budget 2027 : objectif de déficit inférieur à 3 % du PIB maintenu malgré un déficit à 5,4 % en 2026",
+    "rubrique": "France",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/13/adoption-a-l-assemblee-de-la-loi-integrale-contre-les-violences-sexuelles-les-associations-feministes-saluent-une-avancee-incroyable_6793173_3224.html",
+    "title": "Loi intégrale contre les violences sexuelles adoptée à l'Assemblée : avancée saluée par les associations féministes",
+    "rubrique": "France",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-pour-jean-luc-melenchon-le-soutien-au-mouvement-lyceen-consacre-le-pari-de-lfi-sur-la-jeunesse_6793352_823448.html",
+    "title": "Présidentielle 2027 : LFI mise sur la mobilisation lycéenne pour séduire les jeunes",
+    "rubrique": "France",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html",
+    "title": "ARCOM envisage des régulations pour les podcasts politiques influents avant la présidentielle 2027",
+    "rubrique": "France",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html",
+    "title": "RN et gouvernement s’allient pour repousser la motion de rejet du PS sur le budget 2027",
+    "rubrique": "France",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/14/en-equateur-les-pecheurs-victimes-collaterales-des-bombes-americaines-cette-barque-c-etait-l-heritage-de-mon-pere-notre-gagne-pain-qu-est-ce-que-je-vais-faire-maintenant_6793387_3210.html",
+    "title": "Équateur : pêcheurs victimes collatérales des frappes américaines contre les narcotrafiquants",
+    "rubrique": "International",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/14/en-italie-giorgia-meloni-veut-faire-de-sa-voix-une-marque-pour-lutter-contre-les-deepfakes_6793319_3210.html",
+    "title": "Italie : Giorgia Meloni lance une initiative pour lutter contre les deepfakes via sa voix",
+    "rubrique": "International",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html",
+    "title": "États-Unis : perquisition de la maison de l’élue démocrate Ilhan Omar",
+    "rubrique": "International",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
+    "title": "Angleterre : rémunération des agriculteurs pour des pratiques écologiques",
+    "rubrique": "International",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/10/14/enquetes-et-documentaire-choc-ce-qu-on-sait-des-methodes-de-l-armee-israelienne-a-gaza_6793316_5463015.html",
+    "title": "Documentaire israélien « Naza » révèle les méthodes controversées de l’armée à Gaza",
+    "rubrique": "International",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html",
+    "title": "Google lance Gemini 4 Argon pour rivaliser avec OpenAI et Anthropic",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html",
+    "title": "Citroën révèle la 2 CV Fourgonnette au Mondial de l’Auto",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html",
+    "title": "Airbus teste le drone de combat Valkyrie en Europe",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.3dnatives.com/aminsider-podcast-fabrication-additive-13102026/",
+    "title": "AMinsider, le podcast sur la fabrication additive, rejoint 3Dnatives",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-14"
   }
 ]
