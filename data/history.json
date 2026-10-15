@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/07/emmanuel-roman-patron-du-geant-de-la-finance-pimco-les-marches-envoient-un-signal-serieux-a-la-france-sur-sa-dette-l-heure-est-grave_6789539_3234.html",
-    "title": "Dette publique : Pimco tire la sonnette d’alarme sur la dérive budgétaire française",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/07/mouvement-lyceen-sebastien-lecornu-sous-la-pression-de-la-rue-des-oppositions-et-d-emmanuel-macron_6789500_823448.html",
-    "title": "Mobilisation lycéenne : le gouvernement sous pression face aux blocages et aux critiques",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/10/07/ecrits-antisemites-de-jordan-bardella-quelles-turbulences-au-rn_6789432_5463015.html",
-    "title": "Affaire Bardella : le RN divisé entre déni et gestion de crise",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/07/le-pretre-jean-bernard-plessy-ancien-directeur-des-chartreux-a-lyon-mis-en-examen-pour-viol-aggrave_6789198_3224.html",
-    "title": "Violences sexuelles : un prêtre mis en examen pour viol aggravé",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/06/inceste-les-deputes-votent-pour-creer-une-infraction-specifique-et-elargir-sa-definition-aux-cousins_6789127_823448.html",
-    "title": "Loi contre les violences sexuelles : élargissement de la définition de l’inceste",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-l-affaire-jordan-bardella-plombe-la-sequence-budgetaire-du-rn_6789091_823448.html",
-    "title": "Budget 2027 : le RN en difficulté après la révélation de propos antisémites",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/video/2026/10/06/blocages-des-lycees-les-deputes-interpellent-vivement-le-gouvernement_6789043_823448.html",
-    "title": "Crise lycéenne : les députés interpellent le gouvernement sur les blocages",
-    "rubrique": "France",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
-    "title": "Arabie saoudite : interception de missiles houthistes et renforcement de la coalition anti-Yémen",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
-    "title": "Israël : trois ans après le 7-Octobre, le pays marqué par les traumatismes et les divisions",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
-    "title": "Cisjordanie : photojournaliste palestinien roué de coups par des colons israéliens",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/07/a-pekin-l-heure-de-verite-pour-le-commissaire-europeen-au-commerce-pour-contrer-l-envolee-des-exportations-chinoises-vers-l-europe_6789537_3234.html",
-    "title": "Chine : l’UE en négociations tendues pour limiter les exportations industrielles",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html",
-    "title": "Australie : la justice bloque l’extension d’une mine de charbon",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/en-allemagne-la-succession-de-friedrich-merz-en-filigrane-dans-le-duel-entre-munich-et-cologne-pour-accueillir-les-jo_6789466_3210.html",
-    "title": "Allemagne : rivalité entre Munich et Cologne pour accueillir les JO de 2036",
-    "rubrique": "International",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2348011-plaider-en-faveur-dune-homologation-rapide-lallemagne-est-prete-a-accelerer-pour-autoriser-le-tesla-fsd-en-europe.html",
-    "title": "Tesla accélère l’homologation du FSD en Europe grâce à l’Allemagne",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2347737-ne-payez-jamais-un-moteur-de-donnees-volees-tend-un-nouveau-piege-a-ses-victimes.html",
-    "title": "Volonté de suppression de données volées : un nouveau piège pour les victimes",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.3dnatives.com/propulseurs-imprimes-en-3d-espace-07102026/",
-    "title": "Retour sur Terre de propulseurs imprimés en 3D depuis l’ISS",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-07"
-  },
-  {
     "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
     "title": "Rassemblement National : Marine Le Pen propose une taxe de 1 000 € pour embaucher un travailleur extra-européen",
     "rubrique": "France",
@@ -724,5 +628,95 @@
     "title": "AMinsider, le podcast sur la fabrication additive, rejoint 3Dnatives",
     "rubrique": "Impression 3D",
     "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
+    "title": "Assemblée nationale : validation du prélèvement de 30,9 milliards d’euros pour l’UE malgré l’opposition du RN et de LFI",
+    "rubrique": "France",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/14/retraites-complementaires-1-4-de-hausse-apres-un-an-de-gel-les-syndicats-divises_6793795_823448.html",
+    "title": "Retraites complémentaires : hausse de 1,4 % après un an de gel, mais les syndicats restent divisés",
+    "rubrique": "France",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/14/pierre-coppey-ancien-president-de-vinci-autoroutes-choisi-comme-nouveau-controleur-general-des-lieux-de-privation-de-liberte-par-emmanuel-macron_6793777_3224.html",
+    "title": "Pierre Coppey nommé contrôleur général des lieux de privation de liberté",
+    "rubrique": "France",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/14/l-hotellerie-restauration-championne-de-la-fraude-fiscale-selon-bercy_6793761_823448.html",
+    "title": "Hôtellerie-restauration : secteur pointé du doigt pour sa fraude fiscale massive",
+    "rubrique": "France",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html",
+    "title": "Pompiers professionnels : grève reconduite jusqu’au 4 décembre sans réponse gouvernementale",
+    "rubrique": "France",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
+    "title": "Incendies en Indonésie : brouillard toxique étendu à plusieurs pays voisins",
+    "rubrique": "International",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/15/guerre-en-ukraine-washington-bride-son-soutien-a-kiev-en-pleine-campagne-de-frappes-russes-sur-les-infrastructures-energetiques_6794070_3210.html",
+    "title": "Guerre en Ukraine : Washington réduit son soutien à Kiev sous pression russe",
+    "rubrique": "International",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/15/navanethem-pillay-prix-nobel-de-la-paix-sur-gaza-on-nous-a-accuses-d-antisemitisme-et-de-partialite-mais-je-sais-ce-qui-est-constitutif-du-crime-de-genocide_6794072_3212.html",
+    "title": "Navanethem Pillay, Prix Nobel de la paix, dénonce le « génocide » à Gaza",
+    "rubrique": "International",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/15/pour-donald-trump-et-elon-musk-de-grandes-retrouvailles-sur-les-fronts-de-la-politique-interieure-et-de-l-ukraine_6794034_3210.html",
+    "title": "Retrouvailles tendues entre Donald Trump et Elon Musk sur les dossiers géopolitiques",
+    "rubrique": "International",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/15/le-japon-dement-toute-activite-d-espionnage-apres-l-arrestation-d-un-journaliste-nippon-en-russie_6794080_3210.html",
+    "title": "Journaliste japonais arrêté en Russie : Tokyo dément toute implication d’espionnage",
+    "rubrique": "International",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2353347-x-files-cette-fois-cest-la-bonne-le-reboot-est-lance-et-a-trouve-sa-plateforme.html",
+    "title": "Reboot de X-Files : Hulu commande la première saison complète",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2353153-jai-teste-la-conduite-autonome-de-xpeng-dans-paris-aussi-bon-que-le-tesla-fsd.html",
+    "title": "Test de la conduite autonome XPeng à Paris : aussi performante que Tesla FSD ?",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2353327-on-navait-pas-cette-culture-de-la-securite-michel-edouard-leclerc-patauge-en-direct-apres-le-piratage-des-frigos-des-supermarches.html",
+    "title": "Cyberattaque sur les supermarchés E.Leclerc : Michel-Édouard Leclerc reconnaît des failles de sécurité",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.numerama.com/politique/2353269-starlink-bride-en-ukraine-un-ministre-polonais-tance-elon-musk-mon-grand-tu-fais-encore-de-la-politique-avec-tes-produits.html",
+    "title": "Starlink bridé en Ukraine : un ministre polonais critique Elon Musk",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2353121-on-a-vu-visionquest-la-vision-de-la-serie-marvel-est-bancale-critique-sans-spoilers.html",
+    "title": "VisionQuest : critique de la série Marvel jugée bancale",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-15"
   }
 ]

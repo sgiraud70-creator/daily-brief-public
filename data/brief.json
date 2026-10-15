@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 14 octobre 2026",
+  "date_str": "Jeudi 15 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Calixte et Céleste",
+          "title": "Aujourd'hui, on souhaite la fête : Thérèse, Aurélie et Sévère",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/14/10/2026/14-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/15/10/2026/15-Octobre-2026.html"
             }
           ]
         }
@@ -22,72 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Budget 2027 : objectif de déficit inférieur à 3 % du PIB maintenu malgré un déficit à 5,4 % en 2026",
+          "title": "Assemblée nationale : validation du prélèvement de 30,9 milliards d’euros pour l’UE malgré l’opposition du RN et de LFI",
           "bullets": [
-            "Le gouvernement vise un déficit de 2,8 % du PIB pour 2027, contre 5,4 % en 2026.",
-            "Sébastien Lecornu insiste sur la nécessité de respecter les engagements européens.",
-            "Les débats à l'Assemblée nationale ont débuté avec 3 863 amendements en discussion."
+            "Adoption mercredi de l’article prévoyant un prélèvement de 30,9 milliards d’euros pour financer le budget européen.",
+            "Opposition frontale du Rassemblement National (RN) et de La France Insoumise (LFI) contre cette contribution.",
+            "Marine Le Pen isolée à Bruxelles après avoir menacé l’Europe d’un « bras de fer » sur les contributions nationales.",
+            "Le gouvernement maintient le financement malgré les tensions politiques croissantes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html"
             }
           ]
         },
         {
-          "title": "Loi intégrale contre les violences sexuelles adoptée à l'Assemblée : avancée saluée par les associations féministes",
+          "title": "Retraites complémentaires : hausse de 1,4 % après un an de gel, mais les syndicats restent divisés",
           "bullets": [
-            "La loi élargit la définition des violences sexuelles et renforce les protections juridiques.",
-            "Les associations féministes saluent une « avancée incroyable » mais pointent des lacunes (femmes sans papiers, moyens insuffisants).",
-            "Adoption après des mois de débats et de mobilisations."
+            "Augmentation de 1,4 % des retraites complémentaires après une année de gel.",
+            "Le gouvernement envisage des économies supplémentaires sur les pensions, ce qui divise les syndicats.",
+            "Les partenaires sociaux n’ont pas trouvé un accord unanime sur cette mesure.",
+            "Les débats sur la réforme des retraites persistent malgré cette hausse."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/13/adoption-a-l-assemblee-de-la-loi-integrale-contre-les-violences-sexuelles-les-associations-feministes-saluent-une-avancee-incroyable_6793173_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/14/retraites-complementaires-1-4-de-hausse-apres-un-an-de-gel-les-syndicats-divises_6793795_823448.html"
             }
           ]
         },
         {
-          "title": "Présidentielle 2027 : LFI mise sur la mobilisation lycéenne pour séduire les jeunes",
+          "title": "Pierre Coppey nommé contrôleur général des lieux de privation de liberté",
           "bullets": [
-            "Jean-Luc Mélenchon se présente comme l'« incarnation politique » de la mobilisation lycéenne.",
-            "Stratégie de long terme pour capter l’électorat jeune, notamment via les réseaux sociaux.",
-            "Le mouvement lycéen reste un enjeu clé pour la campagne présidentielle."
+            "Pierre Coppey, ancien président de Vinci Autoroutes, nommé par Emmanuel Macron à ce poste stratégique.",
+            "Il succède à Dominique Simonnot et préside également l’association Aurore, dédiée à l’accompagnement des personnes en précarité.",
+            "Ce choix suscite des interrogations sur l’équilibre entre expertise privée et mission publique.",
+            "La fonction vise à renforcer la transparence et les droits des détenus."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-pour-jean-luc-melenchon-le-soutien-au-mouvement-lyceen-consacre-le-pari-de-lfi-sur-la-jeunesse_6793352_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/14/pierre-coppey-ancien-president-de-vinci-autoroutes-choisi-comme-nouveau-controleur-general-des-lieux-de-privation-de-liberte-par-emmanuel-macron_6793777_3224.html"
             }
           ]
         },
         {
-          "title": "ARCOM envisage des régulations pour les podcasts politiques influents avant la présidentielle 2027",
+          "title": "Hôtellerie-restauration : secteur pointé du doigt pour sa fraude fiscale massive",
           "bullets": [
-            "L’Autorité de régulation de la communication audiovisuelle (ARCOM) étudie des mécanismes pour encadrer les podcasts politiques.",
-            "Ciblage des créateurs comme Gaspard G., Guillaume Pley ou Sam Zirah, très actifs dans l’interview des candidats.",
-            "Objectif : limiter la désinformation et garantir un débat équilibré."
+            "Selon Bercy, l’hébergement et la restauration sont les secteurs les plus touchés par la sous-déclaration de bénéfices.",
+            "Une étude du ministère de l’Économie révèle des pratiques frauduleuses généralisées.",
+            "Les contrôles fiscaux pourraient se renforcer dans ce secteur.",
+            "Les professionnels du secteur sont appelés à se conformer aux obligations légales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/14/l-hotellerie-restauration-championne-de-la-fraude-fiscale-selon-bercy_6793761_823448.html"
             }
           ]
         },
         {
-          "title": "RN et gouvernement s’allient pour repousser la motion de rejet du PS sur le budget 2027",
+          "title": "Pompiers professionnels : grève reconduite jusqu’au 4 décembre sans réponse gouvernementale",
           "bullets": [
-            "Le Rassemblement National (RN) soutient le gouvernement contre la motion de rejet portée par le Parti Socialiste (PS).",
-            "Débats houleux sur la gestion de la dette et les recettes fiscales.",
-            "Stratégie politique pour affaiblir l’opposition et renforcer la majorité."
+            "Les pompiers professionnels maintiennent leur grève jusqu’au 4 décembre.",
+            "L’intersyndicale dénonce l’absence de réponse aux revendications, notamment sur les moyens humains et matériels.",
+            "Les services d’urgence pourraient être affectés par cette mobilisation prolongée.",
+            "Le gouvernement n’a pas encore engagé de dialogue constructif avec les syndicats."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html"
             }
           ]
         }
@@ -97,72 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Équateur : pêcheurs victimes collatérales des frappes américaines contre les narcotrafiquants",
+          "title": "Incendies en Indonésie : brouillard toxique étendu à plusieurs pays voisins",
           "bullets": [
-            "Les États-Unis ciblent des palangriers au large de l’Équateur sous prétexte de lutte contre les « narcoterroristes ».",
-            "Huit pêcheurs ont perdu leur embarcation, leur gagne-pain, dans ces frappes.",
-            "Critiques internationales sur les conséquences humanitaires de ces opérations."
+            "Des millions d’habitants en Indonésie et dans les pays voisins subissent un brouillard toxique dû aux incendies.",
+            "Ces feux, attisés par El Niño, sont largement d’origine humaine et persistent depuis des mois.",
+            "Les conséquences sanitaires et environnementales sont graves, avec des alertes à la pollution de l’air.",
+            "Les autorités locales et internationales appellent à une action urgente pour éteindre les feux."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/14/en-equateur-les-pecheurs-victimes-collaterales-des-bombes-americaines-cette-barque-c-etait-l-heritage-de-mon-pere-notre-gagne-pain-qu-est-ce-que-je-vais-faire-maintenant_6793387_3210.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html"
             }
           ]
         },
         {
-          "title": "Italie : Giorgia Meloni lance une initiative pour lutter contre les deepfakes via sa voix",
+          "title": "Guerre en Ukraine : Washington réduit son soutien à Kiev sous pression russe",
           "bullets": [
-            "La présidente du conseil italien veut utiliser sa voix comme marque pour détecter les deepfakes.",
-            "Objectif : protéger les personnalités politiques contre les montages audio et vidéo.",
-            "Stratégie innovante pour contrer la désinformation en ligne."
+            "Volodymyr Zelensky accuse les États-Unis de trahir l’Ukraine en limitant les renseignements partagés et les livraisons d’armes.",
+            "Les frappes russes sur les infrastructures énergétiques ukrainiennes s’intensifient.",
+            "L’Ukraine craint une réduction de son soutien occidental en pleine campagne militaire.",
+            "Les tensions diplomatiques entre Washington et Kiev s’aggravent."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/14/en-italie-giorgia-meloni-veut-faire-de-sa-voix-une-marque-pour-lutter-contre-les-deepfakes_6793319_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/15/guerre-en-ukraine-washington-bride-son-soutien-a-kiev-en-pleine-campagne-de-frappes-russes-sur-les-infrastructures-energetiques_6794070_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : perquisition de la maison de l’élue démocrate Ilhan Omar",
+          "title": "Navanethem Pillay, Prix Nobel de la paix, dénonce le « génocide » à Gaza",
           "bullets": [
-            "La représentante du Minnesota au Congrès a fait l’objet d’une perquisition le 12 octobre.",
-            "L’administration Trump est suspectée de cibler les élus critiques envers sa politique.",
-            "Mobilisation des démocrates pour dénoncer une atteinte aux libertés."
+            "La juriste sud-africaine et ancienne présidente de la Commission d’enquête sur Gaza qualifie les actions israéliennes de « génocide ».",
+            "Elle dénonce les accusations d’antisémitisme et de partialité contre les experts internationaux.",
+            "Pillay souligne la nécessité d’une enquête indépendante et impartiale sur les crimes commis.",
+            "Son témoignage renforce les débats sur la responsabilité internationale face à la crise humanitaire à Gaza."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/15/navanethem-pillay-prix-nobel-de-la-paix-sur-gaza-on-nous-a-accuses-d-antisemitisme-et-de-partialite-mais-je-sais-ce-qui-est-constitutif-du-crime-de-genocide_6794072_3212.html"
             }
           ]
         },
         {
-          "title": "Angleterre : rémunération des agriculteurs pour des pratiques écologiques",
+          "title": "Retrouvailles tendues entre Donald Trump et Elon Musk sur les dossiers géopolitiques",
           "bullets": [
-            "Depuis le Brexit, l’Angleterre remplace les aides directes par des subsides liés à la préservation de la nature.",
-            "Les agriculteurs sont payés pour des pratiques durables comme la biodiversité ou la réduction des pesticides.",
-            "Modèle économique pour concilier agriculture et environnement."
+            "Après une brouille en 2025, Donald Trump et Elon Musk affichent une nouvelle complicité politique.",
+            "Musk soutient Trump sur des sujets comme la politique intérieure américaine et le soutien à l’Ukraine.",
+            "Les relations entre les deux hommes influencent les stratégies technologiques et diplomatiques des États-Unis.",
+            "Les critiques sur l’ingérence de Musk dans les affaires géopolitiques persistent."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/15/pour-donald-trump-et-elon-musk-de-grandes-retrouvailles-sur-les-fronts-de-la-politique-interieure-et-de-l-ukraine_6794034_3210.html"
             }
           ]
         },
         {
-          "title": "Documentaire israélien « Naza » révèle les méthodes controversées de l’armée à Gaza",
+          "title": "Journaliste japonais arrêté en Russie : Tokyo dément toute implication d’espionnage",
           "bullets": [
-            "Primé à la Mostra de Venise, le documentaire aborde les « dommages collatéraux » subis à Gaza.",
-            "Analyse des stratégies militaires et de leurs conséquences humanitaires.",
-            "Débats internationaux sur la guerre et les responsabilités."
+            "Yuki Imai, journaliste du Hokkaido Shimbun, est arrêté en Russie sous des accusations d’espionnage.",
+            "Le Japon nie toute implication et affirme qu’il s’agit d’une erreur ou d’une manipulation politique.",
+            "La Russie maintient ses accusations, ce qui complique les relations diplomatiques entre les deux pays.",
+            "La communauté internationale suit de près cette affaire pour éviter une escalade."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/10/14/enquetes-et-documentaire-choc-ce-qu-on-sait-des-methodes-de-l-armee-israelienne-a-gaza_6793316_5463015.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/15/le-japon-dement-toute-activite-d-espionnage-apres-l-arrestation-d-un-journaliste-nippon-en-russie_6794080_3210.html"
             }
           ]
         }
@@ -170,94 +180,86 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Mobilisation lycéenne en Franche-Comté : 1 100 manifestants à Besançon et 125 à Vesoul",
-          "bullets": [
-            "Journée de mobilisation pacifique pour les lycéens en Franche-Comté.",
-            "1 100 participants à Besançon et 125 à Vesoul, sans incident signalé.",
-            "Débats sur les conditions de vie et les réformes éducatives."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Département de la Haute-Saône : 1 million d’euros pour soutenir financièrement les Ehpad",
-          "bullets": [
-            "Le conseil départemental alloue un million d’euros pour renforcer les Ehpad locaux.",
-            "Mesure visant à améliorer les conditions de vie et les moyens des établissements.",
-            "Réponse aux défis démographiques et économiques du territoire."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Google lance Gemini 4 Argon pour rivaliser avec OpenAI et Anthropic",
+          "title": "Reboot de X-Files : Hulu commande la première saison complète",
           "bullets": [
-            "Déploiement mondial de Gemini 4 Argon, modèle d’IA haut de gamme.",
-            "Objectif : concurrencer les modèles de OpenAI et Anthropic en termes de performance.",
-            "Intégration dans divers services pour améliorer les capacités d’IA de Google."
+            "Hulu a officiellement commandé la première saison complète du reboot de X-Files.",
+            "Le projet, attendu depuis plusieurs années, devrait revenir aux sources de la série originale.",
+            "Une plateforme dédiée a été choisie pour diffuser cette nouvelle série.",
+            "Les fans espèrent un retour aux mystères et enjeux paranormaux emblématiques."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html"
+              "url": "https://www.numerama.com/pop-culture/2353347-x-files-cette-fois-cest-la-bonne-le-reboot-est-lance-et-a-trouve-sa-plateforme.html"
             }
           ]
         },
         {
-          "title": "Citroën révèle la 2 CV Fourgonnette au Mondial de l’Auto",
+          "title": "Test de la conduite autonome XPeng à Paris : aussi performante que Tesla FSD ?",
           "bullets": [
-            "Présentation surprise d’une version fourgonnette du 2 CV au Mondial de l’Auto.",
-            "Retour aux racines du véhicule emblématique avec une touche moderne.",
-            "Stratégie pour séduire un public plus large et relancer les ventes."
+            "XPeng a testé son système de conduite autonome NGP dans les rues de Paris lors du Mondial de l’Auto 2026.",
+            "Numerama a pu évaluer les performances de ce système en comparaison avec Tesla FSD.",
+            "Les résultats montrent une conduite autonome prometteuse, mais des défis persistent en milieu urbain dense.",
+            "XPeng mise sur l’innovation technologique pour rivaliser avec les géants du secteur."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html"
+              "url": "https://www.numerama.com/vroom/2353153-jai-teste-la-conduite-autonome-de-xpeng-dans-paris-aussi-bon-que-le-tesla-fsd.html"
             }
           ]
         },
         {
-          "title": "Airbus teste le drone de combat Valkyrie en Europe",
+          "title": "Cyberattaque sur les supermarchés E.Leclerc : Michel-Édouard Leclerc reconnaît des failles de sécurité",
           "bullets": [
-            "Premier vol en Europe du drone de combat Valkyrie, développé par Airbus et Kratos.",
-            "L’Allemagne pourrait l’utiliser dès 2027 pour ses besoins militaires.",
-            "Test du « cerveau » souverain pour l’autonomie opérationnelle."
+            "Une cyberattaque a visé les systèmes de froid des supermarchés E.Leclerc, perturbant les stocks et les ventes.",
+            "Michel-Édouard Leclerc a reconnu des lacunes en matière de sécurité informatique lors d’une intervention médiatique.",
+            "Les conséquences de cette attaque soulèvent des questions sur la résilience des infrastructures critiques.",
+            "Les enseignes sont appelées à renforcer leurs systèmes de protection contre les cybermenaces."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html"
+              "url": "https://www.numerama.com/cyberguerre/2353327-on-navait-pas-cette-culture-de-la-securite-michel-edouard-leclerc-patauge-en-direct-apres-le-piratage-des-frigos-des-supermarches.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "Samsara lance Agent Studio pour automatiser les processus avec l’IA",
-          "bullets": [
-            "Nouveau logiciel pour développer des automatisations basées sur l’intelligence artificielle.",
-            "Outils pour les entreprises afin d’optimiser leurs workflows et réduire les tâches manuelles.",
-            "Intégration de l’IA pour une automatisation plus intelligente et adaptative."
-          ],
-          "sources": []
         },
         {
-          "title": "Onventis intègre Kaunt AI pour automatiser les comptes fournisseurs",
+          "title": "Starlink bridé en Ukraine : un ministre polonais critique Elon Musk",
           "bullets": [
-            "Partenariat avec Kaunt AI pour automatiser les processus comptables et financiers.",
-            "Solution souveraine pour les entreprises afin de gagner en efficacité et réduire les erreurs.",
-            "Réduction des coûts et optimisation des flux de travail."
+            "SpaceX a limité la vitesse des terminaux Starlink en Ukraine à 160 km/h, ce qui affecte les communications militaires.",
+            "Radosław Sikorski, ministre polonais des Affaires étrangères, a critiqué cette décision, qualifiant Musk de « faire de la politique avec ses produits ».",
+            "Cette restriction a suscité des tensions entre les alliés occidentaux et l’Ukraine.",
+            "Les conséquences sur la guerre en cours restent à évaluer."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/politique/2353269-starlink-bride-en-ukraine-un-ministre-polonais-tance-elon-musk-mon-grand-tu-fais-encore-de-la-politique-avec-tes-produits.html"
+            }
+          ]
+        },
+        {
+          "title": "VisionQuest : critique de la série Marvel jugée bancale",
+          "bullets": [
+            "La série Marvel VisionQuest a été critiquée pour son manque de cohérence narrative et visuelle.",
+            "Malgré un univers riche et des personnages emblématiques, la production peine à captiver le public.",
+            "Les fans et la presse soulignent des problèmes de rythme et de développement des intrigues.",
+            "Cette série s’inscrit dans une série de productions Marvel jugées inégales ces dernières années."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2353121-on-a-vu-visionquest-la-vision-de-la-serie-marvel-est-bancale-critique-sans-spoilers.html"
+            }
+          ]
         }
       ]
     },
@@ -265,48 +267,52 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Oxfam France menace d’attaquer l’État pour inéquité fiscale",
+          "title": "Arnaque fiscale : un contribuable toulousain victime d’un faux courrier administratif",
           "bullets": [
-            "Oxfam dénonce l’insuffisance de la contribution des plus riches aux impôts.",
-            "Menace de recours juridique pour faire évoluer la fiscalité vers plus d’équité.",
-            "Pétition et mobilisation pour une réforme fiscale plus juste."
+            "Un contribuable toulousain a été victime d’une arnaque via un faux courrier de l’administration fiscale.",
+            "Le courrier, bien monté, lui a demandé de régulariser une situation inexistante sous peine de sanctions.",
+            "Les autorités fiscales alertent sur les risques de ces fraudes et conseillent de vérifier systématiquement l’authenticité des documents.",
+            "Les victimes sont invitées à signaler ces tentatives d’escroquerie."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque bancaire au faux coursier dans le Biterrois : comment se protéger",
+          "title": "Contre-budget de Mélenchon : 100 milliards d’euros supplémentaires et un plan de relance ambitieux",
           "bullets": [
-            "Nouvelle arnaque consistant à se faire passer pour un coursier bancaire.",
-            "Conseils pour éviter les pièges et signaler les tentatives de fraude.",
-            "Sensibilisation des usagers aux méthodes de phishing et de fraude."
+            "Jean-Luc Mélenchon propose un contre-budget prévoyant 100 milliards d’euros supplémentaires pour financer des mesures sociales et écologiques.",
+            "Son plan inclut une hausse des impôts sur les plus riches et les grandes entreprises.",
+            "Ce projet vise à relancer l’économie et à réduire les inégalités.",
+            "Les débats sur ce contre-budget s’inscrivent dans le cadre de la préparation des élections présidentielles."
           ],
           "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "AMinsider, le podcast sur la fabrication additive, rejoint 3Dnatives",
-          "bullets": [
-            "Intégration du podcast AMinsider dans l’écosystème 3Dnatives.",
-            "Nouvelle perspective sur les innovations et tendances de la fabrication additive.",
-            "Contenu enrichi pour les professionnels et passionnés."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/aminsider-podcast-fabrication-additive-13102026/"
-            }
-          ]
         },
         {
-          "title": "Une nouvelle vie pour les déchets de l’impression 3D grâce à une équipe de l’Université de Montréal",
+          "title": "Arnaque aux faux éboueurs : attention aux démarchages frauduleux dans le Lochois",
           "bullets": [
-            "Recherche visant à recycler les déchets d’impression 3D en matériaux utiles.",
-            "Collaboration entre scientifiques pour développer des solutions durables.",
-            "Réduction des déchets et valorisation des ressources."
+            "Une nouvelle arnaque aux faux éboueurs sévit dans le Lochois, où des individus se font passer pour des agents municipaux.",
+            "Les victimes sont invitées à payer des amendes fictives pour des infractions non commises.",
+            "Les autorités locales alertent sur cette escroquerie et conseillent de vérifier l’identité des personnes avant toute transaction.",
+            "Les plaintes sont encouragées pour lutter contre ce type de fraude."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque au faux coursier bancaire : 10 000 € subtilisés en Indre-et-Loire",
+          "bullets": [
+            "Des malfaiteurs se faisant passer pour des coursiers bancaires ont subtilisé près de 10 000 € en Indre-et-Loire.",
+            "Les victimes ont cru à une livraison de fonds et ont remis l’argent sans vérification.",
+            "Les autorités appellent à la vigilance et conseillent de toujours vérifier l’identité des personnes avant toute transaction financière.",
+            "Les plaintes sont essentielles pour identifier et arrêter les auteurs de ces fraudes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Suppression progressive des paiements d’impôts par chèque dans le Lot",
+          "bullets": [
+            "Les paiements d’impôts par chèque vont être progressivement supprimés dans le Lot.",
+            "Cette mesure vise à moderniser les procédures de paiement et à lutter contre la fraude fiscale.",
+            "Les contribuables sont invités à utiliser les nouveaux canaux de paiement en ligne ou par prélèvement automatique.",
+            "Les détails pratiques de cette transition seront communiqués prochainement."
           ],
           "sources": []
         }
@@ -316,20 +322,52 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Handball : le HBC Nantes affronte son premier test en Ligue des champions",
+          "title": "Championnats du monde de cyclisme sur piste : jour 2 en direct",
           "bullets": [
-            "Premier match crucial pour le HBC Nantes en Ligue des champions.",
-            "Enjeu de qualification pour les phases suivantes et de performance en Europe.",
-            "Dynamique de l’équipe sous la direction de Tony Parker."
+            "Les Championnats du monde de cyclisme sur piste 2026 se poursuivent avec des épreuves intenses.",
+            "Les athlètes s’affrontent sur des disciplines variées comme le keirin, la vitesse et le kilomètre.",
+            "Les performances et les surprises sont au rendez-vous lors de cette compétition majeure.",
+            "Suivez les résultats en direct sur les plateformes dédiées."
           ],
           "sources": []
         },
         {
-          "title": "Asvel Lyon-Villeurbanne éliminé en Euroligue par l’Étoile Rouge Belgrade au buzzer",
+          "title": "Incident sur le parcours de l’Eneco Tour : une voiture s’introduit après le geste de protestation du Tour de Lombardie",
           "bullets": [
-            "Victoire serrée de l’Étoile Rouge Belgrade contre l’Asvel au buzzer final.",
-            "Défaite cruciale pour l’Asvel en Euroligue, entraînant des conséquences sur la saison.",
-            "Analyse des performances et des stratégies de l’équipe lyonnaise."
+            "Quatre jours après le geste de protestation des coureurs sur le Tour de Lombardie, une voiture s’est introduite sur le parcours de l’Eneco Tour aux Pays-Bas.",
+            "Cet incident rappelle les tensions persistantes dans le cyclisme professionnel.",
+            "Les organisateurs et les autorités renforcent la sécurité pour éviter de nouveaux incidents.",
+            "Les coureurs et les spectateurs sont appelés à rester vigilants."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Paris en Euroligue : défaite à domicile contre un adversaire européen",
+          "bullets": [
+            "L’équipe de basket de Paris a subi une nouvelle défaite à domicile lors d’un match d’Euroligue.",
+            "Malgré une bonne performance, l’équipe n’a pas réussi à inverser le cours du match.",
+            "Les supporters espèrent une remontée en forme pour les prochains matchs.",
+            "Les défis tactiques et physiques restent importants pour cette saison."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Handball : choc au sommet entre l’ESBF Besançon et Metz en direct",
+          "bullets": [
+            "Le match de handball entre l’ESBF Besançon et Metz est un rendez-vous majeur de la saison.",
+            "Les deux équipes, leaders de leurs championnats respectifs, s’affrontent pour le titre.",
+            "Les supporters sont invités à suivre la rencontre en direct pour vivre l’intensité du match.",
+            "Les enjeux sportifs et les performances individuelles seront déterminants."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Tennis : Aryna Sabalenka et Jessica Pegula éliminées dès leur entrée en lice à Wuhan",
+          "bullets": [
+            "Aryna Sabalenka et Jessica Pegula, deux têtes de série, ont été éliminées dès leur premier match au tournoi de Wuhan.",
+            "Cette surprise a marqué le début du tournoi et a suscité des réactions parmi les fans et les observateurs.",
+            "Les autres joueuses devront maintenant se concentrer sur les matchs à venir.",
+            "Le tournoi de Wuhan promet des affrontements intenses et imprévisibles."
           ],
           "sources": []
         }
@@ -363,13 +401,16 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à l'extérieur contre Manchester City",
+          "title": "Prochain match : le PSG à l'extérieur contre RC Strasbourg",
           "bullets": [
-            "Adversaire : Manchester City (à l'extérieur)",
-            "Date : mercredi 14 octobre à 21h00 (heure de Paris)",
-            "Diffusion : Canal+",
+            "Adversaire : RC Strasbourg (à l'extérieur)",
+            "Compétition : Ligue 1",
+            "Date : samedi 17 octobre à 17h15 (heure de Paris)",
+            "Diffusion : Ligue 1+",
             "Classement : 6e de Ligue 1 — 11 pts en 6 matchs",
-            "Ligue des champions : 1er de la phase de ligue (3 pts)"
+            "Ligue des champions : 1er de la phase de ligue (3 pts)",
+            "Adversaire au classement : 11e de Ligue 1 (7 pts)",
+            "RC Lens — Stade : Stade Bollaert-Delelis · Capacité : 38 223 places · Entraîneur : Yannick Cahuzac"
           ],
           "sources": [
             {
