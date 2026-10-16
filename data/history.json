@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
-    "title": "Rassemblement National : Marine Le Pen propose une taxe de 1 000 € pour embaucher un travailleur extra-européen",
-    "rubrique": "France",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/08/la-gouvernance-nebuleuse-de-paris-ou-le-pouvoir-se-dilue-entre-le-maire-ses-adjoints-et-l-administration_6789927_3232.html",
-    "title": "Gouvernance parisienne : crise de pouvoir entre le maire et ses adjoints après un scandale de violences sur mineurs",
-    "rubrique": "France",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/video/2026/10/07/les-premieres-decisions-du-gouvernement-en-reponse-aux-revendications-des-lyceens-seront-presentees-a-la-fin-du-mois-d-octobre-annonce-sebastien-lecornu_6789652_823448.html",
-    "title": "Sébastien Lecornu annonce des mesures pour les lycéens d’ici la fin octobre",
-    "rubrique": "France",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/07/les-affections-longue-duree-ont-coute-pres-de-20-milliards-d-euros-a-l-assurance-maladie-en-2025_6789647_3224.html",
-    "title": "Dépenses de santé : les affections longues durée coûtent près de 20 milliards d’euros à l’Assurance-maladie en 2025",
-    "rubrique": "France",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/07/carburants-sebastien-lecornu-annonce-que-dix-millions-de-barils-de-gazole-seront-mis-a-la-disposition-des-distributeurs-et-espere-une-baisse-des-prix-comprise-entre-12-a-18-centimes-le-litre-a-la-pompe_6789646_3234.html",
-    "title": "Carburants : baisse des prix espérée grâce à 10 millions de barils de gazole mis à disposition",
-    "rubrique": "France",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/08/mehmet-sahan-un-francais-attaque-par-son-ex-employeur-thales-croupit-dans-l-enfer-des-prisons-azerbaidjanaises-depuis-2022_6789932_4355770.html",
-    "title": "Azerbaïdjan : un Français, Mehmet Sahan, emprisonné depuis 2022, dénonce des conditions de détention inhumaines",
-    "rubrique": "International",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/08/finale-de-la-can-2025-le-tribunal-arbitral-du-sport-appele-a-trancher-entre-le-maroc-et-le-senegal_6789931_3212.html",
-    "title": "CAN 2025 : le Tribunal arbitral du sport (TAS) doit trancher le conflit entre le Maroc et le Sénégal pour la finale",
-    "rubrique": "International",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/08/l-arabie-saoudite-deplore-trois-morts-dans-des-attaques-houthistes-contre-des-aeroports_6789723_3210.html",
-    "title": "Arabie saoudite : trois morts dans des attaques houthistes contre des aéroports",
-    "rubrique": "International",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
-    "title": "Ukraine : frappe russe cause au moins 28 morts, dont cinq enfants, à Prylouky",
-    "rubrique": "International",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/08/en-egypte-les-six-journalistes-du-media-d-investigation-matsadaash-inculpes-d-infractions-liees-au-terrorisme_6789789_3212.html",
-    "title": "Égypte : six journalistes du média d’investigation « Mastadaash » inculpés pour infractions liées au terrorisme",
-    "rubrique": "International",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2348527-synthid-detector-google-lance-un-outil-pour-reperer-les-contenus-generes-par-ia.html",
-    "title": "Google lance SynthID Detector pour repérer les contenus générés par IA",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2348687-bmw-devoile-lix4-le-clone-profile-de-lix3-promet-jusqua-828-km-dautonomie.html",
-    "title": "BMW dévoile l’iX4 : un SUV électrique avec une autonomie jusqu’à 828 km",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2348767-cyber-for-good-lance-lacademy-six-webinaires-gratuits-pour-aider-les-associations-a-mieux-se-proteger.html",
-    "title": "Cyber for Good lance l’Academy : six webinaires gratuits pour sécuriser les associations",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2348765-les-arnaques-aux-cartes-pokemon-se-multiplient-avec-58-fausses-boutiques-recensees-en-quelques-semaines.html",
-    "title": "Arnaques aux cartes Pokémon : 58 boutiques frauduleuses recensées en quelques semaines",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2348685-comment-des-hackers-ont-pu-se-faire-passer-pour-google-en-piratant-trois-extensions-nationales.html",
-    "title": "Hackers piratent trois extensions nationales pour se faire passer pour Google",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.3dnatives.com/scrap-labs-impression-3d-metal-08102026/",
-    "title": "Scrap Labs réduit l’impression 3D métal au format de bureau",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.3dnatives.com/alexis-aubert-champion-worldskills-071020263/",
-    "title": "Alexis Aubert, 21 ans, sacré champion du monde en fabrication additive",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-08"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-genocide-a-gaza-ce-mot-qui-cree-une-fracture-entre-les-candidats_6790502_823448.html",
     "title": "Primaire de la gauche : fracture sur le terme « génocide » à Gaza divise les candidats",
     "rubrique": "France",
@@ -718,5 +616,83 @@
     "title": "VisionQuest : critique de la série Marvel jugée bancale",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html",
+    "title": "Pouvoir d’achat : stagnation des salaires et inflation persistante",
+    "rubrique": "France",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html",
+    "title": "Violences périscolaires : rapport sénatorial et mesures d’urgence",
+    "rubrique": "France",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
+    "title": "Réforme de l’évaluation environnementale : accélération des projets",
+    "rubrique": "France",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/15/budget-de-la-securite-sociale-les-deputes-rejettent-en-commission-la-partie-recettes-du-texte_6794693_823448.html",
+    "title": "Budget de la Sécurité sociale : rejet des recettes en commission",
+    "rubrique": "France",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
+    "title": "Groenland : interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
+    "rubrique": "International",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
+    "title": "Népal : vallée dévastée par le « tsunami des montagnes »",
+    "rubrique": "International",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/16/en-ethiopie-la-fete-ancestrale-d-irreecha-connait-un-regain-de-popularite-apres-des-decennies-de-repression_6795103_3212.html",
+    "title": "Ethiopie : fête ancestrale d’Irreecha après des décennies de répression",
+    "rubrique": "International",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
+    "title": "Crise énergétique européenne : blocages sur les carburants",
+    "rubrique": "International",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/16/a-bruxelles-frictions-entre-les-vingt-sept-pour-donner-un-budget-a-l-europe-avant-une-annee-2027-aux-echeances-electorales-risquees_6795066_3210.html",
+    "title": "Budget européen 2027 : tensions entre États membres",
+    "rubrique": "International",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2353449-tesla-roadster-comment-suivre-la-presentation-de-la-nouvelle-voiture-electrique.html",
+    "title": "Tesla Roadster : accélération record et capacité de vol",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2353875-a-24-heures-pres-gta-6-pourra-participer-in-extremis-pour-les-game-awards-2026.html",
+    "title": "GTA 6 : participation in extremis aux Game Awards 2026",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2354109-a-2-200-c-en-rentree-terrestre-le-bouclier-dorion-separait-les-astronautes-dartemis-ii-de-la-desintegration-il-na-eu-que-9-zones-abimees-contre-103-lors-dartemis-i.html",
+    "title": "Bouclier thermique d’Orion : résistance exceptionnelle lors d’Artémis II",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.3dnatives.com/formlabs-form-studio-1-imprimante-3d-resine-151020263/",
+    "title": "Formlabs lance la Form Studio 1 à 699 $",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-16"
   }
 ]
