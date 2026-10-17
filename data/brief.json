@@ -1,5 +1,5 @@
 {
-  "date_str": "Vendredi 16 octobre 2026",
+  "date_str": "Samedi 17 octobre 2026",
   "audio_minutes": 11,
   "read_minutes": 7,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Hedwige, Marguerite, Marguerite Marie et Gaudéric",
+          "title": "Aujourd'hui, on souhaite la fête : Ignace et Baudouin",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/16/10/2026/16-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/17/10/2026/17-Octobre-2026.html"
             }
           ]
         }
@@ -22,62 +22,92 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Pouvoir d’achat : stagnation des salaires et inflation persistante",
+          "title": "Macron et la jeunesse : un fossé social qui se creuse",
           "bullets": [
-            "Les revenus des ménages français stagnent depuis 2022, malgré une légère reprise en 2024.",
-            "L’inflation reste un défi majeur, avec des prix à la consommation en hausse sur certains postes (énergie, alimentation).",
-            "Les Décodeurs du *Monde* analysent les données de l’INSEE et de la DGFiP pour éclairer cette tendance.",
-            "Les ménages modestes sont les plus touchés, avec une baisse réelle du pouvoir d’achat depuis 2020."
+            "Le président Emmanuel Macron est accusé d’avoir perdu le contact avec les jeunes générations depuis son arrivée au pouvoir.",
+            "Les critiques portent sur une politique jugée trop libérale économiquement et insuffisamment protectrice socialement.",
+            "Les associations et syndicats dénoncent un éloignement des priorités des jeunes (pouvoir d’achat, logement, écologie).",
+            "Ce clivage pourrait influencer les dynamiques électorales avant l’élection présidentielle de 2027."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html"
             }
           ]
         },
         {
-          "title": "Violences périscolaires : rapport sénatorial et mesures d’urgence",
+          "title": "Saisie record de stupéfiants par la Marine nationale dans les Caraïbes et l’Atlantique",
           "bullets": [
-            "La commission d’enquête sénatoriale dénonce un « déni collectif » face aux violences dans les écoles et périscolaires.",
-            "25 mesures proposées, incluant une meilleure formation des personnels et des sanctions renforcées.",
-            "Les auteurs de violences sont souvent des mineurs, mais les procédures judiciaires restent lentes.",
-            "Les associations de parents appellent à une mobilisation nationale pour protéger les enfants."
+            "Près de 8,6 tonnes de stupéfiants (dont 6,9 tonnes de cocaïne) ont été saisies lors d’opérations conjointes avec la Colombie.",
+            "Ces saisies visent à démanteler les réseaux de trafic transatlantique.",
+            "La Marine nationale a renforcé sa coopération avec les autorités locales et régionales.",
+            "Ces opérations s’inscrivent dans le cadre de la lutte contre le trafic de drogue en mer."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/16/pres-de-8-6-tonnes-de-stupefiants-saisis-par-la-marine-nationale-lors-de-plusieurs-operations-dans-les-caraibes-et-l-atlantique_6795641_3210.html"
             }
           ]
         },
         {
-          "title": "Réforme de l’évaluation environnementale : accélération des projets",
+          "title": "Blocages en Guadeloupe contre la vie chère : tensions persistantes",
           "bullets": [
-            "Mathieu Lefèvre annonce une réorganisation des autorités environnementales pour simplifier les procédures.",
-            "Objectif : réduire les délais d’instruction des projets d’infrastructures et d’aménagements.",
-            "Les associations écologistes craignent une dilution des exigences environnementales.",
-            "Cette réforme s’inscrit dans le cadre de la transition écologique et de la relance économique."
+            "Des manifestations et blocages ont paralysé l’archipel guadeloupéen depuis plusieurs jours.",
+            "Le collectif « Nou las palé » (Ne plus en avoir assez) rassemble syndicats, patrons et citoyens.",
+            "Les revendications portent sur le coût de la vie, les prix des produits de première nécessité et les services publics.",
+            "Les forces de l’ordre maintiennent un dispositif renforcé pour sécuriser les axes routiers."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html"
+              "url": "https://www.lemonde.fr/outre-mer/article/2026/10/16/en-guadeloupe-des-blocages-contre-la-vie-chere-et-des-heurts-perturbent-l-archipel-du-nord-au-sud_6795638_1840826.html"
             }
           ]
         },
         {
-          "title": "Budget de la Sécurité sociale : rejet des recettes en commission",
+          "title": "Budget 2027 : le collectif Alerte dénonce une aggravation des inégalités",
           "bullets": [
-            "Les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale.",
-            "Cette décision n’a pas d’impact immédiat, mais signe un désaccord sur les mesures fiscales proposées.",
-            "Les débats portent sur la hausse des cotisations et la redistribution des ressources.",
-            "Les syndicats de médecins et les associations de retraités dénoncent un manque de moyens."
+            "Le collectif Alerte critique le projet de budget 2027 pour son impact sur les plus précaires.",
+            "Les associations alertent sur des mesures jugées régressives pour les minima sociaux et les aides au logement.",
+            "Le gouvernement maintient son objectif de réduction du déficit, malgré les risques de précarisation accrue.",
+            "Les débats parlementaires sur le budget s’annoncent tendus."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/15/budget-de-la-securite-sociale-les-deputes-rejettent-en-commission-la-partie-recettes-du-texte_6794693_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/16/le-collectif-alerte-appelle-a-revoir-le-projet-de-budget-2027-qui-va-appauvrir-les-plus-pauvres_6795629_3224.html"
+            }
+          ]
+        },
+        {
+          "title": "Rejet du budget de la Sécurité sociale en commission : un mauvais signal pour le gouvernement",
+          "bullets": [
+            "Les députés ont rejeté en commission le projet de loi de finances de la Sécurité sociale pour 2027.",
+            "Ce rejet n’a pas de conséquence immédiate, car le texte sera débattu en séance plénière.",
+            "Les tensions persistent sur les équilibres financiers et les priorités de dépenses.",
+            "Le gouvernement devra négocier pour obtenir une adoption définitive."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/16/apres-le-budget-de-l-etat-les-deputes-rejettent-en-commission-celui-de-la-securite-sociale_6795575_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Le RN instrumentalise la question automobile pour séduire l’électorat populaire",
+          "bullets": [
+            "Le Rassemblement National (RN) met en avant la défense des automobilistes et du pouvoir d’achat.",
+            "Cette stratégie s’inscrit dans la continuité des mobilisations des « gilets jaunes ».",
+            "Le parti utilise des symboles forts comme la voiture pour se positionner en alternative aux partis traditionnels.",
+            "Cette approche pourrait renforcer son électorat en milieu rural et périurbain."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html"
             }
           ]
         }
@@ -87,77 +117,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Groenland : interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
+          "title": "En Ukraine, les services secrets gagnent en influence au détriment du pouvoir politique",
           "bullets": [
-            "Le territoire autonome danois vise à protéger ses écosystèmes marins sensibles.",
-            "Cette mesure s’inscrit dans le cadre de la Convention des Nations unies sur le droit de la mer.",
-            "Les entreprises minières critiquent une décision jugée trop restrictive pour leur secteur.",
-            "Le Groenland cherche à concilier développement économique et préservation environnementale."
+            "La guerre a renforcé le rôle des services de renseignement ukrainiens (SBU et autres).",
+            "Les rivalités entre agences menacent la cohésion des institutions et la transparence.",
+            "Le président Zelensky et le gouvernement peinent à contrôler ces structures.",
+            "Cette situation pourrait compliquer la reconstruction post-conflit."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/17/en-ukraine-le-poids-des-services-secrets-inquiete-le-pouvoir-politique_6795812_3210.html"
             }
           ]
         },
         {
-          "title": "Népal : vallée dévastée par le « tsunami des montagnes »",
+          "title": "Israël : le journal « Haaretz » résiste à la pression du gouvernement Nétanyahou",
           "bullets": [
-            "Un glissement de terrain géant a provoqué une crue dévastatrice dans la vallée de la Trishuli le 26 août.",
-            "Plus de 100 morts et des milliers de déplacés, avec des infrastructures détruites.",
-            "Les secours internationaux se mobilisent pour les secours et la reconstruction.",
-            "Le gouvernement népalais appelle à une coopération internationale pour faire face à la crise."
+            "Le quotidien progressiste « Haaretz » maintient son indépendance face aux attaques du gouvernement.",
+            "Benyamin Nétanyahou et ses alliés tentent de museler la presse critique.",
+            "Les journalistes dénoncent des pressions politiques et juridiques pour limiter la liberté d’expression.",
+            "Ce combat médiatique s’inscrit dans un contexte de polarisation politique en Israël."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html"
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/face-a-benyamin-netanyahou-le-combat-du-journal-haaretz-pour-son-independance-et-la-liberte-d-informer_6795775_4500055.html"
             }
           ]
         },
         {
-          "title": "Ethiopie : fête ancestrale d’Irreecha après des décennies de répression",
+          "title": "Succession à l’ONU : aucun candidat ne fait consensus parmi les membres permanents",
           "bullets": [
-            "La fête d’Irreecha, symbole de résistance du peuple oromo, est désormais encouragée par le gouvernement.",
-            "Cette célébration culturelle et religieuse était interdite sous les régimes précédents.",
-            "Les autorités cherchent à apaiser les tensions ethniques dans le pays.",
-            "La communauté internationale observe cette évolution avec prudence."
+            "Les sept candidats déclarés pour succéder à Antonio Guterres sont bloqués par les veto des grandes puissances.",
+            "La Chine, les États-Unis, la Russie, le Royaume-Uni et la France ont chacun utilisé leur droit de veto.",
+            "Cette situation pourrait retarder la désignation d’un nouveau secrétaire général.",
+            "Les négociations diplomatiques s’annoncent complexes et prolongées."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/16/en-ethiopie-la-fete-ancestrale-d-irreecha-connait-un-regain-de-popularite-apres-des-decennies-de-repression_6795103_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/17/prochain-secretaire-general-de-l-onu-aucun-candidat-ne-fait-consensus-pour-succeder-a-antonio-guterres_6795742_3210.html"
             }
           ]
         },
         {
-          "title": "Crise énergétique européenne : blocages sur les carburants",
+          "title": "Fusillade dans une école primaire de l’Oregon : un élève de 16 ans impliqué",
           "bullets": [
-            "Les États membres de l’UE peinent à s’accorder sur des mesures pour réduire les prix de l’énergie.",
-            "Les divisions portent sur les taxes et les subventions aux consommateurs.",
-            "Cette impasse menace la compétitivité économique de l’Europe.",
-            "Les citoyens subissent déjà une hausse des coûts de transport et de chauffage."
+            "Un adolescent de 16 ans a tué trois enfants et une enseignante avant d’être abattu par les forces de l’ordre.",
+            "L’auteur présumé était élève dans une classe spécialisée de l’école Silver Rail.",
+            "Les autorités enquêtent sur les motivations et les antécédents du tireur.",
+            "Cet événement relance le débat sur le contrôle des armes aux États-Unis."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html"
             }
           ]
         },
         {
-          "title": "Budget européen 2027 : tensions entre États membres",
+          "title": "Yémen : frappes houthistes près de l’aéroport d’Aden, l’Iran nie toute implication",
           "bullets": [
-            "Les négociations pour le budget de l’UE avant les élections de 2027 s’avèrent difficiles.",
-            "Les pays du Nord et du Sud divergent sur les priorités et les financements.",
-            "Les fonds structurels et la politique agricole commune (PAC) sont au cœur des débats.",
-            "Un accord avant fin 2026 semble compromis, retardant les investissements européens."
+            "Les rebelles houthistes ont frappé une zone proche de l’aéroport d’Aden, contrôlé par les forces gouvernementales.",
+            "L’Iran nie toute responsabilité, malgré les accusations de l’Arabie saoudite.",
+            "Ces attaques s’inscrivent dans un contexte de tensions régionales persistantes.",
+            "La communauté internationale surveille les risques d’escalade dans la région."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/16/a-bruxelles-frictions-entre-les-vingt-sept-pour-donner-un-budget-a-l-europe-avant-une-annee-2027-aux-echeances-electorales-risquees_6795066_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/17/au-yemen-des-frappes-houthistes-s-abattent-pres-de-l-aeroport-d-aden-l-iran-nie-tout-role-dans-les-attaques-visant-l-arabie-saoudite_6795708_3210.html"
             }
           ]
         }
@@ -169,145 +199,115 @@
       "note": "Rien de significatif à signaler ce matin."
     },
     {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Tesla Roadster : accélération record et capacité de vol",
-          "bullets": [
-            "Le nouveau Tesla Roadster bat tous les records d’accélération (0 à 100 km/h en 1,69 seconde).",
-            "La voiture électrique intègre des technologies de vol, bien que non homologuées.",
-            "La présentation officielle a suscité un engouement mondial pour ce modèle futuriste.",
-            "Les critiques soulignent les défis techniques et réglementaires pour une commercialisation."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2353449-tesla-roadster-comment-suivre-la-presentation-de-la-nouvelle-voiture-electrique.html"
-            }
-          ]
-        },
-        {
-          "title": "GTA 6 : participation in extremis aux Game Awards 2026",
-          "bullets": [
-            "Rockstar Games a ajusté la date de sortie de *GTA 6* pour respecter le délai des Game Awards.",
-            "Le jeu pourrait concourir dans la catégorie « Meilleur jeu de l’année » si sorti avant le 20 novembre.",
-            "Les fans attendent avec impatience les détails sur les innovations du jeu.",
-            "Les concurrents directs, comme *Cyberpunk 2077*, restent en lice pour les récompenses."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2353875-a-24-heures-pres-gta-6-pourra-participer-in-extremis-pour-les-game-awards-2026.html"
-            }
-          ]
-        },
-        {
-          "title": "Bouclier thermique d’Orion : résistance exceptionnelle lors d’Artémis II",
-          "bullets": [
-            "Seules 9 zones abîmées sur le bouclier thermique d’Orion après le retour de la mission *Artémis II*.",
-            "Comparaison avec *Artémis I*, où 103 zones étaient endommagées.",
-            "La NASA salue les améliorations technologiques pour protéger les astronautes.",
-            "Cette performance ouvre la voie aux futures missions lunaires habitées."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2354109-a-2-200-c-en-rentree-terrestre-le-bouclier-dorion-separait-les-astronautes-dartemis-ii-de-la-desintegration-il-na-eu-que-9-zones-abimees-contre-103-lors-dartemis-i.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Formlabs lance la Form Studio 1 à 699 $",
-          "bullets": [
-            "L’imprimante 3D résine Form Studio 1 est disponible à partir de 699 $ (639 €).",
-            "Conçue pour les professionnels et les particuliers, elle offre une résolution élevée et une grande précision.",
-            "Formlabs mise sur une accessibilité accrue pour démocratiser l’impression 3D.",
-            "Les concurrents comme Prusa ou Ultimaker proposent des modèles similaires à des prix comparables."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/formlabs-form-studio-1-imprimante-3d-resine-151020263/"
-            }
-          ]
-        },
-        {
-          "title": "Impression 3D en 4 couleurs : Creality grand format sous 850 €",
-          "bullets": [
-            "Creality propose une imprimante 3D grand format capable d’imprimer en 4 couleurs pour moins de 850 €.",
-            "Idéale pour les projets artistiques et les prototypes complexes.",
-            "Les utilisateurs soulignent la qualité des impressions et la facilité d’utilisation.",
-            "Cette innovation pourrait relancer l’intérêt pour l’impression 3D grand public."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Dernière ligne droite pour le chèque énergie 2026",
+          "title": "Justice européenne : les banques condamnées à rembourser les victimes d’arnaques même en cas de négligence",
           "bullets": [
-            "Les demandeurs doivent faire leur demande avant la fin de l’année pour percevoir le chèque énergie.",
-            "Montants variables selon les foyers, allant de 48 € à 277 €.",
-            "Les impôts locaux et les factures d’énergie restent des préoccupations majeures pour les ménages.",
-            "Les associations de consommateurs rappellent les démarches à suivre pour éviter les arnaques."
+            "La Cour de justice de l’Union européenne a statué que les banques doivent rembourser les victimes d’arnaques.",
+            "Cette décision s’applique même si la victime est jugée négligente.",
+            "Les associations de consommateurs saluent une avancée majeure pour les victimes.",
+            "Les banques devront adapter leurs pratiques pour se conformer à cette décision."
           ],
           "sources": []
         },
         {
-          "title": "Arnaques aux logements « fantômes » en location de vacances",
+          "title": "Arnaque bancaire : les victimes remboursées même en cas de négligence prouvée",
           "bullets": [
-            "Les plateformes de location touristique sont ciblées par de nouvelles arnaques.",
-            "Les victimes paient des frais de réservation pour des logements inexistants.",
-            "Les consommateurs sont invités à vérifier les annonces et à signaler les fraudes.",
-            "Les autorités judiciaires renforcent les contrôles pour lutter contre ces pratiques."
+            "La Cour de justice de l’UE a tranché en faveur des victimes d’arnaques bancaires.",
+            "Les banques ne peuvent plus invoquer la négligence des clients pour refuser le remboursement.",
+            "Cette décision renforce la protection des consommateurs contre les fraudes.",
+            "Les associations appellent les victimes à se manifester pour obtenir réparation."
           ],
           "sources": []
         },
         {
-          "title": "Taxe foncière : hausse de près de 100 % en 20 ans",
+          "title": "Attention aux arnaques aux appartements fantômes sur Booking",
           "bullets": [
-            "La taxe foncière a presque doublé depuis 2004, selon une étude d’Ouest-France.",
-            "Les collectivités locales justifient cette augmentation par les besoins en investissements.",
-            "Les propriétaires dénoncent une pression fiscale croissante sur les ménages.",
-            "Certaines communes proposent des exonérations ou des aides pour atténuer l’impact."
+            "Des escrocs proposent des locations inexistantes sur Booking, ruinent les vacances des voyageurs.",
+            "Les victimes paient des frais de réservation sans jamais obtenir de logement.",
+            "Booking et les plateformes similaires renforcent leurs vérifications pour limiter ces fraudes.",
+            "Les voyageurs sont invités à vérifier les avis et les détails des annonces avant réservation."
           ],
           "sources": []
         }
       ]
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "Fin du tout électrique en 2035 : l’accord franco-allemand et ses implications",
+          "bullets": [
+            "La France et l’Allemagne ont trouvé un compromis pour reporter la fin des moteurs thermiques en 2035.",
+            "Cet accord permet aux constructeurs d’utiliser des carburants synthétiques pour prolonger la vie des véhicules.",
+            "Les écologistes critiquent cette décision comme un recul face à la transition écologique.",
+            "Les constructeurs automobiles peuvent désormais adapter leurs plans de production."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2355407-fin-du-tout-electrique-en-2035-ce-que-cache-vraiment-laccord-franco-allemand-sur-la-voiture.html"
+            }
+          ]
+        },
+        {
+          "title": "NASA : 150 000 dollars offerts pour résoudre un problème électrique sur la Lune",
+          "bullets": [
+            "La NASA cherche une solution pour éviter les risques d’électricité statique sur la Lune.",
+            "Un problème pourrait rendre dangereux le contact entre les astronautes et les vaisseaux.",
+            "La récompense de 150 000 dollars est proposée pour toute solution efficace.",
+            "Cette recherche s’inscrit dans la préparation des futures missions lunaires."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2355069-la-nasa-offre-150-000-dollars-pour-resoudre-ce-probleme-electrique-sur-la-lune.html"
+            }
+          ]
+        },
+        {
+          "title": "FREYJA : le bouclier antimissile franco-ukrainien pour fin 2026",
+          "bullets": [
+            "Emmanuel Macron et Volodymyr Zelensky accélèrent le projet FREYJA pour renforcer la défense ukrainienne.",
+            "Ce système doit permettre de détecter et intercepter les missiles russes.",
+            "Les livraisons sont prévues pour la fin de l’année 2026.",
+            "Ce projet s’inscrit dans le cadre de l’aide militaire européenne à l’Ukraine."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2354599-cest-quoi-freyja-ce-projet-de-bouclier-antimissile-que-macron-et-zelensky-veulent-pour-fin-2026.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Grille des pilotes et écuries pour la saison 2027 de Formule 1",
+          "title": "Rugby : l’UBB et Gloucester se neutralisent dans un match spectaculaire en Champions Cup",
           "bullets": [
-            "Les équipes ont confirmé leurs pilotes pour la saison prochaine, avec des changements notables.",
-            "Max Verstappen (Red Bull) et Lewis Hamilton (Mercedes) restent en lice pour le titre.",
-            "Les jeunes talents comme Charles Leclerc (Ferrari) et Lando Norris (McLaren) sont suivis de près.",
-            "Les débats sur les règles techniques et les budgets continuent d’agiter la F1."
+            "Les deux équipes ont livré un match intense et équilibré lors de leur confrontation en Champions Cup.",
+            "Les deux formations ont marqué des essais décisifs pour se neutraliser (score final : 24-24).",
+            "Ce match illustre la qualité du rugby européen et la montée en puissance des clubs britanniques.",
+            "Les prochaines rencontres pourraient déterminer les qualifications pour les phases finales."
           ],
           "sources": []
         },
         {
-          "title": "Championnats d’Europe de tir : les frères Lebrun en huitièmes de finale",
+          "title": "Les Bleues corrigées en Nouvelle-Zélande : premier test difficile",
           "bullets": [
-            "Félix et Alexis Lebrun se qualifient pour les huitièmes de finale des Championnats d’Europe.",
-            "Leur performance a impressionné les experts et les fans de tir sportif.",
-            "Les deux frères représentent la France avec brio dans cette compétition prestigieuse.",
-            "Les prochaines étapes seront déterminantes pour leur parcours en Europe."
+            "L’équipe de France féminine de rugby a été battue lors de son premier match en Nouvelle-Zélande.",
+            "Ce résultat marque le début d’une série de trois tests contre les All Blacks Women.",
+            "Les Bleues visent à améliorer leur performance pour les prochains matchs.",
+            "Cette défaite pourrait servir de leçon pour les rencontres suivantes."
           ],
           "sources": []
         }
@@ -320,8 +320,7 @@
           "title": "les Steelers — prochain match",
           "bullets": [
             "Information indisponible ce matin.",
-            "Classement : 3e de l'AFC Nord (3-2)",
-            "Les Steelers — Stade : Acrisure Stadium · Ville : Pittsburgh, Pennsylvania · Fondé en 1933"
+            "Classement : 3e de l'AFC Nord (3-2)"
           ],
           "sources": []
         }
@@ -339,7 +338,7 @@
             "Diffusion : Ligue 1+",
             "Classement : 6e de Ligue 1 — 11 pts en 6 matchs",
             "Ligue des champions : 1er de la phase de ligue (3 pts)",
-            "Adversaire au classement : 11e de Ligue 1 (7 pts)",
+            "Adversaire au classement : 12e de Ligue 1 (7 pts)",
             "RC Lens — Stade : Stade Bollaert-Delelis · Capacité : 38 223 places · Entraîneur : Yannick Cahuzac"
           ],
           "sources": [
