@@ -1,18 +1,18 @@
 {
-  "date_str": "Samedi 17 octobre 2026",
+  "date_str": "Dimanche 18 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Ignace et Baudouin",
+          "title": "Aujourd'hui, on souhaite la fête : Luc",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/17/10/2026/17-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/18/10/2026/18-Octobre-2026.html"
             }
           ]
         }
@@ -22,92 +22,54 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Macron et la jeunesse : un fossé social qui se creuse",
+          "title": "Violences lors des manifestations du 17 octobre : 400 interpellations et ciblage de LFI",
           "bullets": [
-            "Le président Emmanuel Macron est accusé d’avoir perdu le contact avec les jeunes générations depuis son arrivée au pouvoir.",
-            "Les critiques portent sur une politique jugée trop libérale économiquement et insuffisamment protectrice socialement.",
-            "Les associations et syndicats dénoncent un éloignement des priorités des jeunes (pouvoir d’achat, logement, écologie).",
-            "Ce clivage pourrait influencer les dynamiques électorales avant l’élection présidentielle de 2027."
+            "Environ 400 interpellations ont été enregistrées lors des manifestations nationales, marquées par des scènes de saccages dans plusieurs villes.",
+            "Le Premier ministre, Sébastien Lecornu, appelle à choisir entre la République et les « semeurs de chaos ».",
+            "La gauche, notamment LFI, dénonce une instrumentalisation politique des violences.",
+            "Les manifestations ont rassemblé des milliers de personnes, avec des affrontements violents à Rennes et dans d’autres villes.",
+            "Le ministre de l’Intérieur, Laurent Nuñez, évoque un « dépassement inacceptable » des limites légales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/18/mobilisation-du-17-octobre-apres-une-journee-de-violences-et-de-saccages-le-gouvernement-sous-pression-cible-lfi_6796957_823448.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/17/mobilisation-du-17-octobre-emmanuel-macron-denonce-les-semeurs-de-chaos-qui-ne-cherchent-qu-a-abattre-nos-institutions-apres-des-scenes-de-saccage-dans-plusieurs-villes_6796686_823448.html"
             }
           ]
         },
         {
-          "title": "Saisie record de stupéfiants par la Marine nationale dans les Caraïbes et l’Atlantique",
+          "title": "Présidentielle 2027 : François Fillon soutient Bruno Retailleau, « seul candidat crédible à droite »",
           "bullets": [
-            "Près de 8,6 tonnes de stupéfiants (dont 6,9 tonnes de cocaïne) ont été saisies lors d’opérations conjointes avec la Colombie.",
-            "Ces saisies visent à démanteler les réseaux de trafic transatlantique.",
-            "La Marine nationale a renforcé sa coopération avec les autorités locales et régionales.",
-            "Ces opérations s’inscrivent dans le cadre de la lutte contre le trafic de drogue en mer."
+            "François Fillon, ancien candidat à la présidentielle de 2017, apporte son soutien à Bruno Retailleau.",
+            "Il le qualifie de « seul candidat capable d’engager un sursaut national » pour la droite.",
+            "Cette annonce s’inscrit dans une dynamique de recentrage de la droite face à la montée des tensions sociales.",
+            "Bruno Retailleau, sénateur et figure de la droite conservatrice, se positionne comme un candidat sérieux pour 2027.",
+            "Cette alliance pourrait influencer la stratégie des autres candidats de droite en vue de la présidentielle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/16/pres-de-8-6-tonnes-de-stupefiants-saisis-par-la-marine-nationale-lors-de-plusieurs-operations-dans-les-caraibes-et-l-atlantique_6795641_3210.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html"
             }
           ]
         },
         {
-          "title": "Blocages en Guadeloupe contre la vie chère : tensions persistantes",
+          "title": "Budget 2027 : critique de l’exécutif sur la gestion des bouleversements sociaux",
           "bullets": [
-            "Des manifestations et blocages ont paralysé l’archipel guadeloupéen depuis plusieurs jours.",
-            "Le collectif « Nou las palé » (Ne plus en avoir assez) rassemble syndicats, patrons et citoyens.",
-            "Les revendications portent sur le coût de la vie, les prix des produits de première nécessité et les services publics.",
-            "Les forces de l’ordre maintiennent un dispositif renforcé pour sécuriser les axes routiers."
+            "Les représentants du Pacte du pouvoir de vivre dénoncent la déconnexion de l’exécutif face aux crises sociales.",
+            "Le projet de budget 2027 est jugé inadapté aux attentes des jeunes et des classes populaires.",
+            "Les organisations syndicales et associatives appellent à une refonte des politiques publiques.",
+            "La gestion du mouvement lycéen est pointée comme un échec par les acteurs sociaux.",
+            "Une tribune au *Monde* souligne l’urgence d’un nouveau modèle économique et social."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/outre-mer/article/2026/10/16/en-guadeloupe-des-blocages-contre-la-vie-chere-et-des-heurts-perturbent-l-archipel-du-nord-au-sud_6795638_1840826.html"
-            }
-          ]
-        },
-        {
-          "title": "Budget 2027 : le collectif Alerte dénonce une aggravation des inégalités",
-          "bullets": [
-            "Le collectif Alerte critique le projet de budget 2027 pour son impact sur les plus précaires.",
-            "Les associations alertent sur des mesures jugées régressives pour les minima sociaux et les aides au logement.",
-            "Le gouvernement maintient son objectif de réduction du déficit, malgré les risques de précarisation accrue.",
-            "Les débats parlementaires sur le budget s’annoncent tendus."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/16/le-collectif-alerte-appelle-a-revoir-le-projet-de-budget-2027-qui-va-appauvrir-les-plus-pauvres_6795629_3224.html"
-            }
-          ]
-        },
-        {
-          "title": "Rejet du budget de la Sécurité sociale en commission : un mauvais signal pour le gouvernement",
-          "bullets": [
-            "Les députés ont rejeté en commission le projet de loi de finances de la Sécurité sociale pour 2027.",
-            "Ce rejet n’a pas de conséquence immédiate, car le texte sera débattu en séance plénière.",
-            "Les tensions persistent sur les équilibres financiers et les priorités de dépenses.",
-            "Le gouvernement devra négocier pour obtenir une adoption définitive."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/16/apres-le-budget-de-l-etat-les-deputes-rejettent-en-commission-celui-de-la-securite-sociale_6795575_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Le RN instrumentalise la question automobile pour séduire l’électorat populaire",
-          "bullets": [
-            "Le Rassemblement National (RN) met en avant la défense des automobilistes et du pouvoir d’achat.",
-            "Cette stratégie s’inscrit dans la continuité des mobilisations des « gilets jaunes ».",
-            "Le parti utilise des symboles forts comme la voiture pour se positionner en alternative aux partis traditionnels.",
-            "Cette approche pourrait renforcer son électorat en milieu rural et périurbain."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/17/la-gestion-du-mouvement-lyceen-et-le-projet-de-budget-2027-montrent-que-le-pouvoir-ne-prend-pas-la-mesure-des-bouleversements-que-traverse-notre-pays_6796165_3232.html"
             }
           ]
         }
@@ -117,77 +79,82 @@
       "label": "International",
       "sujets": [
         {
-          "title": "En Ukraine, les services secrets gagnent en influence au détriment du pouvoir politique",
+          "title": "Impuissance occidentale au Moyen-Orient : un défi pour les démocraties",
           "bullets": [
-            "La guerre a renforcé le rôle des services de renseignement ukrainiens (SBU et autres).",
-            "Les rivalités entre agences menacent la cohésion des institutions et la transparence.",
-            "Le président Zelensky et le gouvernement peinent à contrôler ces structures.",
-            "Cette situation pourrait compliquer la reconstruction post-conflit."
+            "Les dirigeants occidentaux sont critiqués pour leur incapacité à agir efficacement dans la région.",
+            "Ce décalage entre discours et actes sapent la crédibilité internationale des démocraties.",
+            "Les tensions persistent entre Israël, le Hezbollah et les groupes armés palestiniens.",
+            "Les États-Unis et l’Europe sont accusés de ne pas soutenir suffisamment leurs alliés régionaux.",
+            "Cette situation renforce les critiques sur l’efficacité des alliances occidentales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/17/en-ukraine-le-poids-des-services-secrets-inquiete-le-pouvoir-politique_6795812_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/18/l-aveu-d-impuissance-au-moyen-orient-mine-les-democraties-occidentales_6797036_3210.html"
             }
           ]
         },
         {
-          "title": "Israël : le journal « Haaretz » résiste à la pression du gouvernement Nétanyahou",
+          "title": "Manifestations « No Kings » aux États-Unis : espoir et inquiétudes face à Trump",
           "bullets": [
-            "Le quotidien progressiste « Haaretz » maintient son indépendance face aux attaques du gouvernement.",
-            "Benyamin Nétanyahou et ses alliés tentent de museler la presse critique.",
-            "Les journalistes dénoncent des pressions politiques et juridiques pour limiter la liberté d’expression.",
-            "Ce combat médiatique s’inscrit dans un contexte de polarisation politique en Israël."
+            "Les défilés anti-Trump, organisés sous le slogan « No Kings », rassemblent des milliers de personnes.",
+            "Les opposants au président dénoncent son autoritarisme et son influence sur la justice.",
+            "Les réseaux sociaux jouent un rôle clé dans la mobilisation contre son retour possible en 2025.",
+            "Les craintes d’un retour de l’extrême droite divisent les démocrates et les progressistes.",
+            "Les manifestations visent à empêcher une éventuelle réélection de Trump en 2024."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/face-a-benyamin-netanyahou-le-combat-du-journal-haaretz-pour-son-independance-et-la-liberte-d-informer_6795775_4500055.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html"
             }
           ]
         },
         {
-          "title": "Succession à l’ONU : aucun candidat ne fait consensus parmi les membres permanents",
+          "title": "Muhoozi Kainerugaba, héritier controversé du président ougandais",
           "bullets": [
-            "Les sept candidats déclarés pour succéder à Antonio Guterres sont bloqués par les veto des grandes puissances.",
-            "La Chine, les États-Unis, la Russie, le Royaume-Uni et la France ont chacun utilisé leur droit de veto.",
-            "Cette situation pourrait retarder la désignation d’un nouveau secrétaire général.",
-            "Les négociations diplomatiques s’annoncent complexes et prolongées."
+            "Fils du président Yoweri Museveni, Muhoozi Kainerugaba dirige les forces armées et est pressenti pour succéder à son père.",
+            "Il est accusé de violations des droits humains et de répression politique en Ouganda.",
+            "Son style autoritaire et brutal suscite des craintes pour l’avenir démocratique du pays.",
+            "Les opposants au régime dénoncent une concentration excessive du pouvoir dans sa famille.",
+            "La communauté internationale surveille son influence croissante sur les institutions ougandaises."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/17/prochain-secretaire-general-de-l-onu-aucun-candidat-ne-fait-consensus-pour-succeder-a-antonio-guterres_6795742_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/18/des-qu-une-tete-depasse-il-la-coupe-muhoozi-kainerugaba-heritier-brutal-et-fantasque-du-president-ougandais_6796997_3212.html"
             }
           ]
         },
         {
-          "title": "Fusillade dans une école primaire de l’Oregon : un élève de 16 ans impliqué",
+          "title": "Donald Trump exempte la Russie de nouvelles sanctions malgré les attaques en Ukraine",
           "bullets": [
-            "Un adolescent de 16 ans a tué trois enfants et une enseignante avant d’être abattu par les forces de l’ordre.",
-            "L’auteur présumé était élève dans une classe spécialisée de l’école Silver Rail.",
-            "Les autorités enquêtent sur les motivations et les antécédents du tireur.",
-            "Cet événement relance le débat sur le contrôle des armes aux États-Unis."
+            "Le président américain a gelé l’application d’une loi prévoyant des sanctions contre les importateurs d’hydrocarbures russes.",
+            "Moscou continue de cibler les infrastructures énergétiques ukrainiennes, provoquant des coupures électriques.",
+            "Cette décision est critiquée par les alliés européens et les défenseurs de l’Ukraine.",
+            "Les États-Unis maintiennent un soutien militaire à Kiev, mais réduisent leurs contraintes économiques envers la Russie.",
+            "La politique énergétique américaine reste un sujet de tensions diplomatiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html"
             }
           ]
         },
         {
-          "title": "Yémen : frappes houthistes près de l’aéroport d’Aden, l’Iran nie toute implication",
+          "title": "Brésil : risque de recul environnemental avec un possible retour de l’extrême droite",
           "bullets": [
-            "Les rebelles houthistes ont frappé une zone proche de l’aéroport d’Aden, contrôlé par les forces gouvernementales.",
-            "L’Iran nie toute responsabilité, malgré les accusations de l’Arabie saoudite.",
-            "Ces attaques s’inscrivent dans un contexte de tensions régionales persistantes.",
-            "La communauté internationale surveille les risques d’escalade dans la région."
+            "Flavio Bolsonaro, fils de l’ex-président Jair Bolsonaro, pourrait revenir au pouvoir lors des élections de 2026.",
+            "Son programme inclut la restriction de la démarcation des terres indigènes et la promotion de l’agrobusiness.",
+            "Les écologistes craignent une accélération de la déforestation et une aggravation des crises climatiques.",
+            "Les communautés autochtones et les ONG dénoncent une menace pour leurs droits et leur territoire.",
+            "Le Brésil, deuxième pays le plus riche en biodiversité, pourrait subir des conséquences environnementales graves."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/17/au-yemen-des-frappes-houthistes-s-abattent-pres-de-l-aeroport-d-aden-l-iran-nie-tout-role-dans-les-attaques-visant-l-arabie-saoudite_6795708_3210.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html"
             }
           ]
         }
@@ -195,39 +162,15 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Justice européenne : les banques condamnées à rembourser les victimes d’arnaques même en cas de négligence",
+          "title": "Manifestations du 17 octobre : blocages et violences en Haute-Saône et Doubs",
           "bullets": [
-            "La Cour de justice de l’Union européenne a statué que les banques doivent rembourser les victimes d’arnaques.",
-            "Cette décision s’applique même si la victime est jugée négligente.",
-            "Les associations de consommateurs saluent une avancée majeure pour les victimes.",
-            "Les banques devront adapter leurs pratiques pour se conformer à cette décision."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque bancaire : les victimes remboursées même en cas de négligence prouvée",
-          "bullets": [
-            "La Cour de justice de l’UE a tranché en faveur des victimes d’arnaques bancaires.",
-            "Les banques ne peuvent plus invoquer la négligence des clients pour refuser le remboursement.",
-            "Cette décision renforce la protection des consommateurs contre les fraudes.",
-            "Les associations appellent les victimes à se manifester pour obtenir réparation."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Attention aux arnaques aux appartements fantômes sur Booking",
-          "bullets": [
-            "Des escrocs proposent des locations inexistantes sur Booking, ruinent les vacances des voyageurs.",
-            "Les victimes paient des frais de réservation sans jamais obtenir de logement.",
-            "Booking et les plateformes similaires renforcent leurs vérifications pour limiter ces fraudes.",
-            "Les voyageurs sont invités à vérifier les avis et les détails des annonces avant réservation."
+            "Une centaine de personnes ont bloqué le pont de Gray en Haute-Saône, perturbant la circulation.",
+            "Des barrages filtrants ont été dressés, entraînant des tensions avec les forces de l’ordre.",
+            "Les manifestations locales ont dégénéré en affrontements, avec des scènes de saccages et des interpellations.",
+            "Les autorités appellent à la prudence et à la désescalade pour éviter des incidents similaires.",
+            "Les rassemblements dans le Doubs et la Haute-Saône restent sous surveillance policière renforcée."
           ],
           "sources": []
         }
@@ -237,77 +180,72 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Fin du tout électrique en 2035 : l’accord franco-allemand et ses implications",
+          "title": "La seconde spéciale pourrait disparaître : ajustement des horloges atomiques",
           "bullets": [
-            "La France et l’Allemagne ont trouvé un compromis pour reporter la fin des moteurs thermiques en 2035.",
-            "Cet accord permet aux constructeurs d’utiliser des carburants synthétiques pour prolonger la vie des véhicules.",
-            "Les écologistes critiquent cette décision comme un recul face à la transition écologique.",
-            "Les constructeurs automobiles peuvent désormais adapter leurs plans de production."
+            "Depuis 1972, 27 secondes spéciales ont été ajoutées pour synchroniser les horloges atomiques avec la rotation terrestre.",
+            "La Terre ralentit progressivement, rendant ces ajustements de plus en plus complexes.",
+            "Une réforme pourrait supprimer ces secondes spéciales pour éviter des perturbations technologiques.",
+            "Les systèmes informatiques et GPS pourraient être impactés par ce changement.",
+            "Les scientifiques étudient les alternatives pour maintenir une synchronisation précise."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2355407-fin-du-tout-electrique-en-2035-ce-que-cache-vraiment-laccord-franco-allemand-sur-la-voiture.html"
-            }
-          ]
-        },
-        {
-          "title": "NASA : 150 000 dollars offerts pour résoudre un problème électrique sur la Lune",
-          "bullets": [
-            "La NASA cherche une solution pour éviter les risques d’électricité statique sur la Lune.",
-            "Un problème pourrait rendre dangereux le contact entre les astronautes et les vaisseaux.",
-            "La récompense de 150 000 dollars est proposée pour toute solution efficace.",
-            "Cette recherche s’inscrit dans la préparation des futures missions lunaires."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2355069-la-nasa-offre-150-000-dollars-pour-resoudre-ce-probleme-electrique-sur-la-lune.html"
-            }
-          ]
-        },
-        {
-          "title": "FREYJA : le bouclier antimissile franco-ukrainien pour fin 2026",
-          "bullets": [
-            "Emmanuel Macron et Volodymyr Zelensky accélèrent le projet FREYJA pour renforcer la défense ukrainienne.",
-            "Ce système doit permettre de détecter et intercepter les missiles russes.",
-            "Les livraisons sont prévues pour la fin de l’année 2026.",
-            "Ce projet s’inscrit dans le cadre de l’aide militaire européenne à l’Ukraine."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2354599-cest-quoi-freyja-ce-projet-de-bouclier-antimissile-que-macron-et-zelensky-veulent-pour-fin-2026.html"
+              "url": "https://www.numerama.com/sciences/2353213-cette-seconde-speciale-quon-ajoute-pour-sadapter-aux-caprices-de-la-rotation-terrestre-pourrait-bientot-disparaitre.html"
             }
           ]
         }
       ]
     },
     {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Budget 2027 : changements majeurs sur les impôts, retraites et donations",
+          "bullets": [
+            "Le projet de loi de finances 2027 prévoit des modifications sur les impôts, notamment une revalorisation des tranches.",
+            "Les retraites pourraient être impactées par des ajustements des régimes de cotisation.",
+            "Les donations et successions pourraient faire l’objet de nouvelles règles fiscales.",
+            "Les banques et assurances pourraient adapter leurs offres en conséquence.",
+            "Les ménages devront anticiper ces changements pour optimiser leur fiscalité."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaques aux faux agents : vigilance renforcée dans les communes",
+          "bullets": [
+            "Des escrocs se font passer pour des agents de la communauté de communes ou de la mairie.",
+            "Ils demandent des paiements pour des services non sollicités ou des travaux fictifs.",
+            "Les victimes sont souvent des personnes âgées ou des commerçants locaux.",
+            "Les autorités locales appellent à la vigilance et conseillent de vérifier l’identité des visiteurs.",
+            "Les plaintes pour escroquerie ont augmenté ces dernières années."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Rugby : l’UBB et Gloucester se neutralisent dans un match spectaculaire en Champions Cup",
+          "title": "Alexis et Félix Lebrun sacrés champions d’Europe en double",
           "bullets": [
-            "Les deux équipes ont livré un match intense et équilibré lors de leur confrontation en Champions Cup.",
-            "Les deux formations ont marqué des essais décisifs pour se neutraliser (score final : 24-24).",
-            "Ce match illustre la qualité du rugby européen et la montée en puissance des clubs britanniques.",
-            "Les prochaines rencontres pourraient déterminer les qualifications pour les phases finales."
+            "Les frères Lebrun, Alexis et Félix, remportent leur deuxième titre consécutif en double aux Championnats d’Europe.",
+            "Leur victoire confirme leur domination dans le badminton européen.",
+            "Ce succès renforce leur statut de favoris pour les prochaines compétitions internationales.",
+            "Ils ont battu en finale un duo sud-coréen lors d’une rencontre serrée.",
+            "Leur performance est saluée par les fans et les médias spécialisés."
           ],
           "sources": []
         },
         {
-          "title": "Les Bleues corrigées en Nouvelle-Zélande : premier test difficile",
+          "title": "Léo De Nodrest qualifié pour les demi-finales des Championnats d’Europe",
           "bullets": [
-            "L’équipe de France féminine de rugby a été battue lors de son premier match en Nouvelle-Zélande.",
-            "Ce résultat marque le début d’une série de trois tests contre les All Blacks Women.",
-            "Les Bleues visent à améliorer leur performance pour les prochains matchs.",
-            "Cette défaite pourrait servir de leçon pour les rencontres suivantes."
+            "Léo De Nodrest, jeune athlète français, se qualifie pour les demi-finales des Championnats d’Europe.",
+            "Il affrontera Félix Lebrun, son rival et frère d’Alexis, lors de cette étape cruciale.",
+            "Ce succès marque une progression notable dans sa carrière sportive.",
+            "Les Championnats d’Europe se déroulent en Pologne et attirent les meilleurs athlètes européens.",
+            "Les performances de De Nodrest sont suivies avec attention par les médias et les fans."
           ],
           "sources": []
         }
@@ -330,16 +268,15 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à l'extérieur contre RC Strasbourg",
+          "title": "Prochain match : le PSG à domicile contre FC Barcelone",
           "bullets": [
-            "Adversaire : RC Strasbourg (à l'extérieur)",
-            "Compétition : Ligue 1",
-            "Date : samedi 17 octobre à 17h15 (heure de Paris)",
-            "Diffusion : Ligue 1+",
-            "Classement : 6e de Ligue 1 — 11 pts en 6 matchs",
-            "Ligue des champions : 1er de la phase de ligue (3 pts)",
-            "Adversaire au classement : 12e de Ligue 1 (7 pts)",
-            "RC Lens — Stade : Stade Bollaert-Delelis · Capacité : 38 223 places · Entraîneur : Yannick Cahuzac"
+            "Adversaire : FC Barcelone (à domicile)",
+            "Date : mardi 20 octobre à 21h00 (heure de Paris)",
+            "Stade : Parc des Princes",
+            "Diffusion : Canal+ Foot",
+            "Classement : 1er de Ligue 1 — 14 pts en 7 matchs",
+            "Ligue des champions : 1er de la phase de ligue (6 pts)",
+            "Stade rennais FC — Stade : Roazhon Park · Capacité : 29 778 places · Entraîneur : Franck Haise"
           ],
           "sources": [
             {
