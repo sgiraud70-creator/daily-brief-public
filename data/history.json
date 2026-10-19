@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html",
-    "title": "Crise sociale : agriculture, lycées et pouvoir d’achat sous tension",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html",
-    "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html",
-    "title": "Primaire de la gauche : plus de 100 000 votants et tensions persistantes",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html",
-    "title": "Gabriel Attal réajuste son programme face au mouvement lycéen",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/10/octobre-rose-mathilde-panot-refuse-de-porter-le-ruban-tolle-au-gouvernement-et-au-rn_6791027_823448.html",
-    "title": "Mathilde Panot et le tollé autour du ruban d’Octobre rose",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/10/a-public-senat-les-notes-de-frais-embarrassantes-de-jean-emmanuel-casalta-president-de-la-chaine_6791002_3234.html",
-    "title": "Notes de frais controversées du président de Public Sénat",
-    "rubrique": "France",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
-    "title": "Arabie saoudite : attaque terroriste à l’aéroport de Riyad",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/11/pourquoi-ceuta-et-melilla-restent-un-sujet-de-discorde-entre-l-espagne-et-le-maroc_6791307_3210.html",
-    "title": "Tensions Espagne-Maroc : Ceuta et Melilla sous pression migratoire",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/videos/video/2026/10/11/face-aux-drones-ukrainiens-des-navires-lies-a-la-russie-se-drapent-de-filets-en-mer-noire_6791267_1669088.html",
-    "title": "Ukraine : la Russie se protège des drones ukrainiens en Mer Noire",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
-    "title": "Cisjordanie : la solitude des Palestiniens face à l’impunité israélienne",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html",
-    "title": "Donald Trump et Vladimir Poutine : un dialogue tendu sur la guerre en Ukraine",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/11/delphine-horvilleur-rabbine-apres-le-7-octobre-il-m-a-fallu-du-temps-pour-parler-de-la-souffrance-des-palestiniens-innocents_6791269_6038514.html",
-    "title": "Delphine Horvilleur : trois ans après le 7-Octobre, la souffrance palestinienne toujours silencieuse",
-    "rubrique": "International",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2349581-vous-pouvez-maintenant-jouer-a-super-mario-bros-directement-sur-youtube.html",
-    "title": "Super Mario Bros. jouable directement sur YouTube grâce à une innovation technique",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html",
-    "title": "Faille critique dans Telegram Desktop : vol de comptes en un clic",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html",
-    "title": "Outil IA open source pour la rétro-ingénierie : démocratisation de l’analyse logicielle",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-11"
-  },
-  {
     "url": "https://www.lemonde.fr/idees/article/2026/10/12/mobilisation-lyceenne-presenter-le-blocage-comme-l-action-d-une-minorite-violente-conduit-a-manquer-sa-fonction-historique_6792457_3232.html",
     "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
     "rubrique": "France",
@@ -670,5 +580,89 @@
     "title": "La seconde spéciale pourrait disparaître : ajustement des horloges atomiques",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-entre-pillages-selfies-et-verres-en-terrasse-un-lendemain-de-violence-surrealiste-a-paris_6797444_3224.html",
+    "title": "Violences post-manifestation : Paris toujours sous le choc des pillages et dégradations",
+    "rubrique": "France",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-au-centre-des-critiques-lfi-denonce-le-pourrissement-de-la-situation-et-assume-le-clivage-avec-le-reste-du-monde-politique_6797443_823448.html",
+    "title": "LFI rejette les accusations de provocation et assume son clivage avec le reste de la gauche",
+    "rubrique": "France",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-emmanuel-macron-tente-de-reaffirmer-son-autorite-ebranlee-par-les-violences-et-les-mouvements-sociaux_6797402_823448.html",
+    "title": "Macron tente de réaffirmer son autorité face à la crise sociale et aux violences",
+    "rubrique": "France",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/19/xavier-crettiez-politiste-la-violence-emeutiere-en-democratie-est-de-l-interieur-un-grand-moment-de-defoulement_6797369_3232.html",
+    "title": "Analyse : la violence émeutière comme exutoire en démocratie",
+    "rubrique": "France",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-la-capitale-kiev-visee-par-de-nouvelles-frappes-russes-au-cours-de-la-nuit_6796922_3210.html",
+    "title": "Frappe russe sur Kiev : au moins une victime mortelle et plusieurs blessés",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html",
+    "title": "Qatar en crise : le détroit d’Ormuz menace son modèle économique basé sur le gaz",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/19/pourquoi-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz_6797367_3210.html",
+    "title": "Iran : intensification des attaques dans le golfe Persique",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/19/canada-quatre-morts-et-19-blesses-dans-un-etat-critique-apres-un-incendie-sur-une-base-militaire-en-alberta_6797056_3211.html",
+    "title": "Canada : tragédie sur une base militaire en Alberta (4 morts, 19 blessés)",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/19/au-bresil-la-desinformation-et-l-ia-irriguent-la-campagne-presidentielle_6797445_3210.html",
+    "title": "Brésil : désinformation et IA influencent la campagne présidentielle",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/19/en-albanie-le-premier-ministre-exclut-toute-demission-au-sixieme-jour-de-violentes-manifestations_6797333_3210.html",
+    "title": "Albanie : manifestations violentes persistent, le Premier ministre exclut toute démission",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/19/un-vol-reliant-tel-aviv-a-vienne-deroute-vers-la-bulgarie-en-raison-d-une-alerte-a-la-bombe_6797300_3210.html",
+    "title": "Vol dérouté vers la Bulgarie après une alerte à la bombe (Israël-Vienne)",
+    "rubrique": "International",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2351643-je-pense-quil-faut-refuser-de-dependre-de-solutions-americaines-avec-arcadia-la-france-mise-sur-son-ia-de-commandement-pour-echapper-a-lamericain-palantir.html",
+    "title": "Arcadia : la France développe son propre logiciel de commandement militaire dopé à l’IA",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2354083-des-frigos-de-supermarches-pirates-partout-en-france-le-fosse-invisible-de-lia-et-les-bots-russes-toujours-actifs-malgre-les-frappes-sur-yandex-on-vous-raconte-la-semaine-cyberguerre.html",
+    "title": "Piratage massif des frigos de supermarchés en France : une faille de sécurité critique",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2352555-le-decompte-final-a-commence-voyager-1-va-franchir-une-distance-si-grande-quil-faut-changer-dechelle-dunite.html",
+    "title": "Voyager 1 franchit une distance record : 25,9 milliards de kilomètres de la Terre",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-19"
   }
 ]
