@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/12/mobilisation-lyceenne-presenter-le-blocage-comme-l-action-d-une-minorite-violente-conduit-a-manquer-sa-fonction-historique_6792457_3232.html",
-    "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/12/mobilisation-lyceenne-a-la-reunion-le-maire-lfi-du-tampon-alexis-chaussalet-dans-le-role-du-grand-frere_6792344_823448.html",
-    "title": "Mobilisation lycéenne : blocages persistants et tensions politiques",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-rejete-en-commission-le-projet-de-loi-de-finances-arrive-dans-le-chaudron-de-l-assemblee-nationale_6792420_823448.html",
-    "title": "Budget 2027 : rejet en commission et examen serré à l’Assemblée",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-raphael-glucksmann-elu-des-le-premier-tour-promet-de-rassembler-la-gauche-pour-battre-l-extreme-droite-et-reaffirme-son-refus-de-s-allier-avec-lfi_6791926_6205049.html",
-    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
-    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-jean-luc-melenchon-promet-de-supprimer-l-ignominie-parcoursup-devant-une-salle-comble-a-clermont-ferrand_6792108_6205049.html",
-    "title": "Primaire à gauche : Glucksmann élu, mais l’alliance avec LFI reste un défi",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-perso/article/2026/10/12/ce-qui-ressort-c-est-un-sentiment-de-colere-benoit-mathieu-le-microcandidat-a-la-presidentielle-qui-ausculte-la-france-a-velo_6792421_4497916.html",
-    "title": "Benoît Mathieu : un tour de France à vélo pour ausculter la colère sociale",
-    "rubrique": "France",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
-    "title": "Guerre en Ukraine : frappe russe près de Kharkiv cause trois morts, dont un adolescent",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
-    "title": "Guerre en Ukraine : frappe russe près de Kharkiv cause trois morts, dont un adolescent",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/12/en-inde-les-etudiantes-marchent-contre-la-culture-du-viol_6792378_4500055.html",
-    "title": "Inde : manifestations étudiantes contre la « culture du viol »",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/12/au-maroc-la-consecration-de-fouad-ali-el-himma-homme-de-l-ombre-au-service-de-mohammed-vi_6792417_3212.html",
-    "title": "Maroc : Fouad Ali El-Himma, homme de confiance de Mohammed VI, consolidé politiquement",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/videos/video/2026/10/12/que-sont-les-naza-les-dommages-collateraux-calcules-par-l-armee-israelienne_6792416_1669088.html",
-    "title": "Israël : clarification sur les « NAZA », dommages collatéraux calculés par l’armée",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/12/face-a-la-chine-la-france-et-l-espagne-defendent-des-strategies-differentes_6792345_3234.html",
-    "title": "France et Espagne : stratégies divergentes face à la Chine",
-    "rubrique": "International",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2350343-816-ch-et-un-0-a-100-km-h-en-25-s-peugeot-ressuscite-sa-sportive-la-plus-folle-en-electrique.html",
-    "title": "Peugeot ressuscite sa sportive mythique en version électrique : la E-T16 Concept",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html",
-    "title": "Cafetière connectée : fuite de données massive et autres menaces cyber",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html",
-    "title": "Signal cosmique : origine d’un sursaut radio rapide après 10 milliards d’années-lumière",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.3dnatives.com/eglise-imprimee-en-3d-neratovice-12102026/",
-    "title": "Église imprimée en 3D à Neratovice : un projet architectural ambitieux",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-12"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/13/protection-de-l-enfance-marine-le-pen-privilegie-la-preservation-de-la-famille_6793046_823448.html",
     "title": "Marine Le Pen propose une refonte de la protection de l’enfance autour de la famille",
     "rubrique": "France",
@@ -664,5 +562,71 @@
     "title": "Voyager 1 franchit une distance record : 25,9 milliards de kilomètres de la Terre",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/20/nous-appelons-a-installer-des-statues-de-femmes-republicaines-au-sein-du-senat_6797868_3232.html",
+    "title": "Sénatrices : appel à installer des statues de femmes républicaines au Palais du Luxembourg",
+    "rubrique": "France",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-etudiante-la-fermeture-administrative-des-universites-transforme-un-probleme-politique-en-un-probleme-de-maintien-de-l-ordre_6797864_3224.html",
+    "title": "Fermeture administrative des universités : une mesure critiquée comme une réponse sécuritaire à une crise politique",
+    "rubrique": "France",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-du-17-octobre-des-erreurs-du-renseignement-au-manque-d-effectifs-mobilises-retour-sur-un-fiasco-securitaire_6797855_3224.html",
+    "title": "Violences du 17 octobre : analyse des erreurs sécuritaires et manque de moyens",
+    "rubrique": "France",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html",
+    "title": "Rapatriés d’Indochine : reconnaissance et réparations après 70 ans d’attente",
+    "rubrique": "France",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/20/trente-ans-apres-la-marche-blanche-consecutive-a-l-affaire-dutroux-la-belgique-essaie-de-mieux-proteger-ses-enfants_6797867_3210.html",
+    "title": "Belgique : renforcement des protections pour les enfants après 30 ans de l’affaire Dutroux",
+    "rubrique": "International",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/20/en-australie-la-deputee-renversee-intentionnellement-par-un-conducteur-est-dans-un-etat-critique_6797519_3211.html",
+    "title": "Australie : une députée renversée intentionnellement par un conducteur, état critique",
+    "rubrique": "International",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html",
+    "title": "Slovaquie : nouveau pôle européen de production de munitions sous tension géopolitique",
+    "rubrique": "International",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/20/italie-espagne-belgique-portugal-en-europe-la-colere-sociale-gagne-du-terrain-sur-fond-de-flambee-des-prix-de-l-energie-et-de-crise-du-logement_6797862_3210.html",
+    "title": "Colère sociale en Europe : manifestations contre la hausse des prix de l’énergie et la crise du logement",
+    "rubrique": "International",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html",
+    "title": "Mission MMX : le rover Idéfix s’envole pour Phobos, lune de Mars",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html",
+    "title": "Découverte exceptionnelle : une étoile verte confirmée par des astronomes",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2356123-tesla-roadster-une-quatrieme-version-confirmee-par-le-designer-en-chef.html",
+    "title": "Tesla Roadster : confirmation d’une quatrième version par le designer en chef",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-20"
   }
 ]
