@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/13/protection-de-l-enfance-marine-le-pen-privilegie-la-preservation-de-la-famille_6793046_823448.html",
-    "title": "Marine Le Pen propose une refonte de la protection de l’enfance autour de la famille",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/10/13/budget-2027-le-risque-d-une-crise-de-la-dette_6793043_5463015.html",
-    "title": "Budget 2027 : risque de crise de la dette et blocages parlementaires",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-l-idee-d-une-loi-speciale-de-longue-duree-refait-surface_6792730_823448.html",
-    "title": "Budget 2027 : risque de crise de la dette et blocages parlementaires",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/13/les-plus-riches-s-achetent-le-privilege-de-ne-pas-etre-soumis-aux-memes-regles-oxfam-attaque-l-etat-en-justice-pour-rupture-d-egalite-face-a-l-impot_6792809_823448.html",
-    "title": "Oxfam attaque l’État en justice pour inégalité fiscale",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/12/francois-provost-le-patron-de-renault-conditionne-ses-investissements-en-france-a-la-stabilite-economique-sociale-et-politique_6792806_3234.html",
-    "title": "Renault menace de réduire ses investissements en France",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/12/edwige-diaz-la-bonne-soldate-passee-cheffe-locale-du-rn-au-senat_6792683_823448.html",
-    "title": "Édouard Diaz, ex-soldat, devient la plus jeune cheffe de groupe au Sénat",
-    "rubrique": "France",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/13/en-libye-orientale-l-ascension-fragile-de-saddam-haftar-le-fils-du-marechal_6793058_3210.html",
-    "title": "Ascension de Saddam Haftar en Libye orientale : un Parlement sous contrôle familial",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/13/au-niger-une-eruption-de-petrole-provoque-un-incident-environnemental-d-une-gravite-exceptionnelle_6793055_3212.html",
-    "title": "Incident pétrolier majeur au Niger : pollution environnementale d’une gravité exceptionnelle",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
-    "title": "Controverse aux États-Unis : Trump envisage d’importer du gazole russe malgré les sanctions",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/13/a-ceuta-les-migrants-ont-opportunement-disparu-du-paysage-pour-la-visite-du-roi-felipe-vi-et-de-la-reine-letizia_6793045_3210.html",
-    "title": "Ceuta : les migrants disparaissent temporairement pour la visite royale espagnole",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/13/la-marine-francaise-arraisonne-un-petrolier-au-sud-de-la-reunion-soupconne-d-appartenir-a-la-flotte-fantome-russe_6792875_3210.html",
-    "title": "Marine française intercepte un pétrolier lié à la flotte fantôme russe",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/13/frappes-en-arabie-saoudite-les-houthistes-du-yemen-promettent-une-riposte-douloureuse-en-cas-d-intervention-americaine_6792876_3210.html",
-    "title": "Houthistes du Yémen menacent de riposte en cas d’intervention américaine en Arabie saoudite",
-    "rubrique": "International",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2351475-spacex-sapprete-a-tenter-une-recuperation-complete-du-starship-une-premiere-dans-lhistoire-des-fusees-orbitales.html",
-    "title": "SpaceX tente une récupération complète du Starship, une première historique",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2351549-piratage-intermarche-super-u-leclerc-pourquoi-les-frigos-des-supermarches-sont-ils-connectes-a-internet.html",
-    "title": "Piratage des frigos des supermarchés : pourquoi ces appareils sont connectés à Internet ?",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-13"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html",
     "title": "Budget 2027 : objectif de déficit inférieur à 3 % du PIB maintenu malgré un déficit à 5,4 % en 2026",
     "rubrique": "France",
@@ -628,5 +544,107 @@
     "title": "Tesla Roadster : confirmation d’une quatrième version par le designer en chef",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-les-syndicats-recus-par-sebastien-lecornu-a-matignon-mercredi-matin_6795855_3224.html",
+    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
+    "rubrique": "France",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/20/apres-les-violences-urbaines-du-17-octobre-le-gouvernement-et-renaissance-s-en-prennent-aux-reseaux-sociaux_6798016_823448.html",
+    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
+    "rubrique": "France",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html",
+    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
+    "rubrique": "France",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/21/violences-sexuelles-le-senat-adopte-la-proposition-de-loi-obligeant-a-informer-les-victimes-lors-de-la-liberation-de-leur-agresseur_6798083_3224.html",
+    "title": "Sénat adopte une mesure pour informer les victimes de violences sexuelles lors de la libération de leur agresseur",
+    "rubrique": "France",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/21/au-proces-de-rima-hassan-pour-apologie-du-terrorisme-la-defense-tres-politique-de-l-eurodeputee-lfi_6798050_3224.html",
+    "title": "Procès de Rima Hassan : défense politique et accusations d’apologie du terrorisme",
+    "rubrique": "France",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/21/la-guerre-entre-l-etat-islamique-et-al-qaida-prend-de-l-ampleur-au-sahel_6798195_3210.html",
+    "title": "Guerre au Sahel : escalade entre l’État islamique et Al-Qaïda",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-une-attaque-de-drones-russe-fait-deux-morts-dans-la-region-de-kharkiv-selon-les-autorites-locales_6796922_3210.html",
+    "title": "Ukraine : attaque de drones russes fait deux morts dans la région de Kharkiv",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/21/salvador-derriere-la-chute-historique-de-la-criminalite-des-milliers-de-detenus-dans-l-attente-d-etre-juges_6798123_3210.html",
+    "title": "Salvador : chute historique de la criminalité mais surpopulation carcérale",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html",
+    "title": "États-Unis : le camp Trump instrumentalise les émeutes françaises pour mobiliser avant les midterms",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
+    "title": "Ukraine : Zelensky cherche à maintenir l’attention des États-Unis avant une possible escalade",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html",
+    "title": "Elon Musk prépare la fusion de SpaceX et Tesla pour créer une géante technologique",
+    "rubrique": "International",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.3dnatives.com/ecole-imprimee-en-3d-21102026/",
+    "title": "Projet d’école imprimée en 3D au Qatar : un record mondial",
+    "rubrique": "Actualité locale",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2356985-netflix-licenciements-et-virage-a-180-degres-que-se-passe-t-il-chez-netflix.html",
+    "title": "Netflix : virage stratégique et licenciements massifs",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2357061-super-mario-64-une-enigme-vieille-de-30-ans-enfin-dechiffree-met-fin-a-une-legende-urbaine.html",
+    "title": "Super Mario 64 : une énigme de 30 ans enfin résolue",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2357147-un-bonbon-je-me-revois-dans-la-mienne-ce-que-le-public-pense-a-chaud-de-la-citroen-2-cv-au-mondial.html",
+    "title": "Citroën 2 CV : le concept du Mondial de Paris suscite l’enthousiasme",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/1808354-saison-3-des-anneaux-de-pouvoir.html",
+    "title": "Les Anneaux de pouvoir : saison 3 et révélations sur l’Anneau Unique",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2356989-apres-lallemagne-waymo-annonce-des-taxis-autonomes-a-madrid-bientot-a-paris.html",
+    "title": "Waymo étend ses taxis autonomes à Madrid après l’Allemagne",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-21"
   }
 ]

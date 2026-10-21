@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 20 octobre 2026",
+  "date_str": "Mercredi 21 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Adeline",
+          "title": "Aujourd'hui, on souhaite la fête : Céline et Ursule",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/20/10/2026/20-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/21/10/2026/21-Octobre-2026.html"
             }
           ]
         }
@@ -22,58 +22,56 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Sénatrices : appel à installer des statues de femmes républicaines au Palais du Luxembourg",
+          "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
           "bullets": [
-            "Les sénatrices soulignent l’absence de représentation symbolique des femmes dans le Sénat malgré leur nombre record.",
-            "Une proposition pour honorer des figures féminines marquantes de l’histoire républicaine.",
-            "Ce projet vise à renforcer la visibilité des femmes dans les institutions politiques françaises."
+            "Rencontre mercredi matin à Matignon entre le gouvernement et les syndicats pour discuter des suites des violences du 17 octobre.",
+            "Les syndicats dénoncent un manque de mesures concrètes pour apaiser les tensions sociales.",
+            "Le gouvernement accuse les réseaux sociaux de jouer un rôle dans l’escalade des violences.",
+            "400 interpellations lors des manifestations du 17 octobre, avec un ciblage particulier des militants de La France insoumise (LFI).",
+            "Tensions persistantes entre LFI et l’exécutif, accusé d’attiser les violences pour discréditer le mouvement."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/20/nous-appelons-a-installer-des-statues-de-femmes-republicaines-au-sein-du-senat_6797868_3232.html"
+              "url": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-les-syndicats-recus-par-sebastien-lecornu-a-matignon-mercredi-matin_6795855_3224.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/20/apres-les-violences-urbaines-du-17-octobre-le-gouvernement-et-renaissance-s-en-prennent-aux-reseaux-sociaux_6798016_823448.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html"
             }
           ]
         },
         {
-          "title": "Fermeture administrative des universités : une mesure critiquée comme une réponse sécuritaire à une crise politique",
+          "title": "Sénat adopte une mesure pour informer les victimes de violences sexuelles lors de la libération de leur agresseur",
           "bullets": [
-            "Le président de l’université Versailles Saint-Quentin-en-Yvelines dénonce une transformation du problème politique en enjeu de maintien de l’ordre.",
-            "Les étudiants et enseignants estiment que cette mesure aggrave les tensions plutôt que de les apaiser.",
-            "Appel à une solution politique plutôt qu’à une répression sécuritaire pour résoudre la crise."
+            "Adoption d’une proposition de loi obligeant les autorités pénitentiaires à informer les victimes avant la libération de leur agresseur.",
+            "Le texte a été modifié par les sénateurs pour renforcer les garanties juridiques et les protections des victimes.",
+            "Soutenu par le gouvernement et les associations de défense des victimes, il devrait être examiné à l’Assemblée nationale.",
+            "Objectif : réduire les risques de récidive et renforcer la confiance dans le système judiciaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-etudiante-la-fermeture-administrative-des-universites-transforme-un-probleme-politique-en-un-probleme-de-maintien-de-l-ordre_6797864_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/21/violences-sexuelles-le-senat-adopte-la-proposition-de-loi-obligeant-a-informer-les-victimes-lors-de-la-liberation-de-leur-agresseur_6798083_3224.html"
             }
           ]
         },
         {
-          "title": "Violences du 17 octobre : analyse des erreurs sécuritaires et manque de moyens",
+          "title": "Procès de Rima Hassan : défense politique et accusations d’apologie du terrorisme",
           "bullets": [
-            "L’exécutif reconnaît des failles dans le dispositif policier, notamment des erreurs de renseignement et un manque d’effectifs.",
-            "Les violences et pillages dans plusieurs villes ont révélé des lacunes dans la préparation et la coordination des forces de l’ordre.",
-            "Promesses de renforcement des moyens pour les manifestations futures, mais des critiques persistent sur la gestion globale de la crise."
+            "L’eurodéputée LFI Rima Hassan jugée pour apologie du terrorisme après un post sur X citant un militant palestinien.",
+            "La défense met en avant un contexte politique et médiatique pour justifier ses propos.",
+            "La procureure demande dix mois de prison avec sursis et deux ans d’inéligibilité.",
+            "Procès révélateur des tensions autour de la liberté d’expression et de la lutte contre le terrorisme."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-du-17-octobre-des-erreurs-du-renseignement-au-manque-d-effectifs-mobilises-retour-sur-un-fiasco-securitaire_6797855_3224.html"
-            }
-          ]
-        },
-        {
-          "title": "Rapatriés d’Indochine : reconnaissance et réparations après 70 ans d’attente",
-          "bullets": [
-            "Les sénateurs adoptent un texte ouvrant la voie à des réparations pour les préjudices subis par les rapatriés d’Indochine.",
-            "Cette décision intervient après l’adoption similaire par les députés en 2025.",
-            "Une reconnaissance officielle de l’État français pour les souffrances endurées par ces anciens colons et leurs descendants."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/21/au-proces-de-rima-hassan-pour-apologie-du-terrorisme-la-defense-tres-politique-de-l-eurodeputee-lfi_6798050_3224.html"
             }
           ]
         }
@@ -83,67 +81,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Belgique : renforcement des protections pour les enfants après 30 ans de l’affaire Dutroux",
+          "title": "Guerre au Sahel : escalade entre l’État islamique et Al-Qaïda",
           "bullets": [
-            "Trente ans après les enlèvements et meurtres commis par Marc Dutroux, la Belgique renforce les mesures de protection des enfants.",
-            "Nouveaux protocoles pour les signalements et la prévention des violences faites aux mineurs.",
-            "Une réforme législative pour améliorer la coordination entre les services sociaux et policiers."
+            "Conflit territorial et idéologique entre les deux groupes djihadistes depuis 2019 dans le Sahel.",
+            "Prise de contrôle de zones stratégiques et multiplication des attaques ciblées.",
+            "Instabilité accrue dans la région, affectant les populations locales et les opérations militaires internationales.",
+            "Risque de radicalisation et de recrutement accru parmi les jeunes désœuvrés."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/20/trente-ans-apres-la-marche-blanche-consecutive-a-l-affaire-dutroux-la-belgique-essaie-de-mieux-proteger-ses-enfants_6797867_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/21/la-guerre-entre-l-etat-islamique-et-al-qaida-prend-de-l-ampleur-au-sahel_6798195_3210.html"
             }
           ]
         },
         {
-          "title": "Australie : une députée renversée intentionnellement par un conducteur, état critique",
+          "title": "Ukraine : attaque de drones russes fait deux morts dans la région de Kharkiv",
           "bullets": [
-            "Une députée australienne a été renversée par un conducteur qui a reconnu avoir agi de manière délibérée.",
-            "L’état de santé de la victime est décrit comme critique, nécessitant une intervention médicale urgente.",
-            "Le premier ministre Anthony Albanese condamne fermement cet acte et promet une enquête approfondie."
+            "Deux civils tués, dont une femme de 81 ans et un homme de 83 ans, lors d’une attaque de drones russes.",
+            "Les autorités locales confirment les victimes et dénoncent une escalade des frappes.",
+            "Tensions persistantes malgré les négociations en cours pour une trêve.",
+            "Impact psychologique et matériel sur les populations civiles dans les zones frontalières."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/20/en-australie-la-deputee-renversee-intentionnellement-par-un-conducteur-est-dans-un-etat-critique_6797519_3211.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-une-attaque-de-drones-russe-fait-deux-morts-dans-la-region-de-kharkiv-selon-les-autorites-locales_6796922_3210.html"
             }
           ]
         },
         {
-          "title": "Slovaquie : nouveau pôle européen de production de munitions sous tension géopolitique",
+          "title": "Salvador : chute historique de la criminalité mais surpopulation carcérale",
           "bullets": [
-            "La Slovaquie exploite son héritage industriel pour devenir un acteur clé dans la production de munitions pour l’Ukraine.",
-            "Les usines locales tournent à plein régime pour répondre à la demande croissante liée à la guerre en Ukraine.",
-            "Un enjeu stratégique pour l’Europe, avec des implications économiques et sécuritaires majeures."
+            "Baisse significative de la criminalité grâce à des politiques sécuritaires renforcées.",
+            "Plus de 93 000 détenus en attente de jugement, saturant le système judiciaire.",
+            "Risque de récidive et de tensions sociales accrues en l’absence de solutions rapides.",
+            "Appel du procureur général pour accélérer les procédures judiciaires."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/21/salvador-derriere-la-chute-historique-de-la-criminalite-des-milliers-de-detenus-dans-l-attente-d-etre-juges_6798123_3210.html"
             }
           ]
         },
         {
-          "title": "Algérie : répression des critiques économiques et restrictions des libertés d’expression",
+          "title": "États-Unis : le camp Trump instrumentalise les émeutes françaises pour mobiliser avant les midterms",
           "bullets": [
-            "Un universitaire condamné à quatre ans de prison pour ses propos sur l’industrie extractive.",
-            "Cette décision s’inscrit dans une tendance plus large de répression des commentaires non autorisés sur la situation économique.",
-            "Des craintes croissantes quant à la liberté académique et à la transparence dans le débat public."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Colère sociale en Europe : manifestations contre la hausse des prix de l’énergie et la crise du logement",
-          "bullets": [
-            "Des manifestations parfois violentes éclatent en Italie, Espagne, Belgique et Portugal.",
-            "Les citoyens dénoncent la flambée des prix de l’énergie et le manque de solutions pour le logement.",
-            "Un contexte de crise économique qui aggrave les tensions sociales dans plusieurs pays européens."
+            "Utilisation des violences du 17 octobre en France pour dénoncer l’immigration et l’islamisme.",
+            "Stratégie politique visant à renforcer le soutien de la base MAGA avant les élections de mi-mandat.",
+            "Critiques des médias et des opposants sur la manipulation de l’information à des fins électorales.",
+            "Impact potentiel sur la perception internationale des États-Unis et de leur politique étrangère."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/20/italie-espagne-belgique-portugal-en-europe-la-colere-sociale-gagne-du-terrain-sur-fond-de-flambee-des-prix-de-l-energie-et-de-crise-du-logement_6797862_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine : Zelensky cherche à maintenir l’attention des États-Unis avant une possible escalade",
+          "bullets": [
+            "Rencontre à Oslo avec l’envoyé spécial de Donald Trump, Steve Witkoff, pour relancer le soutien américain.",
+            "Montée des tensions sur le terrain et craintes d’une nouvelle offensive russe.",
+            "Zelensky insiste sur la nécessité d’une aide militaire et financière accrue.",
+            "Diplomatie active pour éviter une perte d’intérêt international face à d’autres crises."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Elon Musk prépare la fusion de SpaceX et Tesla pour créer une géante technologique",
+          "bullets": [
+            "Projet de fusion des deux entreprises pour renforcer leur position dans l’IA, l’aérospatial et l’automobile.",
+            "Valorisation potentielle parmi les plus élevées au monde si la fusion aboutit.",
+            "Concurrence accrue avec d’autres acteurs technologiques comme Apple ou Google.",
+            "Impact sur les marchés financiers et les stratégies industrielles mondiales."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html"
             }
           ]
         }
@@ -153,13 +176,29 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Réunions citoyennes après les violences du 17 octobre : mobilisation devant les mairies de Haute-Saône",
+          "title": "Rassemblements à Vesoul contre les violences du 17 octobre",
           "bullets": [
-            "Élus et citoyens se réunissent pour discuter des suites à donner aux violences urbaines du 17 octobre.",
-            "Une volonté de trouver des solutions locales pour apaiser les tensions et renforcer la sécurité.",
-            "Ces rencontres visent à impliquer la population dans la recherche de réponses adaptées."
+            "Environ 50 personnes se sont rassemblées devant la mairie pour dénoncer les violences urbaines.",
+            "Manifestation pacifique et appel à la réflexion sur les causes des tensions sociales.",
+            "Soutien aux victimes et exigence de mesures pour éviter de nouvelles escalades.",
+            "Participation de divers acteurs locaux, dont des associations et des élus."
           ],
           "sources": []
+        },
+        {
+          "title": "Projet d’école imprimée en 3D au Qatar : un record mondial",
+          "bullets": [
+            "Construction de 30 000 mètres carrés de murs imprimés en 3D pour une école au Qatar.",
+            "Projet présenté comme le plus grand bâtiment imprimé en 3D jamais construit.",
+            "Utilisation de technologies innovantes pour réduire les coûts et les délais de construction.",
+            "Impact potentiel sur les normes architecturales et les méthodes de construction à l’échelle mondiale."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/ecole-imprimee-en-3d-21102026/"
+            }
+          ]
         }
       ]
     },
@@ -167,44 +206,77 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Mission MMX : le rover Idéfix s’envole pour Phobos, lune de Mars",
+          "title": "Netflix : virage stratégique et licenciements massifs",
           "bullets": [
-            "Le rover Idéfix, embarqué dans la mission MMX, se dirige vers Phobos pour y prélever des échantillons.",
-            "Une première étape pour mieux comprendre l’origine et la composition de cette lune martienne.",
-            "Une collaboration internationale pour explorer les mystères de Mars et de son système."
+            "Licenciement de 6 % des effectifs, notamment dans la direction artistique.",
+            "Changement de stratégie axé sur la production de contenus plus ciblés et moins coûteux.",
+            "Réorganisation interne pour renforcer la compétitivité face à d’autres plateformes comme Disney+ ou Amazon Prime.",
+            "Impact sur les créateurs et les employés, avec des craintes pour la qualité des productions."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html"
+              "url": "https://www.numerama.com/pop-culture/2356985-netflix-licenciements-et-virage-a-180-degres-que-se-passe-t-il-chez-netflix.html"
             }
           ]
         },
         {
-          "title": "Découverte exceptionnelle : une étoile verte confirmée par des astronomes",
+          "title": "Super Mario 64 : une énigme de 30 ans enfin résolue",
           "bullets": [
-            "Des astronomes de l’université de Warwick ont identifié une étoile verte, un phénomène rare et inattendu.",
-            "Cette découverte remet en question certaines théories sur la couleur des étoiles observées à l’œil nu.",
-            "Une avancée scientifique qui ouvre de nouvelles perspectives en astrophysique."
+            "Décryptage d’une inscription mystérieuse dans le château de Peach, alimentant une légende urbaine depuis 1996.",
+            "Confirmation de la théorie selon laquelle il s’agit d’un message caché par les développeurs.",
+            "Fin d’une énigme célèbre dans la communauté des fans de jeux vidéo.",
+            "Réactions enthousiastes des joueurs et des historiens du jeu vidéo."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html"
+              "url": "https://www.numerama.com/pop-culture/2357061-super-mario-64-une-enigme-vieille-de-30-ans-enfin-dechiffree-met-fin-a-une-legende-urbaine.html"
             }
           ]
         },
         {
-          "title": "Tesla Roadster : confirmation d’une quatrième version par le designer en chef",
+          "title": "Citroën 2 CV : le concept du Mondial de Paris suscite l’enthousiasme",
           "bullets": [
-            "Franz von Holzhausen, designer en chef de Tesla, confirme le développement d’une quatrième version du Roadster.",
-            "Une évolution technologique et esthétique pour répondre aux attentes des consommateurs et aux innovations du marché.",
-            "Un nouveau chapitre pour la légende de la voiture sportive électrique."
+            "Présentation du concept de la future Citroën 2 CV au Mondial de l’Auto 2026.",
+            "Réactions positives du public, qualifiant le véhicule de « bonbon » et d’innovant.",
+            "Mise en avant des nouvelles technologies et du design moderne tout en gardant l’esprit emblématique de la 2 CV.",
+            "Attente forte pour le lancement officiel du modèle en série."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2356123-tesla-roadster-une-quatrieme-version-confirmee-par-le-designer-en-chef.html"
+              "url": "https://www.numerama.com/vroom/2357147-un-bonbon-je-me-revois-dans-la-mienne-ce-que-le-public-pense-a-chaud-de-la-citroen-2-cv-au-mondial.html"
+            }
+          ]
+        },
+        {
+          "title": "Les Anneaux de pouvoir : saison 3 et révélations sur l’Anneau Unique",
+          "bullets": [
+            "Affiches et teasers annonçant des changements majeurs pour Sauron et l’Anneau Unique.",
+            "Focus sur les Nazgûl et Celeborn dans la saison 3, prévue pour le 11 novembre sur Prime Video.",
+            "Anticipation des fans pour une intrigue plus sombre et complexe.",
+            "Impact potentiel sur la série dérivée de l’univers de Tolkien."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/1808354-saison-3-des-anneaux-de-pouvoir.html"
+            }
+          ]
+        },
+        {
+          "title": "Waymo étend ses taxis autonomes à Madrid après l’Allemagne",
+          "bullets": [
+            "Annonce de Waymo pour un service de taxis sans chauffeur dans la région de Madrid.",
+            "Préparation pour une expansion potentielle vers d’autres villes européennes, dont Paris.",
+            "Technologie avancée d’intelligence artificielle pour assurer la sécurité et l’efficacité.",
+            "Concurrence accrue avec d’autres acteurs comme Uber ou Lyft dans le domaine des transports autonomes."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2356989-apres-lallemagne-waymo-annonce-des-taxis-autonomes-a-madrid-bientot-a-paris.html"
             }
           ]
         }
@@ -214,52 +286,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaques bancaires : l’UE impose aux banques de rembourser les victimes",
+          "title": "Comment obtenir un remboursement après une arnaque en ligne ?",
           "bullets": [
-            "Une décision européenne impose aux banques de rembourser les victimes d’arnaques, même en cas de négligence grave.",
-            "Cette mesure vise à renforcer la protection des consommateurs contre les fraudes financières.",
-            "Les victimes pourront désormais obtenir réparation plus facilement."
+            "Conseils d’une avocate pour signaler les arnaques et obtenir un remboursement.",
+            "Importance de conserver les preuves (emails, captures d’écran, transactions).",
+            "Procédures à suivre auprès des plateformes de paiement et des autorités compétentes.",
+            "Ressources et associations pour aider les victimes à porter plainte."
           ],
           "sources": []
         },
         {
-          "title": "Hausse des impôts locaux : relance du débat sur la suppression de la taxe d’habitation",
+          "title": "Baisse des impôts locaux pour 20 000 propriétaires au Grau-du-Roi",
           "bullets": [
-            "La hausse des impôts locaux relance le débat sur la suppression de la taxe d’habitation.",
-            "Les citoyens et associations dénoncent une pression fiscale accrue sur les ménages.",
-            "Des propositions pour réformer le système fiscal et réduire les charges pour les contribuables."
+            "Réduction des impôts locaux pour les propriétaires éligibles, sept mois après les élections municipales.",
+            "Mesure visant à soulager la pression financière sur les ménages.",
+            "Critères d’éligibilité et modalités de demande détaillées par la mairie.",
+            "Impact positif sur le pouvoir d’achat des résidents."
           ],
           "sources": []
         },
         {
-          "title": "Chèque énergie : usages méconnus pour les retraités",
+          "title": "Arnaque aux faux sites de vente en ligne : huit ans de prison requis",
           "bullets": [
-            "Les retraités peuvent utiliser leur chèque énergie pour des usages moins connus comme le bois ou les granulés.",
-            "Des économies potentielles importantes si ces options sont mieux exploitées.",
-            "Un appel à mieux informer les bénéficiaires sur les différentes utilisations possibles."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Felix Balshaw, 186e mondial, remporte sa première victoire sur le circuit principal",
-          "bullets": [
-            "Le jeune Français Felix Balshaw s’impose à Lyon contre Jaime Faria, marquant sa première victoire sur le circuit professionnel.",
-            "Un exploit qui place ce jeune talent sous les projecteurs du golf international.",
-            "Une performance qui pourrait accélérer sa progression dans le classement mondial."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Championnat d’Europe de tennis de table : Félix Lebrun sacré champion",
-          "bullets": [
-            "Félix Lebrun remporte le titre de champion d’Europe de tennis de table.",
-            "Une victoire qui couronne des années d’entraînement et de persévérance.",
-            "Un nouveau record pour la France dans cette discipline sportive."
+            "Plus de 20 000 clients piégés par un escroc utilisant de faux sites de vente en ligne.",
+            "Arnaque consistant à vendre du mobilier jamais livré, avec des sommes importantes détournées.",
+            "Procès en cours à Nanterre pour ce trentenaire accusé de fraude et escroquerie.",
+            "Appel à la vigilance des consommateurs face aux arnaques en ligne."
           ],
           "sources": []
         }
@@ -282,15 +334,17 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à domicile contre FC Barcelone",
+          "title": "Prochain match : le PSG à domicile contre Olympique lyonnais",
           "bullets": [
-            "Adversaire : FC Barcelone (à domicile)",
-            "Date : mardi 20 octobre à 21h00 (heure de Paris)",
+            "Adversaire : Olympique lyonnais (à domicile)",
+            "Compétition : Ligue 1",
+            "Date : dimanche 25 octobre à 20h45 (heure de Paris)",
             "Stade : Parc des Princes",
-            "Diffusion : Canal+ Foot",
+            "Diffusion : Ligue 1+",
             "Classement : 2e de Ligue 1 — 14 pts en 7 matchs",
             "Ligue des champions : 1er de la phase de ligue (6 pts)",
-            "Stade rennais FC — Stade : Roazhon Park · Capacité : 29 778 places · Entraîneur : Franck Haise"
+            "Adversaire au classement : 1er de Ligue 1 (14 pts)",
+            "Olympique lyonnais — Stade : Groupama Stadium · Capacité : 57 206 places · Entraîneur : Paulo Fonseca"
           ],
           "sources": [
             {
