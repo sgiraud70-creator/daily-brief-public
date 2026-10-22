@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html",
-    "title": "Budget 2027 : objectif de déficit inférieur à 3 % du PIB maintenu malgré un déficit à 5,4 % en 2026",
-    "rubrique": "France",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/13/adoption-a-l-assemblee-de-la-loi-integrale-contre-les-violences-sexuelles-les-associations-feministes-saluent-une-avancee-incroyable_6793173_3224.html",
-    "title": "Loi intégrale contre les violences sexuelles adoptée à l'Assemblée : avancée saluée par les associations féministes",
-    "rubrique": "France",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-pour-jean-luc-melenchon-le-soutien-au-mouvement-lyceen-consacre-le-pari-de-lfi-sur-la-jeunesse_6793352_823448.html",
-    "title": "Présidentielle 2027 : LFI mise sur la mobilisation lycéenne pour séduire les jeunes",
-    "rubrique": "France",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html",
-    "title": "ARCOM envisage des régulations pour les podcasts politiques influents avant la présidentielle 2027",
-    "rubrique": "France",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html",
-    "title": "RN et gouvernement s’allient pour repousser la motion de rejet du PS sur le budget 2027",
-    "rubrique": "France",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/14/en-equateur-les-pecheurs-victimes-collaterales-des-bombes-americaines-cette-barque-c-etait-l-heritage-de-mon-pere-notre-gagne-pain-qu-est-ce-que-je-vais-faire-maintenant_6793387_3210.html",
-    "title": "Équateur : pêcheurs victimes collatérales des frappes américaines contre les narcotrafiquants",
-    "rubrique": "International",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/14/en-italie-giorgia-meloni-veut-faire-de-sa-voix-une-marque-pour-lutter-contre-les-deepfakes_6793319_3210.html",
-    "title": "Italie : Giorgia Meloni lance une initiative pour lutter contre les deepfakes via sa voix",
-    "rubrique": "International",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html",
-    "title": "États-Unis : perquisition de la maison de l’élue démocrate Ilhan Omar",
-    "rubrique": "International",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
-    "title": "Angleterre : rémunération des agriculteurs pour des pratiques écologiques",
-    "rubrique": "International",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/10/14/enquetes-et-documentaire-choc-ce-qu-on-sait-des-methodes-de-l-armee-israelienne-a-gaza_6793316_5463015.html",
-    "title": "Documentaire israélien « Naza » révèle les méthodes controversées de l’armée à Gaza",
-    "rubrique": "International",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html",
-    "title": "Google lance Gemini 4 Argon pour rivaliser avec OpenAI et Anthropic",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html",
-    "title": "Citroën révèle la 2 CV Fourgonnette au Mondial de l’Auto",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html",
-    "title": "Airbus teste le drone de combat Valkyrie en Europe",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.3dnatives.com/aminsider-podcast-fabrication-additive-13102026/",
-    "title": "AMinsider, le podcast sur la fabrication additive, rejoint 3Dnatives",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-14"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
     "title": "Assemblée nationale : validation du prélèvement de 30,9 milliards d’euros pour l’UE malgré l’opposition du RN et de LFI",
     "rubrique": "France",
@@ -646,5 +562,89 @@
     "title": "Waymo étend ses taxis autonomes à Madrid après l’Allemagne",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/22/a-mayotte-orange-somme-de-stopper-son-deploiement-anarchique-de-la-fibre-optique_6798569_3234.html",
+    "title": "Orange sommé d'arrêter son déploiement de la fibre optique à Mayotte",
+    "rubrique": "France",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/22/apres-le-17-octobre-aux-comparutions-avec-reconnaissance-prealable-de-culpabilite-deja-sept-mentions-a-votre-casier-arretez-maintenant-concentrez-vous-sur-votre-vie-et-votre-boulot_6798550_3224.html",
+    "title": "Manifestations du 17 octobre : les prévenus face à la justice, entre culpabilité et désillusion",
+    "rubrique": "France",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/22/brillant-mais-pas-politique-le-ministre-de-l-education-edouard-geffray-se-retrouve-sur-la-breche_6798552_823448.html",
+    "title": "Éducation nationale : Edouard Geffray sous pression face au mouvement lycéen",
+    "rubrique": "France",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
+    "title": "Encadrement des loyers : le Sénat adopte une prolongation minimaliste",
+    "rubrique": "France",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
+    "title": "Guyane : plan Orsec « sécheresse » activé pour ravitailler les communes isolées",
+    "rubrique": "France",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/22/apres-l-ouverture-d-un-canal-diplomatique-entre-la-france-et-le-regime-des-talibans-les-exiles-afghans-craignent-d-etre-remis-entre-les-mains-de-leurs-bourreaux_6798571_4500055.html",
+    "title": "Dialogue France-Talibans : les exilés afghans craignent un retour aux violences",
+    "rubrique": "International",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html",
+    "title": "Pays baltes : préparation massive à une guerre avec la Russie",
+    "rubrique": "International",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
+    "title": "Ukraine : frappes russes sur Kiev et Moscou ciblent civils et infrastructures",
+    "rubrique": "International",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/22/not-in-my-name-dans-les-oliveraies-de-cisjordanie-occupee-la-campagne-electorale-d-une-des-figures-juives-democrates-de-new-york_6798549_3210.html",
+    "title": "Cisjordanie : une figure juive américaine dénonce les violences israéliennes",
+    "rubrique": "International",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/22/cherif-ould-taher-le-sulfureux-intermediaire-malien-derriere-les-dernieres-liberations-d-otages-au-sahel_6798566_3212.html",
+    "title": "Sahel : Chérif Ould Taher, l’intermédiaire malien derrière les libérations d’otages",
+    "rubrique": "International",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2358399-panne-orange-une-migration-ratee-vers-la-5g-aurait-coupe-le-reseau-a-des-millions-dabonnes.html",
+    "title": "Panne Orange : migration ratée vers la 5G prive des millions d’abonnés de réseau",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2358509-cest-fini-pour-bioware-le-prochain-jeu-mass-effect-est-annule.html",
+    "title": "BioWare ferme ses portes : la saga Mass Effect annulée",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2358375-des-sites-web-inaccessibles-du-japon-a-leurope-les-autorites-appellent-a-mettre-php-a-jour-en-urgence.html",
+    "title": "Faille critique dans PHP : des sites web inaccessibles en Europe et au Japon",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2358121-mercedes-sera-le-premier-a-proposer-une-conduite-assistee-de-point-a-point-en-allemagne-des-fin-2026.html",
+    "title": "Mercedes lance la conduite autonome « point à point » en Allemagne dès fin 2026",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-22"
   }
 ]
