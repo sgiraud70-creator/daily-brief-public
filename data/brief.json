@@ -1,5 +1,5 @@
 {
-  "date_str": "Vendredi 23 octobre 2026",
+  "date_str": "Samedi 24 octobre 2026",
   "audio_minutes": 11,
   "read_minutes": 10,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Domice et Ode",
+          "title": "Aujourd'hui, on souhaite la fête : Florentin et Magloire",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/23/10/2026/23-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/24/10/2026/24-Octobre-2026.html"
             }
           ]
         }
@@ -22,109 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "217 personnes incarcérées parmi 2 700 placées en garde à vue après les violences du 17 octobre",
+          "title": "Manifestations du 24 octobre : tensions maximales avec 70 000 policiers déployés",
           "bullets": [
-            "Gérald Darmanin affirme que les poursuites judiciaires sont « une réponse extrêmement ferme » sans précédent.",
-            "Les violences ont touché plusieurs villes, avec des pillages et des dégradations massives.",
-            "Les interpellations concernent des personnes accusées de violences, dégradations et participation à des émeutes.",
-            "Le ministre de l’Intérieur souligne une volonté de « zéro impunité » pour les auteurs des troubles.",
-            "Les manifestations du 24 octobre pourraient s’accompagner de nouvelles tensions sécuritaires."
+            "Samedi 24 octobre, des centaines de défilés sont prévus dans plusieurs villes françaises dans un contexte de forte tension sociale.",
+            "Les autorités craignent des violences similaires à celles du 17 octobre, où 400 interpellations ont été enregistrées.",
+            "Le Premier ministre Sébastien Lecornu a ciblé l’‘ultragauche’ et la ‘délinquance’ comme principales menaces.",
+            "Un dispositif sécuritaire renforcé vise à prévenir les pillages et dégradations observés lors des précédentes mobilisations."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-17-octobre-217-personnes-ont-ete-incarcerees-parmi-les-2-700-placees-en-garde-a-vue-apres-les-violences-et-pillages-du-week-end-selon-gerald-darmanin_6795855_3224.html"
+              "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-des-centaines-de-defiles-attendus-dans-plusieurs-villes-de-france-dans-un-contexte-de-tres-forte-tension_6799445_3224.html"
             }
           ]
         },
         {
-          "title": "Paris barricadé et habitants inquiets à l’approche d’une nouvelle journée de manifestations",
+          "title": "LFI joue un rôle de « parti parapluie » pour les mobilisations sans être extrême gauche",
           "bullets": [
-            "La capitale reste sous tension après les violences du 17 octobre, avec des commerces et habitations protégés par des barricades.",
-            "Les habitants rapportent une atmosphère de « guerre civile » et une peur des pillages récurrents.",
-            "Les forces de l’ordre préparent une présence renforcée pour le 24 octobre, jour de nouvelles mobilisations.",
-            "Certains quartiers évitent les rassemblements par crainte de représailles ou de nouvelles dégradations.",
-            "Les commerçants anticipent des pertes financières importantes en cas de nouveaux troubles."
+            "La France Insoumise (LFI) assume son rôle de rassemblement pour les manifestants, sans être perçue comme l’‘ultragauche’ ou une force dirigeante.",
+            "Le gouvernement a minimisé l’influence de l’extrême gauche, mais des figures comme celles de l’Ultragauche sont visibles dans les cortèges.",
+            "Cette dynamique reflète une fragmentation des mouvements sociaux, où LFI agit comme un point de convergence pour des revendications variées.",
+            "Les analyses soulignent une stratégie de mobilisation moins idéologique que pragmatique, visant à canaliser les énergies contestataires."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/23/a-la-veille-d-une-nouvelle-journee-de-manifestations-le-24-octobre-un-paris-barricade-et-des-habitants-inquiets_6798955_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/24/mobilisation-du-17-octobre-comment-lfi-sans-etre-l-extreme-gauche-ni-l-ultragauche-joue-pour-eux-un-role-de-parti-parapluie_6799478_823448.html"
             }
           ]
         },
         {
-          "title": "Interdictions de manifester multipliées : risque de fragilisation de l’État de droit",
+          "title": "Congrès du RN à Orléans : 20 000 à 30 000 opposants attendus",
           "bullets": [
-            "Plus de 30 interdictions de manifester ont été prononcées dans toute la France avant le 24 octobre.",
-            "Les préfets invoquent la prévention des « débordements » et la protection des biens publics.",
-            "Des associations et avocats dénoncent une « dérive sécuritaire » et une atteinte aux libertés fondamentales.",
-            "Les interdictions ciblent notamment des zones sensibles comme Paris et Marseille.",
-            "Le Conseil d’État pourrait être saisi pour évaluer la légalité de ces mesures exceptionnelles."
+            "Le Rassemblement National (RN) organise son congrès à Orléans les 24 et 25 octobre, avec une forte mobilisation d’opposants prévue.",
+            "Des commerces sont fermés et des mesures de sécurité renforcées pour éviter des débordements similaires à ceux observés lors d’autres rassemblements politiques.",
+            "Les tensions pourraient s’intensifier avec la présence de groupes radicalisés ou d’activistes anti-RN.",
+            "Ce congrès marque un moment clé pour le RN, qui cherche à renforcer son image et son influence avant les élections législatives."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-pleuvent-sur-toute-la-france-au-risque-de-malmener-l-etat-de-droit_6798944_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html"
             }
           ]
         },
         {
-          "title": "Emmanuel Macron reprend le contrôle du maintien de l’ordre après les violences du 17 octobre",
+          "title": "Moody’s maintient la note de la France à Aa3 avec une perspective négative",
           "bullets": [
-            "Le président de la République s’est impliqué directement dans la gestion de la crise des lycéens et des violences urbaines.",
-            "Il a demandé une « réponse ferme » tout en insistant sur le respect de l’État de droit.",
-            "Les préfets et maires sont invités à coordonner leurs actions avec les forces de l’ordre.",
-            "Macron a évoqué une « crise de confiance » dans les institutions, nécessitant une réponse unifiée.",
-            "Les services de l’État préparent un plan d’urgence pour les prochaines manifestations."
+            "L’agence de notation Moody’s a confirmé la note souveraine de la France à Aa3, malgré des inquiétudes sur l’incertitude budgétaire et politique.",
+            "Cette décision déjoue les pronostics pessimistes et évite une dégradation immédiate, mais une perspective négative est maintenue.",
+            "Le Premier ministre a salué cette décision comme un « déjouement des pronostics déclinistes ».",
+            "La stabilité économique reste fragile en raison des tensions sociales et des réformes en cours."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/23/face-aux-mobilisations-emmanuel-macron-reprend-les-commandes-sur-le-maintien-de-l-ordre_6798942_823448.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html"
             }
           ]
         },
         {
-          "title": "Commerçants parisiens : dilemme entre sécurité privée et fermetures anticipées avant le 24 octobre",
+          "title": "Fragmentation des jeunesses des quartiers populaires : analyse sociologique",
           "bullets": [
-            "Les commerçants craignent de nouvelles scènes de pillages et de dégradations lors des manifestations.",
-            "Certains font appel à des sociétés de sécurité privée pour protéger leurs magasins, augmentant les coûts.",
-            "D’autres optent pour des fermetures anticipées ou des protections physiques (barricades, vitres blindées).",
-            "Les enseignes de grande distribution renforcent leurs mesures de sécurité, comme le verrouillage des entrées.",
-            "Les associations de commerçants appellent à une coordination nationale pour éviter une « guerre des responsabilités »."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Marseille : Benoît Payan rappelle l’importance de l’État de droit face aux violences",
-          "bullets": [
-            "Le maire de Marseille dénonce dans une tribune les « dérives autoritaires » qui pourraient affaiblir les institutions.",
-            "Il souligne que l’État de droit est « la condition de l’exercice légitime du pouvoir », notamment en période de crise.",
-            "La ville a été particulièrement touchée par les violences du 17 octobre, avec des dégâts matériels importants.",
-            "Payan appelle à une réponse proportionnée, évitant à la fois l’impunité et les excès sécuritaires.",
-            "Il met en garde contre une « montée des tensions » qui pourrait dégénérer en conflit social durable."
+            "La mobilisation du 17 octobre a révélé une grande fragmentation des jeunes des quartiers populaires, selon le sociologue Fabien Truong.",
+            "Les dynamiques de mobilisation varient selon les territoires, avec des formes de contestation parfois divergentes ou concurrentes.",
+            "Cette fragmentation reflète des enjeux sociaux et économiques locaux, ainsi que des rapports complexes avec les institutions.",
+            "Les jeunes acteurs des quartiers jouent un rôle clé dans les mouvements sociaux, mais leur représentation reste contrastée."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/23/benoit-payan-maire-de-marseille-l-etat-de-droit-n-est-pas-un-obstacle-a-la-volonte-politique-mais-la-condition-de-son-exercice-legitime_6798946_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Carcassonne : le maire RN Christophe Barthès multiplie les provocations sur les réseaux sociaux",
-          "bullets": [
-            "Christophe Barthès, élu du Rassemblement National, continue de tenir des propos polémiques sur les réseaux sociaux.",
-            "Ses derniers tweets ciblent les « élites parisiennes » et les « violences urbaines », alimentant les tensions locales.",
-            "Ses prises de position divisent les habitants et suscitent des critiques de la part de l’opposition.",
-            "Le préfet de l’Aude surveille de près ses déclarations, craignant des répercussions sur la cohésion sociale.",
-            "Barthès défend une ligne dure sur la sécurité, en phase avec les positions du RN en période électorale."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/23/a-carcassonne-le-maire-rn-christophe-barthes-poursuit-ses-outrances-a-coups-de-provoc-sur-les-reseaux-sociaux_6798941_4500055.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/24/fabien-truong-sociologue-la-mobilisation-du-17-octobre-a-montre-la-grande-fragmentation-des-jeunesses-dans-les-quartiers-populaires_6799479_3224.html"
             }
           ]
         }
@@ -134,98 +102,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Donald Trump affirme qu’Elon Musk a relancé Starlink pour l’Ukraine après son appel",
+          "title": "Incendie criminel du nid d’aigle d’Hitler en Bavière : un suspect arrêté",
           "bullets": [
-            "Le président américain aurait demandé à Elon Musk de réactiver le réseau Starlink pour fournir une connexion internet à Kiev.",
-            "Cette initiative vise à soutenir les communications militaires et civiles ukrainiennes face à l’invasion russe.",
-            "Les responsables américains confirment que des discussions ont eu lieu, mais sans confirmation officielle de Musk.",
-            "L’Ukraine dépend fortement de Starlink pour ses opérations de communication et de surveillance.",
-            "Cette annonce intervient dans un contexte de tensions accrues entre Washington et Moscou."
+            "Le bâtiment historique du nid d’aigle d’Hitler, en Bavière, a été incendié dans la nuit du 23 au 24 octobre.",
+            "Un suspect a été arrêté peu après l’incendie, mais personne n’a été retrouvé à l’intérieur du bâtiment lors de l’arrivée des pompiers.",
+            "Les autorités allemandes enquêtent sur les motivations possibles de cet acte, qualifié d’attaque terroriste par certains médias.",
+            "Ce site, symbole de la Seconde Guerre mondiale, est protégé et fait l’objet de mesures de sécurité renforcées."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html"
             }
           ]
         },
         {
-          "title": "Colombie : neuf guérilleros de l’ELN tués dans un bombardement gouvernemental",
+          "title": "Israël : avancées des partisans du « Grand Israël » avant les élections législatives",
           "bullets": [
-            "Le président colombien, Abelardo de la Espriella, annonce la mort de neuf membres de l’Armée de libération nationale (ELN).",
-            "Cette frappe intervient dans le cadre d’une offensive contre les groupes armés illégaux.",
-            "L’ELN, l’un des derniers groupes guérilleros actifs en Colombie, est accusé de trafic de drogue et d’enlèvements.",
-            "Les tensions persistent dans les régions frontalières, où les forces gouvernementales multiplient les opérations.",
-            "Cette escalade pourrait aggraver la situation humanitaire dans les zones touchées."
+            "À la veille des élections législatives israéliennes du 27 octobre, des militants pro-expansionnistes cherchent à étendre les frontières d’Israël vers le Liban, la Syrie et Gaza.",
+            "Ces propositions, qualifiées d’extrémistes par certains observateurs, visent à renforcer la souveraineté israélienne sur des territoires contestés.",
+            "Le scrutin pourrait voir une montée des partis nationalistes et religieux, favorables à ces ambitions territoriales.",
+            "La communauté internationale surveille ces déclarations, craignant une escalade des tensions dans la région."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/23/en-colombie-le-president-annonce-la-mort-de-neuf-guerilleros-de-l-eln-dans-un-bombardement_6798734_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html"
             }
           ]
         },
         {
-          "title": "Donald Trump sommé de témoigner sous serment dans son procès en diffamation contre la BBC",
+          "title": "Donald Trump dépose un recours préventif en cas de défaite en Alaska",
           "bullets": [
-            "Un tribunal américain exige que Donald Trump témoigne sous serment dans le cadre de son procès contre la BBC.",
-            "Il est accusé d’avoir diffamé le groupe audiovisuel britannique via un montage vidéo trompeur.",
-            "Trump réclame 10 milliards de dollars en dommages et intérêts pour préjudice à son image.",
-            "La BBC conteste les allégations et affirme agir dans l’intérêt public.",
-            "Ce procès s’inscrit dans une série de litiges judiciaires impliquant l’ancien président américain."
+            "Donald Trump a demandé à son administration de bloquer la validation des résultats du scrutin sénatorial en Alaska, au cas où un candidat démocrate l’emporterait.",
+            "Cette mesure s’inscrit dans une stratégie plus large de contestation des élections, déjà utilisée lors des précédents scrutins.",
+            "Les démocrates et les observateurs dénoncent une tentative d’ingérence dans le processus électoral, susceptible de semer le doute sur la légitimité des résultats.",
+            "L’Alaska est un État clé pour les républicains, avec un sénateur sortant dont le mandat pourrait être remis en cause."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/23/donald-trump-somme-de-temoigner-sous-serment-dans-son-proces-en-diffamation-contre-la-bbc_6798701_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html"
             }
           ]
         },
         {
-          "title": "Fidji : épidémie de VIH accélérée par l’essor d’une drogue de synthèse",
+          "title": "CIA invite les opposants cubains à collaborer : une démarche inédite",
           "bullets": [
-            "L’archipel des Fidji connaît l’une des progressions les plus rapides du VIH au monde, liée à la consommation de métamphétamine.",
-            "Cette drogue, introduite récemment, favorise les comportements à risque et les transmissions du virus.",
-            "Les autorités sanitaires alertent sur une crise humanitaire en cours, avec un manque criant de moyens de prévention.",
-            "Les programmes de dépistage et de traitement sont saturés, faute de financements internationaux.",
-            "La communauté internationale est appelée à renforcer son soutien pour éviter une catastrophe sanitaire."
+            "Le secrétaire d’État américain Marco Rubio a invité les opposants cubains à travailler avec la CIA pour renforcer la pression sur le régime castriste.",
+            "Cette démarche, qualifiée d’inédite, s’inscrit dans une stratégie plus large de soutien aux mouvements de résistance à Cuba.",
+            "Washington intensifie ses actions diplomatiques et économiques contre le gouvernement cubain, déjà sous sanctions depuis des décennies.",
+            "Les réactions à Cuba sont mitigées, certains y voyant une ingérence, d’autres une opportunité de changement politique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/23/aux-fidji-une-epidemie-de-vih-favorisee-par-l-essor-d-une-drogue-de-synthese_6798835_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html"
             }
           ]
         },
         {
-          "title": "Brésil : les classes moyennes se détournent de Lula après dix-sept ans de pouvoir",
+          "title": "RDC : essai clinique du vaccin Tumaini contre Ebola Bundibugyo lancé",
           "bullets": [
-            "Les politiques sociales du Parti des travailleurs (PT) ont réduit la pauvreté, mais les classes moyennes critiquent son bilan économique.",
-            "L’inflation persistante et la stagnation des salaires alimentent un mécontentement croissant.",
-            "Les sondages montrent une baisse de popularité de Lula, notamment auprès des électeurs modérés.",
-            "Son adversaire, Jair Bolsonaro, capitalise sur cette frustration en promettant des réformes libérales.",
-            "La campagne présidentielle de 2026 s’annonce serrée, avec un risque de polarisation accrue."
+            "Face à la propagation de la souche Bundibugyo d’Ebola, la République démocratique du Congo lance un essai clinique du vaccin Tumaini.",
+            "Ce vaccin, développé en partenariat avec l’OMS, vise à compléter les mesures de prévention contre une souche moins courante mais tout aussi dangereuse.",
+            "La RDC fait face à une recrudescence des épidémies, nécessitant des réponses rapides et innovantes.",
+            "L’OMS surveille de près l’avancée de ce vaccin, en espérant une efficacité rapide pour limiter la propagation du virus."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/23/au-bresil-pourquoi-les-classes-moyennes-ont-tourne-le-dos-a-lula_6798937_3234.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html"
             }
           ]
         },
         {
-          "title": "Procès de Diego Maradona : verdict attendu le 22 décembre après six mois d’audiences",
+          "title": "Argentine : non-lieu pour Javier Milei dans l’affaire de la cryptomonnaie effondrée",
           "bullets": [
-            "Six professionnels de santé sont jugés pour négligence dans la mort de Diego Maradona, survenue en novembre 2020.",
-            "L’accusation demande entre quatre et douze ans de prison pour les prévenus.",
-            "Le procès a révélé des dysfonctionnements dans la prise en charge médicale de l’icône du football.",
-            "Les familles des accusés et des victimes attendent avec impatience le verdict final.",
-            "Ce procès pourrait avoir des répercussions sur les standards de soins en Argentine."
+            "Le président argentin Javier Milei a été relaxé dans l’affaire liée à la cryptomonnaie $LIBRA, dont le lancement avait été relayé sur son réseau social avant son effondrement.",
+            "Les autorités judiciaires ont estimé qu’il n’y avait pas de preuve de sa responsabilité dans l’échec de ce projet financier.",
+            "Cette décision intervient dans un contexte de tensions économiques et politiques en Argentine, où les réformes libérales de Milei sont controversées.",
+            "Les marchés financiers observent cette affaire de près, en raison de son impact potentiel sur la confiance dans les initiatives économiques du gouvernement."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/23/proces-sur-la-mort-de-diego-maradona-verdict-attendu-le-22-decembre-apres-une-cinquantaine-d-audiences-et-six-mois-de-debats_6798800_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html"
             }
           ]
         }
@@ -233,68 +195,89 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Vesoul : manifestations anticipées en prévision du 24 octobre",
+          "bullets": [
+            "Une quarantaine de manifestants ont défilé dans les rues de Vesoul en avance sur les mobilisations prévues pour le 24 octobre.",
+            "Les participants dénoncent les conditions sociales et économiques, en lien avec les mouvements nationaux de contestation.",
+            "Les forces de l’ordre sont présentes pour assurer la sécurité et prévenir tout débordement.",
+            "Cette mobilisation locale reflète les tensions plus larges qui traversent la France."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Haute-Saône : appel à témoins pour la fugue d’un mineur",
+          "bullets": [
+            "La gendarmerie de Vesoul lance un appel à témoins concernant la fugue d’un mineur placé en famille d’accueil.",
+            "Les autorités recherchent des informations sur sa localisation ou ses éventuels contacts depuis sa disparition.",
+            "Cette affaire soulève des questions sur la protection des mineurs et la gestion des familles d’accueil.",
+            "Les services sociaux et judiciaires travaillent en urgence pour retrouver le jeune fugitif."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "+73 % de croissance des ventes de voitures électriques en Europe en septembre 2026",
+          "title": "1Password propose un système sécurisé pour accéder aux comptes via l’IA",
           "bullets": [
-            "Les ventes de véhicules électriques ont bondi de 73 % en septembre par rapport à l’année précédente en Europe.",
-            "Cette hausse contredit les pronostics alarmistes sur un ralentissement de la demande.",
-            "Les constructeurs européens et asiatiques ont maintenu leurs objectifs de décarbonation malgré les défis économiques.",
-            "La France et l’Allemagne restent les principaux marchés, suivis par l’Espagne et les Pays-Bas.",
-            "Les subventions gouvernementales et les innovations technologiques soutiennent cette dynamique."
+            "1Password lance 1Password for Agents, un système permettant aux agents IA d’accéder aux comptes utilisateurs sans connaître leurs mots de passe.",
+            "Cette solution utilise des protocoles de sécurité avancés pour éviter toute exposition des identifiants.",
+            "L’objectif est de faciliter l’automatisation des tâches tout en préservant la confidentialité des données personnelles.",
+            "Les utilisateurs peuvent ainsi déléguer des actions à des assistants IA sans risque de fuites de données."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2359151-73-en-septembre-en-europe-la-voiture-electrique-donne-tort-aux-discours-alarmistes.html"
+              "url": "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html"
             }
           ]
         },
         {
-          "title": "Anthropic lance Claude Duet, un agent IA proactif pour les professionnels",
+          "title": "Éco-score : piège pour les citadines électriques malgré l’aide aux véhicules familiaux",
           "bullets": [
-            "Anthropic présente Claude Duet, un assistant IA capable d’agir en arrière-plan pour automatiser des tâches professionnelles.",
-            "Cette solution vise à concurrencer des outils comme Muse de Meta ou Dots d’OpenAI.",
-            "Claude Duet peut gérer des emails, préparer des rapports ou organiser des agendas sans intervention humaine.",
-            "L’outil est déjà disponible pour les entreprises et les freelances via une interface intuitive.",
-            "Anthropic mise sur l’IA proactif pour révolutionner la productivité au travail."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Tempête Austen : règles de remboursement de la SNCF pour les trains supprimés ou retardés",
-          "bullets": [
-            "La tempête Austen a perturbé les transports en Normandie, avec des trains supprimés ou retardés.",
-            "La SNCF propose des remboursements partiels ou intégraux selon la durée de l’attente ou l’annulation.",
-            "Les voyageurs peuvent demander un remboursement via l’appli SNCF ou en gare, sous conditions.",
-            "Les perturbations concernent notamment les lignes Paris-Le Havre et Rouen-Caen.",
-            "La compagnie assure un suivi personnalisé pour les usagers impactés."
+            "Le nouvel arrêté sur l’éco-score semble favoriser les véhicules électriques familiaux, mais pénalise en réalité les citadines.",
+            "Cette mesure pourrait décourager l’achat de véhicules plus petits et plus adaptés aux trajets urbains.",
+            "Les associations écologistes dénoncent une incohérence dans la politique de transition énergétique.",
+            "Les constructeurs automobiles doivent désormais adapter leurs stratégies pour répondre à ces nouvelles exigences."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2359185-tempete-austen-votre-train-est-supprime-ou-en-retard-voici-les-regles-de-la-sncf-pour-vous-faire-rembourser.html"
+              "url": "https://www.numerama.com/vroom/2360213-eco-score-derriere-le-faux-cadeau-aux-vehicules-familiaux-le-piege-pour-les-citadines-electriques.html"
             }
           ]
         },
         {
-          "title": "Tesla livre son robotaxi Cybercab avec des restrictions géographiques pour les premiers clients",
+          "title": "Quad9 arrête son service DNS en France le 24 novembre",
           "bullets": [
-            "Tesla prévoit de livrer ses premiers Cybercab d’ici la fin 2026, mais avec des limitations d’usage.",
-            "Les clients ne pourront pas utiliser le véhicule comme un taxi classique sans autorisation préalable.",
-            "Le système repose sur une IA de conduite autonome, mais Tesla maintient des contrôles stricts.",
-            "Les premiers tests ont lieu dans des zones désignées pour garantir la sécurité.",
-            "Cette approche vise à éviter les dérives liées à l’autonomie partagée avant une généralisation."
+            "La fondation suisse Quad9, connue pour son service DNS 9.9.9.9, mettra fin à son activité en France le 24 novembre.",
+            "Cette décision suit une condamnation pour piratage, avec une astreinte de 1 000 euros par jour de retard.",
+            "Quad9 continuera d’opérer ailleurs dans le monde, mais son retrait de France limite les alternatives sécurisées pour les utilisateurs.",
+            "Les utilisateurs français devront se tourner vers d’autres services DNS pour maintenir leur sécurité en ligne."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2358881-tesla-va-livrer-son-robotaxi-cybercab-a-des-clients-qui-ne-pourront-pas-le-faire-rouler-ou-ils-veulent.html"
+              "url": "https://www.numerama.com/politique/2359951-dns-9-9-9-9-quad9-coupera-son-service-en-france-le-24-novembre-apres-une-condamnation-liee-au-piratage.html"
+            }
+          ]
+        },
+        {
+          "title": "Carrie : la série la plus populaire de Prime Video prolonge son aventure",
+          "bullets": [
+            "Prime Video annonce que la série Carrie, déjà très populaire, ne s’arrête pas là et prépare de nouveaux épisodes.",
+            "Cette décision s’appuie sur le succès immédiat de la première saison, qui a séduit un large public.",
+            "Les fans peuvent espérer une suite ou une nouvelle saison dans un avenir proche.",
+            "Prime Video mise sur des contenus originaux pour renforcer sa position dans le marché du streaming."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2359969-carrie-la-serie-la-plus-populaire-de-prime-video-est-loin-detre-terminee.html"
             }
           ]
         }
@@ -304,13 +287,22 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque WhatsApp : un député piégé par un faux contact professionnel",
+          "title": "Alerte aux arnaques WhatsApp : « Sophie » ou « Eliska » en danger ?",
           "bullets": [
-            "Un député a été victime d’une arnaque via WhatsApp, croyant échanger avec un contact officiel.",
-            "Les escrocs ont utilisé une technique appelée « appareillage fantôme » pour usurper l’identité du contact.",
-            "La victime a été invitée à voter pour une fausse candidate, permettant aux hackers de s’infiltrer dans son compte.",
-            "WhatsApp et les autorités alertent sur cette méthode de piratage en hausse.",
-            "Les utilisateurs sont invités à vérifier systématiquement les numéros avant d’interagir."
+            "Une nouvelle arnaque WhatsApp utilise des messages prétendant solliciter l’aide pour des proches fictifs, comme « Sophie » ou « Eliska ».",
+            "Les victimes sont incitées à voter ou à transférer de l’argent sous prétexte d’urgence, avant d’être contactées par des escrocs.",
+            "Les autorités rappellent de ne jamais partager ses informations personnelles ou financières via des messages suspects.",
+            "Cette technique d’ingénierie sociale cible particulièrement les utilisateurs distraits ou émotionnellement vulnérables."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Fiscalité : vérification des vérandas et abris de jardin non déclarés",
+          "bullets": [
+            "L’administration fiscale intensifie ses contrôles sur les vérandas et abris de jardin non déclarés, après avoir ciblé les piscines.",
+            "Ces constructions, souvent considérées comme des dépendances, peuvent être soumises à des taxes foncières ou à des pénalités.",
+            "Les propriétaires sont invités à régulariser leur situation pour éviter des redressements coûteux.",
+            "Cette campagne vise à lutter contre l’évasion fiscale et à équilibrer les contributions des ménages."
           ],
           "sources": []
         }
@@ -320,31 +312,19 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "Bambu Lab lance son premier scanner 3D, prévu pour novembre 2026",
+          "title": "Woven : un pavillon en bois et impression 3D conçu pour s’intégrer à une forêt catalane",
           "bullets": [
-            "Bambu Lab annonce le lancement de son scanner 3D, le S1, prévu pour novembre 2026.",
-            "Cet appareil vise à compléter l’écosystème d’impression 3D de la marque, déjà leader sur le marché.",
-            "Le scanner permettra une intégration fluide entre la numérisation et l’impression 3D.",
-            "Les premières précommandes sont ouvertes, avec une livraison prévue d’ici la fin de l’année.",
-            "Bambu Lab mise sur l’innovation pour renforcer sa position face à des concurrents comme EOS ou 3D Systems."
+            "Woven est un pavillon conçu par le collectif Atelier DARN, situé en Catalogne, qui se fond progressivement dans son environnement forestier.",
+            "Ce projet utilise une combinaison de bois et d’impression 3D pour créer une structure écologique et esthétique.",
+            "L’objectif est de montrer comment l’architecture peut coexister harmonieusement avec la nature.",
+            "Ce pavillon pourrait inspirer de nouvelles approches en matière de construction durable et respectueuse de l’environnement."
           ],
           "sources": [
             {
               "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/scanner-3d-bambu-lab-22102026/"
+              "url": "https://www.3dnatives.com/woven-pavillon-en-bois-et-impression-3d-23102026/"
             }
           ]
-        },
-        {
-          "title": "MB Therapeutics réalise une percée mondiale en impression 3D de médicaments",
-          "bullets": [
-            "L’entreprise MB Therapeutics a signé un accord historique pour l’impression 3D de médicaments sur mesure.",
-            "Cette technologie permet de produire des traitements personnalisés, adaptés aux besoins spécifiques des patients.",
-            "L’accord ouvre la voie à une production à grande échelle et à une réduction des coûts pharmaceutiques.",
-            "Les applications potentielles incluent les vaccins, les traitements contre le cancer et les médicaments rares.",
-            "Cette innovation pourrait révolutionner l’accès aux soins dans les pays en développement."
-          ],
-          "sources": []
         }
       ]
     },
@@ -352,24 +332,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Mort tragique de Cléa, 17 ans, lors d’un match de rugby amateur : enquête en cours",
+          "title": "Provence Rugby bat Béziers et établit un record historique en Pro D2",
           "bullets": [
-            "Cléa, 17 ans, est décédée après un choc à la tête lors d’un match de rugby amateur à Marmande.",
-            "Les circonstances exactes de l’accident sont encore en cours d’enquête par les autorités judiciaires.",
-            "Son père a partagé un témoignage poignant sur sa fille, décrivant son « brillant » et son « sourire contagieux ».",
-            "La communauté sportive et les associations appellent à une réflexion sur la sécurité des jeunes joueurs.",
-            "Les fédérations de rugby renforcent les protocoles de sécurité et les formations des arbitres."
+            "Le club de Provence Rugby a battu Béziers lors d’un match de Pro D2, établissant un nouveau record historique de points marqués.",
+            "Cette victoire marque une ascension significative dans la hiérarchie du rugby français.",
+            "Les joueurs ont démontré une performance exceptionnelle, avec un score final de 54 à 3.",
+            "Ce succès renforce la position de Provence Rugby dans la compétition et ouvre des perspectives pour la saison à venir."
           ],
           "sources": []
         },
         {
-          "title": "Orléans Loiret Basket : l’entraîneur Lamine Kébé écarté après des tensions internes",
+          "title": "Hommage national à Cléa, 17 ans, décédée dans un accident de rugby",
           "bullets": [
-            "Lamine Kébé, entraîneur de l’Orléans Loiret Basket, a été écarté de son poste après des désaccords avec la direction.",
-            "Les raisons invoquées incluent des divergences sur la stratégie sportive et la gestion d’équipe.",
-            "Kébé a entraîné l’équipe en Élite 2, mais des tensions ont émergé lors de la saison en cours.",
-            "La direction du club cherche à stabiliser l’équipe avant la saison prochaine.",
-            "Un nouveau coach sera nommé d’ici la fin de l’année pour assurer la transition."
+            "Cléa, 17 ans, est décédée dans un accident de rugby, suscitant une vague d’émotion dans le monde sportif français.",
+            "La Fédération Française de Rugby annonce un hommage national pour rendre hommage à sa mémoire.",
+            "Des cérémonies et événements sont prévus ce week-end pour célébrer sa vie et son engagement dans le sport.",
+            "Ce drame relance le débat sur la sécurité et la prévention des risques dans les sports de contact."
           ],
           "sources": []
         }
@@ -396,7 +374,7 @@
           "bullets": [
             "Adversaire : Olympique lyonnais (à domicile)",
             "Compétition : Ligue 1",
-            "Date : dimanche 25 octobre à 20h45 (heure de Paris)",
+            "Date : lundi 26 octobre à 20h30 (heure de Paris)",
             "Stade : Parc des Princes",
             "Diffusion : Ligue 1+",
             "Classement : 2e de Ligue 1 — 14 pts en 7 matchs",

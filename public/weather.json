@@ -1,132 +1,127 @@
 {
   "current": {
-    "temp": 8,
-    "feels": 6,
-    "code": 3,
+    "temp": 7,
+    "feels": 3,
+    "code": 61,
     "is_night": true,
-    "tmax": 14,
+    "tmax": 8,
     "tmin": 6,
-    "precip_prob": 85,
-    "wind": 31
+    "precip_prob": 100,
+    "wind": 19
   },
   "steps": [
     {
       "hh": "07h",
-      "code": 3,
+      "code": 61,
       "is_night": false,
-      "temp": 9,
-      "precip": 0.0,
-      "wind": 5
+      "temp": 7,
+      "precip": 0.7,
+      "wind": 17
     },
     {
       "hh": "09h",
       "code": 61,
       "is_night": false,
-      "temp": 9,
-      "precip": 2.1,
-      "wind": 8
+      "temp": 7,
+      "precip": 0.6,
+      "wind": 15
     },
     {
       "hh": "11h",
       "code": 61,
       "is_night": false,
-      "temp": 10,
-      "precip": 1.4,
+      "temp": 8,
+      "precip": 0.9,
       "wind": 16
     },
     {
       "hh": "13h",
-      "code": 3,
+      "code": 61,
       "is_night": false,
-      "temp": 14,
-      "precip": 0.0,
-      "wind": 27
+      "temp": 8,
+      "precip": 0.1,
+      "wind": 15
     },
     {
       "hh": "15h",
       "code": 3,
       "is_night": false,
-      "temp": 14,
-      "precip": 0.0,
-      "wind": 30
+      "temp": 8,
+      "precip": 0.4,
+      "wind": 18
     },
     {
       "hh": "17h",
-      "code": 80,
+      "code": 61,
       "is_night": false,
-      "temp": 12,
-      "precip": 0.3,
-      "wind": 27
+      "temp": 8,
+      "precip": 1.1,
+      "wind": 16
     },
     {
       "hh": "19h",
-      "code": 3,
+      "code": 61,
       "is_night": false,
-      "temp": 11,
-      "precip": 0.0,
-      "wind": 27
+      "temp": 8,
+      "precip": 0.6,
+      "wind": 13
     },
     {
       "hh": "21h",
       "code": 61,
       "is_night": true,
-      "temp": 10,
-      "precip": 0.0,
-      "wind": 19
+      "temp": 8,
+      "precip": 0.8,
+      "wind": 12
     },
     {
       "hh": "23h",
-      "code": 2,
+      "code": 61,
       "is_night": true,
-      "temp": 9,
-      "precip": 0.0,
-      "wind": 19
+      "temp": 8,
+      "precip": 0.5,
+      "wind": 15
     }
   ],
   "days": [
     {
-      "name": "Sam",
-      "code": 80,
-      "tmax": 9,
-      "tmin": 6
-    },
-    {
       "name": "Dim",
       "code": 61,
-      "tmax": 14,
+      "tmax": 13,
       "tmin": 8
     },
     {
       "name": "Lun",
       "code": 61,
-      "tmax": 13,
+      "tmax": 12,
       "tmin": 6
     },
     {
       "name": "Mar",
-      "code": 45,
+      "code": 3,
       "tmax": 19,
       "tmin": 7
     },
     {
       "name": "Mer",
-      "code": 3,
-      "tmax": 15,
-      "tmin": 8
+      "code": 61,
+      "tmax": 14,
+      "tmin": 6
     },
     {
       "name": "Jeu",
       "code": 3,
-      "tmax": 16,
+      "tmax": 14,
       "tmin": 6
+    },
+    {
+      "name": "Ven",
+      "code": 3,
+      "tmax": 15,
+      "tmin": 5
     }
   ],
   "source": "Open-Meteo",
-  "vigilance": {
-    "level": "jaune",
-    "phenomenes": [
-      "vent violent"
-    ]
-  },
+  "vigilance": null,
   "place": "Loulans-Verchamp"
 }
