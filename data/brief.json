@@ -1,18 +1,18 @@
 {
-  "date_str": "Lundi 26 octobre 2026",
+  "date_str": "Mardi 27 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 4,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Démétrius, Dimitri et Cédric",
+          "title": "Aujourd'hui, on souhaite la fête : Emeline et Antoinette",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/26/10/2026/26-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/27/10/2026/27-Octobre-2026.html"
             }
           ]
         }
@@ -22,77 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Crise sociale : l’exécutif face à un automne 2026 marqué par des tensions persistantes",
+          "title": "Projet de loi « casseurs-payeurs » : durcissement et examen au Sénat",
           "bullets": [
-            "Les manifestations du 24 octobre ont marqué un nouveau pic de colère sociale, avec des appels à la mobilisation pour les semaines à venir.",
-            "Sébastien Lecornu, Premier ministre, s’engage à apporter des « réponses concrètes » lors d’un entretien avec les représentants lycéens.",
-            "Risque d’une escalade des grèves et blocages, notamment dans les transports et les services publics.",
-            "L’inflation énergétique et la baisse du pouvoir d’achat alimentent la grogne, fragilisant les perspectives économiques."
+            "Le texte, initialement inspiré des violences post-Ligue des champions, est renforcé après les événements du 17 octobre.",
+            "Les sénateurs examinent le projet en séance publique à partir du 27 octobre.",
+            "Les mesures visent à responsabiliser financièrement les casseurs lors des manifestations.",
+            "Le gouvernement et le Sénat anticipent une opposition forte des syndicats et de l’opposition politique."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/26/apres-les-manifestations-du-24-octobre-l-executif-confronte-a-la-perspective-d-un-long-automne-social_6800384_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html"
             }
           ]
         },
         {
-          "title": "Marine Le Pen lance sa campagne présidentielle à Orléans avec un discours radical et optimiste",
+          "title": "Imprescriptibilité des crimes sexuels sur mineurs : débat au Sénat",
           "bullets": [
-            "La candidate du Rassemblement National (RN) a réuni plus de 8 000 soutiens lors d’un meeting en périphérie d’Orléans, ville placée sous cloche sécuritaire.",
-            "Discours axé sur la « renaissance » de la France, avec des propositions radicales sur l’immigration et l’identité nationale.",
-            "Une campagne marquée par une forte présence policière (3 000 agents) pour écarter les opposants et les manifestations extérieures.",
-            "Stratégie visant à mobiliser les électeurs mécontents des politiques sociales et économiques actuelles."
+            "Un amendement étendant l’imprescriptibilité à ces crimes est discuté lors de l’examen du projet de loi sur la protection de l’enfance.",
+            "La mesure vise à faciliter les poursuites contre les auteurs, même après de longues périodes.",
+            "Les associations de victimes soutiennent cette initiative, tandis que certains juristes soulignent les risques juridiques.",
+            "Le Sénat doit trancher avant une adoption définitive à l’Assemblée nationale."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html"
             }
           ]
         },
         {
-          "title": "Attentat raciste de Trappes : le maire dénonce l’échec de la protection présidentielle",
+          "title": "Attentat raciste de Trappes : condamnation pour apologie du terrorisme",
           "bullets": [
-            "Ali Rabeh (Génération.s), maire de Trappes, accuse Emmanuel Macron de ne pas avoir été un « protecteur » face à la montée des discours d’extrême droite.",
-            "L’attentat du 25 octobre, revendiqué pour des motifs racistes, a fait plusieurs blessés graves, exacerbant les tensions locales.",
-            "Le maire souligne l’impact des propos politiques sur la sécurité des citoyens, notamment dans les quartiers populaires.",
-            "Appel à une mobilisation accrue contre les violences et les discriminations, avec une demande de mesures concrètes."
+            "Un homme a été condamné à de la prison ferme pour avoir célébré l’attentat meurtrier sur Facebook.",
+            "Ses commentaires, jugés incitatifs, ont été qualifiés d’apologie du terrorisme.",
+            "L’affaire relance le débat sur la modération des réseaux sociaux et la lutte contre les discours haineux.",
+            "La victime, un jeune homme de 18 ans, est décédée lors de l’attaque en septembre 2026."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html"
             }
           ]
         },
         {
-          "title": "École républicaine : la philosophe Myriam Revault d’Allonnes appelle à répondre aux revendications lycéennes",
+          "title": "Budget 2027 : calendrier serré et enjeux financiers",
           "bullets": [
-            "Dans une tribune au *Monde*, la philosophe plaide pour que l’école assure sa « promesse d’émancipation » face aux inégalités sociales.",
-            "Les mouvements lycéens expriment des revendications sur les conditions d’études, le pouvoir d’achat et la réforme des lycées.",
-            "Risque de marginalisation des élèves si les attentes ne sont pas prises en compte, selon l’auteure.",
-            "Appel à une réforme structurelle pour redonner confiance dans l’institution scolaire."
+            "L’État et la Sécurité sociale doivent adopter leurs budgets avant fin 2026, dans un contexte de tensions budgétaires.",
+            "Les dates clés incluent les débats parlementaires et les arbitrages gouvernementaux.",
+            "Les équilibres financiers sont fragilisés par les dépenses sociales et les réformes en cours.",
+            "Les oppositions dénoncent un manque de transparence sur les choix budgétaires."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/26/myriam-revault-d-allonnes-philosophe-la-juste-colere-des-lyceens-demande-que-l-ecole-republicaine-assure-sa-promesse-d-emancipation_6800385_3232.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/27/budget-2027-les-dates-cles-des-prochaines-semaines_6801100_4355770.html"
             }
           ]
         },
         {
-          "title": "Analyse : la social-démocratie française accusée de ne pas mesurer son déclin politique",
+          "title": "Mobilisations lycéennes et étudiantes : réponses gouvernementales et tensions persistantes",
           "bullets": [
-            "Une tribune souligne que la social-démocratie française n’a pas anticipé le rejet de ses politiques, contribuant à la radicalisation de la droite.",
-            "Absence d’un projet réformateur clair, perçu comme responsable de la montée des extrêmes.",
-            "Risque de fragmentation de la gauche face à la dynamique du Rassemblement National.",
-            "Nécessité de repenser les valeurs et les propositions pour retrouver une légitimité électorale."
+            "Le gouvernement propose des mesures sur Parcoursup, les effectifs et le bac, sans apaiser les revendications.",
+            "Les syndicats maintiennent leur mobilisation contre la précarisation des études et des formations.",
+            "Les manifestations se poursuivent malgré les annonces, avec un risque de radicalisation des mouvements.",
+            "Les universités restent fermées administrativement, alimentant les tensions."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/25/la-social-democratie-en-france-n-a-pas-pris-la-mesure-du-rejet-qu-elle-suscite-ni-de-sa-responsabilite-dans-la-droitisation-des-valeurs_6800096_3232.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html"
+            }
+          ]
+        },
+        {
+          "title": "Marine Le Pen : inéligibilité confirmée jusqu’à la Cour de cassation",
+          "bullets": [
+            "Un magistrat honoraire de la Cour de cassation confirme son inéligibilité actuelle en raison d’un pourvoi en cours.",
+            "Cette situation pourrait impacter sa candidature aux prochaines élections.",
+            "Les mécanismes de l’exécution provisoire et les délais judiciaires sont mis en lumière.",
+            "L’affaire soulève des questions sur la légalité des mandats politiques en cas de recours."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html"
+            }
+          ]
+        },
+        {
+          "title": "Rassemblements contre le racisme : gauche divisée après l’attentat de Trappes",
+          "bullets": [
+            "Les partis de gauche, autour de Raphaël Glucksmann, répondent à l’appel des associations contre le racisme.",
+            "Les divisions internes affaiblissent leur mobilisation politique et médiatique.",
+            "Les rassemblements visent à dénoncer les violences racistes et les discriminations.",
+            "L’absence de consensus au sein de la gauche limite l’impact des manifestations."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html"
             }
           ]
         }
@@ -102,50 +132,281 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Brésil : Lula réélu président malgré un scrutin chaotique et des contestations",
+          "title": "Guerre en Ukraine : trêve humanitaire à Olechky sous occupation russe",
           "bullets": [
-            "Le candidat de gauche, Luiz Inácio Lula da Silva, a remporté le second tour avec 50,9% des voix, devançant Flavio Bolsonaro (49,1%).",
-            "Flavio Bolsonaro réclame l’annulation de l’élection, dénonçant des irrégularités et une mobilisation massive en faveur de Lula.",
-            "Lula s’engage à gouverner malgré l’absence de majorité au Congrès, dominé par le Parti libéral de Bolsonaro.",
-            "Risque de tensions politiques et sociales dans les mois à venir, avec une société civile mobilisée contre les dérives autoritaires."
+            "Une trêve humanitaire est censée permettre une opération d’aide aux civils dans cette ville ukrainienne isolée.",
+            "Les habitants manquent de vivres et de soins médicaux depuis des semaines.",
+            "Les négociations restent tendues entre Moscou et Kiev pour garantir la sécurité des civils.",
+            "L’ONU surveille la mise en œuvre de cette trêve, jugée fragile."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-une-treve-humanitaire-est-censee-avoir-commence-a-olechky-ville-ukrainienne-sous-occupation-russe_6799896_3210.html"
             }
           ]
         },
         {
-          "title": "Jordanie : trois suspects arrêtés après une attaque meurtrière contre une église orthodoxe",
+          "title": "Législatives en Israël : Benyamin Nétanyahou face à un scrutin serré",
           "bullets": [
-            "Trois hommes armés ont attaqué une église orthodoxe à Hammoud (sud du pays), faisant plusieurs morts et blessés.",
-            "L’attaque, sans précédent contre les chrétiens jordaniens, a suscité une vague de condamnations internationales.",
-            "Les autorités jordaniennes ont arrêté trois suspects, mais l’enquête se poursuit pour déterminer les motivations.",
-            "Renforcement des mesures de sécurité dans les lieux de culte et les zones sensibles du royaume."
+            "Le premier ministre sortant affronte un bloc d’opposition unifié après les attaques du 7 octobre 2023.",
+            "Les sondages le donnent au coude-à-coude avec ses adversaires, dont le parti de Benny Gantz.",
+            "Son avenir politique dépendra des résultats de ce scrutin historique.",
+            "Les tensions sécuritaires et politiques pèsent sur le débat électoral."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/26/jordanie-trois-suspects-arretes-apres-l-attaque-meurtriere-contre-une-eglise-orthodoxe_6800427_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html"
             }
           ]
         },
         {
-          "title": "Israël : Yaïr Netanyahou, fils du Premier ministre, instrumentalise les réseaux sociaux dans la campagne électorale",
+          "title": "Frappe jordanienne en Syrie : six morts après une attaque contre une église",
           "bullets": [
-            "Le fils de Benjamin Netanyahou, Yaïr Netanyahou, utilise intensivement les réseaux sociaux pour promouvoir sa candidature à droite.",
-            "Stratégie axée sur la polarisation et la diffusion de discours anti-establishment, ciblant les jeunes électeurs.",
-            "1"
+            "La Jordanie affirme avoir ciblé des membres d’organisations terroristes liées aux auteurs de l’attaque contre une église.",
+            "Six morts sont confirmés parmi les cibles, dont des combattants étrangers.",
+            "Cette opération s’inscrit dans la lutte contre le terrorisme dans la région.",
+            "Les réactions internationales restent prudentes, entre soutien et inquiétude."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/27/des-frappes-jordaniennes-en-syrie-font-au-moins-six-morts-apres-une-attaque-meurtriere-contre-une-eglise-du-royaume_6801097_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Brésil : Flavio Bolsonaro renonce à contester la victoire de Lula",
+          "bullets": [
+            "Le fils de l’ancien président Jair Bolsonaro reconnaît officiellement la victoire de Luiz Inácio Lula da Silva.",
+            "Cette décision met fin à une campagne de contestation électorale isolée.",
+            "Les alliés brésiliens de Bolsonaro en Amérique latine suivent cette ligne.",
+            "Lula entame son troisième mandat dans un contexte de réconciliation nationale."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Royaume-Uni : le roi Charles III face à des demandes de réparation pour l’esclavage",
+          "bullets": [
+            "La Jamaïque engage une bataille juridique pour obtenir des compensations financières liées au commerce triangulaire.",
+            "Ces demandes visent à reconnaître les souffrances historiques et à indemniser les descendants des esclaves.",
+            "Le Royaume-Uni doit trancher sur la légalité de ces réclamations.",
+            "Le débat s’inscrit dans une dynamique internationale de réparations."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/27/le-roi-charles-iii-saisi-de-demandes-de-reparation-liees-a-l-esclavage_6801090_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Lobbies évangéliques américains en Afrique : influence culturelle et politique",
+          "bullets": [
+            "Des groupes religieux américains promouvent des valeurs traditionnelles africaines pour contrer les mouvements progressistes.",
+            "Ces lobbies financent des campagnes médiatiques et des formations politiques.",
+            "Leur influence s’étend sur les questions sociétales et électorales.",
+            "Les gouvernements africains et la société civile y voient une ingérence étrangère."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/27/ces-lobbys-evangeliques-americains-qui-exportent-leur-guerre-culturelle-en-afrique_6801089_3212.html"
+            }
+          ]
+        },
+        {
+          "title": "Donald Trump et la Russie : affaires et diplomatie",
+          "bullets": [
+            "Le candidat républicain semble s’aligner sur une position pro-russe, sous l’influence de Kirill Dmitriev.",
+            "Ce dernier, proche de Poutine, propose des partenariats économiques en Ukraine.",
+            "Cette évolution suscite des interrogations sur les motivations de Trump.",
+            "Les États-Unis et l’OTAN observent cette dynamique avec méfiance."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/10/27/derriere-le-revirement-de-donald-trump-en-faveur-de-la-russie-les-promesses-d-affaires-juteuses-de-kirill-dmitriev-l-habile-vrp-de-vladimir-poutine_6801086_3210.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "Amendement au Sénat : retrait obligatoire des appels à l’insurrection sur les réseaux sociaux",
+          "bullets": [
+            "Un amendement impose à TikTok, Instagram et X de retirer les contenus incitant à l’insurrection sous une heure.",
+            "Le non-respect pourrait entraîner un blocage des plateformes en France.",
+            "Cette mesure vise à renforcer la sécurité lors des manifestations.",
+            "Les associations de défense des libertés expriment des craintes sur les dérives possibles."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/politique/2361087-un-amendement-au-senat-obligerait-tiktok-instagram-et-x-a-retirer-en-une-heure-les-appels-a-linsurrection-sous-peine-de-blocage.html"
+            }
+          ]
+        },
+        {
+          "title": "Test d’un laser anti-drone sur le porte-avions Charles de Gaulle",
+          "bullets": [
+            "Un laser anti-drone a été installé et testé sur le porte-avions français en juin 2026.",
+            "Cette innovation marque une première pour les porte-avions de l’armée de l’air et de l’espace.",
+            "L’objectif est d’améliorer la protection contre les drones hostiles.",
+            "Les tests visent à valider l’efficacité et la fiabilité du système."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2360661-un-laser-anti-drone-teste-sur-le-charles-de-gaulle-en-juin-une-premiere-pour-un-porte-avions-francais.html"
+            }
+          ]
+        },
+        {
+          "title": "Incident chez Anthropic : inquiétude aux États-Unis sur la cybersécurité",
+          "bullets": [
+            "Une start-up affirme avoir piraté les systèmes internes d’Anthropic en moins de douze heures.",
+            "Cet incident soulève des questions sur la sécurité des données et les risques liés à l’IA.",
+            "Les autorités américaines surveillent cette affaire de près.",
+            "Anthropic et ses partenaires doivent renforcer leurs protocoles de sécurité."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/cyberguerre/2360969-si-une-bande-de-gamins-peut-faire-ca-les-chinois-ne-sont-peut-etre-pas-loin-derriere-un-incident-chez-anthropic-inquiete-washington.html"
+            }
+          ]
+        },
+        {
+          "title": "Nouveau doublage de Dragon Ball Daima : polémique en France",
+          "bullets": [
+            "Le nouveau doublage français de Dragon Ball Daima suscite des critiques pour le remplacement de la voix historique de Goku.",
+            "Brigitte Lecordier, absente du projet, dénonce cette décision.",
+            "Les fans et les professionnels du doublage expriment leur mécontentement.",
+            "Cette affaire relance le débat sur la fidélité aux œuvres et la gestion des voix."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/pop-culture/2361099-nous-sommes-sans-voix-le-nouveau-doublage-francais-de-dragon-ball-daima-passe-mal.html"
+            }
+          ]
+        },
+        {
+          "title": "Nio ouvre une nouvelle station d’échange de batteries en Europe",
+          "bullets": [
+            "Le constructeur chinois Nio a inauguré une station près de Kassel, en Allemagne.",
+            "Cette ouverture contraste avec ses annonces précédentes de réduction de son réseau en Europe.",
+            "Nio mise sur l’échange de batteries pour accélérer l’adoption de ses véhicules électriques.",
+            "Les concurrents observent cette stratégie avec attention."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/vroom/2361051-nio-ouvre-une-nouvelle-station-dechange-de-batteries-en-europe-malgre-la-promesse-de-tout-arreter.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Anthropic lance Claude Duet, son nouvel agent IA collaboratif",
+          "bullets": [
+            "Claude Duet est conçu pour faciliter les interactions entre utilisateurs et systèmes IA.",
+            "Cette innovation vise à améliorer l’efficacité des workflows professionnels.",
+            "Anthropic mise sur l’automatisation et la collaboration pour renforcer ses solutions.",
+            "Les entreprises pourraient adopter rapidement cette technologie."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "X-Hinges : logiciel du MIT pour des objets imprimés en 3D sensibles au toucher",
+          "bullets": [
+            "Développé par des ingénieurs du MIT, X-Hinges permet de concevoir des objets 3D avec des articulations tactiles.",
+            "Cette technologie ouvre de nouvelles possibilités pour les interfaces interactives.",
+            "Les applications potentielles incluent les jouets, les outils médicaux et les dispositifs électroniques.",
+            "Les entreprises pourraient intégrer cette innovation dans leurs produits."
+          ],
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/x-hinges-mit-logiciel-27102026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Prélèvements automatiques du fisc : millions de Français concernés",
+          "bullets": [
+            "Des millions de comptes bancaires français ont été débité automatiquement par l’administration fiscale.",
+            "Ces prélèvements concernent des impôts et cotisations non réglés.",
+            "Les contribuables doivent vérifier leurs dettes et régulariser leur situation.",
+            "Les associations de consommateurs alertent sur les risques de surprélèvements."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaques sur WhatsApp : attention aux faux concours et faux services",
+          "bullets": [
+            "De nouvelles arnaques circulent via WhatsApp, notamment des faux concours et services de correction en ligne.",
+            "Les victimes sont incitées à partager leurs données ou à payer pour des services non fournis.",
+            "Les autorités et les associations de consommateurs rappellent les risques de ces pratiques.",
+            "Les utilisateurs doivent rester vigilants et vérifier les sources avant de répondre."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Faux mails des impôts : vigilance contre les arnaques en ligne",
+          "bullets": [
+            "Des faux mails se faisant passer pour des services officiels des impôts circulent sur internet.",
+            "Les arnaqueurs demandent des informations personnelles ou des paiements frauduleux.",
+            "Les contribuables doivent vérifier l’authenticité des messages via le site officiel des impôts.",
+            "La Direction générale des finances publiques (DGFiP) met en garde contre ces pratiques."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Décès tragique d’un rugbyman de 23 ans lors d’un match en Régionale 1",
+          "bullets": [
+            "Un joueur amateur s’est effondré et est décédé après un malaise lors d’un match dans l’Ain.",
+            "Cet événement rappelle les risques cardiovasculaires liés à la pratique sportive intense.",
+            "Les associations médicales et sportives appellent à renforcer les protocoles de sécurité.",
+            "Les familles et les clubs sont en deuil, tandis que les investigations médicales se poursuivent."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
@@ -164,17 +425,16 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à domicile contre Olympique lyonnais",
+          "title": "Prochain match : le PSG à l'extérieur contre Le Havre AC",
           "bullets": [
-            "Adversaire : Olympique lyonnais (à domicile)",
+            "Adversaire : Le Havre AC (à l'extérieur)",
             "Compétition : Ligue 1",
-            "Date : lundi 26 octobre à 20h30 (heure de Paris)",
-            "Stade : Parc des Princes",
+            "Date : vendredi 30 octobre à 19h00 (heure de Paris)",
             "Diffusion : Ligue 1+",
-            "Classement : 5e de Ligue 1 — 14 pts en 7 matchs",
+            "Classement : 1er de Ligue 1 — 17 pts en 8 matchs",
             "Ligue des champions : 1er de la phase de ligue (9 pts)",
-            "Adversaire au classement : 4e de Ligue 1 (14 pts)",
-            "Olympique lyonnais — Stade : Groupama Stadium · Capacité : 57 206 places · Entraîneur : Paulo Fonseca"
+            "Adversaire au classement : 18e de Ligue 1 (2 pts)",
+            "Le Havre AC — Stade : Stade CMA CGM Océane · Capacité : 25 178 places · Entraîneur : Didier Digard"
           ],
           "sources": [
             {
