@@ -1,71 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/20/nous-appelons-a-installer-des-statues-de-femmes-republicaines-au-sein-du-senat_6797868_3232.html",
-    "title": "Sénatrices : appel à installer des statues de femmes républicaines au Palais du Luxembourg",
-    "rubrique": "France",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-etudiante-la-fermeture-administrative-des-universites-transforme-un-probleme-politique-en-un-probleme-de-maintien-de-l-ordre_6797864_3224.html",
-    "title": "Fermeture administrative des universités : une mesure critiquée comme une réponse sécuritaire à une crise politique",
-    "rubrique": "France",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-du-17-octobre-des-erreurs-du-renseignement-au-manque-d-effectifs-mobilises-retour-sur-un-fiasco-securitaire_6797855_3224.html",
-    "title": "Violences du 17 octobre : analyse des erreurs sécuritaires et manque de moyens",
-    "rubrique": "France",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html",
-    "title": "Rapatriés d’Indochine : reconnaissance et réparations après 70 ans d’attente",
-    "rubrique": "France",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/20/trente-ans-apres-la-marche-blanche-consecutive-a-l-affaire-dutroux-la-belgique-essaie-de-mieux-proteger-ses-enfants_6797867_3210.html",
-    "title": "Belgique : renforcement des protections pour les enfants après 30 ans de l’affaire Dutroux",
-    "rubrique": "International",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/20/en-australie-la-deputee-renversee-intentionnellement-par-un-conducteur-est-dans-un-etat-critique_6797519_3211.html",
-    "title": "Australie : une députée renversée intentionnellement par un conducteur, état critique",
-    "rubrique": "International",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html",
-    "title": "Slovaquie : nouveau pôle européen de production de munitions sous tension géopolitique",
-    "rubrique": "International",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/20/italie-espagne-belgique-portugal-en-europe-la-colere-sociale-gagne-du-terrain-sur-fond-de-flambee-des-prix-de-l-energie-et-de-crise-du-logement_6797862_3210.html",
-    "title": "Colère sociale en Europe : manifestations contre la hausse des prix de l’énergie et la crise du logement",
-    "rubrique": "International",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html",
-    "title": "Mission MMX : le rover Idéfix s’envole pour Phobos, lune de Mars",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html",
-    "title": "Découverte exceptionnelle : une étoile verte confirmée par des astronomes",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2356123-tesla-roadster-une-quatrieme-version-confirmee-par-le-designer-en-chef.html",
-    "title": "Tesla Roadster : confirmation d’une quatrième version par le designer en chef",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-20"
-  },
-  {
     "url": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-les-syndicats-recus-par-sebastien-lecornu-a-matignon-mercredi-matin_6795855_3224.html",
     "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
     "rubrique": "France",
@@ -676,5 +610,107 @@
     "title": "X-Hinges : logiciel du MIT pour des objets imprimés en 3D sensibles au toucher",
     "rubrique": "Impression 3D",
     "date": "2026-10-27"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/28/de-la-droite-dure-au-sommet-de-l-etat-la-lente-infusion-des-mots-de-l-extreme-droite_6801528_823448.html",
+    "title": "Attentat de Trappes : manifestations massives contre la « banalisation » des violences racistes",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
+    "title": "Projet de loi « casseurs-payeurs » : le Sénat durcit les sanctions contre les violences lors des manifestations",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
+    "title": "Autopsie du mort lors des manifestations : la famille dénonce l’usage de gaz lacrymogène",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
+    "title": "France 2030 : la Cour des comptes alerte sur les dérives budgétaires du plan d’avenir",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html",
+    "title": "Présidentielle 2027 : Yaël Braun-Pivet propose Gérard Larcher comme figure d’union droite-centre",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
+    "title": "Édouard Philippe propose de diviser par deux l’immigration légale et de réformer l’intégration",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
+    "title": "Assemblée nationale : tensions après l’attentat raciste de Trappes entre majorité et opposition",
+    "rubrique": "France",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
+    "title": "Israël : élections législatives sans majorité claire, risque de blocage politique",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
+    "title": "Menace iranienne en Europe : services de renseignement alertent sur des projets d’assassinats et cyberattaques",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/10/28/en-afrique-l-homophobie-erigee-en-politique-d-etat_6801525_3212.html",
+    "title": "Afrique : l’homophobie érigée en politique d’État dans plusieurs pays",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/28/aux-etats-unis-des-vies-minees-par-l-inflation-l-essence-et-la-nourriture-ca-devient-de-la-folie-on-va-finir-par-crever-de-faim_6801535_3234.html",
+    "title": "États-Unis : inflation et hausse des prix pèsent sur le pouvoir d’achat des travailleurs",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/28/a-la-veille-du-sommet-entre-l-union-europeenne-et-le-canada-les-europeens-se-perdent-dans-une-bagarre-semantique_6801521_3210.html",
+    "title": "Union européenne et Canada : tensions sémantiques avant le sommet commercial",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html",
+    "title": "Administration Trump : accusations de manipulation des élections de mi-mandat",
+    "rubrique": "International",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2361879-aucune-raison-scientifique-de-retarder-la-preuve-des-mathematiciens-sagacent-de-lattitude-dopenai-sur-un-resultat-de-physique-crucial.html",
+    "title": "OpenAI sous pression : des mathématiciens exigent la publication immédiate des preuves d’un résultat physique crucial",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.numerama.com/politique/2361567-shein-temu-aliexpress-comment-un-colis-a-20-e-peut-finir-par-vous-couter-38-e.html",
+    "title": "Taxe sur les colis en ligne : nouveaux frais de 2 € à partir du 1er novembre pour les achats depuis l’étranger",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2361753-dune-3-le-dernier-trailer-avant-la-sortie-est-la.html",
+    "title": "Dune : Troisième Partie – le trailer révèle une fin sanglante et spectaculaire",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2361773-la-liste-des-constructeurs-chinois-qui-assemblent-en-europe-sallonge-encore.html",
+    "title": "Constructeurs chinois : Great Wall Motor assemble un SUV en Bulgarie dès 2027",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-28"
   }
 ]
