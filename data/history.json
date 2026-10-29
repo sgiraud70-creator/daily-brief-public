@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-les-syndicats-recus-par-sebastien-lecornu-a-matignon-mercredi-matin_6795855_3224.html",
-    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
-    "rubrique": "France",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/20/apres-les-violences-urbaines-du-17-octobre-le-gouvernement-et-renaissance-s-en-prennent-aux-reseaux-sociaux_6798016_823448.html",
-    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
-    "rubrique": "France",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html",
-    "title": "Violences post-manifestation : le gouvernement et les syndicats en confrontation",
-    "rubrique": "France",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/21/violences-sexuelles-le-senat-adopte-la-proposition-de-loi-obligeant-a-informer-les-victimes-lors-de-la-liberation-de-leur-agresseur_6798083_3224.html",
-    "title": "Sénat adopte une mesure pour informer les victimes de violences sexuelles lors de la libération de leur agresseur",
-    "rubrique": "France",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/21/au-proces-de-rima-hassan-pour-apologie-du-terrorisme-la-defense-tres-politique-de-l-eurodeputee-lfi_6798050_3224.html",
-    "title": "Procès de Rima Hassan : défense politique et accusations d’apologie du terrorisme",
-    "rubrique": "France",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/21/la-guerre-entre-l-etat-islamique-et-al-qaida-prend-de-l-ampleur-au-sahel_6798195_3210.html",
-    "title": "Guerre au Sahel : escalade entre l’État islamique et Al-Qaïda",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-une-attaque-de-drones-russe-fait-deux-morts-dans-la-region-de-kharkiv-selon-les-autorites-locales_6796922_3210.html",
-    "title": "Ukraine : attaque de drones russes fait deux morts dans la région de Kharkiv",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/21/salvador-derriere-la-chute-historique-de-la-criminalite-des-milliers-de-detenus-dans-l-attente-d-etre-juges_6798123_3210.html",
-    "title": "Salvador : chute historique de la criminalité mais surpopulation carcérale",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html",
-    "title": "États-Unis : le camp Trump instrumentalise les émeutes françaises pour mobiliser avant les midterms",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
-    "title": "Ukraine : Zelensky cherche à maintenir l’attention des États-Unis avant une possible escalade",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html",
-    "title": "Elon Musk prépare la fusion de SpaceX et Tesla pour créer une géante technologique",
-    "rubrique": "International",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.3dnatives.com/ecole-imprimee-en-3d-21102026/",
-    "title": "Projet d’école imprimée en 3D au Qatar : un record mondial",
-    "rubrique": "Actualité locale",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2356985-netflix-licenciements-et-virage-a-180-degres-que-se-passe-t-il-chez-netflix.html",
-    "title": "Netflix : virage stratégique et licenciements massifs",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2357061-super-mario-64-une-enigme-vieille-de-30-ans-enfin-dechiffree-met-fin-a-une-legende-urbaine.html",
-    "title": "Super Mario 64 : une énigme de 30 ans enfin résolue",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2357147-un-bonbon-je-me-revois-dans-la-mienne-ce-que-le-public-pense-a-chaud-de-la-citroen-2-cv-au-mondial.html",
-    "title": "Citroën 2 CV : le concept du Mondial de Paris suscite l’enthousiasme",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/1808354-saison-3-des-anneaux-de-pouvoir.html",
-    "title": "Les Anneaux de pouvoir : saison 3 et révélations sur l’Anneau Unique",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2356989-apres-lallemagne-waymo-annonce-des-taxis-autonomes-a-madrid-bientot-a-paris.html",
-    "title": "Waymo étend ses taxis autonomes à Madrid après l’Allemagne",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-21"
-  },
-  {
     "url": "https://www.lemonde.fr/economie/article/2026/10/22/a-mayotte-orange-somme-de-stopper-son-deploiement-anarchique-de-la-fibre-optique_6798569_3234.html",
     "title": "Orange sommé d'arrêter son déploiement de la fibre optique à Mayotte",
     "rubrique": "France",
@@ -712,5 +610,107 @@
     "title": "Constructeurs chinois : Great Wall Motor assemble un SUV en Bulgarie dès 2027",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html",
+    "title": "Campagne d’influence anti-Qatar : révélations sur une possible ingérence avant la présidentielle 2027",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
+    "title": "Manifestations du 24 octobre : plainte pour blessures graves et saisine de l’IGPN à Toulouse",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
+    "title": "Piratage du site des impôts : mise en examen d’un second suspect, âgé de 16 ans",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html",
+    "title": "Justice suspend le couvre-feu pour les mineurs non accompagnés à Paris",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
+    "title": "Emmanuel Macron dénonce une « désinhibition du racisme et de l’antisémitisme »",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html",
+    "title": "LFI cible les « gamers » pour séduire les jeunes avant la présidentielle 2027",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html",
+    "title": "Baisse de la natalité : les politiques publiques face à un défi croissant",
+    "rubrique": "France",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/29/bresil-pourquoi-malgre-sa-victoire-lula-devra-t-il-faire-des-concessions-pour-gouverner-comprendre-en-trois-minutes_6802084_6176282.html",
+    "title": "Brésil : Lula doit composer avec un Congrès sans majorité pour gouverner",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/video/2026/10/29/qui-est-muhoozi-kainerugaba-l-heritier-brutal-et-fantasque-du-president-ougandais_6802083_1669088.html",
+    "title": "Muhoozi Kainerugaba, héritier controversé du président ougandais Yoweri Museveni",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html",
+    "title": "Midterms 2026 : Barack Obama soutient Jon Ossoff en Géorgie",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/29/en-colombie-une-nouvelle-frappe-contre-des-narcotrafiquants-presumes-fait-au-moins-six-morts_6801978_3210.html",
+    "title": "Colombie : frappe militaire contre des narcotrafiquants fait au moins six morts",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/29/comment-les-tensions-geopolitiques-redessinent-la-carte-des-routes-aeriennes-commerciales_6802011_3234.html",
+    "title": "Tensions géopolitiques redessinent les routes aériennes commerciales",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/29/flavio-bolsonaro-du-candidat-sur-d-etre-elu-president-du-bresil-au-mauvais-perdant-en-cavale-aux-etats-unis_6802013_3210.html",
+    "title": "Flavio Bolsonaro en cavale aux États-Unis après sa défaite au Brésil",
+    "rubrique": "International",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html",
+    "title": "Apple lance son premier MacBook Pro avec écran tactile OLED",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2362863-discord-va-t-il-vraiment-publier-vos-messages-sur-google-voici-ce-qui-change-reellement.html",
+    "title": "Discord pourrait publier des messages sur Google à partir de décembre 2026",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2362745-orgueil-et-prejuges-la-serie-netflix-que-tous-les-fans-de-romance-attendent-devoile-enfin-son-trailer.html",
+    "title": "Netflix dévoile la bande-annonce de « Orgueil et Préjugés »",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2362669-un-bug-eternel-cette-faille-critique-se-cache-dans-le-demarrage-de-la-plupart-des-serveurs-du-monde-et-la-corriger-releve-du-casse-tete.html",
+    "title": "Faille critique dans le démarrage des serveurs : un bug « éternel » difficile à corriger",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-29"
   }
 ]

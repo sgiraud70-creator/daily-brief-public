@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 28 octobre 2026",
+  "date_str": "Jeudi 29 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 10,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Jude, Simon, Thaddée et Dimitri",
+          "title": "Aujourd'hui, on souhaite la fête : Narcisse, Chiara et Honorat",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/28/10/2026/28-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/29/10/2026/29-Octobre-2026.html"
             }
           ]
         }
@@ -22,107 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Attentat de Trappes : manifestations massives contre la « banalisation » des violences racistes",
+          "title": "Campagne d’influence anti-Qatar : révélations sur une possible ingérence avant la présidentielle 2027",
           "bullets": [
-            "Plusieurs milliers de personnes ont manifesté dans toute la France, trois jours après l’attentat raciste de Trappes qui a fait un mort.",
-            "Les rassemblements ont eu lieu sous le slogan « La haine ne passera pas », dénonçant une montée des discours et actes racistes.",
-            "La famille de la victime et des associations ont appelé à une mobilisation nationale contre les violences xénophobes.",
-            "Le gouvernement a réaffirmé son engagement à lutter contre toutes les formes de haine, tout en soulignant les tensions sociales récentes."
+            "Une étude révèle une campagne publicitaire massive et financée, lancée il y a trois ans, ciblant la France avec des messages racistes.",
+            "Les chercheurs soulignent un alignement avec les intérêts géopolitiques d’acteurs étrangers, sans préciser leur origine.",
+            "Les publicités visent à discréditer le Qatar et pourraient influencer l’opinion publique avant le scrutin de 2027.",
+            "Les autorités françaises enquêtent pour déterminer l’origine et les financements de cette campagne."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/28/de-la-droite-dure-au-sommet-de-l-etat-la-lente-infusion-des-mots-de-l-extreme-droite_6801528_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html"
             }
           ]
         },
         {
-          "title": "Projet de loi « casseurs-payeurs » : le Sénat durcit les sanctions contre les violences lors des manifestations",
+          "title": "Manifestations du 24 octobre : plainte pour blessures graves et saisine de l’IGPN à Toulouse",
           "bullets": [
-            "Le texte, initialement critiqué pour son flou juridique, a été adopté à 229 voix contre 105 au Sénat après les violences du 17 octobre.",
-            "Il élargit les possibilités de sanctions pénales pour les participants aux émeutes, incluant les appels à la violence sur les réseaux sociaux.",
-            "Les opposants dénoncent une mesure répressive ciblant les mouvements sociaux et les minorités.",
-            "Le texte est désormais transmis à l’Assemblée nationale pour une nouvelle lecture."
+            "Un jeune homme de 20 ans a été grièvement blessé à la main lors de heurts avec les forces de l’ordre.",
+            "La victime a déposé plainte, entraînant la saisine de l’Inspection générale de la police nationale (IGPN).",
+            "Les faits se sont déroulés en marge d’une manifestation à Toulouse, marquée par des tensions importantes.",
+            "L’enquête vise à déterminer les responsabilités et les circonstances exactes des blessures."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html"
             }
           ]
         },
         {
-          "title": "Autopsie du mort lors des manifestations : la famille dénonce l’usage de gaz lacrymogène",
+          "title": "Piratage du site des impôts : mise en examen d’un second suspect, âgé de 16 ans",
           "bullets": [
-            "L’autopsie conclut à une « défaillance cardiorespiratoire aiguë » pour Christophe M., mort le 17 octobre à Paris.",
-            "La famille et son avocat ont déposé plainte contre les forces de l’ordre pour « violences volontaires » et « non-assistance à personne en danger ».",
-            "Ils accusent l’usage massif de gaz lacrymogène et de grenades assourdissantes comme causes possibles du décès.",
-            "Le parquet de Paris a ouvert une enquête pour « violences involontaires » et « abus de pouvoir »."
+            "Un adolescent de 16 ans, connu sous le pseudonyme de Casquette, est mis en examen pour complicité dans le piratage.",
+            "Il est soupçonné d’avoir collaboré avec ChatNoir, un autre jeune de 18 ans déjà mis en examen.",
+            "Les deux suspects sont accusés d’avoir compromis la sécurité du site des impôts en ligne.",
+            "Les autorités poursuivent leur enquête pour identifier d’éventuels autres complices."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html"
             }
           ]
         },
         {
-          "title": "France 2030 : la Cour des comptes alerte sur les dérives budgétaires du plan d’avenir",
+          "title": "Justice suspend le couvre-feu pour les mineurs non accompagnés à Paris",
           "bullets": [
-            "La Cour des comptes juge le plan « lancé sans réflexion suffisante » et déplore un manque de transparence dans sa gestion.",
-            "Les dépenses ont dépassé les prévisions initiales, avec des risques de surcoûts estimés à plusieurs milliards d’euros.",
-            "Les auditeurs soulignent des incohérences dans les priorités et un manque de contrôle des investissements publics.",
-            "Le gouvernement doit réviser la stratégie pour éviter un « mur budgétaire » selon la Cour."
+            "Un juge des référés a suspendu l’arrêté municipal instaurant un couvre-feu pour les mineurs non accompagnés.",
+            "La mesure concernait certains secteurs autour de l’Élysée et de l’Assemblée nationale.",
+            "L’arrêté devait prendre fin le 6 novembre à 6 heures.",
+            "Cette décision intervient dans un contexte de tensions autour de la gestion des migrants à Paris."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html"
             }
           ]
         },
         {
-          "title": "Présidentielle 2027 : Yaël Braun-Pivet propose Gérard Larcher comme figure d’union droite-centre",
+          "title": "Emmanuel Macron dénonce une « désinhibition du racisme et de l’antisémitisme »",
           "bullets": [
-            "La présidente de l’Assemblée nationale plaide pour une candidature unique « du MoDem à la droite républicaine » pour 2027.",
-            "Elle cite Gérard Larcher, président du Sénat, comme un candidat potentiel pour incarner ce rassemblement.",
-            "Cette proposition vise à éviter une fragmentation de la droite lors de l’élection présidentielle.",
-            "Les réactions des partis concernés restent pour l’instant discrètes."
+            "Le président de la République a pointé du doigt une montée des discours racistes et antisémites.",
+            "Il a ciblé particulièrement le Rassemblement National (RN) et La France insoumise (LFI).",
+            "Macron a appelé à la reprise des cours dans les lycées après les perturbations des dernières semaines.",
+            "Ses propos interviennent dans un contexte de tensions sociales et politiques exacerbées."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html"
             }
           ]
         },
         {
-          "title": "Édouard Philippe propose de diviser par deux l’immigration légale et de réformer l’intégration",
+          "title": "LFI cible les « gamers » pour séduire les jeunes avant la présidentielle 2027",
           "bullets": [
-            "Le candidat d’Horizons à la présidentielle estime que « l’échec de l’intégration depuis plusieurs décennies est incontestable ».",
-            "Il propose de réduire l’immigration légale par deux et de conditionner l’obtention de la nationalité à une maîtrise suffisante du français.",
-            "Son discours s’inscrit dans une ligne plus stricte sur la gestion migratoire, en réponse aux tensions sociales récentes.",
-            "Cette proposition pourrait diviser l’opinion publique et les partis politiques."
+            "Jean-Luc Mélenchon et La France insoumise (LFI) lancent une stratégie pour toucher les joueurs vidéo.",
+            "Le parti s’est réconcilié avec certains jeux vidéo, comme « Assassin’s Creed Unity », auparavant critiqués.",
+            "Cette approche vise à élargir l’électorat jeune et à moderniser l’image de LFI.",
+            "La campagne s’inscrit dans une dynamique de conquête des nouvelles générations avant 2027."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html"
             }
           ]
         },
         {
-          "title": "Assemblée nationale : tensions après l’attentat raciste de Trappes entre majorité et opposition",
+          "title": "Baisse de la natalité : les politiques publiques face à un défi croissant",
           "bullets": [
-            "La gauche accuse le gouvernement de contribuer à la montée du racisme par ses discours et politiques.",
-            "Le gouvernement réplique en appelant à lutter contre « toute forme de violence », y compris les violences urbaines.",
-            "Les débats s’articulent autour de la gestion des crises sociales et de la réponse sécuritaire.",
-            "Les divisions persistent entre les partis sur la manière de traiter ces questions."
+            "Un podcast du Monde analyse les causes et conséquences de la baisse de la natalité en France.",
+            "Les politiques familiales actuelles sont jugées insuffisantes pour inverser la tendance.",
+            "Des propositions sont évoquées, comme des mesures fiscales ou sociales ciblées.",
+            "L’enjeu démographique pèse sur l’avenir économique et social du pays."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html"
             }
           ]
         }
@@ -132,92 +132,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Israël : élections législatives sans majorité claire, risque de blocage politique",
+          "title": "Brésil : Lula doit composer avec un Congrès sans majorité pour gouverner",
           "bullets": [
-            "Les résultats provisoires montrent un recul net du camp de Benjamin Netanyahou, mais aucune coalition majoritaire n’émerge.",
-            "L’opposition, menée par Gadi Eisenkot, échoue à détrôner le gouvernement actuel.",
-            "Un gouvernement minoritaire ou des élections anticipées pourraient en résulter, compliquant la gestion de la crise sécuritaire.",
-            "Les tensions internes et les divisions idéologiques rendent la formation d’une nouvelle majorité incertaine."
+            "Lula a été réélu président pour un quatrième mandat, mais son camp n’a pas la majorité au Congrès.",
+            "Il devra négocier avec des partis variés pour faire adopter ses réformes.",
+            "Les défis économiques et sociaux restent immenses malgré sa victoire électorale.",
+            "Les tensions politiques pourraient freiner sa capacité à mener des changements."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/29/bresil-pourquoi-malgre-sa-victoire-lula-devra-t-il-faire-des-concessions-pour-gouverner-comprendre-en-trois-minutes_6802084_6176282.html"
             }
           ]
         },
         {
-          "title": "Menace iranienne en Europe : services de renseignement alertent sur des projets d’assassinats et cyberattaques",
+          "title": "Muhoozi Kainerugaba, héritier controversé du président ougandais Yoweri Museveni",
           "bullets": [
-            "Les services européens signalent une persistance de la menace iranienne, incluant des projets d’assassinats et des actes de sabotage.",
-            "Des incendies criminels, des cyberattaques et des tentatives d’infiltration sont attribués à des groupes pro-iraniens.",
-            "Les États membres renforcent leur coopération pour contrer ces menaces transnationales.",
-            "La situation s’inscrit dans un contexte de tensions régionales accrues."
+            "À 52 ans, Muhoozi Kainerugaba est pressenti pour succéder à son père, Yoweri Museveni, en 2031.",
+            "Il est accusé de brutalité et d’arbitraire dans la gestion des affaires publiques.",
+            "Son profil fantasque et autoritaire suscite des craintes au sein de la population et de la communauté internationale.",
+            "L’Ouganda traverse une période de répression politique et de restrictions des libertés."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/videos/video/2026/10/29/qui-est-muhoozi-kainerugaba-l-heritier-brutal-et-fantasque-du-president-ougandais_6802083_1669088.html"
             }
           ]
         },
         {
-          "title": "Afrique : l’homophobie érigée en politique d’État dans plusieurs pays",
+          "title": "Midterms 2026 : Barack Obama soutient Jon Ossoff en Géorgie",
           "bullets": [
-            "Des législations anti-LGBTQ+ se multiplient en Afrique, souvent présentées comme une réponse à une « attaque culturelle occidentale ».",
-            "Des pays comme le Nigeria, le Ghana ou le Kenya ont adopté des lois criminalisant les relations homosexuelles.",
-            "Ces mesures suscitent des critiques internationales et des risques pour les droits humains sur le continent.",
-            "Les organisations de défense des droits humains dénoncent une instrumentalisation politique de ces lois."
+            "L’ancien président américain Barack Obama a campagné pour Jon Ossoff, sénateur démocrate en Géorgie.",
+            "Les élections de mi-mandat (midterms) auront lieu le 3 novembre aux États-Unis.",
+            "Ossoff cherche à conserver son siège face à un adversaire républicain.",
+            "Ces élections pourraient influencer la majorité au Congrès pour les années à venir."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/28/en-afrique-l-homophobie-erigee-en-politique-d-etat_6801525_3212.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : inflation et hausse des prix pèsent sur le pouvoir d’achat des travailleurs",
+          "title": "Colombie : frappe militaire contre des narcotrafiquants fait au moins six morts",
           "bullets": [
-            "Les travailleurs du secteur des soins, en première ligne du marché du travail, subissent une hausse des prix de l’essence et de la nourriture.",
-            "Les revenus stagnent tandis que les dépenses essentielles explosent, créant une crise sociale.",
-            "Les sondages montrent une méfiance croissante envers les politiques économiques en place.",
-            "Cette situation pourrait influencer les élections de mi-mandat en novembre."
+            "Une opération militaire dans le département du Chocó a ciblé des membres présumés de réseaux de trafic de cocaïne.",
+            "Six personnes ont été tuées lors de l’intervention.",
+            "La région du Chocó est un point stratégique pour le trafic de drogue en Amérique latine.",
+            "Les autorités colombiennes intensifient leurs actions contre les cartels."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/28/aux-etats-unis-des-vies-minees-par-l-inflation-l-essence-et-la-nourriture-ca-devient-de-la-folie-on-va-finir-par-crever-de-faim_6801535_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-colombie-une-nouvelle-frappe-contre-des-narcotrafiquants-presumes-fait-au-moins-six-morts_6801978_3210.html"
             }
           ]
         },
         {
-          "title": "Union européenne et Canada : tensions sémantiques avant le sommet commercial",
+          "title": "Tensions géopolitiques redessinent les routes aériennes commerciales",
           "bullets": [
-            "La proposition de la Commission européenne d’un statut de « membre associé » pour le Canada irrite Paris et Ottawa.",
-            "Les négociations sur le CETA, en vigueur depuis 2017, peinent à avancer en raison de désaccords sur les termes d’intégration.",
-            "Les milieux d’affaires canadiens appellent à une ratification rapide du traité pour sécuriser les échanges.",
-            "Les divergences pourraient retarder les accords commerciaux et affecter les relations économiques."
+            "Les conflits internationaux et les sanctions influencent les trajets des compagnies aériennes.",
+            "Les compagnies ajustent leurs itinéraires pour éviter les zones à risque.",
+            "Cette situation impacte les coûts et les durées des vols pour les passagers.",
+            "Les compagnies cherchent des alternatives pour maintenir des connexions mondiales."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/a-la-veille-du-sommet-entre-l-union-europeenne-et-le-canada-les-europeens-se-perdent-dans-une-bagarre-semantique_6801521_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/29/comment-les-tensions-geopolitiques-redessinent-la-carte-des-routes-aeriennes-commerciales_6802011_3234.html"
             }
           ]
         },
         {
-          "title": "Administration Trump : accusations de manipulation des élections de mi-mandat",
+          "title": "Flavio Bolsonaro en cavale aux États-Unis après sa défaite au Brésil",
           "bullets": [
-            "La Maison Blanche cherche à semer le doute sur l’intégrité des élections du 3 novembre, anticipant un désaveu du camp républicain.",
-            "Des allégations de fraudes et de pressions sur les électeurs sont avancées pour discréditer le processus électoral.",
-            "Les démocrates dénoncent une tentative de démobilisation des électeurs républicains.",
-            "Les observateurs craignent une polarisation accrue avant le scrutin."
+            "Flavio Bolsonaro, fils de l’ancien président brésilien Jair Bolsonaro, a perdu les élections législatives.",
+            "Il s’est réfugié aux États-Unis pour échapper à des poursuites judiciaires.",
+            "Son exil pourrait compliquer les relations diplomatiques entre le Brésil et les États-Unis.",
+            "Les autorités brésiliennes tentent de le faire extrader pour répondre de ses actes."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/flavio-bolsonaro-du-candidat-sur-d-etre-elu-president-du-bresil-au-mauvais-perdant-en-cavale-aux-etats-unis_6802013_3210.html"
             }
           ]
         }
@@ -226,68 +226,68 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "OpenAI sous pression : des mathématiciens exigent la publication immédiate des preuves d’un résultat physique crucial",
+          "title": "Apple lance son premier MacBook Pro avec écran tactile OLED",
           "bullets": [
-            "Un groupe de neuf mathématiciens demande à OpenAI de publier sans délai les preuves liées à la théorie de Yang-Mills.",
-            "Ils accusent l’entreprise de retarder la diffusion de ces résultats, essentiels pour la communauté scientifique.",
-            "Cette demande s’inscrit dans un contexte de tensions croissantes entre les géants technologiques et la communauté académique.",
-            "OpenAI n’a pas encore réagi officiellement à cette exigence."
+            "Apple a officiellement dévoilé son premier ordinateur portable équipé d’un écran tactile.",
+            "Le MacBook Pro OLED intègre une technologie innovante pour une expérience utilisateur redéfinie.",
+            "Cette innovation pourrait concurrencer les tablettes et les smartphones sur le marché des appareils polyvalents.",
+            "Les premiers retours des utilisateurs mettent en avant des performances et une réactivité accrues."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2361879-aucune-raison-scientifique-de-retarder-la-preuve-des-mathematiciens-sagacent-de-lattitude-dopenai-sur-un-resultat-de-physique-crucial.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html"
             }
           ]
         },
         {
-          "title": "Taxe sur les colis en ligne : nouveaux frais de 2 € à partir du 1er novembre pour les achats depuis l’étranger",
+          "title": "Discord pourrait publier des messages sur Google à partir de décembre 2026",
           "bullets": [
-            "À partir du 1er novembre 2026, des droits de douane supplémentaires de 2 € s’appliqueront aux colis en provenance de l’étranger.",
-            "Cette mesure vise à lutter contre les achats en ligne non déclarés et à protéger les commerces locaux.",
-            "Les consommateurs devront payer ces frais en plus des droits de douane existants, augmentant le coût des achats en ligne.",
-            "Les plateformes comme Shein, Temu et AliExpress sont particulièrement concernées."
+            "Discord a annoncé que certains messages de ses serveurs publics pourraient apparaître dans les résultats Google.",
+            "Cette mesure vise à améliorer la visibilité des contenus partagés sur la plateforme.",
+            "Les utilisateurs français devront s’adapter à cette nouvelle politique de confidentialité.",
+            "Les implications pour la vie privée restent à évaluer."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/politique/2361567-shein-temu-aliexpress-comment-un-colis-a-20-e-peut-finir-par-vous-couter-38-e.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2362863-discord-va-t-il-vraiment-publier-vos-messages-sur-google-voici-ce-qui-change-reellement.html"
             }
           ]
         },
         {
-          "title": "Dune : Troisième Partie – le trailer révèle une fin sanglante et spectaculaire",
+          "title": "Netflix dévoile la bande-annonce de « Orgueil et Préjugés »",
           "bullets": [
-            "Denis Villeneuve referme sa trilogie avec un trailer annonçant une chute dramatique et visuellement époustouflante.",
-            "Les fans anticipent une conclusion violente et émotionnelle pour l’histoire de Paul Atreides.",
-            "La sortie du film est prévue pour fin 2026, après le succès critique et commercial des deux premiers volets.",
-            "Warner Bros. mise sur un marketing intense pour promouvoir cette conclusion tant attendue."
+            "Netflix a publié la bande-annonce de sa mini-série adaptée du roman de Jane Austen.",
+            "La série, en six épisodes, est écrite par Dolly Alderton et prévue pour le 3 décembre.",
+            "Les fans de romance et de classiques littéraires sont attendus en grand nombre.",
+            "La série promet une interprétation moderne du récit intemporel."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2361753-dune-3-le-dernier-trailer-avant-la-sortie-est-la.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2362745-orgueil-et-prejuges-la-serie-netflix-que-tous-les-fans-de-romance-attendent-devoile-enfin-son-trailer.html"
             }
           ]
         },
         {
-          "title": "Constructeurs chinois : Great Wall Motor assemble un SUV en Bulgarie dès 2027",
+          "title": "Faille critique dans le démarrage des serveurs : un bug « éternel » difficile à corriger",
           "bullets": [
-            "Great Wall Motor (GWM) annonce l’assemblage de son SUV Ora 5 en Bulgarie à partir du premier trimestre 2027.",
-            "Cette décision s’inscrit dans une stratégie d’expansion européenne pour les constructeurs chinois.",
-            "La Bulgarie, avec ses incitations fiscales, attire de plus en plus de marques automobiles asiatiques.",
-            "Cette implantation pourrait renforcer la concurrence sur le marché européen des véhicules."
+            "Une vulnérabilité majeure a été découverte dans EDK2, un code utilisé pour démarrer la majorité des serveurs.",
+            "Cette faille permet d’exécuter du code malveillant avant même le chargement du système d’exploitation.",
+            "Sa correction s’avère complexe en raison de son intégration profonde dans les infrastructures informatiques.",
+            "Les experts appellent à une mise à jour urgente pour éviter des cyberattaques ciblées."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/vroom/2361773-la-liste-des-constructeurs-chinois-qui-assemblent-en-europe-sallonge-encore.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2362669-un-bug-eternel-cette-faille-critique-se-cache-dans-le-demarrage-de-la-plupart-des-serveurs-du-monde-et-la-corriger-releve-du-casse-tete.html"
             }
           ]
         }
@@ -297,22 +297,42 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "OpenAI lance GPT-6.1 Terra : automatisation du poste de travail à moitié prix pour les professionnels",
+          "title": "Agent IA en cabinet comptable : le cas Nia chez Xtremum",
           "bullets": [
-            "OpenAI propose une version plus abordable de son outil d’automatisation, GPT-6.1 Terra, pour les abonnés professionnels.",
-            "Cette solution vise à simplifier les tâches administratives et à améliorer la productivité en entreprise.",
-            "Les fonctionnalités incluent l’automatisation des emails, la gestion des données et l’assistance à la prise de décision.",
-            "Le prix réduit pourrait accélérer son adoption par les PME et les grandes entreprises."
+            "Le cabinet Xtremum utilise un agent IA nommé Nia pour automatiser certaines tâches comptables.",
+            "Cette technologie permet de gagner en efficacité et de réduire les erreurs humaines.",
+            "Les professionnels du secteur explorent de nouvelles façons d’intégrer l’IA dans leur quotidien.",
+            "Les bénéfices incluent une meilleure gestion des données et une optimisation des processus."
           ],
           "sources": []
         },
         {
-          "title": "Faun renforce l’automatisation de ses processus de production avec des solutions robotisées",
+          "title": "Création d’une application iPhone en dix jours avec l’aide d’une IA",
           "bullets": [
-            "Le groupe Faun modernise ses chaînes de production en intégrant davantage de robots et d’IA pour optimiser ses processus.",
-            "Cette automatisation vise à réduire les coûts, améliorer la qualité et augmenter la productivité.",
-            "L’entreprise mise sur des technologies avancées pour rester compétitive dans le secteur des bennes et engins de chantier.",
-            "Les investissements dans l’automatisation pourraient créer de nouveaux emplois qualifiés."
+            "Un développeur a créé une application pour iPhone en seulement dix jours grâce à l’assistance d’une IA.",
+            "L’outil a permis de générer une grande partie du code et de simplifier les étapes de développement.",
+            "Cette méthode accélère considérablement le processus de création d’applications.",
+            "Les résultats montrent une efficacité accrue et une réduction des coûts de développement."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Poka déploie un outil no-code pour créer des agents IA en atelier",
+          "bullets": [
+            "L’entreprise Poka lance un outil no-code permettant de concevoir des agents IA directement sur le terrain.",
+            "Cette solution vise à automatiser des tâches spécifiques dans les environnements industriels.",
+            "Les utilisateurs peuvent créer des agents sans compétences techniques avancées.",
+            "L’objectif est d’améliorer l’efficacité et la flexibilité des processus de production."
+          ],
+          "sources": []
+        },
+        {
+          "title": "OpenAI lance GPT-6.1 Terra pour automatiser les tâches de bureau",
+          "bullets": [
+            "OpenAI présente GPT-6.1 Terra, une version plus abordable de ses modèles d’IA pour automatiser les tâches administratives.",
+            "Cette solution vise à réduire les coûts pour les entreprises tout en augmentant leur productivité.",
+            "Les utilisateurs peuvent intégrer cette technologie dans leurs workflows existants.",
+            "Les applications potentielles incluent la gestion de documents, la planification et l’analyse de données."
           ],
           "sources": []
         }
@@ -322,22 +342,32 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "Lynxter étend son offre pour la fabrication additive de silicones",
+          "title": "Carbon franchit le cap du million de selles de vélo imprimées en 3D",
           "bullets": [
-            "Lynxter renforce son portefeuille de solutions pour la fabrication additive de silicones, un matériau clé pour les industries médicales et automobiles.",
-            "Ces innovations visent à améliorer la précision, la rapidité et la durabilité des pièces imprimées en silicone.",
-            "L’entreprise cible notamment les secteurs de la santé et de l’aérospatial pour ses nouvelles technologies.",
-            "Cette expansion pourrait positionner Lynxter comme un leader dans le domaine des matériaux avancés."
+            "La société Carbon a produit plus d’un million de selles de vélo imprimées en 3D.",
+            "Cette réalisation marque une avancée majeure dans l’industrie du vélo et de l’impression 3D.",
+            "Les selles imprimées en 3D offrent des avantages en termes de personnalisation et de légèreté.",
+            "Carbon continue d’innover pour répondre aux besoins des cyclistes et des constructeurs."
           ],
           "sources": []
         },
         {
-          "title": "Bambu Lab révèle des détails sur son imprimante 3D P3C via sa certification",
+          "title": "Impression 3D en agriculture : une imprimante 3D booste la rentabilité d’une exploitation viticole en Marne",
           "bullets": [
-            "Bambu Lab a partagé des informations sur sa nouvelle imprimante 3D, la P3C, à travers sa certification technique.",
-            "Cette imprimante est conçue pour offrir une haute vitesse d’impression et une précision accrue, idéale pour les professionnels.",
-            "Les spécifications incluent une meilleure gestion thermique et une connectivité améliorée pour une utilisation optimale.",
-            "La P3C pourrait s’imposer comme une alternative sérieuse aux modèles haut de gamme existants."
+            "Un viticulteur en Marne utilise une imprimante 3D pour optimiser ses coûts et améliorer sa productivité.",
+            "L’impression 3D permet de créer des outils et accessoires sur mesure pour ses besoins spécifiques.",
+            "Cette technologie réduit les dépenses en évitant l’achat d’équipements standardisés.",
+            "L’exploitant considère cette imprimante comme son meilleur investissement."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Trafic d’armes en région parisienne : l’impression 3D devient une menace croissante",
+          "bullets": [
+            "Les trafics d’armes en Île-de-France utilisent de plus en plus l’impression 3D pour fabriquer des armes illégales.",
+            "Les saisies d’armes de guerre ont explosé, avec une augmentation des armes imprimées en 3D.",
+            "Les forces de l’ordre peinent à suivre cette évolution technologique.",
+            "Les autorités appellent à une vigilance accrue et à des régulations plus strictes."
           ],
           "sources": []
         }
@@ -347,42 +377,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque sur Messenger : attention aux demandes de partage de numéro de téléphone",
+          "title": "La France championne d’Europe des impôts en 2025 : une fiscalité toujours lourde",
           "bullets": [
-            "Une nouvelle arnaque consiste à demander le numéro de téléphone via Messenger pour envoyer un « bon cadeau » ou un « paiement ».",
-            "Les escrocs utilisent ensuite ce numéro pour des achats frauduleux ou des abonnements payants.",
-            "Les victimes sont invitées à ne jamais partager leur numéro de téléphone avec des inconnus, même en apparence légitimes.",
-            "Les plateformes comme Facebook et Messenger renforcent leurs alertes contre ce type de fraude."
+            "La France conserve le titre de championne européenne des impôts en 2025.",
+            "Les taux d’imposition restent parmi les plus élevés au sein de l’Union européenne.",
+            "Les ménages et les entreprises subissent un poids fiscal important.",
+            "Les réformes fiscales sont régulièrement évoquées pour alléger cette charge."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque « la danseuse » : comment vérifier si votre compte WhatsApp a été piraté",
+          "title": "Nouveau barème des impôts : impact sur votre fiscalité en 2027",
           "bullets": [
-            "Une arnaque consiste à envoyer des messages via WhatsApp en imitant une « danseuse » ou une connaissance pour voler des données ou de l’argent.",
-            "Les signes d’un compte piraté incluent des messages inattendus, des contacts inconnus ou des changements de numéro.",
-            "Pour vérifier, consultez les activités récentes dans les paramètres de WhatsApp ou contactez votre opérateur téléphonique.",
-            "En cas de piratage, changez immédiatement votre mot de passe et signalez l’incident aux autorités."
+            "Le nouveau barème des impôts pourrait modifier significativement les revenus imposables en 2027.",
+            "Les ménages devront évaluer si leur situation fiscale sera plus avantageuse ou non.",
+            "Les simulations montrent des variations selon les tranches de revenus.",
+            "Les experts recommandent de se renseigner auprès des services fiscaux pour une estimation précise."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque Leboncoin : faux lien de paiement, que faire pour être remboursé ?",
+          "title": "Chèque énergie : utilisation possible pour le chauffage au bois ou au fioul ?",
           "bullets": [
-            "Des escrocs utilisent de faux liens de paiement sur Leboncoin pour voler les acheteurs après avoir reçu l’argent.",
-            "Les victimes sont invitées à vérifier systématiquement l’URL du site de paiement avant de transmettre leurs coordonnées bancaires.",
-            "En cas de paiement frauduleux, il faut immédiatement contacter sa banque pour annuler la transaction et porter plainte.",
-            "Leboncoin et les plateformes de paiement renforcent leurs systèmes de vérification pour limiter ces fraudes."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Changements réglementaires à partir du 1er novembre 2026 : gaz, trêve hivernale et impôts",
-          "bullets": [
-            "À partir du 1er novembre, les prix du gaz et du gazole pourraient évoluer, impactant les budgets des ménages.",
-            "La trêve hivernale sur les expulsions locatives prend fin, avec des risques accrus de expulsions pour impayés.",
-            "Des modifications fiscales pourraient affecter certains contribuables, notamment en matière de taxes locales.",
-            "Les associations de consommateurs et les collectivités locales appellent à la vigilance."
+            "Le chèque énergie peut être utilisé pour financer des dépenses liées au chauffage au bois ou au fioul.",
+            "Cette aide vise à réduire la facture énergétique des ménages.",
+            "Les conditions d’utilisation et les montants varient selon les situations.",
+            "Les bénéficiaires doivent vérifier leur éligibilité et les modalités d’utilisation."
           ],
           "sources": []
         }
