@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/22/a-mayotte-orange-somme-de-stopper-son-deploiement-anarchique-de-la-fibre-optique_6798569_3234.html",
-    "title": "Orange sommé d'arrêter son déploiement de la fibre optique à Mayotte",
-    "rubrique": "France",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/22/apres-le-17-octobre-aux-comparutions-avec-reconnaissance-prealable-de-culpabilite-deja-sept-mentions-a-votre-casier-arretez-maintenant-concentrez-vous-sur-votre-vie-et-votre-boulot_6798550_3224.html",
-    "title": "Manifestations du 17 octobre : les prévenus face à la justice, entre culpabilité et désillusion",
-    "rubrique": "France",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/22/brillant-mais-pas-politique-le-ministre-de-l-education-edouard-geffray-se-retrouve-sur-la-breche_6798552_823448.html",
-    "title": "Éducation nationale : Edouard Geffray sous pression face au mouvement lycéen",
-    "rubrique": "France",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
-    "title": "Encadrement des loyers : le Sénat adopte une prolongation minimaliste",
-    "rubrique": "France",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
-    "title": "Guyane : plan Orsec « sécheresse » activé pour ravitailler les communes isolées",
-    "rubrique": "France",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/22/apres-l-ouverture-d-un-canal-diplomatique-entre-la-france-et-le-regime-des-talibans-les-exiles-afghans-craignent-d-etre-remis-entre-les-mains-de-leurs-bourreaux_6798571_4500055.html",
-    "title": "Dialogue France-Talibans : les exilés afghans craignent un retour aux violences",
-    "rubrique": "International",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html",
-    "title": "Pays baltes : préparation massive à une guerre avec la Russie",
-    "rubrique": "International",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
-    "title": "Ukraine : frappes russes sur Kiev et Moscou ciblent civils et infrastructures",
-    "rubrique": "International",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/22/not-in-my-name-dans-les-oliveraies-de-cisjordanie-occupee-la-campagne-electorale-d-une-des-figures-juives-democrates-de-new-york_6798549_3210.html",
-    "title": "Cisjordanie : une figure juive américaine dénonce les violences israéliennes",
-    "rubrique": "International",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/22/cherif-ould-taher-le-sulfureux-intermediaire-malien-derriere-les-dernieres-liberations-d-otages-au-sahel_6798566_3212.html",
-    "title": "Sahel : Chérif Ould Taher, l’intermédiaire malien derrière les libérations d’otages",
-    "rubrique": "International",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2358399-panne-orange-une-migration-ratee-vers-la-5g-aurait-coupe-le-reseau-a-des-millions-dabonnes.html",
-    "title": "Panne Orange : migration ratée vers la 5G prive des millions d’abonnés de réseau",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2358509-cest-fini-pour-bioware-le-prochain-jeu-mass-effect-est-annule.html",
-    "title": "BioWare ferme ses portes : la saga Mass Effect annulée",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2358375-des-sites-web-inaccessibles-du-japon-a-leurope-les-autorites-appellent-a-mettre-php-a-jour-en-urgence.html",
-    "title": "Faille critique dans PHP : des sites web inaccessibles en Europe et au Japon",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2358121-mercedes-sera-le-premier-a-proposer-une-conduite-assistee-de-point-a-point-en-allemagne-des-fin-2026.html",
-    "title": "Mercedes lance la conduite autonome « point à point » en Allemagne dès fin 2026",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-17-octobre-217-personnes-ont-ete-incarcerees-parmi-les-2-700-placees-en-garde-a-vue-apres-les-violences-et-pillages-du-week-end-selon-gerald-darmanin_6795855_3224.html",
     "title": "217 personnes incarcérées parmi 2 700 placées en garde à vue après les violences du 17 octobre",
     "rubrique": "France",
@@ -712,5 +628,83 @@
     "title": "Faille critique dans le démarrage des serveurs : un bug « éternel » difficile à corriger",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/29/avant-son-attentat-raciste-a-trappes-l-assaillant-avait-ete-interpelle-trois-jours-avant-pour-des-violences-sur-un-automobiliste_6802427_3224.html",
+    "title": "Attentat raciste à Trappes : l’assaillant présumé avait des antécédents judiciaires",
+    "rubrique": "France",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html",
+    "title": "Édouard Philippe placé sous statut de témoin assisté dans une enquête pour détournement de fonds publics",
+    "rubrique": "France",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html",
+    "title": "L’Arcom sanctionne Radio France pour un montage sonore détournant des propos de Jean-Luc Mélenchon",
+    "rubrique": "France",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html",
+    "title": "Conflit social : influenceurs et rappeurs soutiennent massivement le mouvement lycéen",
+    "rubrique": "France",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
+    "title": "Effondrement du BHV : la mairie de Paris impuissante face à la fermeture définitive",
+    "rubrique": "France",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/30/en-iran-la-menace-d-une-nouvelle-confrontation-avec-les-etats-unis-et-israel-prise-au-serieux-malgre-les-tractations-diplomatiques_6802767_3210.html",
+    "title": "Iran : menace d’escalade avec les États-Unis et Israël malgré les tractations diplomatiques",
+    "rubrique": "International",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html",
+    "title": "Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz",
+    "rubrique": "International",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html",
+    "title": "Ukraine : Kiev frappée par une nouvelle salve de missiles russes",
+    "rubrique": "International",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/30/en-israel-isaac-herzog-le-president-honorifique-devenu-arbitre-d-une-knesset-sans-majorite_6802757_3210.html",
+    "title": "Israël : Isaac Herzog, président honorifique, arbitre une Knesset sans majorité",
+    "rubrique": "International",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html",
+    "title": "UE : libération de 42,6 millions de barils de pétrole pour stabiliser les prix avant l’hiver",
+    "rubrique": "International",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.numerama.com/cyberguerre/2363547-reservations-dhotel-identite-des-accompagnants-documents-personnels-ces-deux-editeurs-francais-de-logiciels-ont-ete-pirates-a-quelques-jours-dintervalle.html",
+    "title": "Deux éditeurs français de logiciels piratés : données sensibles exposées",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2363685-mistral-large-4-est-disponible-en-poids-ouverts-ce-qui-a-change-depuis-sa-presentation.html",
+    "title": "Mistral Large 4 disponible en poids ouverts : avancées technologiques majeures",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2363529-banque-populaire-et-caisse-depargne-des-paiements-affiches-en-double-et-des-virements-perturbes-que-se-passe-t-il.html",
+    "title": "Banques Populaire et Caisse d’Épargne : incidents techniques perturbent les paiements",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-30"
   }
 ]

@@ -1,18 +1,18 @@
 {
-  "date_str": "Jeudi 29 octobre 2026",
+  "date_str": "Vendredi 30 octobre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Narcisse, Chiara et Honorat",
+          "title": "Aujourd'hui, on souhaite la fête : Bienvenue",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/29/10/2026/29-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/30/10/2026/30-Octobre-2026.html"
             }
           ]
         }
@@ -22,107 +22,82 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Campagne d’influence anti-Qatar : révélations sur une possible ingérence avant la présidentielle 2027",
+          "title": "Attentat raciste à Trappes : l’assaillant présumé avait des antécédents judiciaires",
           "bullets": [
-            "Une étude révèle une campagne publicitaire massive et financée, lancée il y a trois ans, ciblant la France avec des messages racistes.",
-            "Les chercheurs soulignent un alignement avec les intérêts géopolitiques d’acteurs étrangers, sans préciser leur origine.",
-            "Les publicités visent à discréditer le Qatar et pourraient influencer l’opinion publique avant le scrutin de 2027.",
-            "Les autorités françaises enquêtent pour déterminer l’origine et les financements de cette campagne."
+            "Kévin T., 39 ans, avait été interpellé trois jours avant les faits pour violences sur un automobiliste.",
+            "L’attaque du 23 octobre a visé un homme noir dans un centre commercial, causant des blessures graves.",
+            "Le suspect est placé en détention provisoire pour « violences aggravées en raison de la haine raciale ».",
+            "Les autorités enquêtent sur un éventuel lien entre les deux affaires.",
+            "La victime a été hospitalisée en urgence, mais son état est désormais stable."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/29/avant-son-attentat-raciste-a-trappes-l-assaillant-avait-ete-interpelle-trois-jours-avant-pour-des-violences-sur-un-automobiliste_6802427_3224.html"
             }
           ]
         },
         {
-          "title": "Manifestations du 24 octobre : plainte pour blessures graves et saisine de l’IGPN à Toulouse",
+          "title": "Édouard Philippe placé sous statut de témoin assisté dans une enquête pour détournement de fonds publics",
           "bullets": [
-            "Un jeune homme de 20 ans a été grièvement blessé à la main lors de heurts avec les forces de l’ordre.",
-            "La victime a déposé plainte, entraînant la saisine de l’Inspection générale de la police nationale (IGPN).",
-            "Les faits se sont déroulés en marge d’une manifestation à Toulouse, marquée par des tensions importantes.",
-            "L’enquête vise à déterminer les responsabilités et les circonstances exactes des blessures."
+            "L’ancien Premier ministre est suspecté d’avoir détourné des fonds publics lors de sa gestion de la mairie de Lyon.",
+            "Son avocat affirme qu’il n’y a « rien à lui reprocher » dans cette affaire.",
+            "Cette mesure ouvre la voie à des investigations approfondies, sans mise en examen immédiate.",
+            "Les faits remontent à sa période de mandat entre 2015 et 2020.",
+            "La justice examine des soupçons de malversations financières et de conflits d’intérêts."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html"
             }
           ]
         },
         {
-          "title": "Piratage du site des impôts : mise en examen d’un second suspect, âgé de 16 ans",
+          "title": "L’Arcom sanctionne Radio France pour un montage sonore détournant des propos de Jean-Luc Mélenchon",
           "bullets": [
-            "Un adolescent de 16 ans, connu sous le pseudonyme de Casquette, est mis en examen pour complicité dans le piratage.",
-            "Il est soupçonné d’avoir collaboré avec ChatNoir, un autre jeune de 18 ans déjà mis en examen.",
-            "Les deux suspects sont accusés d’avoir compromis la sécurité du site des impôts en ligne.",
-            "Les autorités poursuivent leur enquête pour identifier d’éventuels autres complices."
+            "Un extrait tronqué diffusé sur France Culture a été interprété comme des propos antisémites.",
+            "L’Arcom a adressé une mise en garde à Radio France pour « manquement à la déontologie ».",
+            "Jean-Luc Mélenchon dénonce une « manipulation » et une atteinte à sa réputation.",
+            "L’incident survient dans un contexte de tensions politiques et médiatiques accrues.",
+            "Radio France s’engage à respecter les règles de transparence et de vérification des sources."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
             }
           ]
         },
         {
-          "title": "Justice suspend le couvre-feu pour les mineurs non accompagnés à Paris",
+          "title": "Conflit social : influenceurs et rappeurs soutiennent massivement le mouvement lycéen",
           "bullets": [
-            "Un juge des référés a suspendu l’arrêté municipal instaurant un couvre-feu pour les mineurs non accompagnés.",
-            "La mesure concernait certains secteurs autour de l’Élysée et de l’Assemblée nationale.",
-            "L’arrêté devait prendre fin le 6 novembre à 6 heures.",
-            "Cette décision intervient dans un contexte de tensions autour de la gestion des migrants à Paris."
+            "Des figures comme Jul, Aya Nakamura, Lena Situations ou Tibo InShape ont encouragé les manifestations lycéennes.",
+            "Leur soutien reflète une nouvelle dynamique générationnelle dans l’engagement politique.",
+            "Cette mobilisation pourrait influencer les débats de la présidentielle de 2027.",
+            "Les réseaux sociaux amplifient la visibilité des revendications étudiantes et lycéennes.",
+            "Les autorités surveillent l’impact de cette alliance sur la radicalisation des mouvements sociaux."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html"
             }
           ]
         },
         {
-          "title": "Emmanuel Macron dénonce une « désinhibition du racisme et de l’antisémitisme »",
+          "title": "Effondrement du BHV : la mairie de Paris impuissante face à la fermeture définitive",
           "bullets": [
-            "Le président de la République a pointé du doigt une montée des discours racistes et antisémites.",
-            "Il a ciblé particulièrement le Rassemblement National (RN) et La France insoumise (LFI).",
-            "Macron a appelé à la reprise des cours dans les lycées après les perturbations des dernières semaines.",
-            "Ses propos interviennent dans un contexte de tensions sociales et politiques exacerbées."
+            "L’enseigne historique du centre de Paris va probablement être placée en redressement judiciaire.",
+            "La Ville de Paris manque de moyens pour soutenir ou racheter l’immeuble.",
+            "Ce site emblématique pourrait être démoli ou reconverti en logements ou bureaux.",
+            "Les commerçants et employés craignent des licenciements massifs.",
+            "Les associations culturelles et patrimoniales appellent à une sauvegarde du lieu."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "LFI cible les « gamers » pour séduire les jeunes avant la présidentielle 2027",
-          "bullets": [
-            "Jean-Luc Mélenchon et La France insoumise (LFI) lancent une stratégie pour toucher les joueurs vidéo.",
-            "Le parti s’est réconcilié avec certains jeux vidéo, comme « Assassin’s Creed Unity », auparavant critiqués.",
-            "Cette approche vise à élargir l’électorat jeune et à moderniser l’image de LFI.",
-            "La campagne s’inscrit dans une dynamique de conquête des nouvelles générations avant 2027."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Baisse de la natalité : les politiques publiques face à un défi croissant",
-          "bullets": [
-            "Un podcast du Monde analyse les causes et conséquences de la baisse de la natalité en France.",
-            "Les politiques familiales actuelles sont jugées insuffisantes pour inverser la tendance.",
-            "Des propositions sont évoquées, comme des mesures fiscales ou sociales ciblées.",
-            "L’enjeu démographique pèse sur l’avenir économique et social du pays."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html"
             }
           ]
         }
@@ -132,92 +107,82 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Brésil : Lula doit composer avec un Congrès sans majorité pour gouverner",
+          "title": "Iran : menace d’escalade avec les États-Unis et Israël malgré les tractations diplomatiques",
           "bullets": [
-            "Lula a été réélu président pour un quatrième mandat, mais son camp n’a pas la majorité au Congrès.",
-            "Il devra négocier avec des partis variés pour faire adopter ses réformes.",
-            "Les défis économiques et sociaux restent immenses malgré sa victoire électorale.",
-            "Les tensions politiques pourraient freiner sa capacité à mener des changements."
+            "Téhéran affirme être prêt à répondre à toute attaque, tout en maintenant des contacts indirects avec Washington.",
+            "L’Iran accuse les États-Unis et Israël de menacer sa sécurité nationale.",
+            "Les tensions persistent dans le Golfe, notamment après des incidents récents dans le détroit d’Ormuz.",
+            "Les négociations sur le nucléaire iranien restent bloquées, aggravant les risques de confrontation.",
+            "Les pays occidentaux appellent à la retenue pour éviter une guerre régionale."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/29/bresil-pourquoi-malgre-sa-victoire-lula-devra-t-il-faire-des-concessions-pour-gouverner-comprendre-en-trois-minutes_6802084_6176282.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/30/en-iran-la-menace-d-une-nouvelle-confrontation-avec-les-etats-unis-et-israel-prise-au-serieux-malgre-les-tractations-diplomatiques_6802767_3210.html"
             }
           ]
         },
         {
-          "title": "Muhoozi Kainerugaba, héritier controversé du président ougandais Yoweri Museveni",
+          "title": "Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz",
           "bullets": [
-            "À 52 ans, Muhoozi Kainerugaba est pressenti pour succéder à son père, Yoweri Museveni, en 2031.",
-            "Il est accusé de brutalité et d’arbitraire dans la gestion des affaires publiques.",
-            "Son profil fantasque et autoritaire suscite des craintes au sein de la population et de la communauté internationale.",
-            "L’Ouganda traverse une période de répression politique et de restrictions des libertés."
+            "L’Iran accuse certains navires de désactiver leurs systèmes de navigation avant les explosions.",
+            "L’Iran affirme avoir saisi un drone américain dans la zone.",
+            "Les tensions persistent entre Téhéran et les États-Unis, avec des risques accrus d’escalade.",
+            "Les pays du Golfe renforcent leurs mesures de sécurité maritime.",
+            "L’ONU appelle à la désescalade pour éviter une crise énergétique mondiale."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/29/qui-est-muhoozi-kainerugaba-l-heritier-brutal-et-fantasque-du-president-ougandais_6802083_1669088.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms 2026 : Barack Obama soutient Jon Ossoff en Géorgie",
+          "title": "Ukraine : Kiev frappée par une nouvelle salve de missiles russes",
           "bullets": [
-            "L’ancien président américain Barack Obama a campagné pour Jon Ossoff, sénateur démocrate en Géorgie.",
-            "Les élections de mi-mandat (midterms) auront lieu le 3 novembre aux États-Unis.",
-            "Ossoff cherche à conserver son siège face à un adversaire républicain.",
-            "Ces élections pourraient influencer la majorité au Congrès pour les années à venir."
+            "Au moins une personne est morte et plusieurs bâtiments endommagés lors de l’attaque.",
+            "Un drone russe a également frappé la gare de Dnipro, faisant 15 morts et 14 blessés.",
+            "Les autorités ukrainiennes dénoncent des violations du droit international.",
+            "L’Occident renforce son soutien militaire et humanitaire à Kiev.",
+            "Les négociations de paix restent bloquées, malgré les appels à une trêve."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html"
             }
           ]
         },
         {
-          "title": "Colombie : frappe militaire contre des narcotrafiquants fait au moins six morts",
+          "title": "Israël : Isaac Herzog, président honorifique, arbitre une Knesset sans majorité",
           "bullets": [
-            "Une opération militaire dans le département du Chocó a ciblé des membres présumés de réseaux de trafic de cocaïne.",
-            "Six personnes ont été tuées lors de l’intervention.",
-            "La région du Chocó est un point stratégique pour le trafic de drogue en Amérique latine.",
-            "Les autorités colombiennes intensifient leurs actions contre les cartels."
+            "Faute de majorité claire, Herzog pourrait pousser à la formation d’un gouvernement d’union.",
+            "Les partis politiques s’affrontent pour former une coalition stable.",
+            "Les tensions internes menacent la stabilité politique du pays.",
+            "Les élections législatives de 2026 ont révélé une fragmentation du paysage politique.",
+            "Les négociations pour un gouvernement inclusif restent tendues."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-colombie-une-nouvelle-frappe-contre-des-narcotrafiquants-presumes-fait-au-moins-six-morts_6801978_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/30/en-israel-isaac-herzog-le-president-honorifique-devenu-arbitre-d-une-knesset-sans-majorite_6802757_3210.html"
             }
           ]
         },
         {
-          "title": "Tensions géopolitiques redessinent les routes aériennes commerciales",
+          "title": "UE : libération de 42,6 millions de barils de pétrole pour stabiliser les prix avant l’hiver",
           "bullets": [
-            "Les conflits internationaux et les sanctions influencent les trajets des compagnies aériennes.",
-            "Les compagnies ajustent leurs itinéraires pour éviter les zones à risque.",
-            "Cette situation impacte les coûts et les durées des vols pour les passagers.",
-            "Les compagnies cherchent des alternatives pour maintenir des connexions mondiales."
+            "Onze pays de l’UE puisent dans leurs réserves stratégiques pour faire face à la hausse des prix.",
+            "L’objectif est d’éviter une crise énergétique en période de forte consommation.",
+            "Les prix du gazole restent volatils en raison des tensions géopolitiques.",
+            "Les États membres appellent à une utilisation rationnelle des ressources.",
+            "Cette mesure fait suite à des appels urgents de la Commission européenne."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/29/comment-les-tensions-geopolitiques-redessinent-la-carte-des-routes-aeriennes-commerciales_6802011_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Flavio Bolsonaro en cavale aux États-Unis après sa défaite au Brésil",
-          "bullets": [
-            "Flavio Bolsonaro, fils de l’ancien président brésilien Jair Bolsonaro, a perdu les élections législatives.",
-            "Il s’est réfugié aux États-Unis pour échapper à des poursuites judiciaires.",
-            "Son exil pourrait compliquer les relations diplomatiques entre le Brésil et les États-Unis.",
-            "Les autorités brésiliennes tentent de le faire extrader pour répondre de ses actes."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/flavio-bolsonaro-du-candidat-sur-d-etre-elu-president-du-bresil-au-mauvais-perdant-en-cavale-aux-etats-unis_6802013_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html"
             }
           ]
         }
@@ -226,68 +191,56 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "source indisponible ce matin"
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Apple lance son premier MacBook Pro avec écran tactile OLED",
+          "title": "Deux éditeurs français de logiciels piratés : données sensibles exposées",
           "bullets": [
-            "Apple a officiellement dévoilé son premier ordinateur portable équipé d’un écran tactile.",
-            "Le MacBook Pro OLED intègre une technologie innovante pour une expérience utilisateur redéfinie.",
-            "Cette innovation pourrait concurrencer les tablettes et les smartphones sur le marché des appareils polyvalents.",
-            "Les premiers retours des utilisateurs mettent en avant des performances et une réactivité accrues."
+            "Le moteur de réservation D-EDGE et le logiciel Misterbooking ont été compromis.",
+            "Les données concernent réservations d’hôtel, identités d’accompagnants et documents personnels.",
+            "Les cybercriminels ont exploité des failles dans les systèmes de sécurité.",
+            "Les entreprises impliquées alertent leurs clients sur les risques de fraude.",
+            "Les autorités françaises enquêtent pour identifier les responsables."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html"
+              "url": "https://www.numerama.com/cyberguerre/2363547-reservations-dhotel-identite-des-accompagnants-documents-personnels-ces-deux-editeurs-francais-de-logiciels-ont-ete-pirates-a-quelques-jours-dintervalle.html"
             }
           ]
         },
         {
-          "title": "Discord pourrait publier des messages sur Google à partir de décembre 2026",
+          "title": "Mistral Large 4 disponible en poids ouverts : avancées technologiques majeures",
           "bullets": [
-            "Discord a annoncé que certains messages de ses serveurs publics pourraient apparaître dans les résultats Google.",
-            "Cette mesure vise à améliorer la visibilité des contenus partagés sur la plateforme.",
-            "Les utilisateurs français devront s’adapter à cette nouvelle politique de confidentialité.",
-            "Les implications pour la vie privée restent à évaluer."
+            "Mistral AI publie les poids de son modèle à 1 000 milliards de paramètres, surnommé « Le Chonk ».",
+            "Cette ouverture permet aux chercheurs et développeurs d’améliorer les capacités de l’IA.",
+            "Le modèle pourrait révolutionner les applications génératives et conversationnelles.",
+            "Les entreprises et institutions peuvent désormais l’intégrer dans leurs propres solutions.",
+            "Cette transparence renforce la confiance dans les modèles d’IA avancés."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2362863-discord-va-t-il-vraiment-publier-vos-messages-sur-google-voici-ce-qui-change-reellement.html"
+              "url": "https://www.numerama.com/tech/2363685-mistral-large-4-est-disponible-en-poids-ouverts-ce-qui-a-change-depuis-sa-presentation.html"
             }
           ]
         },
         {
-          "title": "Netflix dévoile la bande-annonce de « Orgueil et Préjugés »",
+          "title": "Banques Populaire et Caisse d’Épargne : incidents techniques perturbent les paiements",
           "bullets": [
-            "Netflix a publié la bande-annonce de sa mini-série adaptée du roman de Jane Austen.",
-            "La série, en six épisodes, est écrite par Dolly Alderton et prévue pour le 3 décembre.",
-            "Les fans de romance et de classiques littéraires sont attendus en grand nombre.",
-            "La série promet une interprétation moderne du récit intemporel."
+            "Des clients signalent des paiements affichés en double et des virements perturbés.",
+            "Les banques assurent travailler sur une solution pour corriger ces anomalies.",
+            "Les clients sont invités à surveiller leurs comptes et à signaler tout incident.",
+            "Les perturbations pourraient être liées à des problèmes techniques ou de synchronisation.",
+            "Les autorités bancaires surveillent la situation pour éviter des pertes financières."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2362745-orgueil-et-prejuges-la-serie-netflix-que-tous-les-fans-de-romance-attendent-devoile-enfin-son-trailer.html"
-            }
-          ]
-        },
-        {
-          "title": "Faille critique dans le démarrage des serveurs : un bug « éternel » difficile à corriger",
-          "bullets": [
-            "Une vulnérabilité majeure a été découverte dans EDK2, un code utilisé pour démarrer la majorité des serveurs.",
-            "Cette faille permet d’exécuter du code malveillant avant même le chargement du système d’exploitation.",
-            "Sa correction s’avère complexe en raison de son intégration profonde dans les infrastructures informatiques.",
-            "Les experts appellent à une mise à jour urgente pour éviter des cyberattaques ciblées."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2362669-un-bug-eternel-cette-faille-critique-se-cache-dans-le-demarrage-de-la-plupart-des-serveurs-du-monde-et-la-corriger-releve-du-casse-tete.html"
+              "url": "https://www.numerama.com/tech/2363529-banque-populaire-et-caisse-depargne-des-paiements-affiches-en-double-et-des-virements-perturbes-que-se-passe-t-il.html"
             }
           ]
         }
@@ -297,42 +250,24 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Agent IA en cabinet comptable : le cas Nia chez Xtremum",
+          "title": "GitHub : 40 % des pull requests initiées par des agents IA",
           "bullets": [
-            "Le cabinet Xtremum utilise un agent IA nommé Nia pour automatiser certaines tâches comptables.",
-            "Cette technologie permet de gagner en efficacité et de réduire les erreurs humaines.",
-            "Les professionnels du secteur explorent de nouvelles façons d’intégrer l’IA dans leur quotidien.",
-            "Les bénéfices incluent une meilleure gestion des données et une optimisation des processus."
+            "Les outils d’IA deviennent des acteurs majeurs dans les contributions open source.",
+            "Les développeurs utilisent ces agents pour automatiser et accélérer les processus de code review.",
+            "Cette tendance reflète une intégration croissante de l’IA dans les workflows logiciels.",
+            "Les équipes techniques doivent s’adapter à cette nouvelle dynamique collaborative.",
+            "Les risques de sécurité et de qualité du code restent des sujets de préoccupation."
           ],
           "sources": []
         },
         {
-          "title": "Création d’une application iPhone en dix jours avec l’aide d’une IA",
+          "title": "Ro lance Robin, un agent IA dédié à la santé, avec une clinique virtuelle en perspective",
           "bullets": [
-            "Un développeur a créé une application pour iPhone en seulement dix jours grâce à l’assistance d’une IA.",
-            "L’outil a permis de générer une grande partie du code et de simplifier les étapes de développement.",
-            "Cette méthode accélère considérablement le processus de création d’applications.",
-            "Les résultats montrent une efficacité accrue et une réduction des coûts de développement."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Poka déploie un outil no-code pour créer des agents IA en atelier",
-          "bullets": [
-            "L’entreprise Poka lance un outil no-code permettant de concevoir des agents IA directement sur le terrain.",
-            "Cette solution vise à automatiser des tâches spécifiques dans les environnements industriels.",
-            "Les utilisateurs peuvent créer des agents sans compétences techniques avancées.",
-            "L’objectif est d’améliorer l’efficacité et la flexibilité des processus de production."
-          ],
-          "sources": []
-        },
-        {
-          "title": "OpenAI lance GPT-6.1 Terra pour automatiser les tâches de bureau",
-          "bullets": [
-            "OpenAI présente GPT-6.1 Terra, une version plus abordable de ses modèles d’IA pour automatiser les tâches administratives.",
-            "Cette solution vise à réduire les coûts pour les entreprises tout en augmentant leur productivité.",
-            "Les utilisateurs peuvent intégrer cette technologie dans leurs workflows existants.",
-            "Les applications potentielles incluent la gestion de documents, la planification et l’analyse de données."
+            "Ro développe une solution d’IA pour optimiser les soins médicaux et le suivi des patients.",
+            "L’objectif est de créer une clinique virtuelle accessible 24h/24 pour des consultations rapides.",
+            "Cette innovation pourrait réduire les délais d’attente et améliorer l’accès aux soins.",
+            "Les professionnels de santé sont associés au développement pour garantir la fiabilité.",
+            "Les régulateurs sanitaires doivent valider la conformité de ces outils."
           ],
           "sources": []
         }
@@ -340,69 +275,80 @@
     },
     {
       "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Carbon franchit le cap du million de selles de vélo imprimées en 3D",
+          "title": "France : la pression fiscale dépasse 46 % de la richesse nationale",
           "bullets": [
-            "La société Carbon a produit plus d’un million de selles de vélo imprimées en 3D.",
-            "Cette réalisation marque une avancée majeure dans l’industrie du vélo et de l’impression 3D.",
-            "Les selles imprimées en 3D offrent des avantages en termes de personnalisation et de légèreté.",
-            "Carbon continue d’innover pour répondre aux besoins des cyclistes et des constructeurs."
+            "La France se classe en tête des pays européens pour le poids des impôts dans le PIB.",
+            "Les ménages et entreprises supportent une pression fiscale record.",
+            "Les dépenses publiques restent élevées, alimentant les débats sur la réforme fiscale.",
+            "Les associations économiques appellent à une réduction des charges pour stimuler l’économie.",
+            "Les citoyens expriment une fatigue fiscale croissante."
           ],
           "sources": []
         },
         {
-          "title": "Impression 3D en agriculture : une imprimante 3D booste la rentabilité d’une exploitation viticole en Marne",
+          "title": "Méfiance envers les arnaques sentimentales en ligne",
           "bullets": [
-            "Un viticulteur en Marne utilise une imprimante 3D pour optimiser ses coûts et améliorer sa productivité.",
-            "L’impression 3D permet de créer des outils et accessoires sur mesure pour ses besoins spécifiques.",
-            "Cette technologie réduit les dépenses en évitant l’achat d’équipements standardisés.",
-            "L’exploitant considère cette imprimante comme son meilleur investissement."
+            "Un retraité a été victime d’une escroquerie après avoir rencontré une fausse mannequin sur les réseaux sociaux.",
+            "Sa fille a réussi à faire annuler le testament léguant sa maison à la présumée arnaqueuse.",
+            "Les plateformes sociales renforcent leurs vérifications pour lutter contre ces pratiques.",
+            "Les autorités judiciaires alertent sur les risques de manipulation émotionnelle.",
+            "Les victimes sont invitées à consulter des associations spécialisées en cas de doute."
           ],
           "sources": []
         },
         {
-          "title": "Trafic d’armes en région parisienne : l’impression 3D devient une menace croissante",
+          "title": "Chèque énergie : qui peut en bénéficier et comment le demander ?",
           "bullets": [
-            "Les trafics d’armes en Île-de-France utilisent de plus en plus l’impression 3D pour fabriquer des armes illégales.",
-            "Les saisies d’armes de guerre ont explosé, avec une augmentation des armes imprimées en 3D.",
-            "Les forces de l’ordre peinent à suivre cette évolution technologique.",
-            "Les autorités appellent à une vigilance accrue et à des régulations plus strictes."
+            "Ce dispositif vise à aider les ménages modestes à faire face à la hausse des prix de l’énergie.",
+            "Les critères d’éligibilité sont basés sur les revenus et la composition du foyer.",
+            "La demande se fait en ligne via le site officiel du gouvernement.",
+            "Les bénéficiaires reçoivent un montant variable selon leur situation.",
+            "Les délais de traitement peuvent varier en fonction de la période."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Méfiance envers les messages WhatsApp frauduleux menaçant le contrôle du compte",
+          "bullets": [
+            "Des escrocs usurpent l’identité d’un proche pour inciter à partager des codes de vérification.",
+            "Cette technique permet de prendre le contrôle du compte WhatsApp de la victime.",
+            "Les utilisateurs sont invités à vérifier systématiquement l’expéditeur avant d’agir.",
+            "WhatsApp renforce ses alertes pour sensibiliser les utilisateurs aux risques.",
+            "Les autorités conseillent de signaler ces tentatives via les canaux officiels."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "À savoir · vie pratique",
+      "label": "Sport général",
       "sujets": [
         {
-          "title": "La France championne d’Europe des impôts en 2025 : une fiscalité toujours lourde",
+          "title": "Provence Rugby : victoire renversante contre Dax en Pro D2",
           "bullets": [
-            "La France conserve le titre de championne européenne des impôts en 2025.",
-            "Les taux d’imposition restent parmi les plus élevés au sein de l’Union européenne.",
-            "Les ménages et les entreprises subissent un poids fiscal important.",
-            "Les réformes fiscales sont régulièrement évoquées pour alléger cette charge."
+            "Provence Rugby a arraché le match nul contre Dax grâce à une fin de match spectaculaire.",
+            "L’équipe reste invaincue en championnat, consolidant sa position en tête.",
+            "Les joueurs ont su rebondir après une première mi-temps difficile.",
+            "Les supporters et entraîneurs saluent cette performance collective.",
+            "Cette victoire renforce les ambitions de l’équipe pour la saison en cours."
           ],
           "sources": []
         },
         {
-          "title": "Nouveau barème des impôts : impact sur votre fiscalité en 2027",
+          "title": "Tennis : Gaston abandonne l’Open de Brest en raison de la maladie, Kouame en quarts",
           "bullets": [
-            "Le nouveau barème des impôts pourrait modifier significativement les revenus imposables en 2027.",
-            "Les ménages devront évaluer si leur situation fiscale sera plus avantageuse ou non.",
-            "Les simulations montrent des variations selon les tranches de revenus.",
-            "Les experts recommandent de se renseigner auprès des services fiscaux pour une estimation précise."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie : utilisation possible pour le chauffage au bois ou au fioul ?",
-          "bullets": [
-            "Le chèque énergie peut être utilisé pour financer des dépenses liées au chauffage au bois ou au fioul.",
-            "Cette aide vise à réduire la facture énergétique des ménages.",
-            "Les conditions d’utilisation et les montants varient selon les situations.",
-            "Les bénéficiaires doivent vérifier leur éligibilité et les modalités d’utilisation."
+            "Gaston, en difficulté physique, a dû abandonner son match en cours.",
+            "Son adversaire, Kouame, continue sa progression et atteint les quarts de finale.",
+            "Les organisateurs expriment leur inquiétude pour la santé du joueur.",
+            "Kouame se qualifie pour les phases suivantes et affronte un adversaire de haut niveau.",
+            "L’Open de Brest reste un tournoi majeur pour les joueurs locaux et régionaux."
           ],
           "sources": []
         }
