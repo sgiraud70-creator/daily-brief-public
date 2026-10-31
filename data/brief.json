@@ -1,5 +1,5 @@
 {
-  "date_str": "Vendredi 30 octobre 2026",
+  "date_str": "Samedi 31 octobre 2026",
   "audio_minutes": 11,
   "read_minutes": 8,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Bienvenue",
+          "title": "Aujourd'hui, on souhaite la fête : Quentin et Alphonse",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/30/10/2026/30-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/31/10/2026/31-Octobre-2026.html"
             }
           ]
         }
@@ -22,82 +22,62 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Attentat raciste à Trappes : l’assaillant présumé avait des antécédents judiciaires",
+          "title": "Sécheresse historique en Guyane : crise de l’eau potable aggravée par El Niño et le changement climatique",
           "bullets": [
-            "Kévin T., 39 ans, avait été interpellé trois jours avant les faits pour violences sur un automobiliste.",
-            "L’attaque du 23 octobre a visé un homme noir dans un centre commercial, causant des blessures graves.",
-            "Le suspect est placé en détention provisoire pour « violences aggravées en raison de la haine raciale ».",
-            "Les autorités enquêtent sur un éventuel lien entre les deux affaires.",
-            "La victime a été hospitalisée en urgence, mais son état est désormais stable."
+            "Le territoire amazonien subit une sécheresse décuplée par l’intensité du phénomène El Niño et le réchauffement climatique.",
+            "Les réserves d’eau potable sont menacées, entraînant des restrictions d’accès à l’eau pour les populations locales.",
+            "Les autorités locales et nationales mobilisent des solutions d’urgence, mais la situation reste critique pour les mois à venir.",
+            "Les activités économiques, notamment agricoles et touristiques, sont déjà perturbées par le manque d’eau."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/29/avant-son-attentat-raciste-a-trappes-l-assaillant-avait-ete-interpelle-trois-jours-avant-pour-des-violences-sur-un-automobiliste_6802427_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html"
             }
           ]
         },
         {
-          "title": "Édouard Philippe placé sous statut de témoin assisté dans une enquête pour détournement de fonds publics",
+          "title": "Manifestations du 31 octobre : plus de 100 défilés prévus pour défendre le pouvoir d’achat",
           "bullets": [
-            "L’ancien Premier ministre est suspecté d’avoir détourné des fonds publics lors de sa gestion de la mairie de Lyon.",
-            "Son avocat affirme qu’il n’y a « rien à lui reprocher » dans cette affaire.",
-            "Cette mesure ouvre la voie à des investigations approfondies, sans mise en examen immédiate.",
-            "Les faits remontent à sa période de mandat entre 2015 et 2020.",
-            "La justice examine des soupçons de malversations financières et de conflits d’intérêts."
+            "Un dispositif policier renforcé avec plus de 70 000 agents déployés pour encadrer les mobilisations.",
+            "Les manifestants dénoncent la hausse des prix et la baisse du pouvoir d’achat, avec une forte présence syndicale.",
+            "Les autorités anticipent des rassemblements dans plusieurs villes, notamment à Paris et en région parisienne.",
+            "Les tensions restent élevées après les violences enregistrées lors des précédentes manifestations."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html"
             }
           ]
         },
         {
-          "title": "L’Arcom sanctionne Radio France pour un montage sonore détournant des propos de Jean-Luc Mélenchon",
+          "title": "Trappes : hommage national à la victime de l’attentat raciste, un an après les faits",
           "bullets": [
-            "Un extrait tronqué diffusé sur France Culture a été interprété comme des propos antisémites.",
-            "L’Arcom a adressé une mise en garde à Radio France pour « manquement à la déontologie ».",
-            "Jean-Luc Mélenchon dénonce une « manipulation » et une atteinte à sa réputation.",
-            "L’incident survient dans un contexte de tensions politiques et médiatiques accrues.",
-            "Radio France s’engage à respecter les règles de transparence et de vérification des sources."
+            "Une cérémonie officielle a eu lieu vendredi pour rendre hommage à la victime de l’attentat raciste survenu en octobre 2025.",
+            "Le maire de Trappes, Ali Rabeh, a dénoncé l’échec des mesures de protection présidentielle et appelé à une mobilisation contre le racisme.",
+            "Les associations locales et les élus locaux ont réclamé des mesures renforcées contre les violences racistes et l’extrémisme.",
+            "La ville reste sous tension, avec des craintes de nouvelles manifestations ou de réactions violentes."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html"
             }
           ]
         },
         {
-          "title": "Conflit social : influenceurs et rappeurs soutiennent massivement le mouvement lycéen",
+          "title": "Présidentielle 2027 : la campagne s’annonce sous le signe de la colère sociale et des divisions politiques",
           "bullets": [
-            "Des figures comme Jul, Aya Nakamura, Lena Situations ou Tibo InShape ont encouragé les manifestations lycéennes.",
-            "Leur soutien reflète une nouvelle dynamique générationnelle dans l’engagement politique.",
-            "Cette mobilisation pourrait influencer les débats de la présidentielle de 2027.",
-            "Les réseaux sociaux amplifient la visibilité des revendications étudiantes et lycéennes.",
-            "Les autorités surveillent l’impact de cette alliance sur la radicalisation des mouvements sociaux."
+            "Les analystes politiques soulignent une montée des tensions et une polarisation accrue dans le paysage politique français.",
+            "Les enjeux économiques, notamment le pouvoir d’achat et l’inflation, dominent les débats préélectoraux.",
+            "Les partis traditionnels peinent à mobiliser une base électorale en crise, ouvrant la voie à des figures plus radicales.",
+            "Les sondages anticipent une campagne marquée par des affrontements idéologiques et une radicalisation des discours."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Effondrement du BHV : la mairie de Paris impuissante face à la fermeture définitive",
-          "bullets": [
-            "L’enseigne historique du centre de Paris va probablement être placée en redressement judiciaire.",
-            "La Ville de Paris manque de moyens pour soutenir ou racheter l’immeuble.",
-            "Ce site emblématique pourrait être démoli ou reconverti en logements ou bureaux.",
-            "Les commerçants et employés craignent des licenciements massifs.",
-            "Les associations culturelles et patrimoniales appellent à une sauvegarde du lieu."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html"
             }
           ]
         }
@@ -107,82 +87,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Iran : menace d’escalade avec les États-Unis et Israël malgré les tractations diplomatiques",
+          "title": "Sénégal : tensions autour des Jeux olympiques de la jeunesse, entre attentes et désillusions",
           "bullets": [
-            "Téhéran affirme être prêt à répondre à toute attaque, tout en maintenant des contacts indirects avec Washington.",
-            "L’Iran accuse les États-Unis et Israël de menacer sa sécurité nationale.",
-            "Les tensions persistent dans le Golfe, notamment après des incidents récents dans le détroit d’Ormuz.",
-            "Les négociations sur le nucléaire iranien restent bloquées, aggravant les risques de confrontation.",
-            "Les pays occidentaux appellent à la retenue pour éviter une guerre régionale."
+            "Pour la première fois, l’Afrique accueille une compétition olympique, mais l’engouement reste limité au Sénégal.",
+            "Les Sénégalais dénoncent un manque de visibilité et d’investissements locaux autour de l’événement.",
+            "Les autorités tentent de mobiliser la population, mais les critiques sur la gestion des ressources et l’opportunité économique persistent.",
+            "Les Jeux olympiques de la jeunesse se déroulent du 31 octobre au 13 novembre, avec des enjeux symboliques majeurs pour le continent."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/30/en-iran-la-menace-d-une-nouvelle-confrontation-avec-les-etats-unis-et-israel-prise-au-serieux-malgre-les-tractations-diplomatiques_6802767_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html"
             }
           ]
         },
         {
-          "title": "Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz",
+          "title": "Midterms aux États-Unis : guide pour comprendre les élections de mi-mandat et leurs enjeux",
           "bullets": [
-            "L’Iran accuse certains navires de désactiver leurs systèmes de navigation avant les explosions.",
-            "L’Iran affirme avoir saisi un drone américain dans la zone.",
-            "Les tensions persistent entre Téhéran et les États-Unis, avec des risques accrus d’escalade.",
-            "Les pays du Golfe renforcent leurs mesures de sécurité maritime.",
-            "L’ONU appelle à la désescalade pour éviter une crise énergétique mondiale."
+            "Les élections de mi-mandat aux États-Unis déterminent le contrôle du Congrès pour la suite du mandat de Donald Trump.",
+            "Les démocrates et les républicains s’affrontent sur des questions économiques, sociales et géopolitiques.",
+            "Les résultats pourraient influencer les politiques futures, notamment en matière de fiscalité et de sécurité nationale.",
+            "Les électeurs américains sont appelés aux urnes pour renouveler une partie du Congrès, avec des conséquences majeures pour le pays."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html"
             }
           ]
         },
         {
-          "title": "Ukraine : Kiev frappée par une nouvelle salve de missiles russes",
+          "title": "Guerre au Moyen-Orient : pénurie de navires et tarifs records font exploser les prix du transport de pétrole",
           "bullets": [
-            "Au moins une personne est morte et plusieurs bâtiments endommagés lors de l’attaque.",
-            "Un drone russe a également frappé la gare de Dnipro, faisant 15 morts et 14 blessés.",
-            "Les autorités ukrainiennes dénoncent des violations du droit international.",
-            "L’Occident renforce son soutien militaire et humanitaire à Kiev.",
-            "Les négociations de paix restent bloquées, malgré les appels à une trêve."
+            "Le conflit en cours entraîne une raréfaction des navires pétroliers disponibles et un allongement des temps de transport.",
+            "Les tarifs du transport maritime du pétrole ont connu une hausse record, impactant les prix à la pompe.",
+            "Les compagnies pétrolières et les États producteurs cherchent des solutions pour atténuer cette crise logistique.",
+            "Les conséquences économiques se répercutent sur les marchés mondiaux et les consommateurs finaux."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/31/penurie-de-navires-et-tarifs-record-comment-la-guerre-au-moyen-orient-fait-bondir-les-prix-du-transport-de-petrole_6803378_3234.html"
             }
           ]
         },
         {
-          "title": "Israël : Isaac Herzog, président honorifique, arbitre une Knesset sans majorité",
+          "title": "Madagascar : fouilles archéologiques révèlent des trésors liés à la piraterie et à la traite négrière",
           "bullets": [
-            "Faute de majorité claire, Herzog pourrait pousser à la formation d’un gouvernement d’union.",
-            "Les partis politiques s’affrontent pour former une coalition stable.",
-            "Les tensions internes menacent la stabilité politique du pays.",
-            "Les élections législatives de 2026 ont révélé une fragmentation du paysage politique.",
-            "Les négociations pour un gouvernement inclusif restent tendues."
+            "Des pièces d’or, porcelaines précieuses et artefacts liés à la contrebande ont été découverts lors de fouilles archéologiques.",
+            "Ces découvertes éclairent l’histoire complexe de la piraterie et de la traite négrière dans l’océan Indien au XVIIIe siècle.",
+            "Les chercheurs espèrent que ces trésors permettront de mieux comprendre les échanges culturels et économiques de l’époque.",
+            "Le site archéologique attire l’attention internationale sur l’importance de préserver ce patrimoine historique."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/30/en-israel-isaac-herzog-le-president-honorifique-devenu-arbitre-d-une-knesset-sans-majorite_6802757_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html"
             }
           ]
         },
         {
-          "title": "UE : libération de 42,6 millions de barils de pétrole pour stabiliser les prix avant l’hiver",
+          "title": "New York : le coût de la garde d’enfants devient un luxe inaccessible pour de nombreuses familles",
           "bullets": [
-            "Onze pays de l’UE puisent dans leurs réserves stratégiques pour faire face à la hausse des prix.",
-            "L’objectif est d’éviter une crise énergétique en période de forte consommation.",
-            "Les prix du gazole restent volatils en raison des tensions géopolitiques.",
-            "Les États membres appellent à une utilisation rationnelle des ressources.",
-            "Cette mesure fait suite à des appels urgents de la Commission européenne."
+            "Les crèches et écoles privées représentent 30 % à 40 % du budget annuel d’une famille new-yorkaise.",
+            "Les prix exorbitants limitent l’accès à une garde d’enfants de qualité, aggravant les inégalités sociales.",
+            "Les politiques publiques peinent à répondre à cette crise, laissant de nombreuses familles dans une situation précaire.",
+            "Les conséquences se font sentir sur l’équilibre économique et familial des ménages."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/31/a-new-york-le-prix-des-creches-et-des-ecoles-et-des-structures-de-garde-est-si-exorbitant-qu-avoir-un-enfant-est-devenu-un-luxe_6803386_3234.html"
             }
           ]
         }
@@ -191,137 +166,118 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Deux éditeurs français de logiciels piratés : données sensibles exposées",
+          "title": "Assemblée nationale : adoption d’une taxe de 5,5 centimes par Go téléchargé, qui paiera la facture ?",
           "bullets": [
-            "Le moteur de réservation D-EDGE et le logiciel Misterbooking ont été compromis.",
-            "Les données concernent réservations d’hôtel, identités d’accompagnants et documents personnels.",
-            "Les cybercriminels ont exploité des failles dans les systèmes de sécurité.",
-            "Les entreprises impliquées alertent leurs clients sur les risques de fraude.",
-            "Les autorités françaises enquêtent pour identifier les responsables."
+            "Les députés ont voté une taxe de 0,055 euro par gigaoctet envoyé aux utilisateurs par des plateformes comme Netflix ou Meta.",
+            "Cette mesure vise à financer les infrastructures numériques et à réduire la consommation énergétique des données.",
+            "Les opérateurs et les fournisseurs de services internet pourraient être les principaux contributeurs de cette taxe.",
+            "Les consommateurs pourraient voir leurs abonnements internet augmenter pour couvrir ce coût supplémentaire."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2363547-reservations-dhotel-identite-des-accompagnants-documents-personnels-ces-deux-editeurs-francais-de-logiciels-ont-ete-pirates-a-quelques-jours-dintervalle.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html"
             }
           ]
         },
         {
-          "title": "Mistral Large 4 disponible en poids ouverts : avancées technologiques majeures",
+          "title": "Nasa : Hubble risque de s’écraser d’ici 2033, la recherche d’une solution de sauvetage s’accélère",
           "bullets": [
-            "Mistral AI publie les poids de son modèle à 1 000 milliards de paramètres, surnommé « Le Chonk ».",
-            "Cette ouverture permet aux chercheurs et développeurs d’améliorer les capacités de l’IA.",
-            "Le modèle pourrait révolutionner les applications génératives et conversationnelles.",
-            "Les entreprises et institutions peuvent désormais l’intégrer dans leurs propres solutions.",
-            "Cette transparence renforce la confiance dans les modèles d’IA avancés."
+            "Le télescope Hubble a une chance sur deux de s’écraser sur Terre d’ici 2033 en raison de la dégradation de son orbite.",
+            "La Nasa lance un appel à idées pour remonter son orbite, le réparer ou organiser une rentrée atmosphérique contrôlée.",
+            "Les industriels et scientifiques proposent des solutions innovantes pour prolonger la durée de vie de Hubble.",
+            "La perte de Hubble représenterait un recul majeur pour l’astronomie et la recherche spatiale."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2363685-mistral-large-4-est-disponible-en-poids-ouverts-ce-qui-a-change-depuis-sa-presentation.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html"
             }
           ]
         },
         {
-          "title": "Banques Populaire et Caisse d’Épargne : incidents techniques perturbent les paiements",
+          "title": "Volkswagen suspend le développement de la future Golf électrique, un signal fort pour l’industrie automobile",
           "bullets": [
-            "Des clients signalent des paiements affichés en double et des virements perturbés.",
-            "Les banques assurent travailler sur une solution pour corriger ces anomalies.",
-            "Les clients sont invités à surveiller leurs comptes et à signaler tout incident.",
-            "Les perturbations pourraient être liées à des problèmes techniques ou de synchronisation.",
-            "Les autorités bancaires surveillent la situation pour éviter des pertes financières."
+            "Volkswagen a décidé de geler temporairement les travaux de développement de la Golf 100 % électrique.",
+            "Cette décision reflète les incertitudes économiques et les défis technologiques rencontrés par le secteur automobile.",
+            "Les constructeurs automobiles réévaluent leurs stratégies face à la transition vers les véhicules électriques.",
+            "Les consommateurs pourraient subir des reports de lancement ou des modifications des modèles prévus."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2363529-banque-populaire-et-caisse-depargne-des-paiements-affiches-en-double-et-des-virements-perturbes-que-se-passe-t-il.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/vroom/2364573-cette-decision-na-vraiment-pas-ete-facile-a-prendre-volkswagen-suspend-lid-golf.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "GitHub : 40 % des pull requests initiées par des agents IA",
-          "bullets": [
-            "Les outils d’IA deviennent des acteurs majeurs dans les contributions open source.",
-            "Les développeurs utilisent ces agents pour automatiser et accélérer les processus de code review.",
-            "Cette tendance reflète une intégration croissante de l’IA dans les workflows logiciels.",
-            "Les équipes techniques doivent s’adapter à cette nouvelle dynamique collaborative.",
-            "Les risques de sécurité et de qualité du code restent des sujets de préoccupation."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Ro lance Robin, un agent IA dédié à la santé, avec une clinique virtuelle en perspective",
-          "bullets": [
-            "Ro développe une solution d’IA pour optimiser les soins médicaux et le suivi des patients.",
-            "L’objectif est de créer une clinique virtuelle accessible 24h/24 pour des consultations rapides.",
-            "Cette innovation pourrait réduire les délais d’attente et améliorer l’accès aux soins.",
-            "Les professionnels de santé sont associés au développement pour garantir la fiabilité.",
-            "Les régulateurs sanitaires doivent valider la conformité de ces outils."
-          ],
-          "sources": []
         }
       ]
     },
     {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Plus de 142 000 visages imprimés en 3D pour animer les personnages de Wildwood",
+          "bullets": [
+            "Plus de 142 000 visages imprimés en 3D ont été créés pour donner vie aux personnages du film d’animation Wildwood.",
+            "Cette technologie permet de capturer et reproduire des expressions faciales variées et réalistes.",
+            "Les créateurs espèrent que cette innovation améliorera l’immersion et l’émotion des spectateurs.",
+            "L’impression 3D ouvre de nouvelles perspectives pour l’industrie cinématographique et les arts visuels."
+          ],
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/142-000-visages-imprimes-en-3d-wildwood-30102026/"
+            }
+          ]
+        },
+        {
+          "title": "Impression 3D : l’adoption par le nucléaire prouve les progrès technologiques réalisés",
+          "bullets": [
+            "L’impression 3D se développe dans le secteur nucléaire pour fabriquer des pièces complexes et résistantes.",
+            "Cette technologie permet de produire des composants sur mesure, réduisant les coûts et les délais de fabrication.",
+            "Les centrales nucléaires pourraient bénéficier de pièces imprimées en 3D pour des réparations ou des mises à niveau.",
+            "L’innovation dans ce domaine ouvre la voie à une maintenance plus efficace et durable des infrastructures."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "France : la pression fiscale dépasse 46 % de la richesse nationale",
+          "title": "Budget 2027 : le ministre David Amiel annonce un budget plus dur avec des impôts et économies revus à la hausse",
           "bullets": [
-            "La France se classe en tête des pays européens pour le poids des impôts dans le PIB.",
-            "Les ménages et entreprises supportent une pression fiscale record.",
-            "Les dépenses publiques restent élevées, alimentant les débats sur la réforme fiscale.",
-            "Les associations économiques appellent à une réduction des charges pour stimuler l’économie.",
-            "Les citoyens expriment une fatigue fiscale croissante."
+            "Le ministre David Amiel annonce un budget 2027 plus restrictif, avec des impôts et des économies supérieures aux prévisions.",
+            "Les mesures visent à réduire le déficit public et à stabiliser les finances de l’État.",
+            "Les ménages et les entreprises pourraient subir une pression fiscale accrue.",
+            "Les débats sur les priorités budgétaires et les réformes structurelles s’intensifient."
           ],
           "sources": []
         },
         {
-          "title": "Méfiance envers les arnaques sentimentales en ligne",
+          "title": "Limoges : adoption d’une réduction d’impôts pour les dons visant à reconstruire la mairie incendiée",
           "bullets": [
-            "Un retraité a été victime d’une escroquerie après avoir rencontré une fausse mannequin sur les réseaux sociaux.",
-            "Sa fille a réussi à faire annuler le testament léguant sa maison à la présumée arnaqueuse.",
-            "Les plateformes sociales renforcent leurs vérifications pour lutter contre ces pratiques.",
-            "Les autorités judiciaires alertent sur les risques de manipulation émotionnelle.",
-            "Les victimes sont invitées à consulter des associations spécialisées en cas de doute."
+            "L’Assemblée de Limoges a adopté une réduction d’impôts pour encourager les dons en vue de la reconstruction de la mairie incendiée.",
+            "Cette mesure vise à mobiliser les citoyens et les entreprises pour financer les travaux de restauration.",
+            "Les dons pourraient bénéficier d’avantages fiscaux pour inciter à la générosité.",
+            "La mairie de Limoges cherche à relancer rapidement les activités administratives et culturelles."
           ],
           "sources": []
         },
         {
-          "title": "Chèque énergie : qui peut en bénéficier et comment le demander ?",
+          "title": "Arnaque bancaire : la nouvelle escroquerie « Appuyez sur la touche 1 » sévit et cause des pertes massives",
           "bullets": [
-            "Ce dispositif vise à aider les ménages modestes à faire face à la hausse des prix de l’énergie.",
-            "Les critères d’éligibilité sont basés sur les revenus et la composition du foyer.",
-            "La demande se fait en ligne via le site officiel du gouvernement.",
-            "Les bénéficiaires reçoivent un montant variable selon leur situation.",
-            "Les délais de traitement peuvent varier en fonction de la période."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Méfiance envers les messages WhatsApp frauduleux menaçant le contrôle du compte",
-          "bullets": [
-            "Des escrocs usurpent l’identité d’un proche pour inciter à partager des codes de vérification.",
-            "Cette technique permet de prendre le contrôle du compte WhatsApp de la victime.",
-            "Les utilisateurs sont invités à vérifier systématiquement l’expéditeur avant d’agir.",
-            "WhatsApp renforce ses alertes pour sensibiliser les utilisateurs aux risques.",
-            "Les autorités conseillent de signaler ces tentatives via les canaux officiels."
+            "Une nouvelle arnaque bancaire consiste à inciter les victimes à appuyer sur la touche 1 pour « valider » une transaction frauduleuse.",
+            "Les escrocs profitent de la méconnaissance des mécanismes bancaires pour soutirer des fonds aux clients.",
+            "Les banques et les autorités appellent à la vigilance et conseillent de ne jamais suivre les instructions suspectes.",
+            "Les victimes sont invitées à signaler les tentatives d’arnaque pour renforcer la sécurité des transactions."
           ],
           "sources": []
         }
@@ -331,24 +287,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Provence Rugby : victoire renversante contre Dax en Pro D2",
+          "title": "Basket-ball : la Fédération française ouvre une procédure disciplinaire après les violences au pôle France de l’Insep",
           "bullets": [
-            "Provence Rugby a arraché le match nul contre Dax grâce à une fin de match spectaculaire.",
-            "L’équipe reste invaincue en championnat, consolidant sa position en tête.",
-            "Les joueurs ont su rebondir après une première mi-temps difficile.",
-            "Les supporters et entraîneurs saluent cette performance collective.",
-            "Cette victoire renforce les ambitions de l’équipe pour la saison en cours."
+            "La Fédération française de basket-ball ouvre une procédure disciplinaire après des violences enregistrées au pôle France de l’Insep.",
+            "Cinq joueurs ont été exclus définitivement pour avoir participé à une soirée violente.",
+            "Les autorités sportives renforcent les mesures de sécurité et de discipline pour éviter de nouveaux incidents.",
+            "Cette affaire relance le débat sur la gestion des violences dans les structures sportives de haut niveau."
           ],
           "sources": []
         },
         {
-          "title": "Tennis : Gaston abandonne l’Open de Brest en raison de la maladie, Kouame en quarts",
+          "title": "Rugby : un match féminin de Pro D2 diffusé en clair pour la première fois en France",
           "bullets": [
-            "Gaston, en difficulté physique, a dû abandonner son match en cours.",
-            "Son adversaire, Kouame, continue sa progression et atteint les quarts de finale.",
-            "Les organisateurs expriment leur inquiétude pour la santé du joueur.",
-            "Kouame se qualifie pour les phases suivantes et affronte un adversaire de haut niveau.",
-            "L’Open de Brest reste un tournoi majeur pour les joueurs locaux et régionaux."
+            "Un match féminin de rugby en Pro D2 sera diffusé en clair pour la première fois, marquant une avancée pour la visibilité du sport féminin.",
+            "Cette diffusion vise à promouvoir le rugby féminin et à attirer un public plus large.",
+            "Les organisateurs espèrent que cette initiative encouragera les jeunes filles à pratiquer ce sport.",
+            "La diffusion en clair pourrait aussi renforcer l’attractivité économique du rugby féminin."
           ],
           "sources": []
         }
@@ -371,16 +325,13 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à l'extérieur contre Le Havre AC",
+          "title": "Prochain match : le PSG à l'extérieur contre Villarreal CF",
           "bullets": [
-            "Adversaire : Le Havre AC (à l'extérieur)",
-            "Compétition : Ligue 1",
-            "Date : vendredi 30 octobre à 19h00 (heure de Paris)",
-            "Diffusion : Ligue 1+",
+            "Adversaire : Villarreal CF (à l'extérieur)",
+            "Date : mardi 3 novembre à 21h00 (heure de Paris)",
+            "Diffusion : Canal+ Foot",
             "Classement : 1er de Ligue 1 — 17 pts en 8 matchs",
-            "Ligue des champions : 1er de la phase de ligue (9 pts)",
-            "Adversaire au classement : 18e de Ligue 1 (2 pts)",
-            "Le Havre AC — Stade : Stade CMA CGM Océane · Capacité : 25 178 places · Entraîneur : Didier Digard"
+            "Ligue des champions : 1er de la phase de ligue (9 pts)"
           ],
           "sources": [
             {

@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-17-octobre-217-personnes-ont-ete-incarcerees-parmi-les-2-700-placees-en-garde-a-vue-apres-les-violences-et-pillages-du-week-end-selon-gerald-darmanin_6795855_3224.html",
-    "title": "217 personnes incarcérées parmi 2 700 placées en garde à vue après les violences du 17 octobre",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/23/a-la-veille-d-une-nouvelle-journee-de-manifestations-le-24-octobre-un-paris-barricade-et-des-habitants-inquiets_6798955_823448.html",
-    "title": "Paris barricadé et habitants inquiets à l’approche d’une nouvelle journée de manifestations",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-pleuvent-sur-toute-la-france-au-risque-de-malmener-l-etat-de-droit_6798944_823448.html",
-    "title": "Interdictions de manifester multipliées : risque de fragilisation de l’État de droit",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/23/face-aux-mobilisations-emmanuel-macron-reprend-les-commandes-sur-le-maintien-de-l-ordre_6798942_823448.html",
-    "title": "Emmanuel Macron reprend le contrôle du maintien de l’ordre après les violences du 17 octobre",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/23/benoit-payan-maire-de-marseille-l-etat-de-droit-n-est-pas-un-obstacle-a-la-volonte-politique-mais-la-condition-de-son-exercice-legitime_6798946_3232.html",
-    "title": "Marseille : Benoît Payan rappelle l’importance de l’État de droit face aux violences",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/23/a-carcassonne-le-maire-rn-christophe-barthes-poursuit-ses-outrances-a-coups-de-provoc-sur-les-reseaux-sociaux_6798941_4500055.html",
-    "title": "Carcassonne : le maire RN Christophe Barthès multiplie les provocations sur les réseaux sociaux",
-    "rubrique": "France",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html",
-    "title": "Donald Trump affirme qu’Elon Musk a relancé Starlink pour l’Ukraine après son appel",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/23/en-colombie-le-president-annonce-la-mort-de-neuf-guerilleros-de-l-eln-dans-un-bombardement_6798734_3210.html",
-    "title": "Colombie : neuf guérilleros de l’ELN tués dans un bombardement gouvernemental",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/23/donald-trump-somme-de-temoigner-sous-serment-dans-son-proces-en-diffamation-contre-la-bbc_6798701_3210.html",
-    "title": "Donald Trump sommé de témoigner sous serment dans son procès en diffamation contre la BBC",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/23/aux-fidji-une-epidemie-de-vih-favorisee-par-l-essor-d-une-drogue-de-synthese_6798835_3210.html",
-    "title": "Fidji : épidémie de VIH accélérée par l’essor d’une drogue de synthèse",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/23/au-bresil-pourquoi-les-classes-moyennes-ont-tourne-le-dos-a-lula_6798937_3234.html",
-    "title": "Brésil : les classes moyennes se détournent de Lula après dix-sept ans de pouvoir",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/23/proces-sur-la-mort-de-diego-maradona-verdict-attendu-le-22-decembre-apres-une-cinquantaine-d-audiences-et-six-mois-de-debats_6798800_3210.html",
-    "title": "Procès de Diego Maradona : verdict attendu le 22 décembre après six mois d’audiences",
-    "rubrique": "International",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2359151-73-en-septembre-en-europe-la-voiture-electrique-donne-tort-aux-discours-alarmistes.html",
-    "title": "+73 % de croissance des ventes de voitures électriques en Europe en septembre 2026",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2359185-tempete-austen-votre-train-est-supprime-ou-en-retard-voici-les-regles-de-la-sncf-pour-vous-faire-rembourser.html",
-    "title": "Tempête Austen : règles de remboursement de la SNCF pour les trains supprimés ou retardés",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2358881-tesla-va-livrer-son-robotaxi-cybercab-a-des-clients-qui-ne-pourront-pas-le-faire-rouler-ou-ils-veulent.html",
-    "title": "Tesla livre son robotaxi Cybercab avec des restrictions géographiques pour les premiers clients",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-23"
-  },
-  {
-    "url": "https://www.3dnatives.com/scanner-3d-bambu-lab-22102026/",
-    "title": "Bambu Lab lance son premier scanner 3D, prévu pour novembre 2026",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-23"
-  },
-  {
     "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-des-centaines-de-defiles-attendus-dans-plusieurs-villes-de-france-dans-un-contexte-de-tres-forte-tension_6799445_3224.html",
     "title": "Manifestations du 24 octobre : tensions maximales avec 70 000 policiers déployés",
     "rubrique": "France",
@@ -706,5 +610,83 @@
     "title": "Banques Populaire et Caisse d’Épargne : incidents techniques perturbent les paiements",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
+    "title": "Sécheresse historique en Guyane : crise de l’eau potable aggravée par El Niño et le changement climatique",
+    "rubrique": "France",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html",
+    "title": "Manifestations du 31 octobre : plus de 100 défilés prévus pour défendre le pouvoir d’achat",
+    "rubrique": "France",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
+    "title": "Trappes : hommage national à la victime de l’attentat raciste, un an après les faits",
+    "rubrique": "France",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html",
+    "title": "Présidentielle 2027 : la campagne s’annonce sous le signe de la colère sociale et des divisions politiques",
+    "rubrique": "France",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html",
+    "title": "Sénégal : tensions autour des Jeux olympiques de la jeunesse, entre attentes et désillusions",
+    "rubrique": "International",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html",
+    "title": "Midterms aux États-Unis : guide pour comprendre les élections de mi-mandat et leurs enjeux",
+    "rubrique": "International",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/31/penurie-de-navires-et-tarifs-record-comment-la-guerre-au-moyen-orient-fait-bondir-les-prix-du-transport-de-petrole_6803378_3234.html",
+    "title": "Guerre au Moyen-Orient : pénurie de navires et tarifs records font exploser les prix du transport de pétrole",
+    "rubrique": "International",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html",
+    "title": "Madagascar : fouilles archéologiques révèlent des trésors liés à la piraterie et à la traite négrière",
+    "rubrique": "International",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/10/31/a-new-york-le-prix-des-creches-et-des-ecoles-et-des-structures-de-garde-est-si-exorbitant-qu-avoir-un-enfant-est-devenu-un-luxe_6803386_3234.html",
+    "title": "New York : le coût de la garde d’enfants devient un luxe inaccessible pour de nombreuses familles",
+    "rubrique": "International",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html",
+    "title": "Assemblée nationale : adoption d’une taxe de 5,5 centimes par Go téléchargé, qui paiera la facture ?",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html",
+    "title": "Nasa : Hubble risque de s’écraser d’ici 2033, la recherche d’une solution de sauvetage s’accélère",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2364573-cette-decision-na-vraiment-pas-ete-facile-a-prendre-volkswagen-suspend-lid-golf.html",
+    "title": "Volkswagen suspend le développement de la future Golf électrique, un signal fort pour l’industrie automobile",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.3dnatives.com/142-000-visages-imprimes-en-3d-wildwood-30102026/",
+    "title": "Plus de 142 000 visages imprimés en 3D pour animer les personnages de Wildwood",
+    "rubrique": "Impression 3D",
+    "date": "2026-10-31"
   }
 ]
