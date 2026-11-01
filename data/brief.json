@@ -1,18 +1,18 @@
 {
-  "date_str": "Samedi 31 octobre 2026",
+  "date_str": "Dimanche 1 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 4,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Quentin et Alphonse",
+          "title": "Aujourd'hui, on souhaite la fête : Tous les prénoms, Toussaint et Bénigne",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/31/10/2026/31-Octobre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/1/11/2026/1-Novembre-2026.html"
             }
           ]
         }
@@ -22,62 +22,70 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Sécheresse historique en Guyane : crise de l’eau potable aggravée par El Niño et le changement climatique",
+          "title": "Manifestations du 31 octobre : mobilisation historique contre la vie chère",
           "bullets": [
-            "Le territoire amazonien subit une sécheresse décuplée par l’intensité du phénomène El Niño et le réchauffement climatique.",
-            "Les réserves d’eau potable sont menacées, entraînant des restrictions d’accès à l’eau pour les populations locales.",
-            "Les autorités locales et nationales mobilisent des solutions d’urgence, mais la situation reste critique pour les mois à venir.",
-            "Les activités économiques, notamment agricoles et touristiques, sont déjà perturbées par le manque d’eau."
+            "Environ 500 000 manifestants selon les organisateurs (320 000 selon les autorités) ont défilé dans toute la France.",
+            "Revendications centrées sur le pouvoir d’achat et la hausse des prix, avec des cortèges festifs et déterminés.",
+            "Dispositifs de sécurité renforcés dans plusieurs villes, notamment des couvre-feux partiels.",
+            "Manifestations pacifiques dans la majorité des villes, malgré des tensions locales.",
+            "La mobilisation s’inscrit dans un contexte de mécontentement social croissant avant la présidentielle 2027."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html"
             }
           ]
         },
         {
-          "title": "Manifestations du 31 octobre : plus de 100 défilés prévus pour défendre le pouvoir d’achat",
+          "title": "Marseille : violences lors d’une manifestation interdite",
           "bullets": [
-            "Un dispositif policier renforcé avec plus de 70 000 agents déployés pour encadrer les mobilisations.",
-            "Les manifestants dénoncent la hausse des prix et la baisse du pouvoir d’achat, avec une forte présence syndicale.",
-            "Les autorités anticipent des rassemblements dans plusieurs villes, notamment à Paris et en région parisienne.",
-            "Les tensions restent élevées après les violences enregistrées lors des précédentes manifestations."
+            "Environ 10 000 personnes ont défié l’interdiction de manifester dans le 1er arrondissement.",
+            "Échauffourées avec les forces de l’ordre en fin de parcours, après un défilé improvisé.",
+            "Bilan provisoire sans victime grave, mais des interpellations ont eu lieu.",
+            "La préfecture a réitéré l’interdiction de rassemblement dans la ville.",
+            "Contexte de tensions récurrentes entre manifestants et forces de sécurité à Marseille."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html"
             }
           ]
         },
         {
-          "title": "Trappes : hommage national à la victime de l’attentat raciste, un an après les faits",
+          "title": "France indécise avant la présidentielle 2027 : désabusement et rejet du macronisme",
           "bullets": [
-            "Une cérémonie officielle a eu lieu vendredi pour rendre hommage à la victime de l’attentat raciste survenu en octobre 2025.",
-            "Le maire de Trappes, Ali Rabeh, a dénoncé l’échec des mesures de protection présidentielle et appelé à une mobilisation contre le racisme.",
-            "Les associations locales et les élus locaux ont réclamé des mesures renforcées contre les violences racistes et l’extrémisme.",
-            "La ville reste sous tension, avec des craintes de nouvelles manifestations ou de réactions violentes."
+            "Multiplication des candidatures et rejet croissant de la politique traditionnelle, notamment envers Emmanuel Macron.",
+            "Peur de l’ascension du Rassemblement National (RN) et méfiance envers les partis établis.",
+            "Citoyens intéressés mais désabusés, avec des déclarations humoristiques ou cyniques sur l’engagement politique.",
+            "Enquête révèle une forte abstention potentielle et une défiance envers les institutions.",
+            "La présidentielle 2027 s’annonce comme un scrutin incertain et polarisé."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html"
             }
           ]
         },
         {
-          "title": "Présidentielle 2027 : la campagne s’annonce sous le signe de la colère sociale et des divisions politiques",
+          "title": "Interpellation de cinq militants d’extrême droite britanniques près de Dunkerque",
           "bullets": [
-            "Les analystes politiques soulignent une montée des tensions et une polarisation accrue dans le paysage politique français.",
-            "Les enjeux économiques, notamment le pouvoir d’achat et l’inflation, dominent les débats préélectoraux.",
-            "Les partis traditionnels peinent à mobiliser une base électorale en crise, ouvrant la voie à des figures plus radicales.",
-            "Les sondages anticipent une campagne marquée par des affrontements idéologiques et une radicalisation des discours."
+            "Cinq Britanniques d’ultradroite interpellés pour « actions d’intimidation » contre des migrants.",
+            "Ils étaient en possession de quatre bombes lacrymogènes lors de leur garde à vue.",
+            "Risque de placement en rétention pour ces individus, liés à des groupes violents.",
+            "L’affaire s’inscrit dans un contexte de tensions croissantes autour des questions migratoires en France.",
+            "Les autorités locales renforcent la surveillance des zones sensibles."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html"
             }
           ]
         }
@@ -87,222 +95,74 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Sénégal : tensions autour des Jeux olympiques de la jeunesse, entre attentes et désillusions",
+          "title": "Gaza : le piège du retour à Rafah pour les Palestiniens",
           "bullets": [
-            "Pour la première fois, l’Afrique accueille une compétition olympique, mais l’engouement reste limité au Sénégal.",
-            "Les Sénégalais dénoncent un manque de visibilité et d’investissements locaux autour de l’événement.",
-            "Les autorités tentent de mobiliser la population, mais les critiques sur la gestion des ressources et l’opportunité économique persistent.",
-            "Les Jeux olympiques de la jeunesse se déroulent du 31 octobre au 13 novembre, avec des enjeux symboliques majeurs pour le continent."
+            "Rafah, seul point de passage avec l’Égypte, devient un lieu de passage humiliant et violent pour les Palestiniens.",
+            "Violences physiques et contrôles systématiques subis par les voyageurs, notamment les femmes et les enfants.",
+            "Une dizaine de Gazaouis ont été arrêtés ou disparus lors des passages récents.",
+            "L’Égypte et Israël limitent les déplacements, aggravant la crise humanitaire.",
+            "Risque accru de tensions et de conflits futurs dans la région."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/01/a-rafah-seul-point-de-passage-avec-l-egypte-le-piege-du-retour-pour-les-palestiniens-de-gaza_6804022_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms aux États-Unis : guide pour comprendre les élections de mi-mandat et leurs enjeux",
+          "title": "Donald Trump menace l’Iran de frappes ciblées",
           "bullets": [
-            "Les élections de mi-mandat aux États-Unis déterminent le contrôle du Congrès pour la suite du mandat de Donald Trump.",
-            "Les démocrates et les républicains s’affrontent sur des questions économiques, sociales et géopolitiques.",
-            "Les résultats pourraient influencer les politiques futures, notamment en matière de fiscalité et de sécurité nationale.",
-            "Les électeurs américains sont appelés aux urnes pour renouveler une partie du Congrès, avec des conséquences majeures pour le pays."
+            "Le président américain menace de frapper « un ou deux sites » en Iran, dont le mont Kolang près du complexe nucléaire de Natanz.",
+            "« Nous pouvons faire ça en dix minutes », a-t-il affirmé, évoquant une possible campagne de frappes préventives.",
+            "Tensions accrues dans la région après des rapports sur des préparatifs militaires américains.",
+            "L’Iran dénonce une escalade dangereuse et menace de représailles.",
+            "Risque de conflit indirect entre les États-Unis et l’Iran via des proxys régionaux."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html"
             }
           ]
         },
         {
-          "title": "Guerre au Moyen-Orient : pénurie de navires et tarifs records font exploser les prix du transport de pétrole",
+          "title": "Sahara occidental : fin annoncée de la mission de l’ONU",
           "bullets": [
-            "Le conflit en cours entraîne une raréfaction des navires pétroliers disponibles et un allongement des temps de transport.",
-            "Les tarifs du transport maritime du pétrole ont connu une hausse record, impactant les prix à la pompe.",
-            "Les compagnies pétrolières et les États producteurs cherchent des solutions pour atténuer cette crise logistique.",
-            "Les conséquences économiques se répercutent sur les marchés mondiaux et les consommateurs finaux."
+            "La mission onusienne MINURSO, chargée de surveiller le cessez-le-feu, va être dissoute d’ici fin 2026.",
+            "Le Maroc et le Front Polisario, en conflit pour le contrôle du territoire, n’ont pas trouvé de solution diplomatique.",
+            "Risque accru de nouvelles violences et d’escalade militaire dans la région.",
+            "L’ONU appelle à une médiation internationale pour éviter une nouvelle crise humanitaire.",
+            "Le Maroc refuse de reconnaître l’autodétermination du peuple sahraoui."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/31/penurie-de-navires-et-tarifs-record-comment-la-guerre-au-moyen-orient-fait-bondir-les-prix-du-transport-de-petrole_6803378_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html"
             }
           ]
         },
         {
-          "title": "Madagascar : fouilles archéologiques révèlent des trésors liés à la piraterie et à la traite négrière",
+          "title": "Manifestations en Allemagne contre le service militaire obligatoire",
           "bullets": [
-            "Des pièces d’or, porcelaines précieuses et artefacts liés à la contrebande ont été découverts lors de fouilles archéologiques.",
-            "Ces découvertes éclairent l’histoire complexe de la piraterie et de la traite négrière dans l’océan Indien au XVIIIe siècle.",
-            "Les chercheurs espèrent que ces trésors permettront de mieux comprendre les échanges culturels et économiques de l’époque.",
-            "Le site archéologique attire l’attention internationale sur l’importance de préserver ce patrimoine historique."
+            "Des milliers de manifestants se sont rassemblés dans une trentaine de villes, de Cologne à Berlin.",
+            "Revendications pour réorienter les budgets militaires vers les systèmes sociaux.",
+            "Les cortèges étaient pacifiques et composés principalement de jeunes et d’associations pacifistes.",
+            "Le gouvernement allemand maintient son engagement pour le service militaire, malgré les critiques.",
+            "La question de la défense nationale reste un sujet de débat politique en Allemagne."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html"
             }
           ]
         },
         {
-          "title": "New York : le coût de la garde d’enfants devient un luxe inaccessible pour de nombreuses familles",
+          "title": "Crise économique en Chine : les ménages rognent sur leurs dépenses",
           "bullets": [
-            "Les crèches et écoles privées représentent 30 % à 40 % du budget annuel d’une famille new-yorkaise.",
-            "Les prix exorbitants limitent l’accès à une garde d’enfants de qualité, aggravant les inégalités sociales.",
-            "Les politiques publiques peinent à répondre à cette crise, laissant de nombreuses familles dans une situation précaire.",
-            "Les conséquences se font sentir sur l’équilibre économique et familial des ménages."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/31/a-new-york-le-prix-des-creches-et-des-ecoles-et-des-structures-de-garde-est-si-exorbitant-qu-avoir-un-enfant-est-devenu-un-luxe_6803386_3234.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Actualité locale",
-      "sujets": [],
-      "note": "source indisponible ce matin"
-    },
-    {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
-        {
-          "title": "Assemblée nationale : adoption d’une taxe de 5,5 centimes par Go téléchargé, qui paiera la facture ?",
-          "bullets": [
-            "Les députés ont voté une taxe de 0,055 euro par gigaoctet envoyé aux utilisateurs par des plateformes comme Netflix ou Meta.",
-            "Cette mesure vise à financer les infrastructures numériques et à réduire la consommation énergétique des données.",
-            "Les opérateurs et les fournisseurs de services internet pourraient être les principaux contributeurs de cette taxe.",
-            "Les consommateurs pourraient voir leurs abonnements internet augmenter pour couvrir ce coût supplémentaire."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html"
-            }
-          ]
-        },
-        {
-          "title": "Nasa : Hubble risque de s’écraser d’ici 2033, la recherche d’une solution de sauvetage s’accélère",
-          "bullets": [
-            "Le télescope Hubble a une chance sur deux de s’écraser sur Terre d’ici 2033 en raison de la dégradation de son orbite.",
-            "La Nasa lance un appel à idées pour remonter son orbite, le réparer ou organiser une rentrée atmosphérique contrôlée.",
-            "Les industriels et scientifiques proposent des solutions innovantes pour prolonger la durée de vie de Hubble.",
-            "La perte de Hubble représenterait un recul majeur pour l’astronomie et la recherche spatiale."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html"
-            }
-          ]
-        },
-        {
-          "title": "Volkswagen suspend le développement de la future Golf électrique, un signal fort pour l’industrie automobile",
-          "bullets": [
-            "Volkswagen a décidé de geler temporairement les travaux de développement de la Golf 100 % électrique.",
-            "Cette décision reflète les incertitudes économiques et les défis technologiques rencontrés par le secteur automobile.",
-            "Les constructeurs automobiles réévaluent leurs stratégies face à la transition vers les véhicules électriques.",
-            "Les consommateurs pourraient subir des reports de lancement ou des modifications des modèles prévus."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/vroom/2364573-cette-decision-na-vraiment-pas-ete-facile-a-prendre-volkswagen-suspend-lid-golf.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Plus de 142 000 visages imprimés en 3D pour animer les personnages de Wildwood",
-          "bullets": [
-            "Plus de 142 000 visages imprimés en 3D ont été créés pour donner vie aux personnages du film d’animation Wildwood.",
-            "Cette technologie permet de capturer et reproduire des expressions faciales variées et réalistes.",
-            "Les créateurs espèrent que cette innovation améliorera l’immersion et l’émotion des spectateurs.",
-            "L’impression 3D ouvre de nouvelles perspectives pour l’industrie cinématographique et les arts visuels."
-          ],
-          "sources": [
-            {
-              "name": "3dnatives.com",
-              "url": "https://www.3dnatives.com/142-000-visages-imprimes-en-3d-wildwood-30102026/"
-            }
-          ]
-        },
-        {
-          "title": "Impression 3D : l’adoption par le nucléaire prouve les progrès technologiques réalisés",
-          "bullets": [
-            "L’impression 3D se développe dans le secteur nucléaire pour fabriquer des pièces complexes et résistantes.",
-            "Cette technologie permet de produire des composants sur mesure, réduisant les coûts et les délais de fabrication.",
-            "Les centrales nucléaires pourraient bénéficier de pièces imprimées en 3D pour des réparations ou des mises à niveau.",
-            "L’innovation dans ce domaine ouvre la voie à une maintenance plus efficace et durable des infrastructures."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Budget 2027 : le ministre David Amiel annonce un budget plus dur avec des impôts et économies revus à la hausse",
-          "bullets": [
-            "Le ministre David Amiel annonce un budget 2027 plus restrictif, avec des impôts et des économies supérieures aux prévisions.",
-            "Les mesures visent à réduire le déficit public et à stabiliser les finances de l’État.",
-            "Les ménages et les entreprises pourraient subir une pression fiscale accrue.",
-            "Les débats sur les priorités budgétaires et les réformes structurelles s’intensifient."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Limoges : adoption d’une réduction d’impôts pour les dons visant à reconstruire la mairie incendiée",
-          "bullets": [
-            "L’Assemblée de Limoges a adopté une réduction d’impôts pour encourager les dons en vue de la reconstruction de la mairie incendiée.",
-            "Cette mesure vise à mobiliser les citoyens et les entreprises pour financer les travaux de restauration.",
-            "Les dons pourraient bénéficier d’avantages fiscaux pour inciter à la générosité.",
-            "La mairie de Limoges cherche à relancer rapidement les activités administratives et culturelles."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque bancaire : la nouvelle escroquerie « Appuyez sur la touche 1 » sévit et cause des pertes massives",
-          "bullets": [
-            "Une nouvelle arnaque bancaire consiste à inciter les victimes à appuyer sur la touche 1 pour « valider » une transaction frauduleuse.",
-            "Les escrocs profitent de la méconnaissance des mécanismes bancaires pour soutirer des fonds aux clients.",
-            "Les banques et les autorités appellent à la vigilance et conseillent de ne jamais suivre les instructions suspectes.",
-            "Les victimes sont invitées à signaler les tentatives d’arnaque pour renforcer la sécurité des transactions."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Basket-ball : la Fédération française ouvre une procédure disciplinaire après les violences au pôle France de l’Insep",
-          "bullets": [
-            "La Fédération française de basket-ball ouvre une procédure disciplinaire après des violences enregistrées au pôle France de l’Insep.",
-            "Cinq joueurs ont été exclus définitivement pour avoir participé à une soirée violente.",
-            "Les autorités sportives renforcent les mesures de sécurité et de discipline pour éviter de nouveaux incidents.",
-            "Cette affaire relance le débat sur la gestion des violences dans les structures sportives de haut niveau."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Rugby : un match féminin de Pro D2 diffusé en clair pour la première fois en France",
-          "bullets": [
-            "Un match féminin de rugby en Pro D2 sera diffusé en clair pour la première fois, marquant une avancée pour la visibilité du sport féminin.",
-            "Cette diffusion vise à promouvoir le rugby féminin et à attirer un public plus large.",
-            "Les organisateurs espèrent que cette initiative encouragera les jeunes filles à pratiquer ce sport.",
-            "La diffusion en clair pourrait aussi renforcer l’attractivité économique du rugby féminin."
+            "Les Chinois réduisent les dépenses jugées superflues en raison de l’incertitude économique et de la crise de l’immobilier.",
+            "100"
           ],
           "sources": []
         }
@@ -330,7 +190,7 @@
             "Adversaire : Villarreal CF (à l'extérieur)",
             "Date : mardi 3 novembre à 21h00 (heure de Paris)",
             "Diffusion : Canal+ Foot",
-            "Classement : 1er de Ligue 1 — 17 pts en 8 matchs",
+            "Classement : 1er de Ligue 1 — 20 pts en 9 matchs",
             "Ligue des champions : 1er de la phase de ligue (9 pts)"
           ],
           "sources": [

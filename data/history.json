@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-des-centaines-de-defiles-attendus-dans-plusieurs-villes-de-france-dans-un-contexte-de-tres-forte-tension_6799445_3224.html",
-    "title": "Manifestations du 24 octobre : tensions maximales avec 70 000 policiers déployés",
-    "rubrique": "France",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/24/mobilisation-du-17-octobre-comment-lfi-sans-etre-l-extreme-gauche-ni-l-ultragauche-joue-pour-eux-un-role-de-parti-parapluie_6799478_823448.html",
-    "title": "LFI joue un rôle de « parti parapluie » pour les mobilisations sans être extrême gauche",
-    "rubrique": "France",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html",
-    "title": "Congrès du RN à Orléans : 20 000 à 30 000 opposants attendus",
-    "rubrique": "France",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
-    "title": "Moody’s maintient la note de la France à Aa3 avec une perspective négative",
-    "rubrique": "France",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/24/fabien-truong-sociologue-la-mobilisation-du-17-octobre-a-montre-la-grande-fragmentation-des-jeunesses-dans-les-quartiers-populaires_6799479_3224.html",
-    "title": "Fragmentation des jeunesses des quartiers populaires : analyse sociologique",
-    "rubrique": "France",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html",
-    "title": "Incendie criminel du nid d’aigle d’Hitler en Bavière : un suspect arrêté",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
-    "title": "Israël : avancées des partisans du « Grand Israël » avant les élections législatives",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
-    "title": "Donald Trump dépose un recours préventif en cas de défaite en Alaska",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html",
-    "title": "CIA invite les opposants cubains à collaborer : une démarche inédite",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
-    "title": "RDC : essai clinique du vaccin Tumaini contre Ebola Bundibugyo lancé",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
-    "title": "Argentine : non-lieu pour Javier Milei dans l’affaire de la cryptomonnaie effondrée",
-    "rubrique": "International",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html",
-    "title": "1Password propose un système sécurisé pour accéder aux comptes via l’IA",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2360213-eco-score-derriere-le-faux-cadeau-aux-vehicules-familiaux-le-piege-pour-les-citadines-electriques.html",
-    "title": "Éco-score : piège pour les citadines électriques malgré l’aide aux véhicules familiaux",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.numerama.com/politique/2359951-dns-9-9-9-9-quad9-coupera-son-service-en-france-le-24-novembre-apres-une-condamnation-liee-au-piratage.html",
-    "title": "Quad9 arrête son service DNS en France le 24 novembre",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2359969-carrie-la-serie-la-plus-populaire-de-prime-video-est-loin-detre-terminee.html",
-    "title": "Carrie : la série la plus populaire de Prime Video prolonge son aventure",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.3dnatives.com/woven-pavillon-en-bois-et-impression-3d-23102026/",
-    "title": "Woven : un pavillon en bois et impression 3D conçu pour s’intégrer à une forêt catalane",
-    "rubrique": "Impression 3D",
-    "date": "2026-10-24"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html",
     "title": "Manifestations du 24 octobre : forte mobilisation sans incidents majeurs",
     "rubrique": "France",
@@ -688,5 +592,59 @@
     "title": "Plus de 142 000 visages imprimés en 3D pour animer les personnages de Wildwood",
     "rubrique": "Impression 3D",
     "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html",
+    "title": "Manifestations du 31 octobre : mobilisation historique contre la vie chère",
+    "rubrique": "France",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
+    "title": "Manifestations du 31 octobre : mobilisation historique contre la vie chère",
+    "rubrique": "France",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html",
+    "title": "Marseille : violences lors d’une manifestation interdite",
+    "rubrique": "France",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html",
+    "title": "France indécise avant la présidentielle 2027 : désabusement et rejet du macronisme",
+    "rubrique": "France",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
+    "title": "Interpellation de cinq militants d’extrême droite britanniques près de Dunkerque",
+    "rubrique": "France",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/01/a-rafah-seul-point-de-passage-avec-l-egypte-le-piege-du-retour-pour-les-palestiniens-de-gaza_6804022_3210.html",
+    "title": "Gaza : le piège du retour à Rafah pour les Palestiniens",
+    "rubrique": "International",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html",
+    "title": "Donald Trump menace l’Iran de frappes ciblées",
+    "rubrique": "International",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
+    "title": "Sahara occidental : fin annoncée de la mission de l’ONU",
+    "rubrique": "International",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
+    "title": "Manifestations en Allemagne contre le service militaire obligatoire",
+    "rubrique": "International",
+    "date": "2026-11-01"
   }
 ]
