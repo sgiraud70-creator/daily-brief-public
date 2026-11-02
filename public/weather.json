@@ -1,123 +1,123 @@
 {
   "current": {
-    "temp": 4,
-    "feels": 1,
-    "code": 0,
+    "temp": 1,
+    "feels": -2,
+    "code": 2,
     "is_night": true,
-    "tmax": 12,
-    "tmin": 4,
+    "tmax": 9,
+    "tmin": 1,
     "precip_prob": 0,
-    "wind": 15
+    "wind": 11
   },
   "steps": [
     {
       "hh": "07h",
-      "code": 0,
+      "code": 2,
       "is_night": false,
-      "temp": 4,
+      "temp": 1,
+      "precip": 0.0,
+      "wind": 4
+    },
+    {
+      "hh": "09h",
+      "code": 3,
+      "is_night": false,
+      "temp": 2,
       "precip": 0.0,
       "wind": 7
     },
     {
-      "hh": "09h",
-      "code": 0,
+      "hh": "11h",
+      "code": 3,
       "is_night": false,
       "temp": 5,
+      "precip": 0.0,
+      "wind": 9
+    },
+    {
+      "hh": "13h",
+      "code": 3,
+      "is_night": false,
+      "temp": 9,
       "precip": 0.0,
       "wind": 11
     },
     {
-      "hh": "11h",
-      "code": 1,
+      "hh": "15h",
+      "code": 2,
       "is_night": false,
       "temp": 9,
       "precip": 0.0,
-      "wind": 13
-    },
-    {
-      "hh": "13h",
-      "code": 2,
-      "is_night": false,
-      "temp": 11,
-      "precip": 0.0,
-      "wind": 12
-    },
-    {
-      "hh": "15h",
-      "code": 1,
-      "is_night": false,
-      "temp": 12,
-      "precip": 0.0,
-      "wind": 14
+      "wind": 11
     },
     {
       "hh": "17h",
-      "code": 0,
+      "code": 3,
       "is_night": false,
-      "temp": 10,
+      "temp": 8,
       "precip": 0.0,
       "wind": 11
     },
     {
       "hh": "19h",
-      "code": 0,
+      "code": 3,
       "is_night": false,
       "temp": 7,
       "precip": 0.0,
-      "wind": 11
+      "wind": 7
     },
     {
       "hh": "21h",
-      "code": 0,
+      "code": 1,
       "is_night": true,
-      "temp": 6,
+      "temp": 5,
       "precip": 0.0,
-      "wind": 8
+      "wind": 10
     },
     {
       "hh": "23h",
-      "code": 0,
+      "code": 1,
       "is_night": true,
       "temp": 4,
       "precip": 0.0,
-      "wind": 4
+      "wind": 8
     }
   ],
   "days": [
     {
-      "name": "Lun",
-      "code": 3,
-      "tmax": 10,
-      "tmin": 2
-    },
-    {
       "name": "Mar",
       "code": 3,
-      "tmax": 8,
+      "tmax": 9,
       "tmin": 2
     },
     {
       "name": "Mer",
       "code": 3,
-      "tmax": 9,
-      "tmin": 4
+      "tmax": 10,
+      "tmin": 3
     },
     {
       "name": "Jeu",
       "code": 2,
-      "tmax": 10,
+      "tmax": 11,
       "tmin": 3
     },
     {
       "name": "Ven",
-      "code": 3,
-      "tmax": 8,
-      "tmin": 3
+      "code": 45,
+      "tmax": 9,
+      "tmin": 1
     },
     {
       "name": "Sam",
-      "code": 3,
-      "tmax": 10,
+      "code": 45,
+      "tmax": 11,
+      "tmin": 0
+    },
+    {
+      "name": "Dim",
+      "code": 61,
+      "tmax": 14,
       "tmin": 2
     }
   ],

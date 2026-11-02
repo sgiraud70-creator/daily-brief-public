@@ -1,18 +1,18 @@
 {
-  "date_str": "Dimanche 1 novembre 2026",
+  "date_str": "Lundi 2 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 4,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Tous les prénoms, Toussaint et Bénigne",
+          "title": "Aujourd'hui, on souhaite la fête : Marcien et Victorin",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/1/11/2026/1-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/2/11/2026/2-Novembre-2026.html"
             }
           ]
         }
@@ -22,70 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Manifestations du 31 octobre : mobilisation historique contre la vie chère",
+          "title": "Mouvements lycéens : blocages et incertitudes pour la rentrée scolaire",
           "bullets": [
-            "Environ 500 000 manifestants selon les organisateurs (320 000 selon les autorités) ont défilé dans toute la France.",
-            "Revendications centrées sur le pouvoir d’achat et la hausse des prix, avec des cortèges festifs et déterminés.",
-            "Dispositifs de sécurité renforcés dans plusieurs villes, notamment des couvre-feux partiels.",
-            "Manifestations pacifiques dans la majorité des villes, malgré des tensions locales.",
-            "La mobilisation s’inscrit dans un contexte de mécontentement social croissant avant la présidentielle 2027."
+            "Les organisations lycéennes et étudiantes appellent à bloquer les établissements dès lundi, malgré les engagements gouvernementaux.",
+            "Les mobilisations visent à faire avancer des revendications sur les conditions d’études et la réforme du lycée.",
+            "Le gouvernement tente de négocier avec les syndicats pour éviter une paralysie totale des établissements.",
+            "Les tensions persistent après plusieurs semaines de manifestations et de grèves."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html"
-            },
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
             }
           ]
         },
         {
-          "title": "Marseille : violences lors d’une manifestation interdite",
+          "title": "Enquête ouverte pour tentative d’homicide après jet de cocktail Molotov sur des gendarmes",
           "bullets": [
-            "Environ 10 000 personnes ont défié l’interdiction de manifester dans le 1er arrondissement.",
-            "Échauffourées avec les forces de l’ordre en fin de parcours, après un défilé improvisé.",
-            "Bilan provisoire sans victime grave, mais des interpellations ont eu lieu.",
-            "La préfecture a réitéré l’interdiction de rassemblement dans la ville.",
-            "Contexte de tensions récurrentes entre manifestants et forces de sécurité à Marseille."
+            "Un membre des forces de sécurité a été blessé lors des manifestations du 31 octobre à Paris (12ᵉ arrondissement).",
+            "Des vidéos montrent une bombe artisanale exploser aux pieds d’un gendarme près de la porte de Charenton.",
+            "Une enquête préliminaire a été ouverte pour tentative d’homicide et destruction volontaire d’un bien public.",
+            "Les autorités renforcent la surveillance des rassemblements pour éviter de nouveaux incidents."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html"
             }
           ]
         },
         {
-          "title": "France indécise avant la présidentielle 2027 : désabusement et rejet du macronisme",
+          "title": "L’administration française confronte son passé antisémite à travers archives et théâtre",
           "bullets": [
-            "Multiplication des candidatures et rejet croissant de la politique traditionnelle, notamment envers Emmanuel Macron.",
-            "Peur de l’ascension du Rassemblement National (RN) et méfiance envers les partis établis.",
-            "Citoyens intéressés mais désabusés, avec des déclarations humoristiques ou cyniques sur l’engagement politique.",
-            "Enquête révèle une forte abstention potentielle et une défiance envers les institutions.",
-            "La présidentielle 2027 s’annonce comme un scrutin incertain et polarisé."
+            "Depuis 2021, une pièce immersive restitue le verbatim d’une réunion interministérielle de 1940 sur l’application des lois antisémites.",
+            "Cette initiative vise à sensibiliser le public aux mécanismes de l’exclusion et de la collaboration sous le régime de Vichy.",
+            "Des archives administratives sont progressivement numérisées et mises à disposition pour les chercheurs.",
+            "Le projet s’inscrit dans une démarche de mémoire et de responsabilité historique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/01/de-l-archive-au-theatre-quand-l-administration-francaise-se-confronte-a-son-passe-antisemite_6804517_823448.html"
             }
           ]
         },
         {
-          "title": "Interpellation de cinq militants d’extrême droite britanniques près de Dunkerque",
+          "title": "Édouard Philippe critique la primaire à droite et au centre comme source de division",
           "bullets": [
-            "Cinq Britanniques d’ultradroite interpellés pour « actions d’intimidation » contre des migrants.",
-            "Ils étaient en possession de quatre bombes lacrymogènes lors de leur garde à vue.",
-            "Risque de placement en rétention pour ces individus, liés à des groupes violents.",
-            "L’affaire s’inscrit dans un contexte de tensions croissantes autour des questions migratoires en France.",
-            "Les autorités locales renforcent la surveillance des zones sensibles."
+            "Le maire du Havre a qualifié la primaire envisagée à droite et au centre de « division » et de « confusion » lors d’une interview.",
+            "Il souligne les risques d’une fragmentation du paysage politique avant la présidentielle de 2027.",
+            "Cette déclaration intervient alors que les partis cherchent à se structurer pour les prochaines élections.",
+            "Les débats sur la candidature commune ou séparée divisent encore les figures politiques de la droite."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html"
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html"
+            }
+          ]
+        },
+        {
+          "title": "Le blocus des lycées : une pratique récurrente depuis vingt ans",
+          "bullets": [
+            "Le recours au blocage des établissements scolaires s’est généralisé depuis les années 2000, selon une tribune du Monde.",
+            "Cette méthode est devenue un outil central des mouvements lycéens et étudiants pour faire pression.",
+            "Les blocages perturbent le fonctionnement des écoles et créent des tensions avec les autorités.",
+            "Les syndicats défendent cette pratique comme légitime pour défendre leurs revendications."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/01/le-blocus-des-lycees-accompagne-et-definit-les-mouvements-lyceens-depuis-vingt-ans_6804535_3232.html"
             }
           ]
         }
@@ -95,74 +102,177 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Gaza : le piège du retour à Rafah pour les Palestiniens",
+          "title": "Guerre en Ukraine : cyberattaques et frappes russes après la fin de la trêve",
           "bullets": [
-            "Rafah, seul point de passage avec l’Égypte, devient un lieu de passage humiliant et violent pour les Palestiniens.",
-            "Violences physiques et contrôles systématiques subis par les voyageurs, notamment les femmes et les enfants.",
-            "Une dizaine de Gazaouis ont été arrêtés ou disparus lors des passages récents.",
-            "L’Égypte et Israël limitent les déplacements, aggravant la crise humanitaire.",
-            "Risque accru de tensions et de conflits futurs dans la région."
+            "L’Ukraine a subi des cyberattaques sur son application d’alerte à la population, tandis que la Russie a riposté avec des frappes.",
+            "Au moins trois personnes ont été tuées dans des frappes russes en Ukraine, selon les autorités ukrainiennes.",
+            "La trêve humanitaire à Olechky a pris fin, marquant une escalade des tensions militaires.",
+            "Les services de renseignement ukrainiens et russes intensifient leurs opérations de cyberdéfense."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/01/a-rafah-seul-point-de-passage-avec-l-egypte-le-piege-du-retour-pour-les-palestiniens-de-gaza_6804022_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-kiev-et-moscou-vises-par-des-cyberattaques-peu-apres-la-fin-de-la-treve-a-olechky-au-moins-trois-personnes-tuees-dans-des-frappes-russes-dimanche_6803934_3210.html"
             }
           ]
         },
         {
-          "title": "Donald Trump menace l’Iran de frappes ciblées",
+          "title": "Algérie : retour historique dans son « arrière-cour » sahélienne avec un déploiement au Niger",
           "bullets": [
-            "Le président américain menace de frapper « un ou deux sites » en Iran, dont le mont Kolang près du complexe nucléaire de Natanz.",
-            "« Nous pouvons faire ça en dix minutes », a-t-il affirmé, évoquant une possible campagne de frappes préventives.",
-            "Tensions accrues dans la région après des rapports sur des préparatifs militaires américains.",
-            "L’Iran dénonce une escalade dangereuse et menace de représailles.",
-            "Risque de conflit indirect entre les États-Unis et l’Iran via des proxys régionaux."
+            "Alger a annoncé un déploiement de troupes au Niger, marquant un retour diplomatique et militaire dans la région.",
+            "Cette décision intervient après un dégel des relations avec le Mali, renforçant la présence algérienne au Sahel.",
+            "Les pays de la région observent cette évolution avec attention, notamment en termes de stabilité régionale.",
+            "La France et d’autres acteurs internationaux surveillent cette dynamique géopolitique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/02/le-grand-retour-de-l-algerie-dans-son-arriere-cour-sahelienne_6804877_3212.html"
             }
           ]
         },
         {
-          "title": "Sahara occidental : fin annoncée de la mission de l’ONU",
+          "title": "Midterms 2026 : Donald Trump expose à un vote sanction pour ses reniements",
           "bullets": [
-            "La mission onusienne MINURSO, chargée de surveiller le cessez-le-feu, va être dissoute d’ici fin 2026.",
-            "Le Maroc et le Front Polisario, en conflit pour le contrôle du territoire, n’ont pas trouvé de solution diplomatique.",
-            "Risque accru de nouvelles violences et d’escalade militaire dans la région.",
-            "L’ONU appelle à une médiation internationale pour éviter une nouvelle crise humanitaire.",
-            "Le Maroc refuse de reconnaître l’autodétermination du peuple sahraoui."
+            "Les reniements de Donald Trump sur ses promesses de campagne pourraient coûter cher lors des élections de mi-mandat.",
+            "Les électeurs américains pourraient sanctionner son administration pour la gestion de la guerre en Iran et l’inflation.",
+            "Les sondages montrent une baisse de popularité, notamment parmi les indépendants et les démocrates modérés.",
+            "Les républicains tentent de limiter les dégâts en mettant en avant des candidats alternatifs."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/02/midterms-2026-les-reniements-de-donald-trump-l-exposent-a-un-vote-sanction-de-la-part-des-electeurs-americains_6804843_3210.html"
             }
           ]
         },
         {
-          "title": "Manifestations en Allemagne contre le service militaire obligatoire",
+          "title": "Gauche américaine : retour en grâce de la pensée marxiste face aux luttes identitaires",
           "bullets": [
-            "Des milliers de manifestants se sont rassemblés dans une trentaine de villes, de Cologne à Berlin.",
-            "Revendications pour réorienter les budgets militaires vers les systèmes sociaux.",
-            "Les cortèges étaient pacifiques et composés principalement de jeunes et d’associations pacifistes.",
-            "Le gouvernement allemand maintient son engagement pour le service militaire, malgré les critiques.",
-            "La question de la défense nationale reste un sujet de débat politique en Allemagne."
+            "Une partie de la gauche américaine se détourne des débats identitaires pour s’intéresser à des analyses marxistes.",
+            "Cette évolution reflète un désenchantement face aux résultats limités des mobilisations centrées sur les minorités.",
+            "Des intellectuels et militants explorent de nouvelles grilles de lecture pour répondre aux inégalités économiques.",
+            "Les débats internes divisent les démocrates entre traditionalistes et progressistes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/02/aux-etats-unis-la-gauche-desabusee-par-les-luttes-identitaires-se-redecouvre-un-interet-pour-la-pensee-marxiste_6804917_3232.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "IA & nouvelles technologies",
+      "sujets": [
+        {
+          "title": "Survival LLM : une IA hors ligne pour gérer les situations d’urgence",
+          "bullets": [
+            "Cet assistant IA fonctionne entièrement sur ordinateur, sans connexion Internet, pour répondre aux besoins critiques.",
+            "Il est conçu pour aider en cas de panne de courant ou de catastrophe naturelle.",
+            "Disponible gratuitement, il couvre des sujets comme la survie, la sécurité et les premiers secours.",
+            "Une alternative aux outils en ligne dépendants d’une connexion stable."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2364545-concu-pour-les-situations-durgence-cette-ia-hors-ligne-veut-vous-aider-a-survivre-a-la-fin-du-monde-ou-au-moins-a-une-panne-de-courant.html"
             }
           ]
         },
         {
-          "title": "Crise économique en Chine : les ménages rognent sur leurs dépenses",
+          "title": "Space HPC : un supercalculateur de 5 pétaflops pour étudier les tempêtes solaires",
           "bullets": [
-            "Les Chinois réduisent les dépenses jugées superflues en raison de l’incertitude économique et de la crise de l’immobilier.",
-            "100"
+            "Inauguré en mars 2025, Space HPC est le premier supercalculateur de l’ESA dédié à la prévision des tempêtes solaires.",
+            "Il compte 34 000 cœurs de processeur et 108 puces graphiques Nvidia.",
+            "Son objectif est d’améliorer la protection des satellites et des infrastructures spatiales.",
+            "Ce projet s’inscrit dans la stratégie européenne de surveillance de l’espace."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2361763-5-petaflops-contre-les-tempetes-solaires-on-a-visite-space-hpc-le-premier-supercalculateur-de-lesa.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "source indisponible ce matin"
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "GKN Aerospace obtient la certification Nadcap pour un procédé d’impression 3D métal",
+          "bullets": [
+            "GKN Aerospace a reçu l’accréditation Nadcap pour le procédé de fabrication additive DED (Directed Energy Deposition).",
+            "Cette certification est une première mondiale et marque une avancée majeure dans l’industrie aéronautique.",
+            "Elle garantit la qualité et la fiabilité des pièces produites par impression 3D pour les applications aérospatiales.",
+            "Ce procédé permet de fabriquer des composants complexes et légers pour les avions et fusées."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/gkn-aerospace-certification-nadcap-02112026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Arnaques aux impôts : la police alerte sur les faux courriers coûteux",
+          "bullets": [
+            "Des courriers frauduleux imitant les services fiscaux sont envoyés pour extorquer des informations ou de l’argent.",
+            "Les victimes sont invitées à vérifier l’authenticité des documents via le site officiel des impôts.",
+            "Les escrocs exploitent la peur des redressements pour inciter à des paiements urgents.",
+            "La police recommande de ne jamais communiquer ses coordonnées bancaires par téléphone ou courrier."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Impôts : trois échéances à respecter en novembre 2026",
+          "bullets": [
+            "Un paiement surprise, deux dates limites et une échéance oubliée peuvent impacter les contribuables.",
+            "Les impôts locaux et les prélèvements à la source doivent être vérifiés pour éviter des pénalités.",
+            "Les contribuables doivent se préparer aux éventuels ajustements fiscaux en cours d’année.",
+            "Un retard de paiement peut entraîner des majorations ou des poursuites."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Formule 1 : Kimi Antonelli sacré champion du monde au Mexique",
+          "bullets": [
+            "Kimi Antonelli a remporté le Grand Prix du Mexique, assurant son titre de champion du monde de Formule 1.",
+            "Cette victoire marque la fin d’une saison dominée par des performances exceptionnelles.",
+            "Max Verstappen termine deuxième, confirmant sa place de vice-champion.",
+            "Antonelli devient le plus jeune champion de l’histoire de la Formule 1."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Rugby : les Bleus battus par le Liban en prolongation lors d’un match historique",
+          "bullets": [
+            "L’équipe de France de rugby a subi une défaite humiliante face au Liban lors d’un match amical.",
+            "La rencontre s’est terminée par une prolongation chaotique, avec des erreurs tactiques et physiques.",
+            "Ce résultat marque un coup dur pour les Bleus, en pleine préparation pour la Coupe du Monde 2027.",
+            "Les joueurs et l’encadrement technique sont en réflexion pour analyser les causes de cette défaite."
           ],
           "sources": []
         }
@@ -175,7 +285,7 @@
           "title": "les Steelers — prochain match",
           "bullets": [
             "Information indisponible ce matin.",
-            "Classement : 2e de l'AFC Nord (5-2)"
+            "Classement : 1er de l'AFC Nord (6-2)"
           ],
           "sources": []
         }
