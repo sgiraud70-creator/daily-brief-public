@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/26/apres-les-manifestations-du-24-octobre-l-executif-confronte-a-la-perspective-d-un-long-automne-social_6800384_823448.html",
-    "title": "Crise sociale : l’exécutif face à un automne 2026 marqué par des tensions persistantes",
-    "rubrique": "France",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
-    "title": "Marine Le Pen lance sa campagne présidentielle à Orléans avec un discours radical et optimiste",
-    "rubrique": "France",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html",
-    "title": "Attentat raciste de Trappes : le maire dénonce l’échec de la protection présidentielle",
-    "rubrique": "France",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/26/myriam-revault-d-allonnes-philosophe-la-juste-colere-des-lyceens-demande-que-l-ecole-republicaine-assure-sa-promesse-d-emancipation_6800385_3232.html",
-    "title": "École républicaine : la philosophe Myriam Revault d’Allonnes appelle à répondre aux revendications lycéennes",
-    "rubrique": "France",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/10/25/la-social-democratie-en-france-n-a-pas-pris-la-mesure-du-rejet-qu-elle-suscite-ni-de-sa-responsabilite-dans-la-droitisation-des-valeurs_6800096_3232.html",
-    "title": "Analyse : la social-démocratie française accusée de ne pas mesurer son déclin politique",
-    "rubrique": "France",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html",
-    "title": "Brésil : Lula réélu président malgré un scrutin chaotique et des contestations",
-    "rubrique": "International",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/26/jordanie-trois-suspects-arretes-apres-l-attaque-meurtriere-contre-une-eglise-orthodoxe_6800427_3210.html",
-    "title": "Jordanie : trois suspects arrêtés après une attaque meurtrière contre une église orthodoxe",
-    "rubrique": "International",
-    "date": "2026-10-26"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html",
     "title": "Projet de loi « casseurs-payeurs » : durcissement et examen au Sénat",
     "rubrique": "France",
@@ -646,5 +604,89 @@
     "title": "GKN Aerospace obtient la certification Nadcap pour un procédé d’impression 3D métal",
     "rubrique": "Impression 3D",
     "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html",
+    "title": "Maintien de l’ordre : blessures graves en manifestation",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
+    "title": "Budget 2027 : rejet probable d’un texte incohérent",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html",
+    "title": "Budget 2027 : rejet probable d’un texte incohérent",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html",
+    "title": "« Trottoirs Vuitton » : polémique sur le financement de l’espace public",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html",
+    "title": "Gauche divisée sur les propos d’Édouard Philippe concernant l’immigration",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
+    "title": "Violences lors des rassemblements : méthodes controversées du service d’ordre du RN",
+    "rubrique": "France",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
+    "title": "Négociations de paix Ukraine-Russie sous médiation américaine à Abou Dhabi",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html",
+    "title": "Crise industrielle en Ukraine : effondrement de la production d’acier",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
+    "title": "Midterms 2026 : Donald Trump au cœur des élections américaines",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-les-americains-appeles-aux-urnes-pour-un-vote-a-valeur-de-referendum-pour-donald-trump_6805522_3210.html",
+    "title": "Midterms 2026 : Donald Trump au cœur des élections américaines",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
+    "title": "L’Europe accélère son autonomie spatiale face à SpaceX",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
+    "title": "Scandale environnemental en Finlande : abattage illégal de 250 000 arbres pour Google",
+    "rubrique": "International",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2365945-google-a-cache-une-surprise-pour-le-retour-de-the-legend-of-zelda-ocarina-of-time.html",
+    "title": "Google cache une surprise pour le retour de Zelda: Ocarina of Time",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2365999-electra-avait-promis-de-ne-pas-toucher-aux-anciens-forfaits-de-recharge-6-mois-plus-tard-cest-rate.html",
+    "title": "Electra rompt sa promesse sur les anciens forfaits de recharge",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-03"
   }
 ]
