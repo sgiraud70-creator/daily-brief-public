@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 3 novembre 2026",
+  "date_str": "Mercredi 4 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 10,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Hubert, Abigaël, Gwenaël, Gwendal et Sylvie",
+          "title": "Aujourd'hui, on souhaite la fête : Charles, Emeric, Flour et Vital",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/3/11/2026/3-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/4/11/2026/4-Novembre-2026.html"
             }
           ]
         }
@@ -22,86 +22,98 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Maintien de l’ordre : blessures graves en manifestation",
+          "title": "Laurent Joly alerte sur la menace historique de l’extrême droite",
           "bullets": [
-            "Depuis octobre, des manifestants subissent des blessures graves lors des blocages lycéens et des rassemblements.",
-            "Des témoignages évoquent des traumatismes graves, dont des fractures et des brûlures chimiques.",
-            "Les associations dénoncent un usage disproportionné de la force par les forces de l’ordre.",
-            "L’IGPN et la justice enquêtent sur plusieurs cas, notamment à Toulouse.",
-            "Les mobilisations sociales persistent malgré les violences rapportées."
+            "L’historien Laurent Joly souligne que l’extrême droite a toujours été meurtrière, depuis la Révolution française.",
+            "Il met en garde contre la banalisation des discours et actes violents, rappelant des exemples historiques comme l’OAS ou les attentats d’extrême droite.",
+            "Ses propos interviennent dans un contexte de montée des tensions politiques et de radicalisation.",
+            "L’article interroge sur la responsabilité des médias et des institutions face à cette menace.",
+            "Un appel à ne pas oublier les leçons de l’histoire pour mieux prévenir les violences futures."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/04/laurent-joly-historien-l-extreme-droite-tue-c-est-une-realite-que-l-histoire-enseigne-et-qu-il-ne-faut-pas-oublier_6806108_3232.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : rejet probable d’un texte incohérent",
+          "title": "Mesures antiterroristes utilisées pour restreindre les libertés de manifestation",
           "bullets": [
-            "L’Assemblée nationale prépare le rejet du projet de budget 2027, jugé caduc et incohérent.",
-            "Les députés ont remanié le texte en supprimant certains impôts et en en ajoutant d’autres.",
-            "Les mesures votées sont peu susceptibles d’être adoptées en raison du rejet anticipé par le gouvernement.",
-            "Les enjeux financiers et politiques restent tendus avant les débats en commission.",
-            "Les amendements sur la TVA et les produits de première nécessité suscitent des débats."
+            "Des avocats dénoncent l’usage de mesures individuelles de contrôle administratif héritées de l’état d’urgence (2015-2017).",
+            "Ces mesures visent à interdire à certains militants de participer à des manifestations.",
+            "Les associations craignent une dérive sécuritaire qui pourrait étouffer les mobilisations sociales.",
+            "L’article cite des exemples concrets de militants visés par ces restrictions.",
+            "Un débat s’ouvre sur l’équilibre entre sécurité et libertés individuelles."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html"
-            },
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/04/mobilisations-sociales-des-avocats-denoncent-le-recours-a-des-mesures-antiterroristes-pour-interdire-a-des-militants-de-manifester_6806075_3224.html"
             }
           ]
         },
         {
-          "title": "« Trottoirs Vuitton » : polémique sur le financement de l’espace public",
+          "title": "Budget 2027 : le gouvernement envisage des ordonnances pour contourner l’Assemblée",
           "bullets": [
-            "Louis Vuitton finance la rénovation des rues de Bassano et Galilée à Paris pour son futur mégastore.",
-            "Cette initiative suscite un débat sur la privatisation de l’espace public et son financement.",
-            "Les associations et élus locaux critiquent une logique de sponsoring privé au détriment des budgets municipaux.",
-            "La mairie de Paris justifie cette approche par un manque de moyens pour les aménagements urbains.",
-            "Le sujet interroge sur la place des entreprises dans la gestion des espaces publics."
+            "Face à l’impasse budgétaire, le gouvernement explore la voie des ordonnances pour faire adopter le projet de loi de finances.",
+            "L’Assemblée nationale s’apprête à rejeter la partie recettes du projet, bloquant ainsi les débats.",
+            "Cette stratégie pourrait accélérer l’adoption du budget, mais suscite des critiques sur la démocratie parlementaire.",
+            "Les oppositions dénoncent une manœuvre pour contourner le Parlement.",
+            "Un risque de tension politique si les ordonnances sont utilisées massivement."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html"
             }
           ]
         },
         {
-          "title": "Gauche divisée sur les propos d’Édouard Philippe concernant l’immigration",
+          "title": "Laurent Nuñez reconnaît un « échec » dans la gestion des manifestations du 17 octobre",
           "bullets": [
-            "Édouard Philippe a qualifié de « patente » la « surreprésentation » des jeunes issus de l’immigration lors des pillages du 17 octobre.",
-            "La gauche dénonce ces propos comme stigmatisants et contre-productifs avant la présidentielle 2027.",
-            "Les partis de gauche appellent à une mobilisation contre ces déclarations perçues comme racistes.",
-            "Le débat s’inscrit dans une campagne électorale où l’immigration est un enjeu majeur.",
-            "Les réactions politiques et médiatiques s’intensifient sur ce sujet sensible."
+            "Le ministre de l’Intérieur, Laurent Nuñez, a admis devant la commission d’enquête un « défaut d’anticipation » des forces de l’ordre.",
+            "Il évoque des « dysfonctionnements » dans la coordination entre les services de sécurité lors des manifestations.",
+            "Cette reconnaissance intervient après des critiques répétées sur la gestion des violences et des blessures lors des rassemblements.",
+            "La commission d’enquête examine les responsabilités dans la gestion des troubles à l’ordre public.",
+            "Un signal d’alerte pour les prochaines mobilisations sociales."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html"
             }
           ]
         },
         {
-          "title": "Violences lors des rassemblements : méthodes controversées du service d’ordre du RN",
+          "title": "Manifestation de LFI à Villeurbanne après l’annulation à Lyon pour raisons de sécurité",
           "bullets": [
-            "Le groupe de choc « Kaiser » du Rassemblement national a été accusé de violences lors du lancement de campagne de Marine Le Pen à Orléans.",
-            "Des témoignages rapportent des agressions physiques et des méthodes musclées lors des rassemblements.",
-            "Les autorités judiciaires enquêtent sur ces incidents et les méthodes du service d’ordre.",
-            "Le RN est critiqué pour son approche répressive lors des manifestations politiques.",
-            "Ces événements alimentent le débat sur la radicalisation et la violence en politique."
+            "La conférence du député LFI Raphaël Arnault, initialement prévue à Lyon, a été déplacée à Villeurbanne pour des raisons de sécurité.",
+            "Les organisateurs rappellent que Lyon et ses alentours sont des « terres d’antifascisme et de résistance ».",
+            "Cette décision s’inscrit dans un contexte de tensions politiques et de montée des extrémismes.",
+            "Les militants de gauche espèrent rassembler un large public pour défendre leurs idées.",
+            "Un symbole de la mobilisation locale contre les discours haineux."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Deux influenceuses mises en cause pour provocation à la violence lors des mobilisations",
+          "bullets": [
+            "Osmose, comme Manon Delcourt, a été placée en garde à vue pour « provocation à commettre un crime ou délit ».",
+            "Les deux créatrices de contenu ont été signalées pour des publications incitant à des actes violents lors des manifestations.",
+            "La justice examine leur responsabilité dans l’escalade des tensions lors des rassemblements.",
+            "Un signal fort contre l’influence des réseaux sociaux dans les mouvements sociaux.",
+            "Un rappel des limites légales pour les contenus en ligne incitant à la violence."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/03/mobilisation-sociale-une-deuxieme-influenceuse-mise-en-cause-par-la-justice-pour-provocation-a-commettre-un-crime-ou-delit_6805660_823448.html"
             }
           ]
         }
@@ -111,86 +123,66 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Négociations de paix Ukraine-Russie sous médiation américaine à Abou Dhabi",
+          "title": "Midterms 2026 : les démocrates remportent la majorité au Sénat, les républicains en difficulté à la Chambre",
           "bullets": [
-            "Des négociations entre Moscou et Kiev sont prévues les 10 et 11 novembre à Abou Dhabi sous médiation américaine.",
-            "Les discussions porteront sur les dispositions de sécurité d’après-guerre et la désescalade militaire.",
-            "L’émissaire américain Steve Witkoff a confirmé l’initiative diplomatique pour éviter une prolongation du conflit.",
-            "Les parties doivent trouver un compromis sur les frontières et le statut territorial de l’Ukraine.",
-            "La communauté internationale observe avec attention l’évolution de ces pourparlers."
+            "Les démocrates ont remporté la majorité des sièges au Sénat lors des élections de mi-mandat.",
+            "Au Kansas, Adam Hamilton, pasteur méthodiste, a permis aux démocrates de remporter un siège sénatorial.",
+            "Dans l’Ohio, les républicains perdent l’ancien siège de J.D. Vance au profit du démocrate Sherrod Brown.",
+            "Donald Trump n’a pas joué un rôle décisif dans ces résultats, contrairement à ses interventions passées.",
+            "Un tournant politique aux États-Unis avec une possible opposition plus marquée à la présidence Trump."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html"
             }
           ]
         },
         {
-          "title": "Crise industrielle en Ukraine : effondrement de la production d’acier",
+          "title": "Midterms 2026 : Jon Ossoff renforce sa stature de présidentiable en Géorgie",
           "bullets": [
-            "L’industrie sidérurgique ukrainienne est au bord de l’effondrement avec une production d’acier quasi nulle.",
-            "Le complexe d’ArcelorMittal à Kryvy Rih, employant 16 000 personnes, est en difficulté majeure.",
-            "Les sanctions économiques et les destructions liées à la guerre ont aggravé la crise.",
-            "Les travailleurs et les syndicats appellent à une intervention internationale pour sauver le secteur.",
-            "Cette situation menace l’économie ukrainienne et les chaînes d’approvisionnement mondiales."
+            "Jon Ossoff, sénateur démocrate sortant, a été réélu sans difficulté en Géorgie.",
+            "Sa victoire renforce son profil en tant que candidat potentiel pour la présidentielle de 2028.",
+            "Il incarne l’aile modérée de la jeune garde démocrate, en opposition aux positions plus radicales.",
+            "La Géorgie reste un État clé pour les démocrates dans le Sud des États-Unis.",
+            "Un signe de consolidation du parti face à la montée des extrêmes."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-le-democrate-jon-ossoff-remporte-la-georgie-et-renforce-sa-stature-de-presidentiable_6805801_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms 2026 : Donald Trump au cœur des élections américaines",
+          "title": "Selahattin Demirtas : dix ans de prison en Turquie pour « propagande terroriste »",
           "bullets": [
-            "Les élections de mi-mandat aux États-Unis se déroulent mardi 3 novembre sous le signe de Donald Trump.",
-            "Les sondages indiquent une possible vague démocrate susceptible de renverser le Congrès.",
-            "Les républicains tentent de mobiliser leur électorat autour de la figure de Trump.",
-            "Les résultats pourraient influencer la politique intérieure et la diplomatie américaine.",
-            "Les enjeux économiques et sociaux dominent la campagne électorale."
+            "Le leader kurde Selahattin Demirtas purge une peine de dix ans de prison pour « propagande terroriste » en Turquie.",
+            "Condamné par le régime d’Erdogan, il dénonce une répression systématique contre les opposants politiques.",
+            "Malgré sa détention, il exprime un optimisme relatif sur l’avenir politique de la Turquie.",
+            "Son cas illustre la répression croissante contre les minorités et les opposants au gouvernement.",
+            "Une situation qui alerte la communauté internationale sur les dérives autoritaires en Turquie."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html"
-            },
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-les-americains-appeles-aux-urnes-pour-un-vote-a-valeur-de-referendum-pour-donald-trump_6805522_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/04/selahattin-demirtas-dix-ans-de-prison-en-turquie-et-l-optimisme-malgre-tout_6805835_3210.html"
             }
           ]
         },
         {
-          "title": "L’Europe accélère son autonomie spatiale face à SpaceX",
+          "title": "Afrique du Sud : l’ANC en déclin dans les grandes villes face à la crise économique",
           "bullets": [
-            "L’Europe cherche à réduire sa dépendance à SpaceX après la fermeture de l’accès à la fusée Falcon-9.",
-            "Le lancement d’Ariane-6 doit être accéléré pour garantir un accès autonome à l’espace.",
-            "Les retards et les défis techniques compliquent cette transition stratégique.",
-            "Les partenaires européens doivent coordonner leurs efforts pour éviter une rupture dans les lancements.",
-            "Cette autonomie est cruciale pour les missions scientifiques et militaires."
+            "Le Congrès national africain (ANC), au pouvoir depuis 1994, perd de l’influence dans les grandes villes sud-africaines.",
+            "Chômage, criminalité, corruption et déliquescence des infrastructures alimentent cette désaffection.",
+            "Les jeunes générations se détournent du parti historique, ouvrant la voie à des alternatives politiques.",
+            "Un risque de fragmentation politique dans un pays déjà marqué par des inégalités sociales.",
+            "L’ANC doit repenser sa stratégie pour conserver son hégémonie politique."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html"
-            }
-          ]
-        },
-        {
-          "title": "Scandale environnemental en Finlande : abattage illégal de 250 000 arbres pour Google",
-          "bullets": [
-            "Google a abattu 250 000 arbres en Finlande sans autorisation préalable pour construire un data center.",
-            "Le gouvernement finlandais dénonce cette violation des règles environnementales et des plans d’aménagement.",
-            "Les associations écologistes exigent des sanctions contre le géant technologique.",
-            "Ce projet soulève des questions sur l’impact des entreprises technologiques sur les écosystèmes locaux.",
-            "La Finlande doit trouver un équilibre entre développement économique et préservation de la nature."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html"
             }
           ]
         }
@@ -198,100 +190,144 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Manifestations prévues à Vesoul et Arc-lès-Gray le 5 novembre",
+          "bullets": [
+            "Des mouvements sociaux sont annoncés à Vesoul et Arc-lès-Gray pour le 5 novembre.",
+            "Les raisons exactes des manifestations ne sont pas précisées, mais elles s’inscrivent dans un contexte de tensions sociales.",
+            "Les autorités locales surveillent la situation pour garantir la sécurité publique.",
+            "Un appel à la mobilisation citoyenne est lancé pour participer aux rassemblements.",
+            "Un rappel de l’importance de la liberté d’expression et de manifestation pacifique."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Deux frères condamnés pour centaines d’agressions sexuelles sur mineurs à Vesoul",
+          "bullets": [
+            "Deux frères ont été condamnés pour des centaines d’agressions sexuelles sur des enfants à Vesoul.",
+            "Les victimes, principalement des mineurs, ont porté plainte contre ces agresseurs répétés.",
+            "La justice a prononcé des peines de prison ferme contre les deux hommes.",
+            "Un signal fort contre les violences sexuelles et la protection renforcée des mineurs.",
+            "Les associations locales appellent à la vigilance et à la prévention."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Prélèvements inédits de sangliers en Haute-Saône pour limiter leur population",
+          "bullets": [
+            "La préfecture de Haute-Saône autorise des prélèvements d’une « ampleur inédite » pour réduire le nombre de sangliers.",
+            "Plus de 15 000 sangliers sont ciblés dans cette opération de régulation.",
+            "Cette mesure vise à limiter les dégâts agricoles et les risques sanitaires liés à leur prolifération.",
+            "Les chasseurs et les agriculteurs sont mobilisés pour cette campagne de prélèvement.",
+            "Un équilibre à trouver entre la gestion de la faune sauvage et les activités humaines."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "DeepSeek lance un agent IA autonome pour la programmation",
+          "title": "OpenAI offre 50 € de crédits ChatGPT aux étudiants français",
           "bullets": [
-            "DeepSeek a développé un agent IA capable d’effectuer des tâches de programmation de manière autonome.",
-            "Cet outil vise à assister les développeurs en automatisant des processus complexes.",
-            "Les applications potentielles incluent la détection de bugs et l’optimisation de code.",
-            "DeepSeek Super-Agent pourrait révolutionner les méthodes de travail en informatique.",
-            "Les entreprises technologiques surveillent cette innovation avec intérêt."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Google cache une surprise pour le retour de Zelda: Ocarina of Time",
-          "bullets": [
-            "Google a intégré un clin d’œil à Zelda: Ocarina of Time dans ses services en ligne.",
-            "Cette surprise est liée au lancement du remake du jeu sur Nintendo Switch 2.",
-            "Les fans ont découvert des références subtiles dans les résultats de recherche et les applications.",
-            "Cette initiative montre l’engagement de Google envers les communautés de jeux vidéo.",
-            "Les joueurs attendent avec impatience le retour de ce classique."
+            "OpenAI propose aux étudiants français 50 € de crédits ChatGPT via la plateforme UNiDAYS.",
+            "Cette initiative vise à faciliter l’accès aux outils d’IA pour les étudiants dans leurs études ou projets.",
+            "Un geste similaire avait déjà été fait aux États-Unis et au Canada.",
+            "Les crédits sont accessibles après une inscription sur la plateforme dédiée.",
+            "Un moyen de promouvoir l’innovation et l’éducation technologique en France."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2365945-google-a-cache-une-surprise-pour-le-retour-de-the-legend-of-zelda-ocarina-of-time.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2366829-openai-offre-50-e-de-credits-chatgpt-aux-etudiants-francais.html"
             }
           ]
         },
         {
-          "title": "Electra rompt sa promesse sur les anciens forfaits de recharge",
+          "title": "GTA 6 disponible dans 7 jours : 212 Go à télécharger",
           "bullets": [
-            "Electra a modifié les conditions des anciens forfaits de recharge malgré ses engagements.",
-            "Cette décision a suscité la colère des clients fidèles et des associations de consommateurs.",
-            "Les abonnés dénoncent une perte de confiance dans les opérateurs de recharge.",
-            "Les autorités de régulation pourraient intervenir pour protéger les droits des consommateurs.",
-            "Ce revirement interroge sur la loyauté des opérateurs envers leurs clients."
+            "Rockstar Games annonce que GTA 6 sera disponible pour le téléchargement dès le 10 novembre.",
+            "Le jeu pèsera 212 Go, une taille importante due à ses graphismes et son univers détaillé.",
+            "La sortie officielle est prévue le 19 novembre sur PS5 et Xbox Series X|S.",
+            "Les joueurs pourront précharger le jeu dès maintenant pour éviter les délais de téléchargement.",
+            "Un événement attendu dans le monde du gaming, avec des promesses de nouveautés et d’innovations."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/vroom/2365999-electra-avait-promis-de-ne-pas-toucher-aux-anciens-forfaits-de-recharge-6-mois-plus-tard-cest-rate.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2366961-gta-6-cest-officiel-vous-avez-212-go-a-telecharger-dans-une-semaine.html"
+            }
+          ]
+        },
+        {
+          "title": "The Elder Scrolls 6 : nom officiel confirmé par Bethesda",
+          "bullets": [
+            "Bethesda a officiellement confirmé le nom de son prochain RPG : The Elder Scrolls VI.",
+            "Après huit ans d’attente et des rumeurs persistantes, le titre est désormais révélé.",
+            "Un teaser a été publié pour annoncer cette nouvelle, suscitant l’enthousiasme des fans.",
+            "Le jeu s’inscrit dans la lignée des précédents opus de la série, avec des promesses de monde ouvert et d’histoire immersive.",
+            "Une attente majeure pour les amateurs de jeux de rôle et d’univers fantasy."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2366965-the-elder-scrolls-6-bethesda-confirme-enfin-son-nom-officiel-avec-un-teaser.html"
+            }
+          ]
+        },
+        {
+          "title": "Revolut utilise un modèle d’IA chinois pour réduire ses coûts",
+          "bullets": [
+            "Revolut fait tourner GLM, un modèle d’IA ouvert conçu en Chine, sur ses serveurs dédiés.",
+            "Cette bascule vers un modèle chinois permet à la banque en ligne de diviser sa facture d’IA par deux.",
+            "L’entreprise affirme que cette solution est aussi performante que les modèles occidentaux.",
+            "Un exemple de l’adoption croissante des technologies d’IA étrangères pour des raisons économiques.",
+            "Un débat s’ouvre sur la souveraineté technologique et la dépendance aux modèles étrangers."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2366827-utiliser-lia-sans-culpabiliser-revolut-devoile-les-dessous-de-sa-bascule-vers-un-modele-chinois.html"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "DeepSeek Super-Agent : un outil IA pour les développeurs",
-          "bullets": [
-            "DeepSeek Super-Agent est un agent IA conçu pour anticiper et répondre aux besoins des développeurs.",
-            "Il automatise des tâches complexes comme la détection de bugs et l’optimisation de code.",
-            "Cet outil vise à améliorer l’efficacité et la productivité des équipes techniques.",
-            "Les entreprises technologiques pourraient adopter massivement cette solution.",
-            "DeepSeek renforce sa position dans le domaine de l’IA et du développement logiciel."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Fifa paie les impôts de Gianni Infantino : révélations sur un arrangement discret",
+          "title": "Arnaque aux faux appels de l’Arcep : attention aux usurpations d’identité",
           "bullets": [
-            "La FIFA a discrètement réglé les millions d’euros d’impôts dus par Gianni Infantino.",
-            "Cette opération a été menée en collaboration avec des intermédiaires financiers.",
-            "Les détails de cette transaction soulèvent des questions sur la transparence financière de la FIFA.",
-            "Les associations de transparence appellent à une clarification sur ces pratiques.",
-            "Ce cas illustre les tensions entre gouvernance sportive et obligations fiscales."
+            "Des escrocs usurpent l’identité de l’Arcep pour appeler les victimes et les inciter à déclarer une usurpation d’identité.",
+            "Ces appels frauduleux visent à obtenir des informations personnelles ou financières.",
+            "L’Arcep rappelle que ses agents ne contactent jamais les citoyens de cette manière.",
+            "Un conseil : ne pas communiquer ses données personnelles en réponse à un appel suspect.",
+            "Un rappel pour rester vigilant face aux arnaques téléphoniques."
           ],
           "sources": []
         },
         {
-          "title": "Budget 2027 : RN et macronistes s’accordent sur une baisse des impôts pour les entreprises",
+          "title": "Attention aux courriers fiscaux avec QR codes : ne les scannez pas",
           "bullets": [
-            "Le Rassemblement National (RN) et les macronistes ont trouvé un accord pour réduire les impôts des entreprises.",
-            "Cette mesure vise à stimuler l’investissement et la croissance économique.",
-            "Les débats en commission parlementaire restent tendus sur les modalités de cette réforme.",
-            "Les associations patronales soutiennent cette initiative pour améliorer la compétitivité française.",
-            "Les oppositions dénoncent une mesure insuffisante et inéquitable."
+            "La police met en garde contre les courriers fiscaux contenant des QR codes frauduleux.",
+            "Ces QR codes peuvent rediriger vers des sites malveillants pour voler des données personnelles.",
+            "Les impôts ne demandent jamais de scanné un QR code dans leurs courriers officiels.",
+            "Un conseil : vérifier l’authenticité du courrier auprès des services fiscaux avant toute action.",
+            "Un rappel pour éviter les pièges des cybercriminels."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque au « faux double débit » : une Tarnaise arrêtée pour escroquerie",
+          "bullets": [
+            "Une Tarnaise a été arrêtée pour avoir utilisé l’IA dans une arnaque au « faux double débit » ciblant les restaurants.",
+            "Cette technique consistait à simuler des frais de paiement frauduleux pour soutirer de l’argent aux victimes.",
+            "L’escroquerie a visé plusieurs établissements, exploitant la méconnaissance des systèmes de paiement.",
+            "Les autorités ont pu démanteler ce réseau grâce à des investigations approfondies.",
+            "Un rappel de la nécessité de vigilance face aux nouvelles formes de fraude."
           ],
           "sources": []
         }
@@ -301,13 +337,35 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "France championne olympique de rugby à 7 aux JO de la jeunesse",
+          "title": "Cholet Basket bat Paris en Betclic Élite : un tournant historique",
           "bullets": [
-            "L’équipe de France de rugby à 7 a remporté la médaille d’or aux Jeux Olympiques de la Jeunesse.",
-            "Cette victoire marque un succès historique pour le rugby français dans cette catégorie.",
-            "Les jeunes athlètes ont démontré un niveau exceptionnel et une grande détermination.",
-            "Ce titre renforce la réputation du rugby français sur la scène internationale.",
-            "Les Bleuets continuent de briller dans les compétitions internationales."
+            "Le Cholet Basket a remporté une victoire historique contre le Paris Basketball en Betclic Élite.",
+            "Cette défaite marque la première fois que Paris tombe en début de saison dans ce championnat.",
+            "Les réactions des supporters et des médias soulignent l’importance symbolique de ce match.",
+            "Un tournant dans la dynamique de la saison pour les deux équipes.",
+            "Un événement qui pourrait redéfinir les enjeux de la compétition."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Dakar 2026 : Mady Sow confirme en badminton, suspense en tennis de table",
+          "bullets": [
+            "Mady Sow confirme sa domination en badminton lors des Jeux de la Francophonie de Dakar 2026.",
+            "Le tennis de table reste un sport très disputé, avec des matchs serrés et des surprises possibles.",
+            "Les athlètes français sont en compétition pour décrocher des médailles dans ces disciplines.",
+            "Un récapitulatif des performances et des moments forts du jour 4 des Jeux.",
+            "Un événement sportif majeur pour la francophonie, avec des enjeux de performance et de représentation."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Ocon écarté par Haas pour le reste de la saison après le Mexique",
+          "bullets": [
+            "Pierre Gasly, pilote français de Haas, a été écarté après le Grand Prix du Mexique.",
+            "Cette décision intervient après des performances jugées insuffisantes par l’équipe.",
+            "Ocon, son coéquipier, prendra sa place pour le reste de la saison.",
+            "Un tournant dans la carrière de Gasly, qui pourrait chercher une nouvelle équipe pour 2027.",
+            "Un changement qui pourrait influencer la dynamique de l’équipe Haas en championnat."
           ],
           "sources": []
         }
@@ -330,13 +388,17 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à l'extérieur contre Villarreal CF",
+          "title": "Prochain match : le PSG à domicile contre ESTAC Troyes",
           "bullets": [
-            "Adversaire : Villarreal CF (à l'extérieur)",
-            "Date : mardi 3 novembre à 21h00 (heure de Paris)",
-            "Diffusion : Canal+ Foot",
+            "Adversaire : ESTAC Troyes (à domicile)",
+            "Compétition : Ligue 1",
+            "Date : samedi 7 novembre à 20h45 (heure de Paris)",
+            "Stade : Parc des Princes",
+            "Diffusion : Ligue 1+",
             "Classement : 1er de Ligue 1 — 20 pts en 9 matchs",
-            "Ligue des champions : 1er de la phase de ligue (9 pts)"
+            "Ligue des champions : 1er de la phase de ligue (9 pts)",
+            "Adversaire au classement : 16e de Ligue 1 (8 pts)",
+            "ESTAC Troyes — Stade : Stade de l'Aube · Capacité : 21 877 places · Entraîneur : Stéphane Dumont"
           ],
           "sources": [
             {
