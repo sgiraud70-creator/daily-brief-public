@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 4 novembre 2026",
+  "date_str": "Jeudi 5 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 10,
+  "read_minutes": 8,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Charles, Emeric, Flour et Vital",
+          "title": "Aujourd'hui, on souhaite la fête : Bertille, Kerrien et Sylvie",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/4/11/2026/4-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/5/11/2026/5-Novembre-2026.html"
             }
           ]
         }
@@ -22,98 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Laurent Joly alerte sur la menace historique de l’extrême droite",
+          "title": "Mobilisations sociales : convergence inédite entre lycéens, étudiants, syndicats et « gilets jaunes »",
           "bullets": [
-            "L’historien Laurent Joly souligne que l’extrême droite a toujours été meurtrière, depuis la Révolution française.",
-            "Il met en garde contre la banalisation des discours et actes violents, rappelant des exemples historiques comme l’OAS ou les attentats d’extrême droite.",
-            "Ses propos interviennent dans un contexte de montée des tensions politiques et de radicalisation.",
-            "L’article interroge sur la responsabilité des médias et des institutions face à cette menace.",
-            "Un appel à ne pas oublier les leçons de l’histoire pour mieux prévenir les violences futures."
+            "Les syndicats (CGT, FO, Solidaires) ont appelé à une grève générale le 5 novembre, rejoignant les mouvements lycéens et étudiants en colère contre la hausse des prix et les réformes.",
+            "Les « gilets jaunes » ont soutenu l’appel, marquant une rare unité entre les différentes franges de la contestation sociale.",
+            "Le gouvernement fait face à une pression accrue alors que les manifestations pourraient s’intensifier avant la présidentielle de 2027.",
+            "Les parcours de manifestations ont été validés par le tribunal administratif pour éviter les conflits avec les forces de l’ordre."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/04/laurent-joly-historien-l-extreme-droite-tue-c-est-une-realite-que-l-histoire-enseigne-et-qu-il-ne-faut-pas-oublier_6806108_3232.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html"
             }
           ]
         },
         {
-          "title": "Mesures antiterroristes utilisées pour restreindre les libertés de manifestation",
+          "title": "Violences contre les journalistes : une escalade inquiétante avant la présidentielle",
           "bullets": [
-            "Des avocats dénoncent l’usage de mesures individuelles de contrôle administratif héritées de l’état d’urgence (2015-2017).",
-            "Ces mesures visent à interdire à certains militants de participer à des manifestations.",
-            "Les associations craignent une dérive sécuritaire qui pourrait étouffer les mobilisations sociales.",
-            "L’article cite des exemples concrets de militants visés par ces restrictions.",
-            "Un débat s’ouvre sur l’équilibre entre sécurité et libertés individuelles."
+            "Les médias alertent sur une multiplication des agressions physiques et verbales envers leurs équipes, notamment lors des manifestations.",
+            "Certaines personnalités politiques sont accusées de contribuer à une « désinhibition » des violences contre les journalistes.",
+            "Les directions des rédactions craignent un impact sur la couverture médiatique de la campagne présidentielle.",
+            "L’IGPN et la Commission nationale consultative des droits de l’homme (CNCDH) ont été saisies pour enquêter sur ces agressions."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/04/mobilisations-sociales-des-avocats-denoncent-le-recours-a-des-mesures-antiterroristes-pour-interdire-a-des-militants-de-manifester_6806075_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : le gouvernement envisage des ordonnances pour contourner l’Assemblée",
+          "title": "Budget 2027 rejeté à l’unanimité par l’Assemblée nationale",
           "bullets": [
-            "Face à l’impasse budgétaire, le gouvernement explore la voie des ordonnances pour faire adopter le projet de loi de finances.",
-            "L’Assemblée nationale s’apprête à rejeter la partie recettes du projet, bloquant ainsi les débats.",
-            "Cette stratégie pourrait accélérer l’adoption du budget, mais suscite des critiques sur la démocratie parlementaire.",
-            "Les oppositions dénoncent une manœuvre pour contourner le Parlement.",
-            "Un risque de tension politique si les ordonnances sont utilisées massivement."
+            "Le projet de loi de finances 2027 a été rejeté en première lecture par les députés, malgré les appels du gouvernement à la concertation.",
+            "Le texte sera examiné à nouveau par le Sénat à partir du 20 novembre, avec une promesse de compromis en décembre.",
+            "Les oppositions dénoncent un budget « insuffisant » face à la crise sociale et économique.",
+            "Le gouvernement évoque un « temps du compromis » pour ajuster le texte avant son adoption définitive."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html"
             }
           ]
         },
         {
-          "title": "Laurent Nuñez reconnaît un « échec » dans la gestion des manifestations du 17 octobre",
+          "title": "Macron prône une coalition large pour éviter un duel Le Pen-Mélenchon en 2027",
           "bullets": [
-            "Le ministre de l’Intérieur, Laurent Nuñez, a admis devant la commission d’enquête un « défaut d’anticipation » des forces de l’ordre.",
-            "Il évoque des « dysfonctionnements » dans la coordination entre les services de sécurité lors des manifestations.",
-            "Cette reconnaissance intervient après des critiques répétées sur la gestion des violences et des blessures lors des rassemblements.",
-            "La commission d’enquête examine les responsabilités dans la gestion des troubles à l’ordre public.",
-            "Un signal d’alerte pour les prochaines mobilisations sociales."
+            "Emmanuel Macron appelle à une alliance entre les partis centristes (Glucksmann, Lisnard) pour contrer la montée des extrêmes.",
+            "Cette stratégie vise à éviter un second tour entre Marine Le Pen et Jean-Luc Mélenchon, jugé trop clivant pour le pays.",
+            "Les divisions au sein de la droite et de la gauche rendent cette coalition complexe à construire.",
+            "Les sondages montrent une polarisation croissante des électeurs avant la présidentielle."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
             }
           ]
         },
         {
-          "title": "Manifestation de LFI à Villeurbanne après l’annulation à Lyon pour raisons de sécurité",
+          "title": "Analyse : la crise sociale alimentée par un « décalage » entre politique et population",
           "bullets": [
-            "La conférence du député LFI Raphaël Arnault, initialement prévue à Lyon, a été déplacée à Villeurbanne pour des raisons de sécurité.",
-            "Les organisateurs rappellent que Lyon et ses alentours sont des « terres d’antifascisme et de résistance ».",
-            "Cette décision s’inscrit dans un contexte de tensions politiques et de montée des extrémismes.",
-            "Les militants de gauche espèrent rassembler un large public pour défendre leurs idées.",
-            "Un symbole de la mobilisation locale contre les discours haineux."
+            "François Sureau, avocat et écrivain, critique la « propension du personnel politique à ruser avec la volonté populaire ».",
+            "Il souligne une défiance croissante envers les institutions, aggravée par les réformes perçues comme imposées.",
+            "Les mouvements de contestation actuels reflètent un rejet des méthodes de gouvernance plutôt qu’une crise de l’État.",
+            "Les intellectuels appellent à une refonte du dialogue entre les élites et les citoyens pour éviter une radicalisation."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Deux influenceuses mises en cause pour provocation à la violence lors des mobilisations",
-          "bullets": [
-            "Osmose, comme Manon Delcourt, a été placée en garde à vue pour « provocation à commettre un crime ou délit ».",
-            "Les deux créatrices de contenu ont été signalées pour des publications incitant à des actes violents lors des manifestations.",
-            "La justice examine leur responsabilité dans l’escalade des tensions lors des rassemblements.",
-            "Un signal fort contre l’influence des réseaux sociaux dans les mouvements sociaux.",
-            "Un rappel des limites légales pour les contenus en ligne incitant à la violence."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/03/mobilisation-sociale-une-deuxieme-influenceuse-mise-en-cause-par-la-justice-pour-provocation-a-commettre-un-crime-ou-delit_6805660_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html"
             }
           ]
         }
@@ -123,66 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Midterms 2026 : les démocrates remportent la majorité au Sénat, les républicains en difficulté à la Chambre",
+          "title": "Joshua Wong condamné à 10 ans de prison supplémentaires à Hong Kong",
           "bullets": [
-            "Les démocrates ont remporté la majorité des sièges au Sénat lors des élections de mi-mandat.",
-            "Au Kansas, Adam Hamilton, pasteur méthodiste, a permis aux démocrates de remporter un siège sénatorial.",
-            "Dans l’Ohio, les républicains perdent l’ancien siège de J.D. Vance au profit du démocrate Sherrod Brown.",
-            "Donald Trump n’a pas joué un rôle décisif dans ces résultats, contrairement à ses interventions passées.",
-            "Un tournant politique aux États-Unis avec une possible opposition plus marquée à la présidence Trump."
+            "L’activiste pro-démocratie Joshua Wong voit sa peine portée à près de 15 ans pour « subversion ».",
+            "Il devait sortir de prison en janvier 2027 après avoir purgé 5 ans pour son rôle dans les manifestations de 2019.",
+            "Cette condamnation renforce la répression contre les opposants au régime chinois à Hong Kong.",
+            "Les États-Unis et l’UE dénoncent une « violation des droits humains » et appellent à sa libération."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/05/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-ans-de-prison-supplementaires_6806823_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms 2026 : Jon Ossoff renforce sa stature de présidentiable en Géorgie",
+          "title": "Crowborough (Angleterre) : un an de manifestations anti-migrants paralyse la ville",
           "bullets": [
-            "Jon Ossoff, sénateur démocrate sortant, a été réélu sans difficulté en Géorgie.",
-            "Sa victoire renforce son profil en tant que candidat potentiel pour la présidentielle de 2028.",
-            "Il incarne l’aile modérée de la jeune garde démocrate, en opposition aux positions plus radicales.",
-            "La Géorgie reste un État clé pour les démocrates dans le Sud des États-Unis.",
-            "Un signe de consolidation du parti face à la montée des extrêmes."
+            "La petite ville de 22 000 habitants, autrefois accueillante pour les réfugiés ukrainiens, est devenue un foyer de tensions.",
+            "Des rassemblements hebdomadaires depuis un an ont dégénéré en violences et intimidations.",
+            "Les autorités locales et nationales peinent à rétablir un climat apaisé malgré les interventions policières.",
+            "Cette situation illustre les fractures sociales liées à l’immigration en Angleterre."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-le-democrate-jon-ossoff-remporte-la-georgie-et-renforce-sa-stature-de-presidentiable_6805801_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/05/en-angleterre-crowborough-ville-meurtrie-par-un-an-de-manifestations-anti-migrants_6806814_4500055.html"
             }
           ]
         },
         {
-          "title": "Selahattin Demirtas : dix ans de prison en Turquie pour « propagande terroriste »",
+          "title": "Corée du Sud déploie sa marine au détroit d’Ormuz pour sécuriser les routes maritimes",
           "bullets": [
-            "Le leader kurde Selahattin Demirtas purge une peine de dix ans de prison pour « propagande terroriste » en Turquie.",
-            "Condamné par le régime d’Erdogan, il dénonce une répression systématique contre les opposants politiques.",
-            "Malgré sa détention, il exprime un optimisme relatif sur l’avenir politique de la Turquie.",
-            "Son cas illustre la répression croissante contre les minorités et les opposants au gouvernement.",
-            "Une situation qui alerte la communauté internationale sur les dérives autoritaires en Turquie."
+            "Séoul envoie un destroyer, des drones navals et des robots sous-marins pour surveiller la zone stratégique.",
+            "Cette initiative s’inscrit dans un contexte de tensions accrues au Moyen-Orient et de risques de piraterie.",
+            "La Corée du Sud cherche à protéger ses intérêts énergétiques et commerciaux dans une région instable.",
+            "Les États-Unis et l’UE soutiennent cette mesure dans le cadre de leur coopération régionale."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/04/selahattin-demirtas-dix-ans-de-prison-en-turquie-et-l-optimisme-malgre-tout_6805835_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/05/la-coree-du-sud-va-deployer-sa-marine-pres-du-detroit-d-ormuz_6806741_3210.html"
             }
           ]
         },
         {
-          "title": "Afrique du Sud : l’ANC en déclin dans les grandes villes face à la crise économique",
+          "title": "Midterms 2026 : défaite historique des républicains aux États-Unis",
           "bullets": [
-            "Le Congrès national africain (ANC), au pouvoir depuis 1994, perd de l’influence dans les grandes villes sud-africaines.",
-            "Chômage, criminalité, corruption et déliquescence des infrastructures alimentent cette désaffection.",
-            "Les jeunes générations se détournent du parti historique, ouvrant la voie à des alternatives politiques.",
-            "Un risque de fragmentation politique dans un pays déjà marqué par des inégalités sociales.",
-            "L’ANC doit repenser sa stratégie pour conserver son hégémonie politique."
+            "Les démocrates ont remporté une large majorité au Congrès, privant Donald Trump de ses leviers d’influence.",
+            "Cette défaite marque un rejet de la ligne ultra-conservatrice et isolationniste du président.",
+            "L’Ukraine espère que cette victoire freinera une éventuelle normalisation des relations avec la Russie.",
+            "Les républicains lancent déjà une introspection sur leur stratégie électorale pour 2028."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Maroc : le dessalement d’eau de mer soutient l’agriculture d’exportation",
+          "bullets": [
+            "Des usines de dessalement irriguent désormais des milliers d’hectares dans la région d’Agadir.",
+            "Cette solution permet de pallier la pénurie d’eau douce et de maintenir la production agricole.",
+            "Le gouvernement marocain mise sur cette technologie pour faire face au changement climatique.",
+            "Les experts estiment que cette approche est plus coûteuse mais nécessaire pour l’avenir."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/planete/article/2026/11/05/le-maroc-mise-sur-le-dessalement-pour-soutenir-son-agriculture-d-exportation-il-vaut-mieux-avoir-de-l-eau-chere-que-pas-du-tout_6806812_3244.html"
             }
           ]
         }
@@ -190,144 +180,114 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Manifestations prévues à Vesoul et Arc-lès-Gray le 5 novembre",
-          "bullets": [
-            "Des mouvements sociaux sont annoncés à Vesoul et Arc-lès-Gray pour le 5 novembre.",
-            "Les raisons exactes des manifestations ne sont pas précisées, mais elles s’inscrivent dans un contexte de tensions sociales.",
-            "Les autorités locales surveillent la situation pour garantir la sécurité publique.",
-            "Un appel à la mobilisation citoyenne est lancé pour participer aux rassemblements.",
-            "Un rappel de l’importance de la liberté d’expression et de manifestation pacifique."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Deux frères condamnés pour centaines d’agressions sexuelles sur mineurs à Vesoul",
-          "bullets": [
-            "Deux frères ont été condamnés pour des centaines d’agressions sexuelles sur des enfants à Vesoul.",
-            "Les victimes, principalement des mineurs, ont porté plainte contre ces agresseurs répétés.",
-            "La justice a prononcé des peines de prison ferme contre les deux hommes.",
-            "Un signal fort contre les violences sexuelles et la protection renforcée des mineurs.",
-            "Les associations locales appellent à la vigilance et à la prévention."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Prélèvements inédits de sangliers en Haute-Saône pour limiter leur population",
-          "bullets": [
-            "La préfecture de Haute-Saône autorise des prélèvements d’une « ampleur inédite » pour réduire le nombre de sangliers.",
-            "Plus de 15 000 sangliers sont ciblés dans cette opération de régulation.",
-            "Cette mesure vise à limiter les dégâts agricoles et les risques sanitaires liés à leur prolifération.",
-            "Les chasseurs et les agriculteurs sont mobilisés pour cette campagne de prélèvement.",
-            "Un équilibre à trouver entre la gestion de la faune sauvage et les activités humaines."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "OpenAI offre 50 € de crédits ChatGPT aux étudiants français",
+          "title": "Revolut désactive ses anciens IBAN : attention aux comptes concernés",
           "bullets": [
-            "OpenAI propose aux étudiants français 50 € de crédits ChatGPT via la plateforme UNiDAYS.",
-            "Cette initiative vise à faciliter l’accès aux outils d’IA pour les étudiants dans leurs études ou projets.",
-            "Un geste similaire avait déjà été fait aux États-Unis et au Canada.",
-            "Les crédits sont accessibles après une inscription sur la plateforme dédiée.",
-            "Un moyen de promouvoir l’innovation et l’éducation technologique en France."
+            "Revolut mettra fin aux anciens IBAN lituaniens le 4 janvier 2027 pour les comptes français.",
+            "Les clients doivent vérifier leurs coordonnées bancaires avant cette date pour éviter des perturbations.",
+            "Cette mesure s’inscrit dans une refonte globale des services de la néobanque.",
+            "Les utilisateurs recevant leur salaire sur Revolut sont particulièrement concernés."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2366829-openai-offre-50-e-de-credits-chatgpt-aux-etudiants-francais.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2367849-revolut-va-desactiver-ses-anciens-iban-gare-si-vous-recevez-votre-salaire-sur-la-neobanque.html"
             }
           ]
         },
         {
-          "title": "GTA 6 disponible dans 7 jours : 212 Go à télécharger",
+          "title": "EDF Tempo : plus de jours rouges pour les abonnés en décembre",
           "bullets": [
-            "Rockstar Games annonce que GTA 6 sera disponible pour le téléchargement dès le 10 novembre.",
-            "Le jeu pèsera 212 Go, une taille importante due à ses graphismes et son univers détaillé.",
-            "La sortie officielle est prévue le 19 novembre sur PS5 et Xbox Series X|S.",
-            "Les joueurs pourront précharger le jeu dès maintenant pour éviter les délais de téléchargement.",
-            "Un événement attendu dans le monde du gaming, avec des promesses de nouveautés et d’innovations."
+            "Les 24 et 31 décembre ne seront plus des jours à tarif élevé pour les 900 000 abonnés à l’option Tempo.",
+            "Cette modification vise à réduire les coûts énergétiques pour les ménages pendant les fêtes.",
+            "Les jours rouges sont désormais limités à 22 jours par an au maximum.",
+            "Les consommateurs doivent vérifier leur contrat pour confirmer cette exemption."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2366961-gta-6-cest-officiel-vous-avez-212-go-a-telecharger-dans-une-semaine.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/sciences/2367287-edf-tempo-pourquoi-vous-ne-paierez-plus-votre-electricite-au-prix-fort-le-24-et-le-31-decembre.html"
             }
           ]
         },
         {
-          "title": "The Elder Scrolls 6 : nom officiel confirmé par Bethesda",
+          "title": "France teste une fusée-sonde pour le futur missile nucléaire M51.4",
           "bullets": [
-            "Bethesda a officiellement confirmé le nom de son prochain RPG : The Elder Scrolls VI.",
-            "Après huit ans d’attente et des rumeurs persistantes, le titre est désormais révélé.",
-            "Un teaser a été publié pour annoncer cette nouvelle, suscitant l’enthousiasme des fans.",
-            "Le jeu s’inscrit dans la lignée des précédents opus de la série, avec des promesses de monde ouvert et d’histoire immersive.",
-            "Une attente majeure pour les amateurs de jeux de rôle et d’univers fantasy."
+            "La fusée SyLEx d’ArianeGroup a réussi son deuxième tir depuis Biscarrosse (Landes).",
+            "Ce test vise à valider une technologie de lancement plus petite pour les essais du M51.4.",
+            "La France cherche à moderniser son arsenal nucléaire tout en réduisant les coûts logistiques.",
+            "Les essais se poursuivent dans le cadre du programme de dissuasion nucléaire."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2366965-the-elder-scrolls-6-bethesda-confirme-enfin-son-nom-officiel-avec-un-teaser.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2367725-pour-tester-son-futur-missile-nucleaire-m51-4-la-france-mise-sur-une-fusee-bien-plus-petite.html"
             }
           ]
         },
         {
-          "title": "Revolut utilise un modèle d’IA chinois pour réduire ses coûts",
+          "title": "Concours de court-métrage sur l’IA : des lauréats repartent avec 1 million de dollars",
           "bullets": [
-            "Revolut fait tourner GLM, un modèle d’IA ouvert conçu en Chine, sur ses serveurs dédiés.",
-            "Cette bascule vers un modèle chinois permet à la banque en ligne de diviser sa facture d’IA par deux.",
-            "L’entreprise affirme que cette solution est aussi performante que les modèles occidentaux.",
-            "Un exemple de l’adoption croissante des technologies d’IA étrangères pour des raisons économiques.",
-            "Un débat s’ouvre sur la souveraineté technologique et la dépendance aux modèles étrangers."
+            "Le festival Higgsfield a récompensé des films explorant les enjeux de l’intelligence artificielle.",
+            "Les gagnants ont produit des œuvres innovantes mêlant technologie et narration.",
+            "Ce concours vise à stimuler la créativité et l’innovation dans le domaine de l’IA.",
+            "Les lauréats proviennent de 176 pays, reflétant une diversité internationale."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2366827-utiliser-lia-sans-culpabiliser-revolut-devoile-les-dessous-de-sa-bascule-vers-un-modele-chinois.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2367773-les-gagnants-de-ce-concours-de-court-metrage-nous-ont-fait-changer-davis-sur-lia-en-video-et-ils-sont-repartis-avec-1-million-de-dollars.html"
             }
           ]
         }
       ]
     },
     {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "SUSE licencie 10% de ses effectifs pour intégrer l’IA et l’automatisation",
+          "bullets": [
+            "L’entreprise allemande SUSE a annoncé des suppressions d’emplois pour accélérer sa transition technologique.",
+            "L’IA et l’automatisation sont présentées comme des leviers pour améliorer l’efficacité et réduire les coûts.",
+            "Cette mesure s’inscrit dans une tendance plus large du secteur des technologies.",
+            "Les employés concernés bénéficieront de plans de reclassement ou de départs volontaires."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque aux faux appels de l’Arcep : attention aux usurpations d’identité",
+          "title": "Arnaques aux QR codes : vigilance accrue pour les démarches administratives",
           "bullets": [
-            "Des escrocs usurpent l’identité de l’Arcep pour appeler les victimes et les inciter à déclarer une usurpation d’identité.",
-            "Ces appels frauduleux visent à obtenir des informations personnelles ou financières.",
-            "L’Arcep rappelle que ses agents ne contactent jamais les citoyens de cette manière.",
-            "Un conseil : ne pas communiquer ses données personnelles en réponse à un appel suspect.",
-            "Un rappel pour rester vigilant face aux arnaques téléphoniques."
+            "Les escrocs utilisent des faux QR codes dans des courriers administratifs pour voler des données personnelles.",
+            "Les impôts et autres organismes officiels ne demandent jamais de scanner un QR code pour des démarches en ligne.",
+            "Les victimes sont invitées à vérifier l’authenticité des documents avant toute action.",
+            "Les autorités rappellent de ne jamais communiquer ses identifiants ou codes personnels via ces canaux."
           ],
           "sources": []
         },
         {
-          "title": "Attention aux courriers fiscaux avec QR codes : ne les scannez pas",
+          "title": "Chèque énergie : 8 façons de l’utiliser pour réduire ses dépenses cet hiver",
           "bullets": [
-            "La police met en garde contre les courriers fiscaux contenant des QR codes frauduleux.",
-            "Ces QR codes peuvent rediriger vers des sites malveillants pour voler des données personnelles.",
-            "Les impôts ne demandent jamais de scanné un QR code dans leurs courriers officiels.",
-            "Un conseil : vérifier l’authenticité du courrier auprès des services fiscaux avant toute action.",
-            "Un rappel pour éviter les pièges des cybercriminels."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au « faux double débit » : une Tarnaise arrêtée pour escroquerie",
-          "bullets": [
-            "Une Tarnaise a été arrêtée pour avoir utilisé l’IA dans une arnaque au « faux double débit » ciblant les restaurants.",
-            "Cette technique consistait à simuler des frais de paiement frauduleux pour soutirer de l’argent aux victimes.",
-            "L’escroquerie a visé plusieurs établissements, exploitant la méconnaissance des systèmes de paiement.",
-            "Les autorités ont pu démanteler ce réseau grâce à des investigations approfondies.",
-            "Un rappel de la nécessité de vigilance face aux nouvelles formes de fraude."
+            "Le chèque énergie peut être utilisé pour payer des factures de fioul, de bois ou encore les charges en Ehpad.",
+            "Il permet aussi de financer des travaux de rénovation énergétique ou des aides locales.",
+            "Les bénéficiaires doivent vérifier leur éligibilité et les modalités d’utilisation sur le site officiel.",
+            "Cette aide vise à soutenir les ménages modestes face à la hausse des prix de l’énergie."
           ],
           "sources": []
         }
@@ -337,35 +297,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Cholet Basket bat Paris en Betclic Élite : un tournant historique",
+          "title": "Arthur Fils qualifié pour les Finales ATP : une première pour un Français depuis 2016",
           "bullets": [
-            "Le Cholet Basket a remporté une victoire historique contre le Paris Basketball en Betclic Élite.",
-            "Cette défaite marque la première fois que Paris tombe en début de saison dans ce championnat.",
-            "Les réactions des supporters et des médias soulignent l’importance symbolique de ce match.",
-            "Un tournant dans la dynamique de la saison pour les deux équipes.",
-            "Un événement qui pourrait redéfinir les enjeux de la compétition."
+            "Arthur Fils devient le premier Français à atteindre les Finales ATP depuis Jo-Wilfried Tsonga en 2016.",
+            "Il a remporté le tournoi de Paris Masters après une victoire en finale contre Casper Ruud.",
+            "Cette performance renforce sa position parmi les meilleurs joueurs mondiaux.",
+            "Fils vise désormais une médaille olympique aux Jeux de Los Angeles en 2028."
           ],
           "sources": []
         },
         {
-          "title": "Dakar 2026 : Mady Sow confirme en badminton, suspense en tennis de table",
+          "title": "Décès d’Alan Jones, champion de Formule 1 australien",
           "bullets": [
-            "Mady Sow confirme sa domination en badminton lors des Jeux de la Francophonie de Dakar 2026.",
-            "Le tennis de table reste un sport très disputé, avec des matchs serrés et des surprises possibles.",
-            "Les athlètes français sont en compétition pour décrocher des médailles dans ces disciplines.",
-            "Un récapitulatif des performances et des moments forts du jour 4 des Jeux.",
-            "Un événement sportif majeur pour la francophonie, avec des enjeux de performance et de représentation."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Ocon écarté par Haas pour le reste de la saison après le Mexique",
-          "bullets": [
-            "Pierre Gasly, pilote français de Haas, a été écarté après le Grand Prix du Mexique.",
-            "Cette décision intervient après des performances jugées insuffisantes par l’équipe.",
-            "Ocon, son coéquipier, prendra sa place pour le reste de la saison.",
-            "Un tournant dans la carrière de Gasly, qui pourrait chercher une nouvelle équipe pour 2027.",
-            "Un changement qui pourrait influencer la dynamique de l’équipe Haas en championnat."
+            "Alan Jones, triple champion du monde de F1 dans les années 1970 et 1980, est décédé à l’âge de 80 ans.",
+            "Il a marqué l’histoire de la Formule 1 par son style agressif et son palmarès avec Williams et McLaren.",
+            "Ses funérailles auront lieu en Australie, où il était une figure emblématique du sport automobile.",
+            "Jones était également connu pour son engagement en faveur de l’environnement et de causes sociales."
           ],
           "sources": []
         }
@@ -392,7 +339,7 @@
           "bullets": [
             "Adversaire : ESTAC Troyes (à domicile)",
             "Compétition : Ligue 1",
-            "Date : samedi 7 novembre à 20h45 (heure de Paris)",
+            "Date : samedi 7 novembre à 21h05 (heure de Paris)",
             "Stade : Parc des Princes",
             "Diffusion : Ligue 1+",
             "Classement : 1er de Ligue 1 — 20 pts en 9 matchs",

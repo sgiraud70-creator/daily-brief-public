@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/28/de-la-droite-dure-au-sommet-de-l-etat-la-lente-infusion-des-mots-de-l-extreme-droite_6801528_823448.html",
-    "title": "Attentat de Trappes : manifestations massives contre la « banalisation » des violences racistes",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
-    "title": "Projet de loi « casseurs-payeurs » : le Sénat durcit les sanctions contre les violences lors des manifestations",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
-    "title": "Autopsie du mort lors des manifestations : la famille dénonce l’usage de gaz lacrymogène",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
-    "title": "France 2030 : la Cour des comptes alerte sur les dérives budgétaires du plan d’avenir",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html",
-    "title": "Présidentielle 2027 : Yaël Braun-Pivet propose Gérard Larcher comme figure d’union droite-centre",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
-    "title": "Édouard Philippe propose de diviser par deux l’immigration légale et de réformer l’intégration",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
-    "title": "Assemblée nationale : tensions après l’attentat raciste de Trappes entre majorité et opposition",
-    "rubrique": "France",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
-    "title": "Israël : élections législatives sans majorité claire, risque de blocage politique",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
-    "title": "Menace iranienne en Europe : services de renseignement alertent sur des projets d’assassinats et cyberattaques",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/afrique/article/2026/10/28/en-afrique-l-homophobie-erigee-en-politique-d-etat_6801525_3212.html",
-    "title": "Afrique : l’homophobie érigée en politique d’État dans plusieurs pays",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/28/aux-etats-unis-des-vies-minees-par-l-inflation-l-essence-et-la-nourriture-ca-devient-de-la-folie-on-va-finir-par-crever-de-faim_6801535_3234.html",
-    "title": "États-Unis : inflation et hausse des prix pèsent sur le pouvoir d’achat des travailleurs",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/28/a-la-veille-du-sommet-entre-l-union-europeenne-et-le-canada-les-europeens-se-perdent-dans-une-bagarre-semantique_6801521_3210.html",
-    "title": "Union européenne et Canada : tensions sémantiques avant le sommet commercial",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html",
-    "title": "Administration Trump : accusations de manipulation des élections de mi-mandat",
-    "rubrique": "International",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2361879-aucune-raison-scientifique-de-retarder-la-preuve-des-mathematiciens-sagacent-de-lattitude-dopenai-sur-un-resultat-de-physique-crucial.html",
-    "title": "OpenAI sous pression : des mathématiciens exigent la publication immédiate des preuves d’un résultat physique crucial",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.numerama.com/politique/2361567-shein-temu-aliexpress-comment-un-colis-a-20-e-peut-finir-par-vous-couter-38-e.html",
-    "title": "Taxe sur les colis en ligne : nouveaux frais de 2 € à partir du 1er novembre pour les achats depuis l’étranger",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2361753-dune-3-le-dernier-trailer-avant-la-sortie-est-la.html",
-    "title": "Dune : Troisième Partie – le trailer révèle une fin sanglante et spectaculaire",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.numerama.com/vroom/2361773-la-liste-des-constructeurs-chinois-qui-assemblent-en-europe-sallonge-encore.html",
-    "title": "Constructeurs chinois : Great Wall Motor assemble un SUV en Bulgarie dès 2027",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-28"
-  },
-  {
     "url": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html",
     "title": "Campagne d’influence anti-Qatar : révélations sur une possible ingérence avant la présidentielle 2027",
     "rubrique": "France",
@@ -652,5 +550,89 @@
     "title": "Revolut utilise un modèle d’IA chinois pour réduire ses coûts",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-11-04"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
+    "title": "Mobilisations sociales : convergence inédite entre lycéens, étudiants, syndicats et « gilets jaunes »",
+    "rubrique": "France",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
+    "title": "Violences contre les journalistes : une escalade inquiétante avant la présidentielle",
+    "rubrique": "France",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html",
+    "title": "Budget 2027 rejeté à l’unanimité par l’Assemblée nationale",
+    "rubrique": "France",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
+    "title": "Macron prône une coalition large pour éviter un duel Le Pen-Mélenchon en 2027",
+    "rubrique": "France",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html",
+    "title": "Analyse : la crise sociale alimentée par un « décalage » entre politique et population",
+    "rubrique": "France",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/05/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-ans-de-prison-supplementaires_6806823_3210.html",
+    "title": "Joshua Wong condamné à 10 ans de prison supplémentaires à Hong Kong",
+    "rubrique": "International",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/05/en-angleterre-crowborough-ville-meurtrie-par-un-an-de-manifestations-anti-migrants_6806814_4500055.html",
+    "title": "Crowborough (Angleterre) : un an de manifestations anti-migrants paralyse la ville",
+    "rubrique": "International",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/05/la-coree-du-sud-va-deployer-sa-marine-pres-du-detroit-d-ormuz_6806741_3210.html",
+    "title": "Corée du Sud déploie sa marine au détroit d’Ormuz pour sécuriser les routes maritimes",
+    "rubrique": "International",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html",
+    "title": "Midterms 2026 : défaite historique des républicains aux États-Unis",
+    "rubrique": "International",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/11/05/le-maroc-mise-sur-le-dessalement-pour-soutenir-son-agriculture-d-exportation-il-vaut-mieux-avoir-de-l-eau-chere-que-pas-du-tout_6806812_3244.html",
+    "title": "Maroc : le dessalement d’eau de mer soutient l’agriculture d’exportation",
+    "rubrique": "International",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2367849-revolut-va-desactiver-ses-anciens-iban-gare-si-vous-recevez-votre-salaire-sur-la-neobanque.html",
+    "title": "Revolut désactive ses anciens IBAN : attention aux comptes concernés",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2367287-edf-tempo-pourquoi-vous-ne-paierez-plus-votre-electricite-au-prix-fort-le-24-et-le-31-decembre.html",
+    "title": "EDF Tempo : plus de jours rouges pour les abonnés en décembre",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2367725-pour-tester-son-futur-missile-nucleaire-m51-4-la-france-mise-sur-une-fusee-bien-plus-petite.html",
+    "title": "France teste une fusée-sonde pour le futur missile nucléaire M51.4",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2367773-les-gagnants-de-ce-concours-de-court-metrage-nous-ont-fait-changer-davis-sur-lia-en-video-et-ils-sont-repartis-avec-1-million-de-dollars.html",
+    "title": "Concours de court-métrage sur l’IA : des lauréats repartent avec 1 million de dollars",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-05"
   }
 ]
