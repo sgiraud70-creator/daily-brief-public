@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html",
-    "title": "Campagne d’influence anti-Qatar : révélations sur une possible ingérence avant la présidentielle 2027",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
-    "title": "Manifestations du 24 octobre : plainte pour blessures graves et saisine de l’IGPN à Toulouse",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
-    "title": "Piratage du site des impôts : mise en examen d’un second suspect, âgé de 16 ans",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html",
-    "title": "Justice suspend le couvre-feu pour les mineurs non accompagnés à Paris",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
-    "title": "Emmanuel Macron dénonce une « désinhibition du racisme et de l’antisémitisme »",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html",
-    "title": "LFI cible les « gamers » pour séduire les jeunes avant la présidentielle 2027",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html",
-    "title": "Baisse de la natalité : les politiques publiques face à un défi croissant",
-    "rubrique": "France",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/29/bresil-pourquoi-malgre-sa-victoire-lula-devra-t-il-faire-des-concessions-pour-gouverner-comprendre-en-trois-minutes_6802084_6176282.html",
-    "title": "Brésil : Lula doit composer avec un Congrès sans majorité pour gouverner",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/videos/video/2026/10/29/qui-est-muhoozi-kainerugaba-l-heritier-brutal-et-fantasque-du-president-ougandais_6802083_1669088.html",
-    "title": "Muhoozi Kainerugaba, héritier controversé du président ougandais Yoweri Museveni",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html",
-    "title": "Midterms 2026 : Barack Obama soutient Jon Ossoff en Géorgie",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/29/en-colombie-une-nouvelle-frappe-contre-des-narcotrafiquants-presumes-fait-au-moins-six-morts_6801978_3210.html",
-    "title": "Colombie : frappe militaire contre des narcotrafiquants fait au moins six morts",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/10/29/comment-les-tensions-geopolitiques-redessinent-la-carte-des-routes-aeriennes-commerciales_6802011_3234.html",
-    "title": "Tensions géopolitiques redessinent les routes aériennes commerciales",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/10/29/flavio-bolsonaro-du-candidat-sur-d-etre-elu-president-du-bresil-au-mauvais-perdant-en-cavale-aux-etats-unis_6802013_3210.html",
-    "title": "Flavio Bolsonaro en cavale aux États-Unis après sa défaite au Brésil",
-    "rubrique": "International",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html",
-    "title": "Apple lance son premier MacBook Pro avec écran tactile OLED",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2362863-discord-va-t-il-vraiment-publier-vos-messages-sur-google-voici-ce-qui-change-reellement.html",
-    "title": "Discord pourrait publier des messages sur Google à partir de décembre 2026",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.numerama.com/pop-culture/2362745-orgueil-et-prejuges-la-serie-netflix-que-tous-les-fans-de-romance-attendent-devoile-enfin-son-trailer.html",
-    "title": "Netflix dévoile la bande-annonce de « Orgueil et Préjugés »",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2362669-un-bug-eternel-cette-faille-critique-se-cache-dans-le-demarrage-de-la-plupart-des-serveurs-du-monde-et-la-corriger-releve-du-casse-tete.html",
-    "title": "Faille critique dans le démarrage des serveurs : un bug « éternel » difficile à corriger",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-10-29"
-  },
-  {
     "url": "https://www.lemonde.fr/societe/article/2026/10/29/avant-son-attentat-raciste-a-trappes-l-assaillant-avait-ete-interpelle-trois-jours-avant-pour-des-violences-sur-un-automobiliste_6802427_3224.html",
     "title": "Attentat raciste à Trappes : l’assaillant présumé avait des antécédents judiciaires",
     "rubrique": "France",
@@ -634,5 +532,77 @@
     "title": "Concours de court-métrage sur l’IA : des lauréats repartent avec 1 million de dollars",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
+    "title": "Jean-Luc Mélenchon dévoile son programme « L’Avenir en commun » pour 2027",
+    "rubrique": "France",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html",
+    "title": "Grève du 5 novembre : mobilisation historique pour le pouvoir d’achat",
+    "rubrique": "France",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/05/le-lycee-francoise-a-tournefeuille-pres-de-toulouse-victime-d-une-attaque-d-un-incendie-et-de-degradations_6807345_3224.html",
+    "title": "Incendie et dégradations au lycée de Tournefeuille (près de Toulouse)",
+    "rubrique": "France",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
+    "title": "Olivier Blanchard alerte sur le risque de crise budgétaire en France",
+    "rubrique": "France",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/a-macao-l-ancien-parlementaire-au-kam-san-premiere-personne-condamnee-au-nom-de-la-loi-de-securite-nationale_6807718_3210.html",
+    "title": "Macao : première condamnation au nom de la loi de sécurité nationale",
+    "rubrique": "International",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html",
+    "title": "Moscou saisit les actifs russes de Japan Tobacco sur fond de tensions diplomatiques",
+    "rubrique": "International",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html",
+    "title": "Hong Kong se positionne comme future « Monaco asiatique »",
+    "rubrique": "International",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html",
+    "title": "Cuba : libération de Yoani Sánchez après son arrestation",
+    "rubrique": "International",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.lemonde.fr/podcasts/article/2026/11/06/inde-les-cafards-defient-le-pouvoir_6807614_5463015.html",
+    "title": "Inde : la jeunesse défie le gouvernement de Narendra Modi",
+    "rubrique": "International",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2368671-comment-la-france-veut-faire-tenir-un-canon-electromagnetique-dans-un-navire-de-guerre.html",
+    "title": "France : développement d’un canon électromagnétique pour navires de guerre",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2368707-pour-40-e-de-plus-ce-pack-switch-2-inclut-le-remake-de-zelda-ocarina-of-time.html",
+    "title": "Pack Switch 2 incluant le remake de *Zelda: Ocarina of Time* à 40 € de plus",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2368621-le-pixel-11-passe-sous-les-800-e-chez-cdiscount-qui-lui-ajoute-une-enceinte-jbl-grip.html",
+    "title": "Google Pixel 11 sous les 800 € avec une enceinte JBL Grip",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-06"
   }
 ]

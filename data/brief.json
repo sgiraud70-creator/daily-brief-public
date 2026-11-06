@@ -1,18 +1,18 @@
 {
-  "date_str": "Jeudi 5 novembre 2026",
+  "date_str": "Vendredi 6 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 5,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Bertille, Kerrien et Sylvie",
+          "title": "Aujourd'hui, on souhaite la fête : Léonard, Melaine, Théobald et Winnoc",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/5/11/2026/5-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/6/11/2026/6-Novembre-2026.html"
             }
           ]
         }
@@ -22,79 +22,74 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Mobilisations sociales : convergence inédite entre lycéens, étudiants, syndicats et « gilets jaunes »",
+          "title": "Jean-Luc Mélenchon dévoile son programme « L’Avenir en commun » pour 2027",
           "bullets": [
-            "Les syndicats (CGT, FO, Solidaires) ont appelé à une grève générale le 5 novembre, rejoignant les mouvements lycéens et étudiants en colère contre la hausse des prix et les réformes.",
-            "Les « gilets jaunes » ont soutenu l’appel, marquant une rare unité entre les différentes franges de la contestation sociale.",
-            "Le gouvernement fait face à une pression accrue alors que les manifestations pourraient s’intensifier avant la présidentielle de 2027.",
-            "Les parcours de manifestations ont été validés par le tribunal administratif pour éviter les conflits avec les forces de l’ordre."
+            "Le livre-programme, intitulé « L’Avenir en commun », insiste sur la bifurcation écologique comme priorité absolue.",
+            "La promesse de la retraite est réaffirmée comme un pilier central du projet politique.",
+            "Le concept de « nouvelle France » est au cœur de sa stratégie électorale pour 2027.",
+            "Le livre est disponible en librairie depuis le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html"
             }
           ]
         },
         {
-          "title": "Violences contre les journalistes : une escalade inquiétante avant la présidentielle",
+          "title": "Grève du 5 novembre : mobilisation historique pour le pouvoir d’achat",
           "bullets": [
-            "Les médias alertent sur une multiplication des agressions physiques et verbales envers leurs équipes, notamment lors des manifestations.",
-            "Certaines personnalités politiques sont accusées de contribuer à une « désinhibition » des violences contre les journalistes.",
-            "Les directions des rédactions craignent un impact sur la couverture médiatique de la campagne présidentielle.",
-            "L’IGPN et la Commission nationale consultative des droits de l’homme (CNCDH) ont été saisies pour enquêter sur ces agressions."
+            "1,6 million de manifestants selon la CGT, 575 000 selon le ministère de l’Intérieur.",
+            "Appel unitaire pour défendre le pouvoir d’achat et les services publics.",
+            "Mobilisation à la fois sociale et politique, avec une forte participation des jeunes.",
+            "Dialogue social prévu à Matignon le 9 novembre avec syndicats et patronat."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 rejeté à l’unanimité par l’Assemblée nationale",
+          "title": "Incendie et dégradations au lycée de Tournefeuille (près de Toulouse)",
           "bullets": [
-            "Le projet de loi de finances 2027 a été rejeté en première lecture par les députés, malgré les appels du gouvernement à la concertation.",
-            "Le texte sera examiné à nouveau par le Sénat à partir du 20 novembre, avec une promesse de compromis en décembre.",
-            "Les oppositions dénoncent un budget « insuffisant » face à la crise sociale et économique.",
-            "Le gouvernement évoque un « temps du compromis » pour ajuster le texte avant son adoption définitive."
+            "Une trentaine d’individus cagoulés ont attaqué l’établissement tôt le matin du 5 novembre.",
+            "Dégâts importants et réactions indignées des autorités locales.",
+            "L’établissement scolaire a été partiellement endommagé par l’incendie et les dégradations.",
+            "Enquête en cours pour déterminer les responsabilités."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/05/le-lycee-francoise-a-tournefeuille-pres-de-toulouse-victime-d-une-attaque-d-un-incendie-et-de-degradations_6807345_3224.html"
             }
           ]
         },
         {
-          "title": "Macron prône une coalition large pour éviter un duel Le Pen-Mélenchon en 2027",
+          "title": "Olivier Blanchard alerte sur le risque de crise budgétaire en France",
           "bullets": [
-            "Emmanuel Macron appelle à une alliance entre les partis centristes (Glucksmann, Lisnard) pour contrer la montée des extrêmes.",
-            "Cette stratégie vise à éviter un second tour entre Marine Le Pen et Jean-Luc Mélenchon, jugé trop clivant pour le pays.",
-            "Les divisions au sein de la droite et de la gauche rendent cette coalition complexe à construire.",
-            "Les sondages montrent une polarisation croissante des électeurs avant la présidentielle."
+            "L’ancien économiste en chef du FMI juge le programme économique du RN incohérent.",
+            "Il qualifie le projet de La France insoumise de « terrorisant » pour l’économie.",
+            "Appel à une réflexion urgente sur la soutenabilité des finances publiques.",
+            "Interview publiée dans *Le Monde* le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html"
             }
           ]
         },
         {
-          "title": "Analyse : la crise sociale alimentée par un « décalage » entre politique et population",
+          "title": "Mobilisation à Vesoul pour les salaires et la justice sociale",
           "bullets": [
-            "François Sureau, avocat et écrivain, critique la « propension du personnel politique à ruser avec la volonté populaire ».",
-            "Il souligne une défiance croissante envers les institutions, aggravée par les réformes perçues comme imposées.",
-            "Les mouvements de contestation actuels reflètent un rejet des méthodes de gouvernance plutôt qu’une crise de l’État.",
-            "Les intellectuels appellent à une refonte du dialogue entre les élites et les citoyens pour éviter une radicalisation."
+            "450 personnes dans la rue pour défendre les revendications salariales.",
+            "Manifestation organisée dans un contexte de tensions sociales nationales.",
+            "Appel à une meilleure justice sociale et économique.",
+            "Événement local relayé par *La Presse de Vesoul*."
           ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html"
-            }
-          ]
+          "sources": []
         }
       ]
     },
@@ -102,77 +97,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Joshua Wong condamné à 10 ans de prison supplémentaires à Hong Kong",
+          "title": "Macao : première condamnation au nom de la loi de sécurité nationale",
           "bullets": [
-            "L’activiste pro-démocratie Joshua Wong voit sa peine portée à près de 15 ans pour « subversion ».",
-            "Il devait sortir de prison en janvier 2027 après avoir purgé 5 ans pour son rôle dans les manifestations de 2019.",
-            "Cette condamnation renforce la répression contre les opposants au régime chinois à Hong Kong.",
-            "Les États-Unis et l’UE dénoncent une « violation des droits humains » et appellent à sa libération."
+            "Au Kam San, 69 ans, condamné à 12 ans de prison pour activités pro-démocratie.",
+            "Figure historique du mouvement prodémocratie dans le territoire chinois.",
+            "Condamnation symbolique renforçant la répression politique à Macao.",
+            "Décision rendue le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-ans-de-prison-supplementaires_6806823_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/a-macao-l-ancien-parlementaire-au-kam-san-premiere-personne-condamnee-au-nom-de-la-loi-de-securite-nationale_6807718_3210.html"
             }
           ]
         },
         {
-          "title": "Crowborough (Angleterre) : un an de manifestations anti-migrants paralyse la ville",
+          "title": "Moscou saisit les actifs russes de Japan Tobacco sur fond de tensions diplomatiques",
           "bullets": [
-            "La petite ville de 22 000 habitants, autrefois accueillante pour les réfugiés ukrainiens, est devenue un foyer de tensions.",
-            "Des rassemblements hebdomadaires depuis un an ont dégénéré en violences et intimidations.",
-            "Les autorités locales et nationales peinent à rétablir un climat apaisé malgré les interventions policières.",
-            "Cette situation illustre les fractures sociales liées à l’immigration en Angleterre."
+            "Saisie ordonnée quelques semaines après des tensions accrues entre Moscou et Tokyo.",
+            "Le gouvernement japonais exige la libération immédiate des actifs.",
+            "Tensions liées à des différends géopolitiques et économiques en Asie.",
+            "Actualité publiée le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/05/en-angleterre-crowborough-ville-meurtrie-par-un-an-de-manifestations-anti-migrants_6806814_4500055.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html"
             }
           ]
         },
         {
-          "title": "Corée du Sud déploie sa marine au détroit d’Ormuz pour sécuriser les routes maritimes",
+          "title": "Hong Kong se positionne comme future « Monaco asiatique »",
           "bullets": [
-            "Séoul envoie un destroyer, des drones navals et des robots sous-marins pour surveiller la zone stratégique.",
-            "Cette initiative s’inscrit dans un contexte de tensions accrues au Moyen-Orient et de risques de piraterie.",
-            "La Corée du Sud cherche à protéger ses intérêts énergétiques et commerciaux dans une région instable.",
-            "Les États-Unis et l’UE soutiennent cette mesure dans le cadre de leur coopération régionale."
+            "Stratégie de développement axée sur l’attractivité financière et le luxe.",
+            "Comparaison avec Singapour et Monaco pour renforcer son image.",
+            "Objectif : devenir un hub économique et touristique majeur en Asie.",
+            "Analyse publiée le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/la-coree-du-sud-va-deployer-sa-marine-pres-du-detroit-d-ormuz_6806741_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms 2026 : défaite historique des républicains aux États-Unis",
+          "title": "Cuba : libération de Yoani Sánchez après son arrestation",
           "bullets": [
-            "Les démocrates ont remporté une large majorité au Congrès, privant Donald Trump de ses leviers d’influence.",
-            "Cette défaite marque un rejet de la ligne ultra-conservatrice et isolationniste du président.",
-            "L’Ukraine espère que cette victoire freinera une éventuelle normalisation des relations avec la Russie.",
-            "Les républicains lancent déjà une introspection sur leur stratégie électorale pour 2028."
+            "La blogueuse et journaliste inculpée pour « atteinte à l’ordre constitutionnel » libérée dans la journée.",
+            "Arrestation dans le cadre de la répression contre les opposants politiques.",
+            "Berta Soler, dirigeante du mouvement *Damas de Blanco*, également libérée.",
+            "Actualité rapportée le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html"
             }
           ]
         },
         {
-          "title": "Maroc : le dessalement d’eau de mer soutient l’agriculture d’exportation",
+          "title": "Inde : la jeunesse défie le gouvernement de Narendra Modi",
           "bullets": [
-            "Des usines de dessalement irriguent désormais des milliers d’hectares dans la région d’Agadir.",
-            "Cette solution permet de pallier la pénurie d’eau douce et de maintenir la production agricole.",
-            "Le gouvernement marocain mise sur cette technologie pour faire face au changement climatique.",
-            "Les experts estiment que cette approche est plus coûteuse mais nécessaire pour l’avenir."
+            "Mouvements de protestation massifs depuis le printemps 2026.",
+            "Critiques contre l’autoritarisme et les inégalités sociales.",
+            "Manifestations étudiantes et syndicales contre les politiques gouvernementales.",
+            "Podcast *Le Monde* du 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/05/le-maroc-mise-sur-le-dessalement-pour-soutenir-son-agriculture-d-exportation-il-vaut-mieux-avoir-de-l-eau-chere-que-pas-du-tout_6806812_3244.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/podcasts/article/2026/11/06/inde-les-cafards-defient-le-pouvoir_6807614_5463015.html"
             }
           ]
         }
@@ -187,62 +182,47 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Revolut désactive ses anciens IBAN : attention aux comptes concernés",
+          "title": "France : développement d’un canon électromagnétique pour navires de guerre",
           "bullets": [
-            "Revolut mettra fin aux anciens IBAN lituaniens le 4 janvier 2027 pour les comptes français.",
-            "Les clients doivent vérifier leurs coordonnées bancaires avant cette date pour éviter des perturbations.",
-            "Cette mesure s’inscrit dans une refonte globale des services de la néobanque.",
-            "Les utilisateurs recevant leur salaire sur Revolut sont particulièrement concernés."
+            "Projet financé par l’Agence de l’innovation de défense.",
+            "Collaboration entre Hemeria et l’institut franco-allemand ISL.",
+            "Objectif : intégrer cette technologie dans les futurs navires militaires.",
+            "Annonce faite lors du salon naval en 2026."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2367849-revolut-va-desactiver-ses-anciens-iban-gare-si-vous-recevez-votre-salaire-sur-la-neobanque.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2368671-comment-la-france-veut-faire-tenir-un-canon-electromagnetique-dans-un-navire-de-guerre.html"
             }
           ]
         },
         {
-          "title": "EDF Tempo : plus de jours rouges pour les abonnés en décembre",
+          "title": "Pack Switch 2 incluant le remake de *Zelda: Ocarina of Time* à 40 € de plus",
           "bullets": [
-            "Les 24 et 31 décembre ne seront plus des jours à tarif élevé pour les 900 000 abonnés à l’option Tempo.",
-            "Cette modification vise à réduire les coûts énergétiques pour les ménages pendant les fêtes.",
-            "Les jours rouges sont désormais limités à 22 jours par an au maximum.",
-            "Les consommateurs doivent vérifier leur contrat pour confirmer cette exemption."
+            "Remake exclusif disponible le 5 novembre 2026 sur Switch 2.",
+            "Promotion chez Joybuy incluant le jeu et le pack matériel.",
+            "Prix réduit pour attirer les joueurs sur la nouvelle console.",
+            "Deal du jour publié le 5 novembre 2026."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/sciences/2367287-edf-tempo-pourquoi-vous-ne-paierez-plus-votre-electricite-au-prix-fort-le-24-et-le-31-decembre.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2368707-pour-40-e-de-plus-ce-pack-switch-2-inclut-le-remake-de-zelda-ocarina-of-time.html"
             }
           ]
         },
         {
-          "title": "France teste une fusée-sonde pour le futur missile nucléaire M51.4",
+          "title": "Google Pixel 11 sous les 800 € avec une enceinte JBL Grip",
           "bullets": [
-            "La fusée SyLEx d’ArianeGroup a réussi son deuxième tir depuis Biscarrosse (Landes).",
-            "Ce test vise à valider une technologie de lancement plus petite pour les essais du M51.4.",
-            "La France cherche à moderniser son arsenal nucléaire tout en réduisant les coûts logistiques.",
-            "Les essais se poursuivent dans le cadre du programme de dissuasion nucléaire."
+            "Lancement initial à 999 € en août 2026, prix réduit chez Cdiscount.",
+            "Pack incluant une enceinte JBL pour un usage multimédia.",
+            "Promotion pour attirer les acheteurs avant les fêtes.",
+            "Deal du jour publié le 6 novembre 2026."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2367725-pour-tester-son-futur-missile-nucleaire-m51-4-la-france-mise-sur-une-fusee-bien-plus-petite.html"
-            }
-          ]
-        },
-        {
-          "title": "Concours de court-métrage sur l’IA : des lauréats repartent avec 1 million de dollars",
-          "bullets": [
-            "Le festival Higgsfield a récompensé des films explorant les enjeux de l’intelligence artificielle.",
-            "Les gagnants ont produit des œuvres innovantes mêlant technologie et narration.",
-            "Ce concours vise à stimuler la créativité et l’innovation dans le domaine de l’IA.",
-            "Les lauréats proviennent de 176 pays, reflétant une diversité internationale."
-          ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2367773-les-gagnants-de-ce-concours-de-court-metrage-nous-ont-fait-changer-davis-sur-lia-en-video-et-ils-sont-repartis-avec-1-million-de-dollars.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2368621-le-pixel-11-passe-sous-les-800-e-chez-cdiscount-qui-lui-ajoute-une-enceinte-jbl-grip.html"
             }
           ]
         }
@@ -252,12 +232,12 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "SUSE licencie 10% de ses effectifs pour intégrer l’IA et l’automatisation",
+          "title": "Agent IA personnel « Quest » pour Muse : une approche personnalisée",
           "bullets": [
-            "L’entreprise allemande SUSE a annoncé des suppressions d’emplois pour accélérer sa transition technologique.",
-            "L’IA et l’automatisation sont présentées comme des leviers pour améliorer l’efficacité et réduire les coûts.",
-            "Cette mesure s’inscrit dans une tendance plus large du secteur des technologies.",
-            "Les employés concernés bénéficieront de plans de reclassement ou de départs volontaires."
+            "Développé par deux Français, l’agent IA s’adapte aux besoins individuels.",
+            "Intégration avec l’écosystème de Muse pour une expérience utilisateur optimisée.",
+            "Objectif : devenir un mentor virtuel pour les utilisateurs.",
+            "Article publié dans *Les Échos* le 6 novembre 2026."
           ],
           "sources": []
         }
@@ -265,29 +245,39 @@
     },
     {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "SpaceX envoie une imprimante 3D en orbite et construit son premier faisceau",
+          "bullets": [
+            "Imprimante 3D déployée à bord de la Station spatiale internationale (ISS).",
+            "Fabrication d’un faisceau structurel en microgravité.",
+            "Objectif : tester les capacités d’impression 3D pour les missions spatiales.",
+            "Actualité rapportée par *Business Model Analyst* le 6 novembre 2026."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaques aux QR codes : vigilance accrue pour les démarches administratives",
+          "title": "Avertissement contre les arnaques aux QR codes pour paiement des impôts",
           "bullets": [
-            "Les escrocs utilisent des faux QR codes dans des courriers administratifs pour voler des données personnelles.",
-            "Les impôts et autres organismes officiels ne demandent jamais de scanner un QR code pour des démarches en ligne.",
-            "Les victimes sont invitées à vérifier l’authenticité des documents avant toute action.",
-            "Les autorités rappellent de ne jamais communiquer ses identifiants ou codes personnels via ces canaux."
+            "Attention aux faux QR codes envoyés par SMS ou e-mail pour payer ses impôts.",
+            "Risque de vol de données bancaires ou d’identité.",
+            "Conseils pour vérifier l’authenticité des demandes fiscales.",
+            "Alertes publiées par *CNews* le 6 novembre 2026."
           ],
           "sources": []
         },
         {
-          "title": "Chèque énergie : 8 façons de l’utiliser pour réduire ses dépenses cet hiver",
+          "title": "Chèque énergie 2026 : jusqu’à 277 € à demander avant le 31 décembre",
           "bullets": [
-            "Le chèque énergie peut être utilisé pour payer des factures de fioul, de bois ou encore les charges en Ehpad.",
-            "Il permet aussi de financer des travaux de rénovation énergétique ou des aides locales.",
-            "Les bénéficiaires doivent vérifier leur éligibilité et les modalités d’utilisation sur le site officiel.",
-            "Cette aide vise à soutenir les ménages modestes face à la hausse des prix de l’énergie."
+            "Montant maximal de 277 € pour les ménages éligibles.",
+            "Délai de demande jusqu’au 31 décembre 2026.",
+            "Aide destinée à faire face à la hausse des prix de l’énergie.",
+            "Information publiée par *Le Revenu* le 6 novembre 2026."
           ],
           "sources": []
         }
@@ -297,22 +287,12 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Arthur Fils qualifié pour les Finales ATP : une première pour un Français depuis 2016",
+          "title": "Équipe de France de tennis de table : sélection pour la Coupe du monde mixte",
           "bullets": [
-            "Arthur Fils devient le premier Français à atteindre les Finales ATP depuis Jo-Wilfried Tsonga en 2016.",
-            "Il a remporté le tournoi de Paris Masters après une victoire en finale contre Casper Ruud.",
-            "Cette performance renforce sa position parmi les meilleurs joueurs mondiaux.",
-            "Fils vise désormais une médaille olympique aux Jeux de Los Angeles en 2028."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Décès d’Alan Jones, champion de Formule 1 australien",
-          "bullets": [
-            "Alan Jones, triple champion du monde de F1 dans les années 1970 et 1980, est décédé à l’âge de 80 ans.",
-            "Il a marqué l’histoire de la Formule 1 par son style agressif et son palmarès avec Williams et McLaren.",
-            "Ses funérailles auront lieu en Australie, où il était une figure emblématique du sport automobile.",
-            "Jones était également connu pour son engagement en faveur de l’environnement et de causes sociales."
+            "Les frères Lebrun et Nina Guo Zheng parmi les sélectionnés.",
+            "Objectif : conquérir le titre mondial en équipe mixte.",
+            "Détails de la composition de l’équipe révélés le 6 novembre 2026.",
+            "Actualité publiée par *Midi Libre* et *L’Équipe*."
           ],
           "sources": []
         }
@@ -343,7 +323,7 @@
             "Stade : Parc des Princes",
             "Diffusion : Ligue 1+",
             "Classement : 1er de Ligue 1 — 20 pts en 9 matchs",
-            "Ligue des champions : 1er de la phase de ligue (9 pts)",
+            "Ligue des champions : 1er de la phase de ligue (12 pts)",
             "Adversaire au classement : 16e de Ligue 1 (8 pts)",
             "ESTAC Troyes — Stade : Stade de l'Aube · Capacité : 21 877 places · Entraîneur : Stéphane Dumont"
           ],
