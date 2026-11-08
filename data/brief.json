@@ -1,18 +1,18 @@
 {
-  "date_str": "Samedi 7 novembre 2026",
+  "date_str": "Dimanche 8 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Karine, Engelbert, Ernest et Hercule",
+          "title": "Aujourd'hui, on souhaite la fête : Geoffroy et Willehad",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/7/11/2026/7-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/8/11/2026/8-Novembre-2026.html"
             }
           ]
         }
@@ -22,66 +22,102 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : Raphaël Glucksmann lance la campagne avec une équipe socialiste diversifiée",
+          "title": "François Villeroy de Galhau alerte sur les risques de la dette publique",
           "bullets": [
-            "Raphaël Glucksmann, vainqueur de la primaire socialiste, dévoile son équipe de campagne pour l’Élysée.",
-            "L’équipe mise en avant inclut des profils variés, avec une volonté de représenter la diversité du parti.",
-            "Stratégie axée sur la mobilisation des électeurs de gauche et la réponse aux enjeux sociaux.",
-            "Les socialistes cherchent à capitaliser sur les tensions politiques et les attentes économiques.",
-            "Cette annonce intervient dans un contexte de divisions croissantes à gauche avant le scrutin de 2027."
+            "L’ancien gouverneur de la Banque de France critique une gestion de la dette jugée irresponsable.",
+            "Il dénonce des choix « gérontocratiques » qui pénaliseront les jeunes générations.",
+            "Appel à une politique budgétaire plus stricte pour éviter une crise sociale et financière.",
+            "Interview publiée dans le cadre des débats sur le budget 2027."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html"
             }
           ]
         },
         {
-          "title": "Mouvements lycéens : blocages persistants et tensions accrues après les vacances scolaires",
+          "title": "Mobilisation sociale : pression maintenue avant la conférence sociale de Matignon",
           "bullets": [
-            "Des barrages et blocages se maintiennent dans plusieurs lycées, avec un nombre sous-estimé par les autorités.",
-            "Les tensions entre élèves et forces de l’ordre s’intensifient, notamment dans les établissements concernés.",
-            "Les lycéens dénoncent des conditions de vie précaires et des réformes éducatives jugées inéquitables.",
-            "Le ministère de l’Éducation nationale minimise l’ampleur du mouvement, malgré des preuves de son extension.",
-            "La rentrée scolaire s’annonce sous le signe de l’instabilité et des confrontations."
+            "Entre 146 000 et 250 000 manifestants ont défilé lors du quatrième week-end de mobilisation.",
+            "Les syndicats exigent des mesures concrètes contre la hausse des prix et le pouvoir d’achat.",
+            "Affluence en baisse mais détermination affichée pour la conférence sociale du 11 novembre.",
+            "Contexte marqué par un chômage des moins de 25 ans dépassant les 21 %."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Jean-Luc Mélenchon mobilise sa base pour la présidentielle 2027",
+          "bullets": [
+            "Présentation du programme « L’Avenir en commun » devant 5 000 sympathisants au Bourget.",
+            "Stratégie pour élargir son électorat au-delà de la base historique de La France insoumise.",
+            "Focus sur les enjeux sociaux et écologiques pour séduire une partie de l’électorat populaire.",
+            "Préparation à une campagne électorale marquée par une polarisation politique accrue."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/07/mouvement-lyceen-apres-les-vacances-scolaires-un-retour-des-blocages-marque-par-une-hausse-des-tensions_6808168_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html"
             }
           ]
         },
         {
-          "title": "Attentat de Trappes : obsèques de la victime samedi, cérémonie restreinte aux proches",
+          "title": "Mathieu Lefèvre devient porte-parole intérimaire du gouvernement",
           "bullets": [
-            "Les obsèques de Pengo Bossio Wangi, victime de l’attentat raciste de Trappes, auront lieu samedi 8 novembre.",
-            "La cérémonie se déroulera au cimetière de Guyancourt (Yvelines) et sera fermée aux journalistes.",
-            "L’événement marque une étape dans le deuil national et la mémoire des victimes de violences racistes.",
-            "La communauté et les autorités rendent hommage à la victime et réaffirment leur engagement contre le racisme.",
-            "L’attentat, survenu en octobre, a suscité une vague d’indignation et de mobilisation."
+            "Maud Bregeon, porte-parole officielle, part en congé maternité pour environ cinq semaines.",
+            "Mathieu Lefèvre, proche de Gérald Darmanin, assure l’intérim tout en conservant son poste de ministre délégué.",
+            "Transition prévue pour éviter une rupture dans la communication gouvernementale.",
+            "Contexte de tensions sociales et politiques nécessitant une visibilité accrue."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/06/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-se-derouleront-samedi_6807863_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/07/mathieu-lefevre-va-remplacer-momentanement-comme-porte-parole-du-gouvernement-maud-bregeon-qui-va-partir-en-conge-maternite_6808304_823448.html"
             }
           ]
         },
         {
-          "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » pour sa proposition de fermer CNews",
+          "title": "Crise sociale : les réseaux sociaux reflètent le désarroi des jeunes",
           "bullets": [
-            "Le président du Rassemblement national (RN) dénonce une « tentation totalitaire » dans les propositions de La France insoumise (LFI).",
-            "Jordan Bardella critique les déclarations de Bally Bagayoko, qui a appelé à interdire la parole au RN pendant la campagne.",
-            "Cette polémique s’inscrit dans un contexte de tensions politiques et de radicalisation des discours.",
-            "Les partis d’extrême droite et de gauche s’affrontent sur les questions de liberté d’expression et de modération médiatique.",
-            "Les enjeux de la présidentielle 2027 s’intensifient avec ces accusations mutuelles."
+            "Témoignages de jeunes en quête d’emploi ou de formation, illustrant une précarité croissante.",
+            "Partage massif de messages désespérés sur des plateformes comme X (ex-Twitter).",
+            "L’Insee confirme un taux de chômage des moins de 25 ans à 21 % au T2 2026.",
+            "Appel à l’action politique pour répondre aux difficultés économiques des jeunes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html"
+              "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html"
+            }
+          ]
+        },
+        {
+          "title": "Maison de l’Amérique latine : un symbole historique en vente",
+          "bullets": [
+            "Ancien lieu des soirées électorales du Parti socialiste, situé boulevard Saint-Germain.",
+            "Vente annoncée pour des raisons financières, malgré son importance culturelle.",
+            "Symbole des échanges franco-américains et de la gauche intellectuelle parisienne.",
+            "Débats sur la préservation du patrimoine politique et culturel."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/08/a-paris-la-maison-de-l-amerique-latine-un-symbole-de-la-gauche-glorieuse-a-vendre_6808391_4500055.html"
+            }
+          ]
+        },
+        {
+          "title": "Hervé Le Bras : la France passe d’une société de technocrates à une société de tribuns",
+          "bullets": [
+            "Analyse de l’historien sur le déclin des élites techniques et l’ascension des figures charismatiques.",
+            "Crise de confiance dans les institutions et montée des discours populistes.",
+            "Impact sur le débat politique et la légitimité des décisions publiques.",
+            "Entretien publié dans le cadre des réflexions sur la démocratie française."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html"
             }
           ]
         }
@@ -91,82 +127,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : frappes russes à Kiev causent au moins trois blessés, dont un enfant",
+          "title": "El Niño menace les exportations florales kényanes vers l’Europe",
           "bullets": [
-            "Des frappes de missiles balistiques russes ont touché Kiev, causant des dégâts et des victimes civiles.",
-            "Au moins trois personnes, dont un enfant, ont été blessées selon les autorités ukrainiennes.",
-            "Volodymyr Zelensky avait averti la veille d’une nouvelle attaque russe imminente.",
-            "Les frappes visent à affaiblir le moral des Ukrainiens et à perturber les infrastructures.",
-            "La Russie continue ses opérations militaires malgré les défis logistiques et humains."
+            "Le « super El Niño » perturbe les cultures en Afrique de l’Est, notamment les fleurs.",
+            "Le Kenya fournit un tiers des fleurs importées par l’Union européenne.",
+            "Risque de pénurie et de hausse des prix pour les consommateurs européens.",
+            "Appel à des mesures d’adaptation pour limiter les pertes économiques."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-au-moins-trois-blesses-a-kiev-dont-un-enfant-dans-des-frappes-de-missiles-balistiques_6803934_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html"
             }
           ]
         },
         {
-          "title": "États-Unis : Trump nomme Stephen Miller, figure de la droite identitaire, directeur de cabinet",
+          "title": "Lassitude européenne face à la guerre en Ukraine",
           "bullets": [
-            "Donald Trump a nommé Stephen Miller, connu pour ses positions suprémacistes blanches et conspirationnistes, à la tête de son administration.",
-            "Miller remplace Susie Wiles, une promotion jugée symbolique par les opposants de Trump.",
-            "Cette nomination intervient après la défaite républicaine aux midterms, marquant un recentrage idéologique.",
-            "Miller est un conseiller influent de Trump, connu pour son rôle dans les politiques migratoires et sécuritaires.",
-            "Les critiques dénoncent une radicalisation de l’exécutif américain."
+            "Majorité des Européens continuent de voir la Russie comme une menace.",
+            "Montée des critiques sur la durée et le coût du soutien à l’Ukraine.",
+            "Risque de baisse de l’engagement militaire et financier dans les mois à venir.",
+            "Analyse des dynamiques politiques et médiatiques en Europe."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/stephen-miller-l-ideologue-reactionnaire-de-la-maison-blanche-devient-le-nouveau-chef-de-l-administration-trump_6808135_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
+          "title": "Guerre des céréales en mer Noire : tensions accrues entre Russie et Ukraine",
           "bullets": [
-            "Le gouvernement américain propose une récompense de 20 millions de dollars pour des informations sur le programme nucléaire iranien.",
-            "Les détails concernent les installations, équipements et personnel associés au programme.",
-            "Cette offre s’inscrit dans le cadre des tensions persistantes entre les États-Unis et l’Iran.",
-            "Les services de renseignement américains cherchent à renforcer leur capacité à surveiller et contrer les activités iraniennes.",
-            "L’Iran nie toute intention de développer des armes nucléaires et rejette les accusations américaines."
+            "Blocus maritimes, pillages et attaques contre les cargos se multiplient.",
+            "Impact sur les approvisionnements alimentaires mondiaux, notamment en Afrique.",
+            "Rôle géopolitique croissant de la Turquie et des pays voisins.",
+            "Risque d’escalade régionale et de crise humanitaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/la-guerre-des-cereales-entre-l-ukraine-et-la-russie-redessine-les-rapports-de-force-geopolitiques_6808390_3210.html"
             }
           ]
         },
         {
-          "title": "Houthistes : autorisations par email pour traverser la mer Rouge, une nouvelle stratégie",
+          "title": "Israël : Gadi Eisenkot chargé de former un gouvernement",
           "bullets": [
-            "Les rebelles houthistes yéménites délivrent désormais des autorisations par email pour le passage des navires dans la mer Rouge.",
-            "Cette pratique vise à faciliter ou à contrôler le trafic maritime dans une zone sous tension.",
-            "Les attaques contre les navires commerciaux ont augmenté depuis le début du conflit au Yémen.",
-            "Les pays occidentaux et les compagnies maritimes cherchent à sécuriser leurs routes commerciales.",
-            "Cette mesure pourrait aussi servir de levier pour négocier ou extorquer des concessions."
+            "Ancien général nommé pour remplacer Benyamin Nétanyahou.",
+            "Mission officielle prévue le 9 novembre par le président Isaac Herzog.",
+            "Défis politiques et sécuritaires dans un contexte de tensions internes.",
+            "Enjeux pour la stabilité du pays et les relations internationales."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/les-houthistes-delivrent-des-autorisations-par-email-aux-navires-pour-traverser-la-mer-rouge_6808034_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html"
             }
           ]
         },
         {
-          "title": "Midterms 2026 : démocrates ciblent le budget du Pentagone et la guerre contre l’Iran",
+          "title": "Espionnage de Jensen Huang par une entrepreneuse chinoise",
           "bullets": [
-            "Les démocrates visent le budget du Pentagone et les dépenses liées à la guerre contre l’Iran après les midterms.",
-            "Le projet de bouclier antimissile Golden Dome est particulièrement critiqué pour son coût prohibitif.",
-            "Les élus démocrates cherchent à réduire les dépenses militaires et à réorienter les priorités budgétaires.",
-            "Les tensions géopolitiques au Moyen-Orient et les conflits en cours influencent les débats budgétaires.",
-            "Cette stratégie s’inscrit dans une volonté de rééquilibrer les investissements nationaux."
+            "Patroc de Nvidia suspecté d’avoir été espionné via une relation sentimentale.",
+            "Révélations du New York Times sur une possible infiltration par des agents chinois.",
+            "Enjeux de sécurité nationale liés aux technologies de pointe.",
+            "Réactions politiques et médiatiques aux États-Unis."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Impact des data centers sur les élections américaines",
+          "bullets": [
+            "La question environnementale des centres de données influence les midterms.",
+            "Critiques contre l’empreinte écologique et les subventions publiques.",
+            "Analyse des enjeux écologiques et technologiques pour les prochaines élections.",
+            "Débat sur la transition énergétique et les innovations technologiques."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html"
             }
           ]
         }
@@ -174,85 +220,79 @@
     },
     {
       "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Haute-Saône : violences lors de la manifestation du 5 novembre à Vesoul, deux jeunes interpellés",
+          "title": "La Chine bat un record en refroidissant des atomes à 9,7 picokelvins",
           "bullets": [
-            "Deux jeunes ont été interpellés par la police après des violences en marge d’une manifestation à Vesoul.",
-            "Des tirs de mortier ont été dirigés vers les forces de l’ordre lors de cette manifestation.",
-            "Les autorités locales et régionales renforcent la surveillance des rassemblements publics.",
-            "Les tensions sociales et politiques s’expriment de manière violente dans certaines régions.",
-            "Les interpellations visent à rétablir l’ordre et à prévenir de nouveaux incidents."
+            "Des physiciens chinois refroidissent des atomes de rubidium à bord de la station Tiangong.",
+            "Nouveau record du monde en physique quantique.",
+            "Applications potentielles pour les recherches spatiales et les technologies futures.",
+            "Étude publiée dans une revue scientifique internationale."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2370075-a-bord-de-sa-station-spatiale-la-chine-frole-le-zero-absolu-et-bat-un-record-du-monde.html"
+            }
+          ]
         },
         {
-          "title": "Haute-Saône : deux lycéens interdits de manifester après des tirs de mortier sur des policiers",
+          "title": "Un astronaute canadien capture une photo spectaculaire depuis l’espace",
           "bullets": [
-            "Deux lycéens ont été condamnés à une interdiction de manifester après des incidents violents à Vesoul.",
-            "Les jeunes ont été impliqués dans des tirs de mortier contre les forces de l’ordre lors d’une manifestation.",
-            "Cette mesure vise à empêcher leur participation à des rassemblements publics jugés perturbateurs.",
-            "Les autorités locales renforcent les mesures de sécurité lors des événements publics.",
-            "Les tensions entre jeunes et forces de l’ordre persistent dans plusieurs régions."
+            "Joshua Kutryk publie une image prise à 400 km d’altitude.",
+            "Photo montrant la Terre vue depuis l’orbite basse.",
+            "Illustration des capacités technologiques et scientifiques des missions spatiales.",
+            "Partage sur les réseaux sociaux pour sensibiliser au spatial."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2370029-cet-astronaute-canadien-capture-une-photo-vertigineuse-a-400-kilometres-au-dessus-de-la-terre.html"
+            }
+          ]
+        },
+        {
+          "title": "Airbnb lance un agent IA pour révolutionner les voyages",
+          "bullets": [
+            "Préparation d’un assistant IA pour centraliser la réservation de voyages.",
+            "Déploiement prévu pour le premier semestre 2027.",
+            "Objectif : simplifier et personnaliser l’expérience utilisateur.",
+            "Innovation majeure dans le secteur du tourisme et de la technologie."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "IA & nouvelles technologies",
+      "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Tesla arrête la production du Cybertruck après trois ans et 70 000 exemplaires vendus",
+          "title": "Airbnb prépare un agent IA pour 2027",
           "bullets": [
-            "Tesla confirme l’arrêt progressif de la production du Cybertruck au Texas d’ici mi-2027.",
-            "Seulement 70 000 exemplaires ont été écoulés depuis son lancement en 2023.",
-            "Ce modèle, emblématique de l’innovation industrielle controversée, quitte la ligne de production.",
-            "Les raisons évoquées incluent des problèmes techniques et une demande insuffisante.",
-            "Cette décision marque un tournant pour Tesla dans sa stratégie de véhicules électriques."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2369931-clap-de-fin-pour-le-tesla-cybertruck-chronique-dun-echec-industriel-annonce.html"
-            }
-          ]
-        },
-        {
-          "title": "Sophie Adenot, astronaute française, partage son expérience du corps en microgravité",
-          "bullets": [
-            "Sophie Adenot, première femme française à effectuer une sortie extravéhiculaire, livre un témoignage sur les effets de la microgravité.",
-            "Son corps a subi des transformations physiques marquées, notamment au niveau musculaire et osseux.",
-            "Elle décrit les défis et les adaptations nécessaires pour vivre dans l’espace.",
-            "Ce témoignage rare éclaire les spécificités de l’expérience féminine dans l’exploration spatiale.",
-            "Son retour sur Terre ouvre la voie à de nouvelles recherches sur les impacts de l’espace sur le corps humain."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2369573-etre-une-femme-ca-aide-lastronaute-sophie-adenot-raconte-comment-son-corps-a-vecu-lespace.html"
-            }
-          ]
-        },
-        {
-          "title": "Airbnb lance un agent IA pour organiser les vacances de A à Z en 2027",
-          "bullets": [
-            "Airbnb travaille sur un agent IA capable de gérer entièrement la planification des voyages.",
-            "Cette innovation vise à automatiser la réservation d’hébergements, activités et transports.",
-            "L’objectif est de simplifier et personnaliser l’expérience utilisateur.",
-            "L’agent IA devrait être déployé en 2027, marquant une révolution dans le secteur du tourisme.",
-            "Cette annonce s’inscrit dans une tendance plus large d’intégration de l’IA dans les services numériques."
+            "Développement d’un assistant IA dédié à la gestion des voyages.",
+            "Objectif : automatiser et optimiser les réservations et services.",
+            "Préparation pour une révolution dans l’expérience utilisateur.",
+            "Déploiement prévu au premier semestre 2027."
           ],
           "sources": []
-        },
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
         {
-          "title": "Meta Muse : l’agent IA adopte la voix en temps réel et les avatars animés",
+          "title": "Démantèlement d’un réseau de trafic d’armes via impression 3D près de Toulouse",
           "bullets": [
-            "Meta enrichit son agent IA Muse avec des fonctionnalités de voix en temps réel et d’avatars animés.",
-            "Ces avancées permettent une interaction plus naturelle et immersive avec les utilisateurs.",
-            "Les avatars animés offrent une expérience visuelle et sonore plus réaliste.",
-            "Cette innovation vise à améliorer les applications de communication et de collaboration.",
-            "Meta mise sur l’IA pour révolutionner les interactions numériques et les expériences utilisateur."
+            "Pistolets fabriqués avec des imprimantes 3D et vendus illégalement en ligne.",
+            "Opération policière ayant permis l’arrestation de plusieurs individus.",
+            "Enjeux de sécurité et de lutte contre la prolifération d’armes artisanales.",
+            "Collaboration entre autorités judiciaires et services de renseignement."
           ],
           "sources": []
         }
@@ -262,35 +302,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque aux faux prélèvements bancaires : comment se protéger ?",
+          "title": "Arnaques aux impôts : méfiance envers les QR codes",
           "bullets": [
-            "Des escrocs simulent des prélèvements bancaires frauduleux pour tromper les commerçants et les victimes potentielles.",
-            "Les arnaqueurs montrent de faux justificatifs de paiement pour convaincre leurs victimes.",
-            "Les commerçants et particuliers doivent vérifier systématiquement les transactions suspectes.",
-            "Les banques et les autorités alertent sur cette nouvelle forme de fraude en hausse.",
-            "La vigilance et la confirmation directe avec sa banque sont essentielles pour éviter les pertes."
+            "Attention aux courriers frauduleux contenant des QR codes piégés.",
+            "Risque de vol de données personnelles ou financières.",
+            "Conseils pour vérifier l’authenticité des communications fiscales.",
+            "Appel à la vigilance des citoyens face aux tentatives d’escroquerie."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque sur les sites d’annonces : que faire pour obtenir un remboursement ?",
+          "title": "Arnaque au virement notaire : comment récupérer ses fonds ?",
           "bullets": [
-            "Les arnaques sur les plateformes d’annonces en ligne se multiplient, notamment pour les achats et ventes entre particuliers.",
-            "Les victimes sont souvent confrontées à des vendeurs qui disparaissent après avoir reçu un paiement.",
-            "Pour obtenir un remboursement, il est conseillé de signaler l’incident à la plateforme et aux autorités compétentes.",
-            "Les avocats spécialisés recommandent de conserver toutes les preuves des transactions frauduleuses.",
-            "Les consommateurs doivent rester prudents et vérifier l’identité des vendeurs avant toute transaction."
+            "Faux RIB utilisé pour détourner des fonds lors de transactions immobilières.",
+            "Conseils juridiques pour contester le virement et récupérer l’argent.",
+            "Importance de vérifier les coordonnées bancaires avant tout paiement.",
+            "Risque accru lors des ventes immobilières et des transactions en ligne."
           ],
           "sources": []
         },
         {
-          "title": "Prix à la pompe : déclarer ses frais de transport pour réduire ses impôts",
+          "title": "Optimisation fiscale : déclarer ses frais de transport pour réduire ses impôts",
           "bullets": [
-            "Les conducteurs peuvent déclarer leurs frais de transport pour bénéficier d’une réduction d’impôts.",
-            "Cette mesure vise à compenser les coûts élevés des carburants et à soulager les ménages.",
-            "Les frais éligibles incluent les trajets domicile-travail et les déplacements professionnels.",
-            "Les contribuables doivent conserver les justificatifs de dépenses pour en faire la demande.",
-            "Cette option s’inscrit dans une politique de soutien aux ménages face à la hausse des prix de l’énergie."
+            "Possibilité de déduire les frais de transport liés à l’activité professionnelle.",
+            "Conseils pour maximiser les réductions d’impôts en 2026.",
+            "Outils et démarches pour déclarer correctement ces frais.",
+            "Stratégies pour éviter les erreurs et maximiser les économies."
           ],
           "sources": []
         }
@@ -300,24 +337,12 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Irlande - Argentine : Santiago Carreras inscrit le doublé pour son équipe",
+          "title": "XV de France : victoire nette contre les Fidji au Championnat des nations",
           "bullets": [
-            "Santiago Carreras a marqué deux buts décisifs lors du match entre l’Irlande et l’Argentine.",
-            "Ce doublé a permis à l’Irlande de l’emporter dans un match tendu et disputé.",
-            "L’attaquant argentin a marqué un but spectaculaire pour son équipe, malgré la défaite.",
-            "Ce match s’inscrit dans une série de confrontations internationales en football.",
-            "Les performances individuelles ont marqué ce match, avec des joueurs déterminants de chaque côté."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Provence Rugby prend les commandes de la Pro D2 après sa victoire contre Oyonnax",
-          "bullets": [
-            "Provence Rugby a remporté un match crucial contre Oyonnax, assurant sa place en tête de la Pro D2.",
-            "Ce dixième match sans défaite renforce la position du club dans le championnat.",
-            "Les Aixois ont démontré une solide défense et une attaque redoutable lors de ce match.",
-            "Cette victoire marque un tournant dans la saison pour le club provençal.",
-            "Provence Rugby vise désormais une montée en Pro D1 pour la saison suivante."
+            "L’équipe de France s’impose largement lors d’un match décisif.",
+            "Stratégie offensive appliquée avec succès contre les Fidji.",
+            "Prochaines rencontres dans le cadre du Championnat des nations.",
+            "Analyse des performances et des enjeux pour la suite de la compétition."
           ],
           "sources": []
         }
@@ -340,17 +365,16 @@
       "label": "Sport — PSG",
       "sujets": [
         {
-          "title": "Prochain match : le PSG à domicile contre ESTAC Troyes",
+          "title": "Prochain match : le PSG à l'extérieur contre OGC Nice",
           "bullets": [
-            "Adversaire : ESTAC Troyes (à domicile)",
+            "Adversaire : OGC Nice (à l'extérieur)",
             "Compétition : Ligue 1",
-            "Date : samedi 7 novembre à 21h05 (heure de Paris)",
-            "Stade : Parc des Princes",
+            "Date : samedi 21 novembre à 17h15 (heure de Paris)",
             "Diffusion : Ligue 1+",
-            "Classement : 1er de Ligue 1 — 20 pts en 9 matchs",
+            "Classement : 1er de Ligue 1 — 23 pts en 10 matchs",
             "Ligue des champions : 1er de la phase de ligue (12 pts)",
-            "Adversaire au classement : 16e de Ligue 1 (8 pts)",
-            "ESTAC Troyes — Stade : Stade de l'Aube · Capacité : 21 877 places · Entraîneur : Stéphane Dumont"
+            "Adversaire au classement : 8e de Ligue 1 (14 pts)",
+            "OGC Nice — Stade : Allianz Riviera · Capacité : 35 596 places · Entraîneur : Olivier Pantaloni"
           ],
           "sources": [
             {
