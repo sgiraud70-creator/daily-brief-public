@@ -1,18 +1,18 @@
 {
-  "date_str": "Dimanche 8 novembre 2026",
+  "date_str": "Lundi 9 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Geoffroy et Willehad",
+          "title": "Aujourd'hui, on souhaite la fête : Théodore, Nectaire et Ursin",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/8/11/2026/8-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/9/11/2026/9-Novembre-2026.html"
             }
           ]
         }
@@ -22,102 +22,102 @@
       "label": "France",
       "sujets": [
         {
-          "title": "François Villeroy de Galhau alerte sur les risques de la dette publique",
+          "title": "Loi « résilience » : adoption accélérée sans l’article controversé sur les données",
           "bullets": [
-            "L’ancien gouverneur de la Banque de France critique une gestion de la dette jugée irresponsable.",
-            "Il dénonce des choix « gérontocratiques » qui pénaliseront les jeunes générations.",
-            "Appel à une politique budgétaire plus stricte pour éviter une crise sociale et financière.",
-            "Interview publiée dans le cadre des débats sur le budget 2027."
+            "Le gouvernement relance le vote du texte en Assemblée nationale après un an de blocage.",
+            "L’article 16 bis, critiqué pour ses implications en matière de surveillance, est écarté.",
+            "Objectif : renforcer la cybersécurité face aux cyberattaques récurrentes.",
+            "Les débats portent sur les équilibres entre sécurité nationale et libertés individuelles."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html"
+              "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html"
             }
           ]
         },
         {
-          "title": "Mobilisation sociale : pression maintenue avant la conférence sociale de Matignon",
+          "title": "Négociations sociales : Lecornu engage une semaine intensive avec lycéens et fonctionnaires",
           "bullets": [
-            "Entre 146 000 et 250 000 manifestants ont défilé lors du quatrième week-end de mobilisation.",
-            "Les syndicats exigent des mesures concrètes contre la hausse des prix et le pouvoir d’achat.",
-            "Affluence en baisse mais détermination affichée pour la conférence sociale du 11 novembre.",
-            "Contexte marqué par un chômage des moins de 25 ans dépassant les 21 %."
+            "Le Premier ministre reçoit les partenaires sociaux lundi pour discuter des revendications.",
+            "Rencontre prévue avec les lycéens en grève pour la rentrée scolaire.",
+            "Dialogue avec les agents publics sur les conditions de travail et les salaires.",
+            "Objectif : éviter une escalade des mouvements de protestation."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Édouard Philippe durcit son discours sur l’immigration pour séduire l’électorat de droite",
+          "bullets": [
+            "L’ancien Premier ministre adopte un positionnement plus ferme sur la gestion des flux migratoires.",
+            "Risque de division au sein de la droite et des modérés.",
+            "Stratégie pour renforcer son électorat face à la présidentielle de 2027.",
+            "Critiques internes sur une ligne jugée trop clivante."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Fabien Roussel maintient sa candidature malgré le ralliement de députés communistes à Mélenchon",
+          "bullets": [
+            "Le patron du PCF reste crédité de 2 à 3 % dans les sondages.",
+            "Neuf députés communistes ont rejoint la liste de Jean-Luc Mélenchon.",
+            "Roussel affirme vouloir « aller jusqu’au bout » malgré cette fracture.",
+            "Débat interne sur la stratégie à adopter pour la présidentielle."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html"
+            }
+          ]
+        },
+        {
+          "title": "Raphaël Glucksmann rejette une éventuelle nomination à Matignon après la dissolution de 2024",
+          "bullets": [
+            "Le candidat social-démocrate énumère ses divergences avec Emmanuel Macron.",
+            "Refus d’un poste gouvernemental perçu comme trop proche du pouvoir en place.",
+            "Positionnement clair pour une opposition constructive plutôt qu’un compromis.",
+            "Stratégie pour se démarquer dans la course à la présidentielle."
           ],
           "sources": []
         },
         {
-          "title": "Jean-Luc Mélenchon mobilise sa base pour la présidentielle 2027",
+          "title": "Traçage des manifestations : la Préfecture de Paris conteste le parcours historique « République-Bastille-Nation »",
           "bullets": [
-            "Présentation du programme « L’Avenir en commun » devant 5 000 sympathisants au Bourget.",
-            "Stratégie pour élargir son électorat au-delà de la base historique de La France insoumise.",
-            "Focus sur les enjeux sociaux et écologiques pour séduire une partie de l’électorat populaire.",
-            "Préparation à une campagne électorale marquée par une polarisation politique accrue."
+            "Les manifestants sont désormais dirigés vers les boulevards des Maréchaux.",
+            "Mesures de sécurité renforcées pour éviter les débordements.",
+            "Remise en cause des itinéraires traditionnels par les autorités.",
+            "Réactions des syndicats et des organisateurs sur cette décision."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/08/mobilisation-sociale-republique-bastille-nation-le-trace-historique-des-manifestations-remis-en-question_6808460_823448.html"
             }
           ]
         },
         {
-          "title": "Mathieu Lefèvre devient porte-parole intérimaire du gouvernement",
+          "title": "La jeunesse lycéenne revendique une place centrale dans le débat politique",
           "bullets": [
-            "Maud Bregeon, porte-parole officielle, part en congé maternité pour environ cinq semaines.",
-            "Mathieu Lefèvre, proche de Gérald Darmanin, assure l’intérim tout en conservant son poste de ministre délégué.",
-            "Transition prévue pour éviter une rupture dans la communication gouvernementale.",
-            "Contexte de tensions sociales et politiques nécessitant une visibilité accrue."
+            "Les mouvements de protestation sont portés par une génération exigeante en inclusion.",
+            "Analyse historique par l’historien Samuel Hayat sur l’impact des mobilisations.",
+            "Demandes croissantes pour une reconnaissance des enjeux sociaux et écologiques.",
+            "Dialogue tendu avec les institutions sur les réformes à mener."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/07/mathieu-lefevre-va-remplacer-momentanement-comme-porte-parole-du-gouvernement-maud-bregeon-qui-va-partir-en-conge-maternite_6808304_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Crise sociale : les réseaux sociaux reflètent le désarroi des jeunes",
-          "bullets": [
-            "Témoignages de jeunes en quête d’emploi ou de formation, illustrant une précarité croissante.",
-            "Partage massif de messages désespérés sur des plateformes comme X (ex-Twitter).",
-            "L’Insee confirme un taux de chômage des moins de 25 ans à 21 % au T2 2026.",
-            "Appel à l’action politique pour répondre aux difficultés économiques des jeunes."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html"
-            }
-          ]
-        },
-        {
-          "title": "Maison de l’Amérique latine : un symbole historique en vente",
-          "bullets": [
-            "Ancien lieu des soirées électorales du Parti socialiste, situé boulevard Saint-Germain.",
-            "Vente annoncée pour des raisons financières, malgré son importance culturelle.",
-            "Symbole des échanges franco-américains et de la gauche intellectuelle parisienne.",
-            "Débats sur la préservation du patrimoine politique et culturel."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/08/a-paris-la-maison-de-l-amerique-latine-un-symbole-de-la-gauche-glorieuse-a-vendre_6808391_4500055.html"
-            }
-          ]
-        },
-        {
-          "title": "Hervé Le Bras : la France passe d’une société de technocrates à une société de tribuns",
-          "bullets": [
-            "Analyse de l’historien sur le déclin des élites techniques et l’ascension des figures charismatiques.",
-            "Crise de confiance dans les institutions et montée des discours populistes.",
-            "Impact sur le débat politique et la légitimité des décisions publiques.",
-            "Entretien publié dans le cadre des réflexions sur la démocratie française."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html"
             }
           ]
         }
@@ -127,92 +127,107 @@
       "label": "International",
       "sujets": [
         {
-          "title": "El Niño menace les exportations florales kényanes vers l’Europe",
+          "title": "Donald Trump admet que sa politique d’expulsions d’immigrés a été « trop dure »",
           "bullets": [
-            "Le « super El Niño » perturbe les cultures en Afrique de l’Est, notamment les fleurs.",
-            "Le Kenya fournit un tiers des fleurs importées par l’Union européenne.",
-            "Risque de pénurie et de hausse des prix pour les consommateurs européens.",
-            "Appel à des mesures d’adaptation pour limiter les pertes économiques."
+            "Le président américain reconnaît une erreur stratégique après les résultats des midterms.",
+            "Pression politique et médiatique sur sa gestion de l’immigration.",
+            "Possible assouplissement des mesures pour répondre aux critiques.",
+            "Impact sur les relations avec les États latino-américains."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html"
             }
           ]
         },
         {
-          "title": "Lassitude européenne face à la guerre en Ukraine",
+          "title": "Réunion à Paris pour financer la réparation de l’arche de Tchernobyl",
           "bullets": [
-            "Majorité des Européens continuent de voir la Russie comme une menace.",
-            "Montée des critiques sur la durée et le coût du soutien à l’Ukraine.",
-            "Risque de baisse de l’engagement militaire et financier dans les mois à venir.",
-            "Analyse des dynamiques politiques et médiatiques en Europe."
+            "Conférence des donateurs organisée par la France pour lever les fonds manquants.",
+            "Objectif : assurer la stabilité de la structure et éviter de nouveaux risques.",
+            "Participation de plusieurs pays et organisations internationales.",
+            "Enjeux de sécurité nucléaire et de coopération internationale."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-reunion-a-paris-lundi-pour-financer-la-reparation-de-l-arche-de-tchernobyl_6808609_3210.html"
             }
           ]
         },
         {
-          "title": "Guerre des céréales en mer Noire : tensions accrues entre Russie et Ukraine",
+          "title": "Le pape François critique le modèle économique de Javier Milei en Argentine",
           "bullets": [
-            "Blocus maritimes, pillages et attaques contre les cargos se multiplient.",
-            "Impact sur les approvisionnements alimentaires mondiaux, notamment en Afrique.",
-            "Rôle géopolitique croissant de la Turquie et des pays voisins.",
-            "Risque d’escalade régionale et de crise humanitaire."
+            "Discours du souverain pontife sur l’économie au service de l’humain.",
+            "Critique des politiques libérales et de la précarisation sociale.",
+            "Réactions du gouvernement argentin et des milieux économiques.",
+            "Impact sur les relations entre l’Église catholique et le pouvoir politique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/la-guerre-des-cereales-entre-l-ukraine-et-la-russie-redessine-les-rapports-de-force-geopolitiques_6808390_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html"
             }
           ]
         },
         {
-          "title": "Israël : Gadi Eisenkot chargé de former un gouvernement",
+          "title": "Débat sur la reconstruction du « nid d’aigle » d’Hitler après son incendie",
           "bullets": [
-            "Ancien général nommé pour remplacer Benyamin Nétanyahou.",
-            "Mission officielle prévue le 9 novembre par le président Isaac Herzog.",
-            "Défis politiques et sécuritaires dans un contexte de tensions internes.",
-            "Enjeux pour la stabilité du pays et les relations internationales."
+            "Incendie criminel dans la résidence d’Hitler dans les Alpes bavaroises.",
+            "Questionnement sur la préservation ou la destruction du site historique.",
+            "Réactions des autorités allemandes et des historiens.",
+            "Enjeux mémoriels et touristiques autour de ce lieu controversé."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html"
             }
           ]
         },
         {
-          "title": "Espionnage de Jensen Huang par une entrepreneuse chinoise",
+          "title": "Fermeture de « Novaïa Gazeta » : fin d’un symbole de la presse indépendante russe",
           "bullets": [
-            "Patroc de Nvidia suspecté d’avoir été espionné via une relation sentimentale.",
-            "Révélations du New York Times sur une possible infiltration par des agents chinois.",
-            "Enjeux de sécurité nationale liés aux technologies de pointe.",
-            "Réactions politiques et médiatiques aux États-Unis."
+            "Le journal du Prix Nobel de la paix Dmitri Mouratov cesse ses activités.",
+            "Pression du Kremlin et environnement répressif pour les médias critiques.",
+            "Héritage d’un journal emblématique de la résistance à la censure.",
+            "Impact sur la liberté de la presse en Russie et dans la diaspora."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html"
             }
           ]
         },
         {
-          "title": "Impact des data centers sur les élections américaines",
+          "title": "Affaire Jensen Huang : révélations sur une liaison avec une figure suspectée d’espionnage chinois",
           "bullets": [
-            "La question environnementale des centres de données influence les midterms.",
-            "Critiques contre l’empreinte écologique et les subventions publiques.",
-            "Analyse des enjeux écologiques et technologiques pour les prochaines élections.",
-            "Débat sur la transition énergétique et les innovations technologiques."
+            "Le PDG de Nvidia reconnaît une relation extraconjugale avec une personne liée à Pékin.",
+            "Enjeux géopolitiques autour de la sécurité des technologies américaines.",
+            "Réactions de la communauté technologique et des autorités.",
+            "Impact sur la réputation de l’entreprise et ses relations avec la Chine."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html"
+            }
+          ]
+        },
+        {
+          "title": "Progrès pour une « architecture de sécurité » en Ukraine après la guerre",
+          "bullets": [
+            "Marco Rubio évoque des avancées dans les négociations de sécurité post-conflit.",
+            "Rôle des États-Unis et des partenaires européens dans les discussions.",
+            "Enjeux de garanties militaires et de reconstruction économique.",
+            "Perspectives pour une stabilisation durable en Europe de l’Est."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html"
             }
           ]
         }
@@ -227,44 +242,49 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "La Chine bat un record en refroidissant des atomes à 9,7 picokelvins",
+          "title": "GPT-6 Astra corrige un modèle sans réentraînement : une avancée majeure en IA",
           "bullets": [
-            "Des physiciens chinois refroidissent des atomes de rubidium à bord de la station Tiangong.",
-            "Nouveau record du monde en physique quantique.",
-            "Applications potentielles pour les recherches spatiales et les technologies futures.",
-            "Étude publiée dans une revue scientifique internationale."
+            "Un modèle d’OpenAI répare directement les paramètres d’un autre modèle.",
+            "Technique innovante pour améliorer les performances sans entraînement complet.",
+            "Applications potentielles pour l’optimisation des algorithmes et la cybersécurité.",
+            "Impact sur les méthodes traditionnelles de développement en IA."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2370075-a-bord-de-sa-station-spatiale-la-chine-frole-le-zero-absolu-et-bat-un-record-du-monde.html"
+              "url": "https://www.numerama.com/cyberguerre/2369365-gpt-6-astra-repare-qwen-sans-le-reentrainer-postgresql-19-prend-du-retard-a-cause-de-lia-openai-industrialise-la-chasse-aux-failles-de-linux-on-vous-raconte-la-semaine-cyberguerre.html"
             }
           ]
         },
         {
-          "title": "Un astronaute canadien capture une photo spectaculaire depuis l’espace",
+          "title": "Sony lance un téléviseur OLED Bravia à moins de 1 000 € pour accompagner la sortie de GTA 6",
           "bullets": [
-            "Joshua Kutryk publie une image prise à 400 km d’altitude.",
-            "Photo montrant la Terre vue depuis l’orbite basse.",
-            "Illustration des capacités technologiques et scientifiques des missions spatiales.",
-            "Partage sur les réseaux sociaux pour sensibiliser au spatial."
+            "Le Sony Bravia 6, adapté à la PS5, est disponible en promo.",
+            "Objectif : améliorer l’expérience visuelle pour les joueurs.",
+            "Stratégie marketing pour capitaliser sur l’attente autour de GTA 6.",
+            "Concurrence accrue sur le marché des écrans haut de gamme."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2370029-cet-astronaute-canadien-capture-une-photo-vertigineuse-a-400-kilometres-au-dessus-de-la-terre.html"
+              "url": "https://www.numerama.com/tech/2369811-sony-prepare-votre-ps5-pour-gta-6-avec-son-tv-oled-bravia-de-55-pouces-qui-passe-sous-les-1-000-e.html"
             }
           ]
         },
         {
-          "title": "Airbnb lance un agent IA pour révolutionner les voyages",
+          "title": "Les néoclouds : une révolution en Bourse pour les infrastructures IA",
           "bullets": [
-            "Préparation d’un assistant IA pour centraliser la réservation de voyages.",
-            "Déploiement prévu pour le premier semestre 2027.",
-            "Objectif : simplifier et personnaliser l’expérience utilisateur.",
-            "Innovation majeure dans le secteur du tourisme et de la technologie."
+            "CoreWeave, Nebius et IREN proposent des services de calcul pour l’IA.",
+            "Impact sur les coûts et la performance des modèles d’apprentissage automatique.",
+            "Nouveaux acteurs concurrents des géants traditionnels comme AWS ou Google Cloud.",
+            "Dynamique de marché et innovations technologiques en cours."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2369495-ils-soufflent-le-chaud-et-surtout-le-froid-en-bourse-cest-quoi-les-neoclouds.html"
+            }
+          ]
         }
       ]
     },
@@ -272,12 +292,22 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Airbnb prépare un agent IA pour 2027",
+          "title": "Apple intègre Siri AI comme agent autonome dès 2027",
           "bullets": [
-            "Développement d’un assistant IA dédié à la gestion des voyages.",
-            "Objectif : automatiser et optimiser les réservations et services.",
-            "Préparation pour une révolution dans l’expérience utilisateur.",
-            "Déploiement prévu au premier semestre 2027."
+            "Projet annoncé pour transformer Siri en assistant IA autonome.",
+            "Objectif : améliorer l’expérience utilisateur avec des tâches automatisées.",
+            "Concurrence accrue avec les assistants Google et Amazon Alexa.",
+            "Enjeux de confidentialité et de personnalisation des données."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Airbnb lance son agent IA pour révolutionner les réservations de voyages en 2027",
+          "bullets": [
+            "Nouveau service d’IA pour optimiser les réservations et les expériences utilisateurs.",
+            "Objectif : automatiser les processus de réservation et personnaliser les suggestions.",
+            "Impact sur l’industrie du tourisme et la concurrence avec les plateformes traditionnelles.",
+            "Enjeux de sécurité des données et de transparence pour les voyageurs."
           ],
           "sources": []
         }
@@ -285,49 +315,49 @@
     },
     {
       "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Démantèlement d’un réseau de trafic d’armes via impression 3D près de Toulouse",
-          "bullets": [
-            "Pistolets fabriqués avec des imprimantes 3D et vendus illégalement en ligne.",
-            "Opération policière ayant permis l’arrestation de plusieurs individus.",
-            "Enjeux de sécurité et de lutte contre la prolifération d’armes artisanales.",
-            "Collaboration entre autorités judiciaires et services de renseignement."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaques aux impôts : méfiance envers les QR codes",
+          "title": "Chèque énergie : peut-il couvrir les charges de chauffage collectif ?",
           "bullets": [
-            "Attention aux courriers frauduleux contenant des QR codes piégés.",
-            "Risque de vol de données personnelles ou financières.",
-            "Conseils pour vérifier l’authenticité des communications fiscales.",
-            "Appel à la vigilance des citoyens face aux tentatives d’escroquerie."
+            "Clarification sur l’utilisation du chèque énergie pour les copropriétés.",
+            "Conditions et modalités d’application selon les fournisseurs d’énergie.",
+            "Réponses aux interrogations des ménages sur les aides disponibles.",
+            "Impact sur les économies des foyers en période de hausse des coûts énergétiques."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque au virement notaire : comment récupérer ses fonds ?",
+          "title": "Arnaque au RIB : recours possibles pour les entreprises victimes de faux fournisseurs",
           "bullets": [
-            "Faux RIB utilisé pour détourner des fonds lors de transactions immobilières.",
-            "Conseils juridiques pour contester le virement et récupérer l’argent.",
-            "Importance de vérifier les coordonnées bancaires avant tout paiement.",
-            "Risque accru lors des ventes immobilières et des transactions en ligne."
+            "Conseils juridiques pour les sociétés ayant payé un fournisseur frauduleux.",
+            "Démarches à suivre pour signaler l’arnaque et récupérer les fonds.",
+            "Rôle des banques et des plateformes de paiement dans la prévention.",
+            "Enjeux de sécurité financière et de vigilance accrue."
           ],
           "sources": []
         },
         {
-          "title": "Optimisation fiscale : déclarer ses frais de transport pour réduire ses impôts",
+          "title": "Soprano dénonce le silence face à la montée du RN",
           "bullets": [
-            "Possibilité de déduire les frais de transport liés à l’activité professionnelle.",
-            "Conseils pour maximiser les réductions d’impôts en 2026.",
-            "Outils et démarches pour déclarer correctement ces frais.",
-            "Stratégies pour éviter les erreurs et maximiser les économies."
+            "Interview de l’artiste sur son refus de rester neutre politiquement.",
+            "Critique des dérives du Rassemblement National et de ses méthodes.",
+            "Engagement artistique et militant pour la défense des valeurs démocratiques.",
+            "Réactions dans le milieu culturel et médiatique."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Faux courriers EDF : la police alerte sur les arnaques aux QR codes",
+          "bullets": [
+            "Mise en garde contre les faux avis de coupure d’électricité.",
+            "Conseils pour identifier les courriers frauduleux et éviter les pièges.",
+            "Enjeux de sécurité numérique et de vigilance des consommateurs.",
+            "Réactions de l’État et des fournisseurs d’énergie."
           ],
           "sources": []
         }
@@ -337,12 +367,32 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "XV de France : victoire nette contre les Fidji au Championnat des nations",
+          "title": "Alcaraz remporte le Rolex Paris Masters pour la première fois",
           "bullets": [
-            "L’équipe de France s’impose largement lors d’un match décisif.",
-            "Stratégie offensive appliquée avec succès contre les Fidji.",
-            "Prochaines rencontres dans le cadre du Championnat des nations.",
-            "Analyse des performances et des enjeux pour la suite de la compétition."
+            "Victoire de Carlos Alcaraz en finale contre Shelton après un match intense.",
+            "Premier titre ATP 500 pour le jeune joueur espagnol.",
+            "Performance remarquée sur le circuit professionnel.",
+            "Impact sur sa position dans le classement mondial."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Metz Handball conserve son invincibilité en Ligue des champions",
+          "bullets": [
+            "Victoire des Alsaciens contre les Danoises d’Odense en match décisif.",
+            "Maintenance de leur série invaincue en compétition européenne.",
+            "Stratégie offensive et défensive saluée par les observateurs.",
+            "Perspectives pour la suite de la saison et les qualifications."
+          ],
+          "sources": []
+        },
+        {
+          "title": "L’Angleterre écrase l’Australie 7-0 au Championnat des Nations",
+          "bullets": [
+            "Victoire écrasante des Anglais lors du match d’ouverture.",
+            "Performance exceptionnelle de l’équipe avec 7 essais marqués.",
+            "Impact sur la dynamique du tournoi et les qualifications.",
+            "Réactions des joueurs et des supporters après le match."
           ],
           "sources": []
         }
@@ -373,7 +423,7 @@
             "Diffusion : Ligue 1+",
             "Classement : 1er de Ligue 1 — 23 pts en 10 matchs",
             "Ligue des champions : 1er de la phase de ligue (12 pts)",
-            "Adversaire au classement : 8e de Ligue 1 (14 pts)",
+            "Adversaire au classement : 6e de Ligue 1 (17 pts)",
             "OGC Nice — Stade : Allianz Riviera · Capacité : 35 596 places · Entraîneur : Olivier Pantaloni"
           ],
           "sources": [
