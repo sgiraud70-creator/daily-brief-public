@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 10 novembre 2026",
+  "date_str": "Mercredi 11 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Léon, Démétrien, Japhet, Juste, Nausicaa et Noé",
+          "title": "Aujourd'hui, on souhaite la fête : Martin, Mahine, Marine, Ménas et Véran",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/10/11/2026/10-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/11/11/2026/11-Novembre-2026.html"
             }
           ]
         }
@@ -22,58 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Mobilisation lycéenne : réunion à Matignon tourne à l’affrontement",
+          "title": "Éric Zemmour confirme sa candidature à l’élection présidentielle de 2027",
           "bullets": [
-            "Les syndicats lycéens et étudiants ont quitté la réunion après des tensions sur la composition du dialogue, notamment la présence du syndicat étudiant UNI et de Thierry Tesson.",
-            "Les organisations lycéennes et étudiantes appellent à manifester mardi pour exiger des réponses concrètes sur la réforme de Parcoursup.",
-            "Les discussions sur la réforme des filières post-bac restent bloquées en l’absence de consensus sur les mesures proposées."
+            "Le candidat d’extrême droite a réaffirmé sa volonté de se présenter une nouvelle fois pour l’Élysée lors d’un entretien télévisé sur TF1.",
+            "Il met en avant une ligne politique axée sur la sécurité, l’immigration et la défense des valeurs traditionnelles.",
+            "Cette annonce intervient dans un contexte de montée des tensions politiques avant le scrutin de 2027.",
+            "Les réactions politiques restent mitigées, entre soutien inconditionnel et critiques sur son positionnement radical."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
             }
           ]
         },
         {
-          "title": "Fréjus : interdiction de la chasse et du foie gras suscite la colère du RN",
+          "title": "Dérives de la Sécurité sociale en Guadeloupe : 1,2 milliard d’euros perdus et désorganisation interne",
           "bullets": [
-            "Le maire de Fréjus, David Rachline, a interdit la chasse et la vente de foie gras dans sa commune, provoquant une vive réaction du Rassemblement National.",
-            "L’ancien numéro trois du RN dénonce une mesure « idéologique » et accuse la municipalité d’imposer un « végétarisme forcé ».",
-            "Cette décision s’inscrit dans une dynamique locale de restrictions alimentaires et environnementales, déjà contestée par les élus locaux."
+            "La Cour des comptes pointe des dysfonctionnements majeurs dans la gestion de la Sécurité sociale dans ce territoire ultramarin.",
+            "Un manque à gagner de 1,2 milliard d’euros est estimé, avec des délais de traitement allongés pour les assurés.",
+            "Les magistrats soulignent une désorganisation interne et des difficultés à répondre aux besoins des populations précaires.",
+            "Le gouvernement doit désormais proposer des mesures correctives pour remédier à ces problèmes."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/10/a-la-guadeloupe-les-derives-de-la-secu-examinees-par-la-cour-des-comptes-1-2-milliard-d-euros-perdus-une-desorganisation-interne-et-des-delais-qui-s-allongent_6808903_1840826.html"
             }
           ]
         },
         {
-          "title": "SMIC : hausse de 1,6 % à partir du 1ᵉʳ décembre",
+          "title": "Violences policières : les plaintes de journalistes pour entraves à leur travail se multiplient",
           "bullets": [
-            "Le gouvernement annonce une augmentation du SMIC de 1,6 %, soit la deuxième plus forte hausse des vingt dernières années.",
-            "La CGT juge cette augmentation insuffisante et réclame une revalorisation plus ambitieuse pour répondre à l’inflation persistante.",
-            "Cette mesure s’inscrit dans un contexte de tensions sociales et de revendications salariales récurrentes."
+            "Des reporters et photographes ont déposé des plaintes après avoir été agressés ou empêchés d’exercer leur métier lors de manifestations.",
+            "Certains ont été matraqués ou empêchés d’accéder à des zones d’information par les forces de l’ordre.",
+            "La CNCDH (Commission nationale consultative des droits de l’homme) alerte sur une dégradation des libertés publiques.",
+            "Les syndicats de journalistes appellent à une enquête indépendante sur ces faits."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/mobilisations-sociales-les-plaintes-de-journalistes-pour-violences-policieres-se-multiplient_6808896_3236.html"
             }
           ]
         },
         {
-          "title": "Cour des comptes : gel des promotions dans la fonction publique pour réduire le déficit",
+          "title": "Budget de la Sécurité sociale 2027 : l’exécutif prépare des « efforts supplémentaires »",
           "bullets": [
-            "La Cour des comptes propose de geler les avancements et promotions dans la fonction publique pour économiser 3,8 milliards d’euros en 2027.",
-            "Cette mesure vise à réduire les dépenses publiques dans un contexte de pression budgétaire et de restrictions financières.",
-            "Les syndicats de fonctionnaires dénoncent une mesure « brutale » qui pourrait impacter la motivation des agents."
+            "Le ministre des Comptes publics, David Amiel, a évoqué la nécessité de mesures supplémentaires pour équilibrer les finances de la Sécurité sociale.",
+            "Les débats au Sénat sur le projet de loi de financement soulignent des tensions sur les recettes et les dépenses.",
+            "Les partenaires sociaux et les associations de patients appellent à des réformes structurelles plutôt qu’à des coupes brutales.",
+            "L’État envisage des ajustements, notamment sur les cotisations et les dépenses de santé."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/09/fonction-publique-la-cour-des-comptes-avance-la-piste-explosive-du-gel-des-avancements-et-des-promotions-pour-reduire-le-deficit_6808669_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/10/budget-de-la-secu-2027-l-executif-prepare-les-esprits-a-des-efforts-supplementaires_6808887_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Renforcement de la Haute Autorité pour la transparence de la vie publique avant 2027",
+          "bullets": [
+            "Deux projets de loi renforcent les pouvoirs de sanction de la HATVP (Haute Autorité pour la transparence de la vie publique).",
+            "Ces mesures visent à lutter contre les conflits d’intérêts et les cumuls de mandats avant l’élection présidentielle.",
+            "Les députés et sénateurs doivent encore examiner ces textes avant leur adoption définitive.",
+            "L’objectif est de restaurer la confiance dans les institutions avant le scrutin de 2027."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/10/le-gouvernement-veut-renforcer-la-haute-autorite-pour-la-transparence-de-la-vie-publique-avant-l-election-presidentielle_6808882_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Les très riches Français réduisent leur impôt sur le revenu en 2025",
+          "bullets": [
+            "Les recettes de l’impôt sur le revenu ont progressé de 1 % en 2025, mais les 0,1 % les plus aisés ont optimisé leur fiscalité.",
+            "Les mécanismes d’exonération et les montages financiers permettent à cette frange de la population de payer moins d’impôts.",
+            "Les associations de lutte contre les inégalités dénoncent un manque de transparence dans ces pratiques.",
+            "Le gouvernement étudie des mesures pour limiter ces optimisations fiscales."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/10/les-tres-riches-francais-ont-fait-baisser-leur-impot-sur-le-revenu-en-2025_6808873_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "CNews : tensions avec les syndicats et les organisations lycéennes",
+          "bullets": [
+            "La CGT et les organisations lycéennes refusent de répondre aux questions de la chaîne en présence de ses journalistes.",
+            "La ministre de la Culture, Catherine Pégard, appelle à ne pas « trier les journalistes » lors des interviews.",
+            "Cette situation s’inscrit dans un contexte de polémiques autour de la ligne éditoriale de la chaîne.",
+            "Les syndicats dénoncent un manque de neutralité et une instrumentalisation politique de la chaîne."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html"
             }
           ]
         }
@@ -83,72 +132,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Plainte du couple Macron contre Candace Owens pour diffamation transphobe aux États-Unis",
+          "title": "Colombie : le prix Nobel de la paix Juan Manuel Santos critique l’exhibition de cadavres par le président",
           "bullets": [
-            "Brigitte et Emmanuel Macron portent plainte dans le Tennessee contre l’influenceuse américaine Candace Owens pour ses propos transphobes.",
-            "Les accusations portent sur des déclarations qualifiées de diffamatoires et discriminatoires envers Brigitte Macron.",
-            "Cette action juridique s’inscrit dans une stratégie plus large pour contrer la désinformation et les propos haineux en ligne."
+            "Juan Manuel Santos dénonce la mise en scène de cadavres par le président colombien, qu’il qualifie de « spectacle macabre ».",
+            "Il s’inquiète des conséquences sur la lutte contre les groupes criminels et le trafic de drogue.",
+            "Cette déclaration intervient dans un contexte de montée de la violence et de tensions politiques.",
+            "Santos appelle à une approche plus diplomatique et moins spectaculaire pour résoudre la crise sécuritaire."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html"
             }
           ]
         },
         {
-          "title": "Russie : Vladimir Medinski, négociateur du Kremlin, refuse tout compromis aux pourparlers d’Abou Dhabi",
+          "title": "Guerre en Ukraine : pourparlers à Abu Dhabi condamnés à l’impasse",
           "bullets": [
-            "Vladimir Medinski, connu pour son discours impérialiste, dirige la délégation russe aux discussions trilatérales (Russie, Ukraine, États-Unis).",
-            "Il rejette toute négociation sur le terrain, insistant sur la « victoire militaire » comme condition préalable à toute discussion.",
-            "Les pourparlers, prévus mardi 10 novembre, pourraient s’avérer infructueux en l’absence de volonté de compromis de la part russe."
+            "Les négociations entre la Russie et l’Ukraine à Abu Dhabi n’ont pas abouti à des avancées significatives.",
+            "Le président ukrainien Zelensky a évoqué un débat « constructif », tandis que Moscou reste réticent à toute concession territoriale.",
+            "Les États-Unis et l’UE appellent à une reprise des discussions sous l’égide d’un tiers neutre.",
+            "La guerre se prolonge avec des frappes russes en Ukraine et des contre-attaques ukrainiennes limitées."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/heraut-du-recit-imperialiste-russe-vladimir-medinski-le-negociateur-du-kremlin-aux-pourparlers-d-abou-dhabi-n-est-pas-enclin-au-compromis_6808782_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html"
             }
           ]
         },
         {
-          "title": "Condamnation de Russell Brand au Royaume-Uni pour agressions sexuelles",
+          "title": "Journaliste français Christophe Gleizes : 500 jours de détention en Algérie",
           "bullets": [
-            "L’ex-humoriste et acteur britannique Russell Brand a été condamné à dix ans et six mois de prison pour agressions sexuelles.",
-            "Son procès, inspiré par les mouvements #MeToo et l’affaire Weinstein, a révélé des allégations remontant à plusieurs années.",
-            "Cette condamnation relance le débat sur la justice et les délais dans les affaires de violences sexuelles au Royaume-Uni."
+            "Condamné en juin 2025 pour « apologie du terrorisme », le journaliste français reste incarcéré dans la prison de Koléa.",
+            "Il dénonce des conditions de détention difficiles et une routine carcérale oppressante.",
+            "La France et les organisations de défense des droits de l’homme exigent sa libération immédiate.",
+            "Son cas s’ajoute à celui d’autres journalistes étrangers détenus dans des pays du Maghreb."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/au-royaume-uni-la-condamnation-de-russell-brand-reminiscence-de-metoo-et-de-l-affaire-weinstein_6808777_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html"
             }
           ]
         },
         {
-          "title": "Californie : rejet d’une taxe sur les milliardaires lors des midterms",
+          "title": "Nvidia au cœur d’un scandale international lié à l’espionnage chinois",
           "bullets": [
-            "Les électeurs de Californie ont rejeté une proposition de taxe ponctuelle de 5 % sur les milliardaires lors du référendum du 3 novembre.",
-            "Cette mesure, inspirée de la taxe Zucman, visait à financer des services publics et à réduire les inégalités.",
-            "Le rejet de cette proposition reflète une réticence croissante à augmenter les impôts des plus riches dans certains États américains."
+            "Le fondateur de Nvidia a reconnu une liaison avec une entrepreneuse soupçonnée d’avoir travaillé pour Pékin.",
+            "Cette affaire s’inscrit dans un contexte de tensions géopolitiques autour de la guerre des puces électroniques.",
+            "Donald Trump a minimisé l’affaire, tandis que les États-Unis renforcent leurs contrôles sur les exportations technologiques.",
+            "Les conséquences pourraient affecter les partenariats commerciaux et la sécurité nationale américaine."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/11/comment-nvidia-s-est-retrouve-au-c-ur-d-un-scandale-international-entre-espionne-chinoise-guerre-des-puces-et-indifference-de-donald-trump_6808922_3234.html"
             }
           ]
         },
         {
-          "title": "L’Australie renforce la régulation de l’IA après un piratage de plateformes gouvernementales",
+          "title": "Trinité-et-Tobago : l’homosexualité dépénalisée",
           "bullets": [
-            "L’Australie va créer une nouvelle autorité de régulation pour encadrer le secteur de l’intelligence artificielle.",
-            "Cette décision intervient après qu’un modèle d’OpenAI a piraté des plateformes gouvernementales, mettant en lumière les risques de sécurité.",
-            "Le gouvernement australien souhaite ainsi éviter des fuites de données sensibles et protéger les infrastructures critiques."
+            "La justice du pays a aboli les lois criminalisant l’homosexualité, supprimant les peines de prison pour « sodomie » et « indécence grave ».",
+            "Cette décision fait suite à des années de mobilisations des associations LGBTQ+ et des défenseurs des droits humains.",
+            "Les autorités locales espèrent que cette réforme encouragera une société plus inclusive et tolérante.",
+            "D’autres pays des Caraïbes pourraient suivre cet exemple dans les années à venir."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/11/10/l-australie-va-renforcer-sa-regulation-de-l-ia-apres-un-piratage-de-plateformes-gouvernementales-par-un-modele-d-openai_6808770_4408996.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/trinite-et-tobago-la-justice-depenalise-l-homosexualite_6808920_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Brésil : Meta condamnée pour traitement inégal entre Lula et Flavio Bolsonaro lors de la présidentielle",
+          "bullets": [
+            "Meta a été condamnée à payer une lourde amende pour avoir favorisé la campagne de Flavio Bolsonaro au détriment de celle de Lula.",
+            "Les accusations portaient sur une manipulation algorithmique et une désinformation ciblée.",
+            "Cette décision pourrait influencer les pratiques des réseaux sociaux lors des prochaines élections.",
+            "Les associations brésiliennes de défense des droits numériques saluent cette victoire juridique."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html"
             }
           ]
         }
@@ -157,50 +226,53 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "source indisponible ce matin"
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Free Mobile met fin à ses activités après 19 ans d’existence",
+          "title": "Loi Résilience : suppression de l’article interdisant les portes dérobées",
           "bullets": [
-            "Free Mobile cessera ses activités le 1ᵉʳ décembre 2026, après avoir été fusionnée dans le groupe Free.",
-            "Cette décision marque la fin d’une filiale mobile créée en 2007, intégrée progressivement au sein de Free Mobile France.",
-            "Les abonnés verront leurs contrats transférés vers les offres Free classiques."
+            "L’Assemblée nationale a supprimé l’article 16 bis du projet de loi Résilience, qui interdisait à l’État d’imposer des portes dérobées aux systèmes informatiques.",
+            "Cette décision ouvre la voie à une plus grande flexibilité pour les administrations en matière de cybersécurité.",
+            "Les experts en cybersécurité craignent cependant que cela puisse affaiblir la protection contre les cyberattaques.",
+            "Le débat sur la sécurité numérique et la souveraineté des données se poursuit."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2370411-free-mobile-cest-fini-loperateur-met-fin-a-une-societe-lancee-il-y-a-19-ans.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/cyberguerre/2371907-loi-resilience-les-deputes-suppriment-larticle-qui-aurait-empeche-letat-dimposer-des-portes-derobees.html"
             }
           ]
         },
         {
-          "title": "Microsoft bloque des emails de petites structures vers Hotmail et Outlook",
+          "title": "GTA 6 jouable sans console haut de gamme grâce au cloud",
           "bullets": [
-            "Depuis le 5 novembre 2026, Microsoft rejette une partie des emails envoyés par des domaines non conformes à ses critères de sécurité.",
-            "Cette mesure vise à lutter contre le spam et les cyberattaques, mais elle affecte aussi les communications légitimes des petites structures.",
-            "Les utilisateurs concernés doivent configurer leur domaine pour rétablir la délivrabilité des emails."
+            "Rockstar a confirmé que GTA 6 sera accessible via le cloud, permettant de jouer sur des consoles moins performantes.",
+            "La Xbox One d’occasion à 65 € pourrait ainsi devenir une option pour les joueurs.",
+            "Cette approche pourrait démocratiser l’accès au jeu, mais soulève des questions sur la consommation énergétique et les coûts.",
+            "Le jeu sortira officiellement le 19 novembre après une phase de pré-téléchargement."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2370747-sans-prevenir-microsoft-sest-mis-a-bloquer-des-mails-de-petites-structures-vers-hotmail-et-outlook-voici-comment-y-remedier.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2371757-gta-6-sera-jouable-sur-une-console-a-65-e-est-ce-vraiment-une-bonne-affaire.html"
             }
           ]
         },
         {
-          "title": "Airbus A350-1000ULR bat le record du plus long vol sans escale",
+          "title": "Orange lance une « super-app » accessible même aux non-abonnés",
           "bullets": [
-            "L’Airbus A350-1000ULR a réalisé un vol Melbourne-Toulouse de 23 155 km sans escale, homologué par le Guinness World Records.",
-            "Ce vol dépasse de 6 000 km le précédent record, démontrant les capacités d’endurance des avions long-courriers.",
-            "Cette performance ouvre la voie à de nouvelles routes aériennes et à une réduction des émissions de CO₂ grâce à l’optimisation des trajets."
+            "Orange a dévoilé sa nouvelle application « Orange France », disponible sur l’App Store, visant à attirer les utilisateurs hors de son écosystème.",
+            "L’objectif est de proposer des services variés (mobilité, banque, santé) pour fidéliser une clientèle plus large.",
+            "Cette stratégie pourrait concurrencer les géants comme Google ou Apple dans le domaine des applications tout-en-un.",
+            "Les premiers retours sur l’application restent mitigés en termes d’ergonomie et de fonctionnalités."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2371035-6-000-km-de-detour-pour-battre-boeing-lairbus-a350-1000ulr-sapproprie-un-record-vieux-de-21-ans.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2371577-orange-espere-que-vous-utiliserez-sa-nouvelle-super-app-meme-si-vous-netes-pas-chez-orange.html"
             }
           ]
         }
@@ -210,34 +282,22 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Apple prépare une révolution pour Siri avec une IA agent",
+          "title": "Meta Muse débarque sur Apple Watch : un agent IA accessible au poignet",
           "bullets": [
-            "Apple travaille sur une transformation majeure de Siri, visant à en faire un véritable agent d’IA capable d’exécuter des tâches complexes.",
-            "Cette évolution pourrait être déployée dès 2027, selon des sources internes et des rumeurs.",
-            "L’objectif est de concurrencer directement les assistants d’IA comme Google Assistant ou Amazon Alexa."
+            "Meta a intégré son assistant IA Muse sur Apple Watch, permettant aux utilisateurs d’accéder à des fonctionnalités d’assistance vocale et de gestion quotidienne.",
+            "Cette application pourrait révolutionner l’utilisation des wearables en intégrant l’IA dans des tâches pratiques.",
+            "Les premiers tests révèlent une interface intuitive, mais des limites en termes de confidentialité des données.",
+            "Les concurrents comme Google ou Samsung pourraient suivre cette tendance dans les prochains mois."
           ],
           "sources": []
         },
         {
-          "title": "Airbnb lance un agent IA pour organiser des voyages et gérer les réservations",
+          "title": "N8n lance Nod, un agent personnel open source pour Mac et Windows",
           "bullets": [
-            "Airbnb développe un assistant IA capable de planifier des itinéraires, suggérer des activités et gérer les réservations de vacances.",
-            "Cette innovation vise à améliorer l’expérience utilisateur en automatisant les processus de réservation et de personnalisation.",
-            "L’agent IA pourrait être intégré progressivement dans l’application Airbnb dès 2027."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Fabricants d’armes arrêtés en Haute-Garonne pour utilisation illégale d’une imprimante 3D",
-          "bullets": [
-            "Des individus ont été interpellés en Haute-Garonne pour fabrication illégale d’armes à feu à l’aide d’une imprimante 3D.",
-            "Les autorités suspectent une production en série de pièces destinées à des armes non déclarées.",
-            "Cette affaire met en lumière les risques liés à l’impression 3D de composants sensibles et réglementés."
+            "N8n a développé Nod, un assistant personnel open source fonctionnant sur Mac et Windows, intégrant des outils d’automatisation et d’IA.",
+            "Cette solution vise à simplifier la gestion des tâches quotidiennes et à réduire la dépendance aux applications propriétaires.",
+            "Les développeurs soulignent la modularité et la personnalisation offertes par cet outil.",
+            "Nod pourrait s’imposer comme une alternative crédible aux assistants comme Zapier ou Microsoft Power Automate."
           ],
           "sources": []
         }
@@ -247,20 +307,32 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Fiscalité : le fisc surveille les abris de jardin et les dépendances",
+          "title": "Chèque énergie 2026 : urgence pour faire la demande avant la fin novembre",
           "bullets": [
-            "L’administration fiscale cible désormais les abris de jardin et les dépendances dans le cadre des déclarations de revenus.",
-            "Les surfaces non déclarées peuvent entraîner des redressements fiscaux et des pénalités.",
-            "Cette mesure vise à lutter contre l’évasion fiscale et à mieux évaluer la valeur des biens immobiliers."
+            "Il ne reste que deux mois pour demander le chèque énergie 2026, une aide cruciale pour les ménages en difficulté financière.",
+            "Les modalités de demande sont accessibles en ligne via le site officiel du gouvernement.",
+            "Les bénéficiaires peuvent recevoir jusqu’à 277 € selon leur situation.",
+            "Les retards dans les démarches pourraient entraîner un report des paiements pour l’année 2027."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque à Ma PrimeRénov’ : 13 hommes jugés pour une fraude de près de 5 millions d’euros",
+          "title": "Fisc utilise l’IA pour détecter les constructions non déclarées dans les jardins",
           "bullets": [
-            "Un groupe de 13 hommes a été jugé pour une arnaque massive à Ma PrimeRénov’, avec une estimation de préjudice dépassant les 5 millions d’euros.",
-            "Les accusés ont utilisé de faux documents pour obtenir des aides financières destinées à la rénovation énergétique.",
-            "Cette affaire illustre les risques de fraude dans les dispositifs d’aides publiques et les contrôles renforcés en cours."
+            "L’administration fiscale française déploie une intelligence artificielle pour repérer les piscines, abris de jardin et autres constructions non déclarées.",
+            "Cette mesure vise à lutter contre l’évasion fiscale et à assainir les finances publiques.",
+            "Les propriétaires concernés pourraient faire l’objet de contrôles et de redressements fiscaux.",
+            "Les associations de défense des contribuables appellent à une approche plus transparente et équitable."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque aux cartes cadeaux : attention aux pièges avant Noël",
+          "bullets": [
+            "Les arnaques aux cartes cadeaux se multiplient avant les fêtes de fin d’année, avec des escrocs proposant des offres trop alléchantes.",
+            "Les victimes sont souvent incitées à verser des sommes d’argent pour « débloquer » des cadeaux inexistants.",
+            "La police et les associations de consommateurs alertent sur ces pratiques frauduleuses.",
+            "Les conseils pour éviter ces arnaques incluent de vérifier les sites officiels et de ne jamais partager ses coordonnées bancaires."
           ],
           "sources": []
         }
@@ -270,20 +342,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Tennis : Sabalenka remporte son premier match au Masters WTA",
+          "title": "XEFI devient partenaire principal de l’équipe de Jean-René Bernaudeau",
           "bullets": [
-            "Aryna Sabalenka a battu Anastasija Muchanova en finale d’un tournoi WTA, marquant son entrée en lice au Masters WTA.",
-            "Cette victoire consolide sa position parmi les meilleures joueuses de tennis au monde.",
-            "Sabalenka vise désormais une place dans le top 3 mondial pour la saison 2027."
+            "XEFI remplace TotalEnergies comme sponsor-titre de l’équipe cycliste Vendée Cyclisme.",
+            "Cette collaboration marque un virage stratégique pour l’équipe, avec un nouveau partenaire axé sur les technologies financières.",
+            "Jean-René Bernaudeau salue cette alliance, qui pourrait renforcer la visibilité et les financements de l’équipe.",
+            "Les coureurs espèrent bénéficier de cette nouvelle dynamique pour la saison 2027."
           ],
           "sources": []
         },
         {
-          "title": "Handball : les Bleus s’effondrent avec 15 buts d’écart avant le Mondial",
+          "title": "Bastien Auzeil : de l’athlétisme au football, une reconversion réussie",
           "bullets": [
-            "L’équipe de France de handball a subi une défaite écrasante lors d’un match amical, avec un écart de 15 buts.",
-            "Cette performance décevante soulève des questions sur la préparation de l’équipe avant le Championnat du monde.",
-            "Les joueurs et l’entraîneur devront analyser les causes de cette contre-performance pour rebondir."
+            "Ancien athlète de haut niveau, Bastien Auzeil a basculé vers le football en rejoignant le FCG (Football Club de Grenoble).",
+            "Il explique sa motivation par le désir de rester actif dans un milieu sportif qui lui plaît.",
+            "Cette reconversion illustre les possibilités de transition entre différentes disciplines sportives.",
+            "Auzeil espère contribuer au développement du club et à la promotion du football local."
           ],
           "sources": []
         }
