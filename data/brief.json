@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 11 novembre 2026",
+  "date_str": "Jeudi 12 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Martin, Mahine, Marine, Ménas et Véran",
+          "title": "Aujourd'hui, on souhaite la fête : Josaphat, Christian, Diego et Emilien",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/11/11/2026/11-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/12/11/2026/12-Novembre-2026.html"
             }
           ]
         }
@@ -22,107 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Éric Zemmour confirme sa candidature à l’élection présidentielle de 2027",
+          "title": "Présidentielle 2027 : Bruno Retailleau propose un calendrier serré pour la primaire des Républicains",
           "bullets": [
-            "Le candidat d’extrême droite a réaffirmé sa volonté de se présenter une nouvelle fois pour l’Élysée lors d’un entretien télévisé sur TF1.",
-            "Il met en avant une ligne politique axée sur la sécurité, l’immigration et la défense des valeurs traditionnelles.",
-            "Cette annonce intervient dans un contexte de montée des tensions politiques avant le scrutin de 2027.",
-            "Les réactions politiques restent mitigées, entre soutien inconditionnel et critiques sur son positionnement radical."
+            "Bruno Retailleau, candidat Les Républicains, suggère un calendrier accéléré pour la primaire avec des tours les 31 janvier et 7 février 2027.",
+            "Cette proposition vise à départager les postulants avant les élections législatives anticipées prévues en juin 2027.",
+            "Le calendrier pourrait forcer Édouard Philippe à clarifier sa position et à mobiliser son camp.",
+            "Une première réunion des candidats est prévue mardi 11 novembre pour discuter de cette proposition."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html"
             }
           ]
         },
         {
-          "title": "Dérives de la Sécurité sociale en Guadeloupe : 1,2 milliard d’euros perdus et désorganisation interne",
+          "title": "Projet de loi « casseur-payeur » : une mesure critiquée comme une « punition collective »",
           "bullets": [
-            "La Cour des comptes pointe des dysfonctionnements majeurs dans la gestion de la Sécurité sociale dans ce territoire ultramarin.",
-            "Un manque à gagner de 1,2 milliard d’euros est estimé, avec des délais de traitement allongés pour les assurés.",
-            "Les magistrats soulignent une désorganisation interne et des difficultés à répondre aux besoins des populations précaires.",
-            "Le gouvernement doit désormais proposer des mesures correctives pour remédier à ces problèmes."
+            "Le projet de loi, s’il est adopté, pourrait dissuader les manifestations et museler l’expression de l’opposition, selon une tribune au *Monde*.",
+            "Les auteurs dénoncent un basculement vers l’autoritarisme en France.",
+            "La mesure vise à renforcer les sanctions contre les violences lors des manifestations.",
+            "Les critiques soulignent un risque de répression accrue des mouvements sociaux."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/10/a-la-guadeloupe-les-derives-de-la-secu-examinees-par-la-cour-des-comptes-1-2-milliard-d-euros-perdus-une-desorganisation-interne-et-des-delais-qui-s-allongent_6808903_1840826.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html"
             }
           ]
         },
         {
-          "title": "Violences policières : les plaintes de journalistes pour entraves à leur travail se multiplient",
+          "title": "Hausse du SMIC : 164 branches professionnelles risquent de devenir illégales",
           "bullets": [
-            "Des reporters et photographes ont déposé des plaintes après avoir été agressés ou empêchés d’exercer leur métier lors de manifestations.",
-            "Certains ont été matraqués ou empêchés d’accéder à des zones d’information par les forces de l’ordre.",
-            "La CNCDH (Commission nationale consultative des droits de l’homme) alerte sur une dégradation des libertés publiques.",
-            "Les syndicats de journalistes appellent à une enquête indépendante sur ces faits."
+            "La revalorisation du SMIC, effective dès le 1ᵉʳ décembre, pourrait rendre non conformes 164 conventions collectives.",
+            "La CGT pointe un risque de non-respect des accords salariaux et une pression accrue sur les employeurs.",
+            "Cette mesure pourrait entraîner des tensions dans les négociations salariales pour 2027.",
+            "Les entreprises concernées devront ajuster leurs grilles salariales sous peine de sanctions."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/mobilisations-sociales-les-plaintes-de-journalistes-pour-violences-policieres-se-multiplient_6808896_3236.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html"
             }
           ]
         },
         {
-          "title": "Budget de la Sécurité sociale 2027 : l’exécutif prépare des « efforts supplémentaires »",
+          "title": "Mobilisation étudiante : 5 000 places supplémentaires en licence promises par Sébastien Lecornu",
           "bullets": [
-            "Le ministre des Comptes publics, David Amiel, a évoqué la nécessité de mesures supplémentaires pour équilibrer les finances de la Sécurité sociale.",
-            "Les débats au Sénat sur le projet de loi de financement soulignent des tensions sur les recettes et les dépenses.",
-            "Les partenaires sociaux et les associations de patients appellent à des réformes structurelles plutôt qu’à des coupes brutales.",
-            "L’État envisage des ajustements, notamment sur les cotisations et les dépenses de santé."
+            "Le Premier ministre annonce 5 000 places supplémentaires en licence pour répondre aux revendications étudiantes.",
+            "Cette mesure reste en deçà des attentes des organisations étudiantes, qui réclament une augmentation plus importante.",
+            "Les blocages d’universités persistent malgré les annonces gouvernementales.",
+            "Les étudiants exigent aussi des mesures sur les conditions de vie et les salaires des enseignants."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/10/budget-de-la-secu-2027-l-executif-prepare-les-esprits-a-des-efforts-supplementaires_6808887_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html"
             }
           ]
         },
         {
-          "title": "Renforcement de la Haute Autorité pour la transparence de la vie publique avant 2027",
+          "title": "Journaliste Christophe Gleizes : soutien international pour sa libération après 500 jours de détention",
           "bullets": [
-            "Deux projets de loi renforcent les pouvoirs de sanction de la HATVP (Haute Autorité pour la transparence de la vie publique).",
-            "Ces mesures visent à lutter contre les conflits d’intérêts et les cumuls de mandats avant l’élection présidentielle.",
-            "Les députés et sénateurs doivent encore examiner ces textes avant leur adoption définitive.",
-            "L’objectif est de restaurer la confiance dans les institutions avant le scrutin de 2027."
+            "Christophe Gleizes, journaliste de *So Foot*, est détenu depuis mai 2024 pour un reportage sur un club de football.",
+            "Des personnalités et organisations internationales appellent à sa libération immédiate.",
+            "Sa détention prolongée suscite des inquiétudes sur la liberté de la presse en France.",
+            "Les appels à sa libération se multiplient via des tribunes et des manifestations."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/10/le-gouvernement-veut-renforcer-la-haute-autorite-pour-la-transparence-de-la-vie-publique-avant-l-election-presidentielle_6808882_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Les très riches Français réduisent leur impôt sur le revenu en 2025",
-          "bullets": [
-            "Les recettes de l’impôt sur le revenu ont progressé de 1 % en 2025, mais les 0,1 % les plus aisés ont optimisé leur fiscalité.",
-            "Les mécanismes d’exonération et les montages financiers permettent à cette frange de la population de payer moins d’impôts.",
-            "Les associations de lutte contre les inégalités dénoncent un manque de transparence dans ces pratiques.",
-            "Le gouvernement étudie des mesures pour limiter ces optimisations fiscales."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/10/les-tres-riches-francais-ont-fait-baisser-leur-impot-sur-le-revenu-en-2025_6808873_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "CNews : tensions avec les syndicats et les organisations lycéennes",
-          "bullets": [
-            "La CGT et les organisations lycéennes refusent de répondre aux questions de la chaîne en présence de ses journalistes.",
-            "La ministre de la Culture, Catherine Pégard, appelle à ne pas « trier les journalistes » lors des interviews.",
-            "Cette situation s’inscrit dans un contexte de polémiques autour de la ligne éditoriale de la chaîne.",
-            "Les syndicats dénoncent un manque de neutralité et une instrumentalisation politique de la chaîne."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/actualite-medias/video/2026/11/11/christophe-gleizes-plusieurs-personnalites-rassemblees-pour-soutenir-le-journaliste-detenu-depuis-500-jours_6809026_3236.html"
             }
           ]
         }
@@ -132,92 +102,92 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Colombie : le prix Nobel de la paix Juan Manuel Santos critique l’exhibition de cadavres par le président",
+          "title": "Guerre en Ukraine : émissaires américains à Moscou pour des négociations avec Poutine",
           "bullets": [
-            "Juan Manuel Santos dénonce la mise en scène de cadavres par le président colombien, qu’il qualifie de « spectacle macabre ».",
-            "Il s’inquiète des conséquences sur la lutte contre les groupes criminels et le trafic de drogue.",
-            "Cette déclaration intervient dans un contexte de montée de la violence et de tensions politiques.",
-            "Santos appelle à une approche plus diplomatique et moins spectaculaire pour résoudre la crise sécuritaire."
+            "Steve Witkoff et Jared Kushner, envoyés américains, se rendent à Moscou pour discuter avec Vladimir Poutine.",
+            "Ils doivent ensuite rencontrer Volodymyr Zelensky à Dublin pour des discussions sur la paix en Ukraine.",
+            "Les négociations visent à trouver une issue au conflit, mais les positions restent très divergentes.",
+            "Les discussions incluent aussi des échanges sur les livraisons d’armes et les sanctions économiques."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html"
             }
           ]
         },
         {
-          "title": "Guerre en Ukraine : pourparlers à Abu Dhabi condamnés à l’impasse",
+          "title": "Soudan du Sud : Amnesty International dénonce l’inaction face à un massacre de 200 personnes",
           "bullets": [
-            "Les négociations entre la Russie et l’Ukraine à Abu Dhabi n’ont pas abouti à des avancées significatives.",
-            "Le président ukrainien Zelensky a évoqué un débat « constructif », tandis que Moscou reste réticent à toute concession territoriale.",
-            "Les États-Unis et l’UE appellent à une reprise des discussions sous l’égide d’un tiers neutre.",
-            "La guerre se prolonge avec des frappes russes en Ukraine et des contre-attaques ukrainiennes limitées."
+            "Plus de 200 personnes, dont des enfants, ont été tuées lors d’un massacre en mars 2026 par des rebelles.",
+            "Amnesty International accuse les autorités et l’ONU de ne pas avoir agi pour prévenir ou punir les responsables.",
+            "Le rapport souligne une impunité généralisée et un manque de protection des civils.",
+            "La communauté internationale est appelée à renforcer la pression sur les belligérants."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/12/soudan-du-sud-amnesty-international-denonce-l-inaction-tragique-des-autorites-et-de-l-onu_6809060_3212.html"
             }
           ]
         },
         {
-          "title": "Journaliste français Christophe Gleizes : 500 jours de détention en Algérie",
+          "title": "RDC : Félix Tshisekedi promulgue une loi controversée pour un troisième mandat",
           "bullets": [
-            "Condamné en juin 2025 pour « apologie du terrorisme », le journaliste français reste incarcéré dans la prison de Koléa.",
-            "Il dénonce des conditions de détention difficiles et une routine carcérale oppressante.",
-            "La France et les organisations de défense des droits de l’homme exigent sa libération immédiate.",
-            "Son cas s’ajoute à celui d’autres journalistes étrangers détenus dans des pays du Maghreb."
+            "Félix Tshisekedi a fait adopter une loi permettant de soumettre une nouvelle Constitution à référendum.",
+            "Cette mesure ouvre la voie à un troisième mandat présidentiel, suscitant des critiques internes et internationales.",
+            "Les opposants dénoncent une manipulation démocratique et un risque de crise politique.",
+            "La communauté internationale observe avec inquiétude cette évolution."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/en-rdc-felix-tshisekedi-promulgue-une-loi-controversee-qui-lui-ouvre-la-voie-a-un-troisieme-mandat_6809048_3210.html"
             }
           ]
         },
         {
-          "title": "Nvidia au cœur d’un scandale international lié à l’espionnage chinois",
+          "title": "États-Unis : démocrates préparent des enquêtes contre l’administration Trump",
           "bullets": [
-            "Le fondateur de Nvidia a reconnu une liaison avec une entrepreneuse soupçonnée d’avoir travaillé pour Pékin.",
-            "Cette affaire s’inscrit dans un contexte de tensions géopolitiques autour de la guerre des puces électroniques.",
-            "Donald Trump a minimisé l’affaire, tandis que les États-Unis renforcent leurs contrôles sur les exportations technologiques.",
-            "Les conséquences pourraient affecter les partenariats commerciaux et la sécurité nationale américaine."
+            "Après leur victoire aux midterms, les démocrates envisagent des investigations sur l’enrichissement personnel de Trump et ses liens avec des acteurs étrangers.",
+            "Les sujets potentiels incluent les affaires liées à Mar-a-Lago et les pressions sur les institutions.",
+            "Ces enquêtes pourraient avoir des répercussions sur la campagne présidentielle de 2024.",
+            "Les républicains dénoncent déjà une « chasse aux sorcières » politique."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/11/comment-nvidia-s-est-retrouve-au-c-ur-d-un-scandale-international-entre-espionne-chinoise-guerre-des-puces-et-indifference-de-donald-trump_6808922_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/les-elus-democrates-veulent-lancer-des-enquetes-tous-azimuts-contre-l-administration-trump_6809046_3210.html"
             }
           ]
         },
         {
-          "title": "Trinité-et-Tobago : l’homosexualité dépénalisée",
+          "title": "Iran : la population à bout de souffle face à l’effondrement économique",
           "bullets": [
-            "La justice du pays a aboli les lois criminalisant l’homosexualité, supprimant les peines de prison pour « sodomie » et « indécence grave ».",
-            "Cette décision fait suite à des années de mobilisations des associations LGBTQ+ et des défenseurs des droits humains.",
-            "Les autorités locales espèrent que cette réforme encouragera une société plus inclusive et tolérante.",
-            "D’autres pays des Caraïbes pourraient suivre cet exemple dans les années à venir."
+            "L’Iran, engagé dans un conflit avec les États-Unis et Israël, voit son économie s’effondrer.",
+            "Les sanctions internationales et les dépenses militaires aggravent la crise sociale.",
+            "La population subit une inflation galopante et un manque de ressources de base.",
+            "Les manifestations et la colère populaire s’intensifient face à l’incapacité du gouvernement à résoudre la crise."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/trinite-et-tobago-la-justice-depenalise-l-homosexualite_6808920_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/podcasts/article/2026/11/12/guerre-en-iran-la-population-a-bout-de-souffle_6809043_5463015.html"
             }
           ]
         },
         {
-          "title": "Brésil : Meta condamnée pour traitement inégal entre Lula et Flavio Bolsonaro lors de la présidentielle",
+          "title": "New York : au moins deux morts dans l’effondrement d’un immeuble de Brooklyn",
           "bullets": [
-            "Meta a été condamnée à payer une lourde amende pour avoir favorisé la campagne de Flavio Bolsonaro au détriment de celle de Lula.",
-            "Les accusations portaient sur une manipulation algorithmique et une désinformation ciblée.",
-            "Cette décision pourrait influencer les pratiques des réseaux sociaux lors des prochaines élections.",
-            "Les associations brésiliennes de défense des droits numériques saluent cette victoire juridique."
+            "Un immeuble s’est effondré dans le quartier de Brooklyn, faisant au moins deux morts et dix-sept blessés, dont sept enfants.",
+            "Les secours poursuivent les recherches sous les décombres pour localiser d’éventuelles autres victimes.",
+            "Les causes de l’effondrement sont encore en cours d’enquête.",
+            "La communauté locale est en état de choc et demande des explications sur la sécurité des bâtiments."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html"
             }
           ]
         }
@@ -232,47 +202,47 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Loi Résilience : suppression de l’article interdisant les portes dérobées",
+          "title": "OpenAI lance un « kill switch » pour stopper ses IA en 35 secondes",
           "bullets": [
-            "L’Assemblée nationale a supprimé l’article 16 bis du projet de loi Résilience, qui interdisait à l’État d’imposer des portes dérobées aux systèmes informatiques.",
-            "Cette décision ouvre la voie à une plus grande flexibilité pour les administrations en matière de cybersécurité.",
-            "Les experts en cybersécurité craignent cependant que cela puisse affaiblir la protection contre les cyberattaques.",
-            "Le débat sur la sécurité numérique et la souveraineté des données se poursuit."
+            "OpenAI a présenté *Control Room*, un système centralisé pour surveiller et interrompre les tâches dangereuses des modèles d’IA.",
+            "Ce mécanisme vise à limiter les risques de dérapages ou d’utilisations malveillantes.",
+            "Les chercheurs peuvent ainsi arrêter une tâche en moins de 35 secondes.",
+            "Cette innovation s’inscrit dans une démarche de régulation proactive des technologies d’IA."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/cyberguerre/2371907-loi-resilience-les-deputes-suppriment-larticle-qui-aurait-empeche-letat-dimposer-des-portes-derobees.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html"
             }
           ]
         },
         {
-          "title": "GTA 6 jouable sans console haut de gamme grâce au cloud",
+          "title": "Apple prépare *Harbor*, une application pour transformer les Mac en serveurs d’IA privés",
           "bullets": [
-            "Rockstar a confirmé que GTA 6 sera accessible via le cloud, permettant de jouer sur des consoles moins performantes.",
-            "La Xbox One d’occasion à 65 € pourrait ainsi devenir une option pour les joueurs.",
-            "Cette approche pourrait démocratiser l’accès au jeu, mais soulève des questions sur la consommation énergétique et les coûts.",
-            "Le jeu sortira officiellement le 19 novembre après une phase de pré-téléchargement."
+            "Apple travaillerait sur une application appelée *Harbor* pour permettre aux utilisateurs de Mac d’héberger des modèles d’IA locaux.",
+            "Cette solution vise à offrir une alternative aux services cloud centralisés comme ceux d’OpenAI ou Google.",
+            "Les utilisateurs pourraient ainsi bénéficier de traitements de données plus privés et sécurisés.",
+            "Le lancement officiel n’est pas encore annoncé, mais des tests discrets sont en cours."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2371757-gta-6-sera-jouable-sur-une-console-a-65-e-est-ce-vraiment-une-bonne-affaire.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2372219-apple-preparerait-harbor-une-app-pour-transformer-vos-mac-en-serveur-dia-prive.html"
             }
           ]
         },
         {
-          "title": "Orange lance une « super-app » accessible même aux non-abonnés",
+          "title": "Black Friday 2026 : les meilleures offres tech dénichées en direct",
           "bullets": [
-            "Orange a dévoilé sa nouvelle application « Orange France », disponible sur l’App Store, visant à attirer les utilisateurs hors de son écosystème.",
-            "L’objectif est de proposer des services variés (mobilité, banque, santé) pour fidéliser une clientèle plus large.",
-            "Cette stratégie pourrait concurrencer les géants comme Google ou Apple dans le domaine des applications tout-en-un.",
-            "Les premiers retours sur l’application restent mitigés en termes d’ergonomie et de fonctionnalités."
+            "Boulanger, Amazon et la Fnac proposent des promotions sur des produits électroniques et high-tech.",
+            "Des réductions significatives sur des smartphones, ordinateurs et accessoires sont disponibles.",
+            "Les codes promo et baisses de prix concernent notamment des marques comme Apple, Samsung et Sony.",
+            "Les consommateurs sont invités à comparer les offres avant de finaliser leurs achats."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2371577-orange-espere-que-vous-utiliserez-sa-nouvelle-super-app-meme-si-vous-netes-pas-chez-orange.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-meilleures-offres-de-ce-11-novembre-denichees-en-direct.html"
             }
           ]
         }
@@ -280,59 +250,34 @@
     },
     {
       "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "Meta Muse débarque sur Apple Watch : un agent IA accessible au poignet",
-          "bullets": [
-            "Meta a intégré son assistant IA Muse sur Apple Watch, permettant aux utilisateurs d’accéder à des fonctionnalités d’assistance vocale et de gestion quotidienne.",
-            "Cette application pourrait révolutionner l’utilisation des wearables en intégrant l’IA dans des tâches pratiques.",
-            "Les premiers tests révèlent une interface intuitive, mais des limites en termes de confidentialité des données.",
-            "Les concurrents comme Google ou Samsung pourraient suivre cette tendance dans les prochains mois."
-          ],
-          "sources": []
-        },
-        {
-          "title": "N8n lance Nod, un agent personnel open source pour Mac et Windows",
-          "bullets": [
-            "N8n a développé Nod, un assistant personnel open source fonctionnant sur Mac et Windows, intégrant des outils d’automatisation et d’IA.",
-            "Cette solution vise à simplifier la gestion des tâches quotidiennes et à réduire la dépendance aux applications propriétaires.",
-            "Les développeurs soulignent la modularité et la personnalisation offertes par cet outil.",
-            "Nod pourrait s’imposer comme une alternative crédible aux assistants comme Zapier ou Microsoft Power Automate."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Chèque énergie 2026 : urgence pour faire la demande avant la fin novembre",
+          "title": "Arnaques aux impôts : méfiance face aux QR codes dans les courriers",
           "bullets": [
-            "Il ne reste que deux mois pour demander le chèque énergie 2026, une aide cruciale pour les ménages en difficulté financière.",
-            "Les modalités de demande sont accessibles en ligne via le site officiel du gouvernement.",
-            "Les bénéficiaires peuvent recevoir jusqu’à 277 € selon leur situation.",
-            "Les retards dans les démarches pourraient entraîner un report des paiements pour l’année 2027."
+            "Les escrocs utilisent des QR codes dans des courriers pour voler les données bancaires des victimes.",
+            "Il est déconseillé de scanner ces codes sans vérifier leur légitimité auprès de l’administration fiscale.",
+            "Les impôts rappellent que leurs communications officielles ne contiennent jamais de liens suspects.",
+            "En cas de doute, il faut contacter directement le service des impôts par téléphone."
           ],
           "sources": []
         },
         {
-          "title": "Fisc utilise l’IA pour détecter les constructions non déclarées dans les jardins",
+          "title": "Chèque énergie 2026 : demandez jusqu’à 277 € avant le 31 décembre",
           "bullets": [
-            "L’administration fiscale française déploie une intelligence artificielle pour repérer les piscines, abris de jardin et autres constructions non déclarées.",
-            "Cette mesure vise à lutter contre l’évasion fiscale et à assainir les finances publiques.",
-            "Les propriétaires concernés pourraient faire l’objet de contrôles et de redressements fiscaux.",
-            "Les associations de défense des contribuables appellent à une approche plus transparente et équitable."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque aux cartes cadeaux : attention aux pièges avant Noël",
-          "bullets": [
-            "Les arnaques aux cartes cadeaux se multiplient avant les fêtes de fin d’année, avec des escrocs proposant des offres trop alléchantes.",
-            "Les victimes sont souvent incitées à verser des sommes d’argent pour « débloquer » des cadeaux inexistants.",
-            "La police et les associations de consommateurs alertent sur ces pratiques frauduleuses.",
-            "Les conseils pour éviter ces arnaques incluent de vérifier les sites officiels et de ne jamais partager ses coordonnées bancaires."
+            "Les foyers éligibles peuvent encore demander le chèque énergie pour l’année 2026 jusqu’au 31 décembre.",
+            "Ce dispositif vise à aider les ménages en difficulté financière à payer leurs factures d’énergie.",
+            "Le montant peut atteindre 277 € selon les ressources et la composition du foyer.",
+            "La demande se fait en ligne sur le site officiel du chèque énergie."
           ],
           "sources": []
         }
@@ -342,22 +287,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "XEFI devient partenaire principal de l’équipe de Jean-René Bernaudeau",
+          "title": "France : victoire écrasante contre la Grande-Bretagne en qualification pour l’Eurobasket 2027",
           "bullets": [
-            "XEFI remplace TotalEnergies comme sponsor-titre de l’équipe cycliste Vendée Cyclisme.",
-            "Cette collaboration marque un virage stratégique pour l’équipe, avec un nouveau partenaire axé sur les technologies financières.",
-            "Jean-René Bernaudeau salue cette alliance, qui pourrait renforcer la visibilité et les financements de l’équipe.",
-            "Les coureurs espèrent bénéficier de cette nouvelle dynamique pour la saison 2027."
+            "L’équipe de France de basket-ball a remporté une large victoire contre la Grande-Bretagne lors de ses qualifications pour l’Eurobasket 2027.",
+            "Les Bleues ont dominé le match avec une performance collective impressionnante.",
+            "Cette victoire renforce leurs chances de se qualifier pour la compétition finale.",
+            "Les joueuses, menées par une Fauthoux record, visent une médaille aux prochains Jeux Européens."
           ],
           "sources": []
         },
         {
-          "title": "Bastien Auzeil : de l’athlétisme au football, une reconversion réussie",
+          "title": "Dakar 2026 : Meriem Benyoub glane le bronze en handball de plage",
           "bullets": [
-            "Ancien athlète de haut niveau, Bastien Auzeil a basculé vers le football en rejoignant le FCG (Football Club de Grenoble).",
-            "Il explique sa motivation par le désir de rester actif dans un milieu sportif qui lui plaît.",
-            "Cette reconversion illustre les possibilités de transition entre différentes disciplines sportives.",
-            "Auzeil espère contribuer au développement du club et à la promotion du football local."
+            "Meriem Benyoub a remporté la médaille de bronze en handball de plage lors du premier jour des Jeux de la Francophonie à Dakar.",
+            "Les équipes de France sont en demi-finale pour d’autres disciplines sportives.",
+            "Ce succès s’ajoute à une série de performances positives pour les athlètes français.",
+            "Les compétitions se poursuivent avec des enjeux élevés pour les médailles."
           ],
           "sources": []
         }
