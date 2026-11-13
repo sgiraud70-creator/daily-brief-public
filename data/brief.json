@@ -1,18 +1,18 @@
 {
-  "date_str": "Jeudi 12 novembre 2026",
+  "date_str": "Vendredi 13 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 5,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Josaphat, Christian, Diego et Emilien",
+          "title": "Aujourd'hui, on souhaite la fête : Brice, Abbon et Maxellende",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/12/11/2026/12-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/13/11/2026/13-Novembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,72 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Présidentielle 2027 : Bruno Retailleau propose un calendrier serré pour la primaire des Républicains",
+          "title": "Mobilisation lycéenne : le numérique au cœur des nouvelles formes d’organisation",
           "bullets": [
-            "Bruno Retailleau, candidat Les Républicains, suggère un calendrier accéléré pour la primaire avec des tours les 31 janvier et 7 février 2027.",
-            "Cette proposition vise à départager les postulants avant les élections législatives anticipées prévues en juin 2027.",
-            "Le calendrier pourrait forcer Édouard Philippe à clarifier sa position et à mobiliser son camp.",
-            "Une première réunion des candidats est prévue mardi 11 novembre pour discuter de cette proposition."
+            "Les mouvements lycéens et étudiants combinent viralité sur les réseaux sociaux et actions « low-tech » pour mobiliser.",
+            "Les réseaux sociaux amplifient la diffusion des informations et coordonnent les actions de blocage.",
+            "Les mobilisations se poursuivent malgré les vacances scolaires, avec des formes d’action adaptées au contexte numérique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html"
+              "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html"
             }
           ]
         },
         {
-          "title": "Projet de loi « casseur-payeur » : une mesure critiquée comme une « punition collective »",
+          "title": "Marine Le Pen renforce son offensive illibérale contre les contre-pouvoirs",
           "bullets": [
-            "Le projet de loi, s’il est adopté, pourrait dissuader les manifestations et museler l’expression de l’opposition, selon une tribune au *Monde*.",
-            "Les auteurs dénoncent un basculement vers l’autoritarisme en France.",
-            "La mesure vise à renforcer les sanctions contre les violences lors des manifestations.",
-            "Les critiques soulignent un risque de répression accrue des mouvements sociaux."
+            "Le Rassemblement National cible les associations, syndicats, magistrats et journalistes dans ses attaques publiques.",
+            "Les dirigeants du RN multiplient les propos critiques envers les institutions jugées « élitistes » ou « anti-démocratiques ».",
+            "Cette stratégie vise à affaiblir les contre-pouvoirs avant la présidentielle de 2027."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html"
             }
           ]
         },
         {
-          "title": "Hausse du SMIC : 164 branches professionnelles risquent de devenir illégales",
+          "title": "Menaces contre la presse : les sociétés de journalistes dénoncent une liberté d’information fragilisée",
           "bullets": [
-            "La revalorisation du SMIC, effective dès le 1ᵉʳ décembre, pourrait rendre non conformes 164 conventions collectives.",
-            "La CGT pointe un risque de non-respect des accords salariaux et une pression accrue sur les employeurs.",
-            "Cette mesure pourrait entraîner des tensions dans les négociations salariales pour 2027.",
-            "Les entreprises concernées devront ajuster leurs grilles salariales sous peine de sanctions."
+            "Une trentaine de sociétés de journalistes alertent sur l’augmentation des menaces et violences envers les médias.",
+            "Les propos hostiles ou menaçants de personnalités politiques s’intensifient, notamment envers les journalistes d’investigation.",
+            "Cette situation menace la crédibilité et la sécurité des professionnels de l’information."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html"
             }
           ]
         },
         {
-          "title": "Mobilisation étudiante : 5 000 places supplémentaires en licence promises par Sébastien Lecornu",
+          "title": "Décès de Jean Puech, ancien ministre de l’Agriculture et président de l’Aveyron",
           "bullets": [
-            "Le Premier ministre annonce 5 000 places supplémentaires en licence pour répondre aux revendications étudiantes.",
-            "Cette mesure reste en deçà des attentes des organisations étudiantes, qui réclament une augmentation plus importante.",
-            "Les blocages d’universités persistent malgré les annonces gouvernementales.",
-            "Les étudiants exigent aussi des mesures sur les conditions de vie et les salaires des enseignants."
+            "Jean Puech, figure politique locale et bâtisseur, est décédé à l’âge de 84 ans.",
+            "Ancien ministre de l’Agriculture, il a également présidé le conseil départemental de l’Aveyron de 1976 à 2008.",
+            "Ses funérailles auront lieu dans les prochains jours."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html"
+              "url": "https://www.lemonde.fr/disparitions/article/2026/11/12/jean-puech-ancien-ministre-de-l-agriculture-est-mort-a-l-age-de-84-ans_6809154_3382.html"
             }
           ]
         },
         {
-          "title": "Journaliste Christophe Gleizes : soutien international pour sa libération après 500 jours de détention",
+          "title": "Suppression de postes de fonctionnaires : la surenchère des partis avant la présidentielle 2027",
           "bullets": [
-            "Christophe Gleizes, journaliste de *So Foot*, est détenu depuis mai 2024 pour un reportage sur un club de football.",
-            "Des personnalités et organisations internationales appellent à sa libération immédiate.",
-            "Sa détention prolongée suscite des inquiétudes sur la liberté de la presse en France.",
-            "Les appels à sa libération se multiplient via des tribunes et des manifestations."
+            "Plusieurs candidats du bloc central, de la droite et de l’extrême droite proposent des suppressions massives de postes dans la fonction publique.",
+            "Les propositions varient de 100 000 à 300 000 suppressions, avec des arguments économiques et anti-gaspillage.",
+            "Cette surenchère reflète une volonté de marquer les esprits avant le scrutin de 2027."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/actualite-medias/video/2026/11/11/christophe-gleizes-plusieurs-personnalites-rassemblees-pour-soutenir-le-journaliste-detenu-depuis-500-jours_6809026_3236.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html"
             }
           ]
         }
@@ -102,92 +97,58 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : émissaires américains à Moscou pour des négociations avec Poutine",
+          "title": "Guerre en Ukraine : les Européens enfin associés aux négociations de paix",
           "bullets": [
-            "Steve Witkoff et Jared Kushner, envoyés américains, se rendent à Moscou pour discuter avec Vladimir Poutine.",
-            "Ils doivent ensuite rencontrer Volodymyr Zelensky à Dublin pour des discussions sur la paix en Ukraine.",
-            "Les négociations visent à trouver une issue au conflit, mais les positions restent très divergentes.",
-            "Les discussions incluent aussi des échanges sur les livraisons d’armes et les sanctions économiques."
+            "Les émissaires américains assurent que les Européens seront intégrés aux prochaines réunions de négociation de paix.",
+            "Moscou n’a pas encore confirmé son accord, mais cette annonce marque une avancée diplomatique majeure.",
+            "L’Ukraine et ses alliés espèrent une implication accrue pour accélérer les discussions."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html"
             }
           ]
         },
         {
-          "title": "Soudan du Sud : Amnesty International dénonce l’inaction face à un massacre de 200 personnes",
+          "title": "Turquie : une radio associative brise l’isolement sur les enjeux écologiques",
           "bullets": [
-            "Plus de 200 personnes, dont des enfants, ont été tuées lors d’un massacre en mars 2026 par des rebelles.",
-            "Amnesty International accuse les autorités et l’ONU de ne pas avoir agi pour prévenir ou punir les responsables.",
-            "Le rapport souligne une impunité généralisée et un manque de protection des civils.",
-            "La communauté internationale est appelée à renforcer la pression sur les belligérants."
+            "Apaçik Radyo, basée à Istanbul, diffuse des émissions sur le changement climatique malgré les restrictions sous le régime d’Erdogan.",
+            "Privée de fréquence officielle, elle utilise des moyens alternatifs pour toucher un public large.",
+            "Cette radio offre une voix indépendante dans un pays où les médias traditionnels sont souvent censurés."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/12/soudan-du-sud-amnesty-international-denonce-l-inaction-tragique-des-autorites-et-de-l-onu_6809060_3212.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html"
             }
           ]
         },
         {
-          "title": "RDC : Félix Tshisekedi promulgue une loi controversée pour un troisième mandat",
+          "title": "Brésil : la gauche séduit à nouveau avec un candidat charismatique",
           "bullets": [
-            "Félix Tshisekedi a fait adopter une loi permettant de soumettre une nouvelle Constitution à référendum.",
-            "Cette mesure ouvre la voie à un troisième mandat présidentiel, suscitant des critiques internes et internationales.",
-            "Les opposants dénoncent une manipulation démocratique et un risque de crise politique.",
-            "La communauté internationale observe avec inquiétude cette évolution."
+            "Lula da Silva a remporté l’élection présidentielle face à son adversaire de droite.",
+            "Sa campagne a mis en avant un discours progressiste et une image jeune et dynamique.",
+            "Ce succès redonne espoir à la gauche brésilienne après des années de domination conservatrice."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/en-rdc-felix-tshisekedi-promulgue-une-loi-controversee-qui-lui-ouvre-la-voie-a-un-troisieme-mandat_6809048_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/au-bresil-le-beau-gosse-de-la-paulista-redonne-a-la-gauche-son-pouvoir-de-seduction_6809261_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : démocrates préparent des enquêtes contre l’administration Trump",
+          "title": "Justice pour Daphne Caruana Galizia : les fils de la journaliste maltaise persistent dans leur combat",
           "bullets": [
-            "Après leur victoire aux midterms, les démocrates envisagent des investigations sur l’enrichissement personnel de Trump et ses liens avec des acteurs étrangers.",
-            "Les sujets potentiels incluent les affaires liées à Mar-a-Lago et les pressions sur les institutions.",
-            "Ces enquêtes pourraient avoir des répercussions sur la campagne présidentielle de 2024.",
-            "Les républicains dénoncent déjà une « chasse aux sorcières » politique."
+            "Neuf ans après son assassinat, les trois fils de Daphne Caruana Galizia continuent de lutter pour la vérité.",
+            "Les enquêtes judiciaires peinent à aboutir malgré des indices accablants sur les commanditaires.",
+            "Ce combat symbolise la résistance contre la corruption et l’impunité en Malte."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/les-elus-democrates-veulent-lancer-des-enquetes-tous-azimuts-contre-l-administration-trump_6809046_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Iran : la population à bout de souffle face à l’effondrement économique",
-          "bullets": [
-            "L’Iran, engagé dans un conflit avec les États-Unis et Israël, voit son économie s’effondrer.",
-            "Les sanctions internationales et les dépenses militaires aggravent la crise sociale.",
-            "La population subit une inflation galopante et un manque de ressources de base.",
-            "Les manifestations et la colère populaire s’intensifient face à l’incapacité du gouvernement à résoudre la crise."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/podcasts/article/2026/11/12/guerre-en-iran-la-population-a-bout-de-souffle_6809043_5463015.html"
-            }
-          ]
-        },
-        {
-          "title": "New York : au moins deux morts dans l’effondrement d’un immeuble de Brooklyn",
-          "bullets": [
-            "Un immeuble s’est effondré dans le quartier de Brooklyn, faisant au moins deux morts et dix-sept blessés, dont sept enfants.",
-            "Les secours poursuivent les recherches sous les décombres pour localiser d’éventuelles autres victimes.",
-            "Les causes de l’effondrement sont encore en cours d’enquête.",
-            "La communauté locale est en état de choc et demande des explications sur la sécurité des bâtiments."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html"
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/l-interminable-combat-pour-obtenir-justice-des-trois-fils-de-daphne-caruana-galizia-la-journaliste-maltaise-assassinee-en-2017_6809271_4500055.html"
             }
           ]
         }
@@ -195,89 +156,73 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Haute-Saône : délais judiciaires excessifs au tribunal de Vesoul",
+          "bullets": [
+            "Les justiciables dénoncent des délais anormalement longs pour les audiences au tribunal judiciaire de Vesoul.",
+            "Cette situation crée une frustration majeure et remet en cause l’efficacité de la justice locale.",
+            "Les autorités judiciaires sont interpellées pour trouver des solutions rapides."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Haute-Saône : récolte de Noël accélérée après un été catastrophique pour les sapins",
+          "bullets": [
+            "Les producteurs de sapins de Noël en Haute-Saône ont dû couper 150 arbres en une heure pour répondre à la demande.",
+            "L’été 2026 a été marqué par des conditions climatiques défavorables, réduisant drastiquement les stocks.",
+            "Cette récolte anticipée s’inscrit dans un contexte de pénurie et de hausse des prix."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "OpenAI lance un « kill switch » pour stopper ses IA en 35 secondes",
+          "title": "ByteDance prépare un agent IA pour concurrencer ChatGPT sur TikTok",
           "bullets": [
-            "OpenAI a présenté *Control Room*, un système centralisé pour surveiller et interrompre les tâches dangereuses des modèles d’IA.",
-            "Ce mécanisme vise à limiter les risques de dérapages ou d’utilisations malveillantes.",
-            "Les chercheurs peuvent ainsi arrêter une tâche en moins de 35 secondes.",
-            "Cette innovation s’inscrit dans une démarche de régulation proactive des technologies d’IA."
+            "ByteDance, propriétaire de TikTok, travaille sur un agent IA intégré à la plateforme pour rivaliser avec les assistants comme ChatGPT.",
+            "Cette initiative vise à renforcer l’engagement des utilisateurs et à diversifier les fonctionnalités de l’application.",
+            "L’objectif est de créer une expérience plus interactive et personnalisée."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Apple prépare *Harbor*, une application pour transformer les Mac en serveurs d’IA privés",
+          "title": "Databricks lance Genie, un agent IA pour automatiser les tâches en arrière-plan",
           "bullets": [
-            "Apple travaillerait sur une application appelée *Harbor* pour permettre aux utilisateurs de Mac d’héberger des modèles d’IA locaux.",
-            "Cette solution vise à offrir une alternative aux services cloud centralisés comme ceux d’OpenAI ou Google.",
-            "Les utilisateurs pourraient ainsi bénéficier de traitements de données plus privés et sécurisés.",
-            "Le lancement officiel n’est pas encore annoncé, mais des tests discrets sont en cours."
+            "Databricks présente Genie, un agent IA conçu pour travailler en arrière-plan et automatiser les processus de données.",
+            "Cette innovation vise à optimiser la gestion des données et à réduire la charge de travail des utilisateurs.",
+            "Genie pourrait révolutionner les workflows analytiques et décisionnels."
           ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2372219-apple-preparerait-harbor-une-app-pour-transformer-vos-mac-en-serveur-dia-prive.html"
-            }
-          ]
-        },
-        {
-          "title": "Black Friday 2026 : les meilleures offres tech dénichées en direct",
-          "bullets": [
-            "Boulanger, Amazon et la Fnac proposent des promotions sur des produits électroniques et high-tech.",
-            "Des réductions significatives sur des smartphones, ordinateurs et accessoires sont disponibles.",
-            "Les codes promo et baisses de prix concernent notamment des marques comme Apple, Samsung et Sony.",
-            "Les consommateurs sont invités à comparer les offres avant de finaliser leurs achats."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-meilleures-offres-de-ce-11-novembre-denichees-en-direct.html"
-            }
-          ]
+          "sources": []
         }
       ]
     },
     {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Anycubic et Thingiverse collaborent pour démocratiser l’impression 3D multicouleurs",
+          "bullets": [
+            "Anycubic et Thingiverse s’associent pour offrir des modèles 3D multicouleurs accessibles aux particuliers.",
+            "Cette collaboration vise à simplifier l’accès à des impressions complexes et colorées.",
+            "Les utilisateurs pourront ainsi explorer de nouvelles possibilités créatives et techniques."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaques aux impôts : méfiance face aux QR codes dans les courriers",
+          "title": "Impôts : les milliardaires français paient moins que la classe moyenne",
           "bullets": [
-            "Les escrocs utilisent des QR codes dans des courriers pour voler les données bancaires des victimes.",
-            "Il est déconseillé de scanner ces codes sans vérifier leur légitimité auprès de l’administration fiscale.",
-            "Les impôts rappellent que leurs communications officielles ne contiennent jamais de liens suspects.",
-            "En cas de doute, il faut contacter directement le service des impôts par téléphone."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie 2026 : demandez jusqu’à 277 € avant le 31 décembre",
-          "bullets": [
-            "Les foyers éligibles peuvent encore demander le chèque énergie pour l’année 2026 jusqu’au 31 décembre.",
-            "Ce dispositif vise à aider les ménages en difficulté financière à payer leurs factures d’énergie.",
-            "Le montant peut atteindre 277 € selon les ressources et la composition du foyer.",
-            "La demande se fait en ligne sur le site officiel du chèque énergie."
+            "Une étude révèle que les plus riches bénéficient de systèmes légaux leur permettant de réduire significativement leur imposition.",
+            "Les inégalités fiscales s’accentuent, avec des taux effectifs bien inférieurs pour les ultra-riches.",
+            "Cette situation suscite des débats sur la justice sociale et la réforme fiscale."
           ],
           "sources": []
         }
@@ -287,22 +232,11 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "France : victoire écrasante contre la Grande-Bretagne en qualification pour l’Eurobasket 2027",
+          "title": "France - Afrique du Sud : émotion et passion au Stade de France pour un match historique",
           "bullets": [
-            "L’équipe de France de basket-ball a remporté une large victoire contre la Grande-Bretagne lors de ses qualifications pour l’Eurobasket 2027.",
-            "Les Bleues ont dominé le match avec une performance collective impressionnante.",
-            "Cette victoire renforce leurs chances de se qualifier pour la compétition finale.",
-            "Les joueuses, menées par une Fauthoux record, visent une médaille aux prochains Jeux Européens."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Dakar 2026 : Meriem Benyoub glane le bronze en handball de plage",
-          "bullets": [
-            "Meriem Benyoub a remporté la médaille de bronze en handball de plage lors du premier jour des Jeux de la Francophonie à Dakar.",
-            "Les équipes de France sont en demi-finale pour d’autres disciplines sportives.",
-            "Ce succès s’ajoute à une série de performances positives pour les athlètes français.",
-            "Les compétitions se poursuivent avec des enjeux élevés pour les médailles."
+            "Le match de rugby opposant la France à l’Afrique du Sud au Stade de France s’annonce comme un événement sportif et émotionnel.",
+            "Onze ans après les attentats du 13 novembre 2015, ce match symbolise la résilience et la passion collective.",
+            "Les supporters sont attendus en grand nombre pour ce rendez-vous sportif et mémorable."
           ],
           "sources": []
         }
