@@ -1,18 +1,18 @@
 {
-  "date_str": "Vendredi 13 novembre 2026",
+  "date_str": "Samedi 14 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 5,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Brice, Abbon et Maxellende",
+          "title": "Aujourd'hui, on souhaite la fête : Laurent, Grégoire et Sidoine",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/13/11/2026/13-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/14/11/2026/14-Novembre-2026.html"
             }
           ]
         }
@@ -22,72 +22,51 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Mobilisation lycéenne : le numérique au cœur des nouvelles formes d’organisation",
+          "title": "Crise sociale : tensions persistantes avec la CFDT et blocages dans la fonction publique",
           "bullets": [
-            "Les mouvements lycéens et étudiants combinent viralité sur les réseaux sociaux et actions « low-tech » pour mobiliser.",
-            "Les réseaux sociaux amplifient la diffusion des informations et coordonnent les actions de blocage.",
-            "Les mobilisations se poursuivent malgré les vacances scolaires, avec des formes d’action adaptées au contexte numérique."
+            "Le Premier ministre Sébastien Lecornu a essuyé les critiques de la CFDT lors des négociations sur la fonction publique.",
+            "Les syndicats dénoncent une revalorisation insuffisante des primes et une absence de dialogue sur les conditions de travail.",
+            "Les mobilisations, notamment chez les enseignants et les hospitaliers, se poursuivent malgré les annonces gouvernementales.",
+            "La CFDT exige une refonte des institutions pour sortir de la spirale de violence et de défiance envers le pouvoir."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html"
             }
           ]
         },
         {
-          "title": "Marine Le Pen renforce son offensive illibérale contre les contre-pouvoirs",
+          "title": "Prime de risque : proposition jugée insuffisante par les syndicats",
           "bullets": [
-            "Le Rassemblement National cible les associations, syndicats, magistrats et journalistes dans ses attaques publiques.",
-            "Les dirigeants du RN multiplient les propos critiques envers les institutions jugées « élitistes » ou « anti-démocratiques ».",
-            "Cette stratégie vise à affaiblir les contre-pouvoirs avant la présidentielle de 2027."
+            "Laurent Nuñez, ministre de l’Intérieur, a présenté un plan de revalorisation de la prime ISSP, inchangée depuis 2019.",
+            "Les syndicats qualifient cette augmentation de « insuffisante » voire « inadmissible ».",
+            "Les forces de l’ordre et les pompiers réclament une revalorisation plus ambitieuse pour compenser les risques professionnels accrus.",
+            "Les négociations se poursuivent dans un climat tendu, avec des risques de nouvelles grèves."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html"
             }
           ]
         },
         {
-          "title": "Menaces contre la presse : les sociétés de journalistes dénoncent une liberté d’information fragilisée",
+          "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
           "bullets": [
-            "Une trentaine de sociétés de journalistes alertent sur l’augmentation des menaces et violences envers les médias.",
-            "Les propos hostiles ou menaçants de personnalités politiques s’intensifient, notamment envers les journalistes d’investigation.",
-            "Cette situation menace la crédibilité et la sécurité des professionnels de l’information."
+            "Certains milieux réactionnaires utilisent des arguments pseudo-scientifiques pour défendre une hiérarchie naturelle entre les sexes.",
+            "Ces discours, présentés comme « féministes », remettent en cause les avancées sociétales et les droits des femmes.",
+            "Magali Della Sudda, politiste, analyse cette stratégie comme une tentative de légitimer un ordre social conservateur.",
+            "Les médias et les associations féministes alertent sur la montée de ces idées dans le débat public."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Décès de Jean Puech, ancien ministre de l’Agriculture et président de l’Aveyron",
-          "bullets": [
-            "Jean Puech, figure politique locale et bâtisseur, est décédé à l’âge de 84 ans.",
-            "Ancien ministre de l’Agriculture, il a également présidé le conseil départemental de l’Aveyron de 1976 à 2008.",
-            "Ses funérailles auront lieu dans les prochains jours."
-          ],
-          "sources": [
+              "url": "https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html"
+            },
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/disparitions/article/2026/11/12/jean-puech-ancien-ministre-de-l-agriculture-est-mort-a-l-age-de-84-ans_6809154_3382.html"
-            }
-          ]
-        },
-        {
-          "title": "Suppression de postes de fonctionnaires : la surenchère des partis avant la présidentielle 2027",
-          "bullets": [
-            "Plusieurs candidats du bloc central, de la droite et de l’extrême droite proposent des suppressions massives de postes dans la fonction publique.",
-            "Les propositions varient de 100 000 à 300 000 suppressions, avec des arguments économiques et anti-gaspillage.",
-            "Cette surenchère reflète une volonté de marquer les esprits avant le scrutin de 2027."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html"
             }
           ]
         }
@@ -97,83 +76,79 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : les Européens enfin associés aux négociations de paix",
+          "title": "Affaire Nvidia : crise politique pour Donald Trump aux États-Unis",
           "bullets": [
-            "Les émissaires américains assurent que les Européens seront intégrés aux prochaines réunions de négociation de paix.",
-            "Moscou n’a pas encore confirmé son accord, mais cette annonce marque une avancée diplomatique majeure.",
-            "L’Ukraine et ses alliés espèrent une implication accrue pour accélérer les discussions."
+            "Donald Trump aurait été informé dès mai des risques liés à la relation entre Jensen Huang et une figure suspectée d’espionnage chinois.",
+            "L’enquête pourrait avoir des répercussions majeures sur sa campagne présidentielle et ses relations avec l’administration américaine.",
+            "Les médias américains soulignent un possible conflit d’intérêts et une gestion opaque de cette affaire.",
+            "Les démocrates exploitent cette affaire pour affaiblir la crédibilité du candidat républicain."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html"
             }
           ]
         },
         {
-          "title": "Turquie : une radio associative brise l’isolement sur les enjeux écologiques",
+          "title": "Rencontre trilatérale Trump-Poutine-Xi : désarmement nucléaire au menu",
           "bullets": [
-            "Apaçik Radyo, basée à Istanbul, diffuse des émissions sur le changement climatique malgré les restrictions sous le régime d’Erdogan.",
-            "Privée de fréquence officielle, elle utilise des moyens alternatifs pour toucher un public large.",
-            "Cette radio offre une voix indépendante dans un pays où les médias traditionnels sont souvent censurés."
+            "La Maison Blanche annonce une rencontre entre Donald Trump, Vladimir Poutine et Xi Jinping lors du sommet de l’APEC à Shenzhen.",
+            "Les discussions porteront principalement sur le désarmement nucléaire et les tensions géopolitiques mondiales.",
+            "Aucune mention des conflits en Ukraine ou en mer de Chine méridionale dans l’ordre du jour officiel.",
+            "Cette rencontre pourrait marquer un tournant dans les relations internationales, notamment entre les grandes puissances."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
             }
           ]
         },
         {
-          "title": "Brésil : la gauche séduit à nouveau avec un candidat charismatique",
+          "title": "Iran et Russie renforcent leurs liens face à Israël et aux États-Unis",
           "bullets": [
-            "Lula da Silva a remporté l’élection présidentielle face à son adversaire de droite.",
-            "Sa campagne a mis en avant un discours progressiste et une image jeune et dynamique.",
-            "Ce succès redonne espoir à la gauche brésilienne après des années de domination conservatrice."
+            "Les rencontres diplomatiques entre Téhéran et Moscou se multiplient, notamment autour de la mer Caspienne.",
+            "Les échanges commerciaux et stratégiques prennent de l’ampleur, malgré les sanctions internationales.",
+            "Cette alliance vise à contrer l’influence américaine et israélienne dans la région.",
+            "Les tensions régionales pourraient s’intensifier avec cette coopération accrue."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/au-bresil-le-beau-gosse-de-la-paulista-redonne-a-la-gauche-son-pouvoir-de-seduction_6809261_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html"
             }
           ]
         },
         {
-          "title": "Justice pour Daphne Caruana Galizia : les fils de la journaliste maltaise persistent dans leur combat",
+          "title": "Suspension des vols aux États-Unis : panne des télécommunications et reprise du trafic",
           "bullets": [
-            "Neuf ans après son assassinat, les trois fils de Daphne Caruana Galizia continuent de lutter pour la vérité.",
-            "Les enquêtes judiciaires peinent à aboutir malgré des indices accablants sur les commanditaires.",
-            "Ce combat symbolise la résistance contre la corruption et l’impunité en Malte."
+            "Un dysfonctionnement majeur a paralysé les centres régionaux de contrôle aérien, entraînant une suspension des vols.",
+            "La reprise du trafic aérien a été annoncée après la résolution de la panne des télécommunications.",
+            "L’administration Trump politise l’incident, réclamant 50 milliards de dollars au Congrès pour moderniser les infrastructures.",
+            "Les compagnies aériennes et les passagers subissent des perturbations majeures."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/l-interminable-combat-pour-obtenir-justice-des-trois-fils-de-daphne-caruana-galizia-la-journaliste-maltaise-assassinee-en-2017_6809271_4500055.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Actualité locale",
-      "sujets": [
-        {
-          "title": "Haute-Saône : délais judiciaires excessifs au tribunal de Vesoul",
-          "bullets": [
-            "Les justiciables dénoncent des délais anormalement longs pour les audiences au tribunal judiciaire de Vesoul.",
-            "Cette situation crée une frustration majeure et remet en cause l’efficacité de la justice locale.",
-            "Les autorités judiciaires sont interpellées pour trouver des solutions rapides."
-          ],
-          "sources": []
         },
         {
-          "title": "Haute-Saône : récolte de Noël accélérée après un été catastrophique pour les sapins",
+          "title": "Francophonie : sommet de Phnom Penh perturbé par la guerre dans les Grands Lacs",
           "bullets": [
-            "Les producteurs de sapins de Noël en Haute-Saône ont dû couper 150 arbres en une heure pour répondre à la demande.",
-            "L’été 2026 a été marqué par des conditions climatiques défavorables, réduisant drastiquement les stocks.",
-            "Cette récolte anticipée s’inscrit dans un contexte de pénurie et de hausse des prix."
+            "Le sommet de la francophonie à Phnom Penh est marqué par des tensions liées à la guerre au Rwanda et en RDC.",
+            "L’élection du secrétaire général de l’OIF est reportée en raison de désaccords politiques.",
+            "Les pays africains dominent les débats, avec des divergences sur la gestion des crises régionales.",
+            "La francophonie peine à jouer un rôle unificateur face aux conflits en cours."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html"
+            }
+          ]
         }
       ]
     },
@@ -181,36 +156,49 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "ByteDance prépare un agent IA pour concurrencer ChatGPT sur TikTok",
+          "title": "Starship : SpaceX réussit son 15e vol d’essai mais échoue à récupérer le booster",
           "bullets": [
-            "ByteDance, propriétaire de TikTok, travaille sur un agent IA intégré à la plateforme pour rivaliser avec les assistants comme ChatGPT.",
-            "Cette initiative vise à renforcer l’engagement des utilisateurs et à diversifier les fonctionnalités de l’application.",
-            "L’objectif est de créer une expérience plus interactive et personnalisée."
+            "Le Starship de SpaceX a décollé avec succès depuis le Texas pour son 15e vol d’essai.",
+            "Le propulseur Super Heavy s’est écrasé dans le golfe du Mexique après la séparation.",
+            "SpaceX vise désormais à maîtriser la récupération des boosters pour réduire les coûts des missions.",
+            "Ce vol marque une étape importante dans le développement des technologies de réutilisation spatiale."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2374491-starship-spacex-reussit-le-decollage-de-sa-fusee-geante-mais-bute-encore-sur-le-retour-du-booster-qui-est-tombe-a-leau.html"
+            }
+          ]
         },
         {
-          "title": "Databricks lance Genie, un agent IA pour automatiser les tâches en arrière-plan",
+          "title": "Découverte de Nāpōwawāʻenakaulua, un couple de quasars parmi les plus anciens de l’Univers",
           "bullets": [
-            "Databricks présente Genie, un agent IA conçu pour travailler en arrière-plan et automatiser les processus de données.",
-            "Cette innovation vise à optimiser la gestion des données et à réduire la charge de travail des utilisateurs.",
-            "Genie pourrait révolutionner les workflows analytiques et décisionnels."
+            "Nāpōwawāʻenakaulua est une paire de quasars née seulement 900 millions d’années après le Big Bang.",
+            "Cette découverte offre un aperçu unique des premières phases de formation des galaxies.",
+            "Les quasars, extrêmement lumineux, pourraient aider à comprendre l’évolution précoce de l’Univers.",
+            "Les observations ont été réalisées grâce à des télescopes modernes et des analyses avancées."
           ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html"
+            }
+          ]
+        },
         {
-          "title": "Anycubic et Thingiverse collaborent pour démocratiser l’impression 3D multicouleurs",
+          "title": "Galaxy Z Fold8 à moitié prix sur Amazon pour le Black Friday",
           "bullets": [
-            "Anycubic et Thingiverse s’associent pour offrir des modèles 3D multicouleurs accessibles aux particuliers.",
-            "Cette collaboration vise à simplifier l’accès à des impressions complexes et colorées.",
-            "Les utilisateurs pourront ainsi explorer de nouvelles possibilités créatives et techniques."
+            "Le Galaxy Z Fold8 de Samsung est proposé à 1 119 € en 256 Go, soit 1 220 € de moins que l’iPhone Duo.",
+            "Cette offre s’inscrit dans le cadre du Black Friday, avec des promotions sur divers produits tech.",
+            "Les smartphones pliables gagnent en popularité malgré leur prix élevé.",
+            "Les consommateurs peuvent profiter de cette occasion pour acquérir un appareil haut de gamme à moindre coût."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html"
+            }
+          ]
         }
       ]
     },
@@ -218,11 +206,22 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Impôts : les milliardaires français paient moins que la classe moyenne",
+          "title": "Arnaque à Ma Prime Rénov’ : 21 mois de prison pour un escroc",
           "bullets": [
-            "Une étude révèle que les plus riches bénéficient de systèmes légaux leur permettant de réduire significativement leur imposition.",
-            "Les inégalités fiscales s’accentuent, avec des taux effectifs bien inférieurs pour les ultra-riches.",
-            "Cette situation suscite des débats sur la justice sociale et la réforme fiscale."
+            "Un système sophistiqué d’arnaque à Ma Prime Rénov’ a permis de voler 5 millions d’euros.",
+            "Le coupable a été condamné à 21 mois de prison et à une amende importante.",
+            "Cette affaire illustre les failles dans les dispositifs d’aides publiques aux rénovations énergétiques.",
+            "Les autorités renforcent désormais les contrôles pour éviter de nouvelles fraudes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque au faux PV : amende à payer sous 48h via QR code",
+          "bullets": [
+            "Une nouvelle arnaque consiste à envoyer des faux PV avec un QR code pour payer une amende sous 48h.",
+            "Les victimes sont incitées à régler une somme via une plateforme frauduleuse.",
+            "Les autorités alertent sur cette technique de plus en plus utilisée pour escroquer les usagers.",
+            "Il est conseillé de vérifier systématiquement l’authenticité des PV reçus."
           ],
           "sources": []
         }
@@ -232,15 +231,51 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "France - Afrique du Sud : émotion et passion au Stade de France pour un match historique",
+          "title": "Rugby : le XV de France bat l’Afrique du Sud en match historique",
           "bullets": [
-            "Le match de rugby opposant la France à l’Afrique du Sud au Stade de France s’annonce comme un événement sportif et émotionnel.",
-            "Onze ans après les attentats du 13 novembre 2015, ce match symbolise la résilience et la passion collective.",
-            "Les supporters sont attendus en grand nombre pour ce rendez-vous sportif et mémorable."
+            "Le XV de France a remporté une victoire héroïque contre l’Afrique du Sud, double championne du monde en titre.",
+            "Ce succès marque la première victoire française contre les Springboks depuis 2022.",
+            "Les Bleus se qualifient pour la finale du Championnat des nations grâce à cette performance.",
+            "Les joueurs comme Bielle-Biarrey et Dupont ont été salués pour leur engagement et leur talent."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Rugby : les Bleus en finale du Championnat des nations après une victoire décisive",
+          "bullets": [
+            "La victoire contre l’Afrique du Sud place le XV de France en position favorable pour la finale.",
+            "Les Bleus doivent maintenant se concentrer sur les prochains matchs pour confirmer leur qualification.",
+            "Les supporters et les médias soulignent l’importance de ce parcours pour la réputation du rugby français.",
+            "Les joueurs ont démontré une unité et une détermination remarquables."
           ],
           "sources": []
         }
       ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [
+        {
+          "title": "Black Friday : promotions sur les imprimantes 3D Bambu Lab et Elegoo",
+          "bullets": [
+            "Des offres attractives sont disponibles sur des modèles d’imprimantes 3D populaires pour le Black Friday.",
+            "Les prix sont réduits pour attirer les consommateurs et stimuler les ventes.",
+            "Ces promotions concernent notamment les marques Bambu Lab et Elegoo, leaders du marché.",
+            "Les utilisateurs peuvent profiter de ces réductions pour acquérir du matériel haut de gamme à moindre coût."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Sport — Pittsburgh Steelers",

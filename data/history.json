@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
-    "title": "Jean-Luc Mélenchon dévoile son programme « L’Avenir en commun » pour 2027",
-    "rubrique": "France",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html",
-    "title": "Grève du 5 novembre : mobilisation historique pour le pouvoir d’achat",
-    "rubrique": "France",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/societe/article/2026/11/05/le-lycee-francoise-a-tournefeuille-pres-de-toulouse-victime-d-une-attaque-d-un-incendie-et-de-degradations_6807345_3224.html",
-    "title": "Incendie et dégradations au lycée de Tournefeuille (près de Toulouse)",
-    "rubrique": "France",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
-    "title": "Olivier Blanchard alerte sur le risque de crise budgétaire en France",
-    "rubrique": "France",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/06/a-macao-l-ancien-parlementaire-au-kam-san-premiere-personne-condamnee-au-nom-de-la-loi-de-securite-nationale_6807718_3210.html",
-    "title": "Macao : première condamnation au nom de la loi de sécurité nationale",
-    "rubrique": "International",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html",
-    "title": "Moscou saisit les actifs russes de Japan Tobacco sur fond de tensions diplomatiques",
-    "rubrique": "International",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html",
-    "title": "Hong Kong se positionne comme future « Monaco asiatique »",
-    "rubrique": "International",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html",
-    "title": "Cuba : libération de Yoani Sánchez après son arrestation",
-    "rubrique": "International",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lemonde.fr/podcasts/article/2026/11/06/inde-les-cafards-defient-le-pouvoir_6807614_5463015.html",
-    "title": "Inde : la jeunesse défie le gouvernement de Narendra Modi",
-    "rubrique": "International",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2368671-comment-la-france-veut-faire-tenir-un-canon-electromagnetique-dans-un-navire-de-guerre.html",
-    "title": "France : développement d’un canon électromagnétique pour navires de guerre",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2368707-pour-40-e-de-plus-ce-pack-switch-2-inclut-le-remake-de-zelda-ocarina-of-time.html",
-    "title": "Pack Switch 2 incluant le remake de *Zelda: Ocarina of Time* à 40 € de plus",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2368621-le-pixel-11-passe-sous-les-800-e-chez-cdiscount-qui-lui-ajoute-une-enceinte-jbl-grip.html",
-    "title": "Google Pixel 11 sous les 800 € avec une enceinte JBL Grip",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-06"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html",
     "title": "Présidentielle 2027 : Raphaël Glucksmann lance la campagne avec une équipe socialiste diversifiée",
     "rubrique": "France",
@@ -622,5 +550,77 @@
     "title": "Justice pour Daphne Caruana Galizia : les fils de la journaliste maltaise persistent dans leur combat",
     "rubrique": "International",
     "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html",
+    "title": "Crise sociale : tensions persistantes avec la CFDT et blocages dans la fonction publique",
+    "rubrique": "France",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html",
+    "title": "Prime de risque : proposition jugée insuffisante par les syndicats",
+    "rubrique": "France",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html",
+    "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
+    "rubrique": "France",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html",
+    "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
+    "rubrique": "France",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+    "title": "Affaire Nvidia : crise politique pour Donald Trump aux États-Unis",
+    "rubrique": "International",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+    "title": "Rencontre trilatérale Trump-Poutine-Xi : désarmement nucléaire au menu",
+    "rubrique": "International",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html",
+    "title": "Iran et Russie renforcent leurs liens face à Israël et aux États-Unis",
+    "rubrique": "International",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
+    "title": "Suspension des vols aux États-Unis : panne des télécommunications et reprise du trafic",
+    "rubrique": "International",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html",
+    "title": "Francophonie : sommet de Phnom Penh perturbé par la guerre dans les Grands Lacs",
+    "rubrique": "International",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2374491-starship-spacex-reussit-le-decollage-de-sa-fusee-geante-mais-bute-encore-sur-le-retour-du-booster-qui-est-tombe-a-leau.html",
+    "title": "Starship : SpaceX réussit son 15e vol d’essai mais échoue à récupérer le booster",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
+    "title": "Découverte de Nāpōwawāʻenakaulua, un couple de quasars parmi les plus anciens de l’Univers",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html",
+    "title": "Galaxy Z Fold8 à moitié prix sur Amazon pour le Black Friday",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-14"
   }
 ]
