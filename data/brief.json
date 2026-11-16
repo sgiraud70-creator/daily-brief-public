@@ -1,18 +1,18 @@
 {
-  "date_str": "Samedi 14 novembre 2026",
+  "date_str": "Lundi 16 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Laurent, Grégoire et Sidoine",
+          "title": "Aujourd'hui, on souhaite la fête : Marguerite, Edmond, Emilion et Gertrude",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/14/11/2026/14-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/16/11/2026/16-Novembre-2026.html"
             }
           ]
         }
@@ -22,51 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Crise sociale : tensions persistantes avec la CFDT et blocages dans la fonction publique",
+          "title": "Marine Le Pen annonce la fin des aides françaises à l’Ukraine en 2027",
           "bullets": [
-            "Le Premier ministre Sébastien Lecornu a essuyé les critiques de la CFDT lors des négociations sur la fonction publique.",
-            "Les syndicats dénoncent une revalorisation insuffisante des primes et une absence de dialogue sur les conditions de travail.",
-            "Les mobilisations, notamment chez les enseignants et les hospitaliers, se poursuivent malgré les annonces gouvernementales.",
-            "La CFDT exige une refonte des institutions pour sortir de la spirale de violence et de défiance envers le pouvoir."
+            "La candidate du Rassemblement National (RN) assume publiquement sa volonté de mettre fin aux aides militaires et financières à l’Ukraine si elle est élue en 2027.",
+            "Elle n’a pas répondu à l’invitation du président ukrainien Volodymyr Zelensky mais doit rencontrer l’ambassadeur de Kiev en France, lundi.",
+            "Cette position marque un tournant dans sa stratégie électorale, en ciblant un électorat critique envers l’engagement français en Ukraine depuis 2022.",
+            "Les conséquences pourraient inclure une rupture diplomatique et une remise en cause des alliances européennes sur le conflit."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html"
             }
           ]
         },
         {
-          "title": "Prime de risque : proposition jugée insuffisante par les syndicats",
+          "title": "Violences lors des manifestations : enquête ouverte pour agressions contre des journalistes à Lyon",
           "bullets": [
-            "Laurent Nuñez, ministre de l’Intérieur, a présenté un plan de revalorisation de la prime ISSP, inchangée depuis 2019.",
-            "Les syndicats qualifient cette augmentation de « insuffisante » voire « inadmissible ».",
-            "Les forces de l’ordre et les pompiers réclament une revalorisation plus ambitieuse pour compenser les risques professionnels accrus.",
-            "Les négociations se poursuivent dans un climat tendu, avec des risques de nouvelles grèves."
+            "Des journalistes de BFM-TV ont été violemment agressés lors d’une manifestation à Lyon le 14 novembre, avec des coups et des insultes (« Brûlez-le !»).",
+            "Un caméraman a été projeté au sol et roué de coups, nécessitant une intervention médicale.",
+            "Une enquête pour violences en réunion a été ouverte par les autorités judiciaires.",
+            "Cet événement illustre la radicalisation des violences lors des mobilisations sociales en France."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html"
             }
           ]
         },
         {
-          "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
+          "title": "Fractures politiques : le RN peine à se « dédiaboliser » avant la présidentielle",
           "bullets": [
-            "Certains milieux réactionnaires utilisent des arguments pseudo-scientifiques pour défendre une hiérarchie naturelle entre les sexes.",
-            "Ces discours, présentés comme « féministes », remettent en cause les avancées sociétales et les droits des femmes.",
-            "Magali Della Sudda, politiste, analyse cette stratégie comme une tentative de légitimer un ordre social conservateur.",
-            "Les médias et les associations féministes alertent sur la montée de ces idées dans le débat public."
+            "Le Rassemblement National (RN) rencontre des difficultés à normaliser son image malgré des années de stratégie médiatique.",
+            "Les convictions de ses électeurs, analysées par la Fondation Jean Jaurès, révèlent un consensus autoritaire, xénophobe et climatosceptique.",
+            "Cette fracture politique s’accentue avec une défiance croissante envers les institutions et les médias traditionnels.",
+            "Les sondages montrent une polarisation accrue de l’électorat, notamment chez les jeunes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html"
-            },
+              "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Élections législatives 2027 : le redécoupage territorial toujours reporté",
+          "bullets": [
+            "En cas d’élections législatives en 2027, la carte électorale actuelle, inchangée depuis 2010, serait utilisée.",
+            "Le gouvernement a plusieurs fois repoussé la réforme des circonscriptions pour des raisons techniques et politiques.",
+            "Cette situation pourrait favoriser des déséquilibres territoriaux et des tensions entre partis.",
+            "Les associations et élus locaux appellent à une modernisation urgente du système électoral."
+          ],
+          "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Édouard Philippe accepte une réunion des candidats de droite sans primaire",
+          "bullets": [
+            "Le président du Sénat, Gérard Larcher, a proposé une réunion des candidats de droite et du centre pour trancher sur une méthode de départ commune.",
+            "Édouard Philippe a accepté cette invitation mais maintient son refus d’une primaire ouverte.",
+            "Cette initiative vise à unifier la droite en vue de la présidentielle de 2027.",
+            "Les divisions persistent sur la stratégie à adopter pour affronter Marine Le Pen et Éric Zemmour."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Paysage politique clivé : l’élection présidentielle perçue comme une solution illusoire",
+          "bullets": [
+            "Une enquête Ipsos BVA-CESI révèle que les Français considèrent de moins en moins l’élection présidentielle comme une solution aux crises politiques et sociales.",
+            "Les jeunes et les classes populaires expriment une défiance croissante envers les institutions.",
+            "Cette désillusion s’accompagne d’une montée des abstentionnistes et d’une fragmentation des votes.",
+            "Les partis traditionnels peinent à proposer des alternatives crédibles face à la radicalisation des discours."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Violences lors du 17 octobre : révélateur d’un clivage générationnel profond",
+          "bullets": [
+            "Les manifestations du 17 octobre ont été marquées par des violences et des affrontements entre jeunes et forces de l’ordre.",
+            "Les jeunes manifestants expriment une colère liée aux inégalités sociales et à l’absence de perspectives d’avenir.",
+            "Les analyses sociologiques soulignent une rupture générationnelle dans le rapport au politique.",
+            "Ces tensions pourraient influencer durablement le paysage politique avant 2027."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html"
             }
           ]
         }
@@ -76,199 +132,109 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Affaire Nvidia : crise politique pour Donald Trump aux États-Unis",
+          "title": "Miguel Ángel Félix Gallardo, baron de la drogue mexicain, décède en prison après 37 ans d’incarcération",
           "bullets": [
-            "Donald Trump aurait été informé dès mai des risques liés à la relation entre Jensen Huang et une figure suspectée d’espionnage chinois.",
-            "L’enquête pourrait avoir des répercussions majeures sur sa campagne présidentielle et ses relations avec l’administration américaine.",
-            "Les médias américains soulignent un possible conflit d’intérêts et une gestion opaque de cette affaire.",
-            "Les démocrates exploitent cette affaire pour affaiblir la crédibilité du candidat républicain."
+            "Le célèbre narcotrafiquant mexicain, surnommé « Le Roi de la cocaïne », est mort à 80 ans dans un hôpital après des années de détention.",
+            "Il purgeait une peine de 77 ans de prison pour trafic de drogue et crimes liés.",
+            "Son empire a marqué l’histoire du crime organisé au Mexique dans les années 1980-1990.",
+            "Sa mort met fin à une ère de la guerre contre les cartels au Mexique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html"
+              "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/miguel-angel-felix-gallardo-l-un-des-narcotrafiquants-mexicains-les-plus-reputes-est-mort-apres-trente-sept-ans-passes-en-prison_6811303_3382.html"
             }
           ]
         },
         {
-          "title": "Rencontre trilatérale Trump-Poutine-Xi : désarmement nucléaire au menu",
+          "title": "COP31 : qui doit financer la lutte contre le changement climatique ?",
           "bullets": [
-            "La Maison Blanche annonce une rencontre entre Donald Trump, Vladimir Poutine et Xi Jinping lors du sommet de l’APEC à Shenzhen.",
-            "Les discussions porteront principalement sur le désarmement nucléaire et les tensions géopolitiques mondiales.",
-            "Aucune mention des conflits en Ukraine ou en mer de Chine méridionale dans l’ordre du jour officiel.",
-            "Cette rencontre pourrait marquer un tournant dans les relations internationales, notamment entre les grandes puissances."
+            "La France insiste sur l’élargissement du cercle des États tenus de contribuer financièrement aux efforts climatiques des pays en développement.",
+            "Les pays riches, historiquement responsables des émissions, sont sous pression pour augmenter leurs engagements.",
+            "Les négociations à la COP31, qui se tient en 2026, pourraient redéfinir les responsabilités internationales en matière de climat.",
+            "Les pays du Sud global réclament une justice climatique et des compensations pour les dégâts déjà causés."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html"
             }
           ]
         },
         {
-          "title": "Iran et Russie renforcent leurs liens face à Israël et aux États-Unis",
+          "title": "Ukraine : utilisation de l’IA en guerre soulève des questions morales et politiques",
           "bullets": [
-            "Les rencontres diplomatiques entre Téhéran et Moscou se multiplient, notamment autour de la mer Caspienne.",
-            "Les échanges commerciaux et stratégiques prennent de l’ampleur, malgré les sanctions internationales.",
-            "Cette alliance vise à contrer l’influence américaine et israélienne dans la région.",
-            "Les tensions régionales pourraient s’intensifier avec cette coopération accrue."
+            "L’Ukraine explore l’utilisation de l’intelligence artificielle pour améliorer ses capacités militaires, notamment en ciblage et analyse de données.",
+            "Des soldats et experts debattent des implications éthiques et des risques de déshumanisation des conflits.",
+            "La 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques, en cours à Genève, aborde ces enjeux.",
+            "Les États-Unis et l’Europe surveillent de près l’évolution de cette technologie dans le contexte du conflit."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html"
             }
           ]
         },
         {
-          "title": "Suspension des vols aux États-Unis : panne des télécommunications et reprise du trafic",
+          "title": "Échec de la fusée Vulcan : Amazon perd 40 satellites dans un lancement raté",
           "bullets": [
-            "Un dysfonctionnement majeur a paralysé les centres régionaux de contrôle aérien, entraînant une suspension des vols.",
-            "La reprise du trafic aérien a été annoncée après la résolution de la panne des télécommunications.",
-            "L’administration Trump politise l’incident, réclamant 50 milliards de dollars au Congrès pour moderniser les infrastructures.",
-            "Les compagnies aériennes et les passagers subissent des perturbations majeures."
+            "Le lanceur Vulcan, développé par United Launch Alliance, a subi une anomalie dix minutes après le décollage, entraînant la perte des satellites Amazon.",
+            "Il s’agissait du premier vol opérationnel de la fusée, conçue pour remplacer les Atlas V.",
+            "Amazon, qui investit massivement dans son réseau de satellites Kuiper, subit un coup dur financier et technique.",
+            "Les causes de l’échec sont en cours d’enquête, avec des implications pour le secteur spatial commercial."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html"
+              "url": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html"
             }
           ]
         },
         {
-          "title": "Francophonie : sommet de Phnom Penh perturbé par la guerre dans les Grands Lacs",
+          "title": "Amazonie péruvienne : le pape François alerte sur la déforestation et l’abandon des peuples autochtones",
           "bullets": [
-            "Le sommet de la francophonie à Phnom Penh est marqué par des tensions liées à la guerre au Rwanda et en RDC.",
-            "L’élection du secrétaire général de l’OIF est reportée en raison de désaccords politiques.",
-            "Les pays africains dominent les débats, avec des divergences sur la gestion des crises régionales.",
-            "La francophonie peine à jouer un rôle unificateur face aux conflits en cours."
+            "Lors de sa visite en Amazonie péruvienne, le pape François a dénoncé l’accélération de la déforestation et l’abandon des communautés indigènes.",
+            "Il a appelé à une protection renforcée des droits des peuples autochtones et à une transition écologique juste.",
+            "La déforestation en Amazonie atteint des records, avec des conséquences graves pour la biodiversité et le climat mondial.",
+            "Les autorités péruviennes sont critiquées pour leur incapacité à protéger cette région stratégique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "IA & nouvelles technologies",
-      "sujets": [
+        },
         {
-          "title": "Starship : SpaceX réussit son 15e vol d’essai mais échoue à récupérer le booster",
+          "title": "Maroc : Casablanca préserve son patrimoine Art déco sous pression immobilière",
           "bullets": [
-            "Le Starship de SpaceX a décollé avec succès depuis le Texas pour son 15e vol d’essai.",
-            "Le propulseur Super Heavy s’est écrasé dans le golfe du Mexique après la séparation.",
-            "SpaceX vise désormais à maîtriser la récupération des boosters pour réduire les coûts des missions.",
-            "Ce vol marque une étape importante dans le développement des technologies de réutilisation spatiale."
+            "L’État marocain accélère la protection des immeubles Art déco à Casablanca, hérités du protectorat français.",
+            "La pression immobilière menace ces bâtiments historiques, considérés comme des symboles de l’histoire urbaine.",
+            "Des associations locales et internationales appellent à une meilleure préservation du patrimoine architectural.",
+            "Cette initiative s’inscrit dans une politique plus large de valorisation du patrimoine en Afrique du Nord."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2374491-starship-spacex-reussit-le-decollage-de-sa-fusee-geante-mais-bute-encore-sur-le-retour-du-booster-qui-est-tombe-a-leau.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/16/au-maroc-casablanca-sous-pression-immobiliere-veut-preserver-ses-immeubles-art-deco_6811171_3212.html"
             }
           ]
         },
         {
-          "title": "Découverte de Nāpōwawāʻenakaulua, un couple de quasars parmi les plus anciens de l’Univers",
+          "title": "Suisse : inculpation inédite d’un journaliste via la loi sur les banques suscite des inquiétudes",
           "bullets": [
-            "Nāpōwawāʻenakaulua est une paire de quasars née seulement 900 millions d’années après le Big Bang.",
-            "Cette découverte offre un aperçu unique des premières phases de formation des galaxies.",
-            "Les quasars, extrêmement lumineux, pourraient aider à comprendre l’évolution précoce de l’Univers.",
-            "Les observations ont été réalisées grâce à des télescopes modernes et des analyses avancées."
+            "Le journaliste suisse Lukas Hässig, auteur de révélations sur un scandale bancaire, a été inculpé en octobre via la loi sur les banques.",
+            "Cette mesure, critiquée comme une atteinte à la liberté de la presse, pourrait décourager les enquêtes journalistiques.",
+            "Des organisations internationales, dont Reporters sans frontières, dénoncent une instrumentalisation du droit.",
+            "La Suisse, connue pour sa neutralité et son secret bancaire, voit son image médiatique entachée."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/16/en-suisse-l-inculpation-inedite-d-un-journaliste-via-la-loi-sur-les-banques-nourrit-des-inquietudes_6811403_4355770.html"
             }
           ]
-        },
-        {
-          "title": "Galaxy Z Fold8 à moitié prix sur Amazon pour le Black Friday",
-          "bullets": [
-            "Le Galaxy Z Fold8 de Samsung est proposé à 1 119 € en 256 Go, soit 1 220 € de moins que l’iPhone Duo.",
-            "Cette offre s’inscrit dans le cadre du Black Friday, avec des promotions sur divers produits tech.",
-            "Les smartphones pliables gagnent en popularité malgré leur prix élevé.",
-            "Les consommateurs peuvent profiter de cette occasion pour acquérir un appareil haut de gamme à moindre coût."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Arnaque à Ma Prime Rénov’ : 21 mois de prison pour un escroc",
-          "bullets": [
-            "Un système sophistiqué d’arnaque à Ma Prime Rénov’ a permis de voler 5 millions d’euros.",
-            "Le coupable a été condamné à 21 mois de prison et à une amende importante.",
-            "Cette affaire illustre les failles dans les dispositifs d’aides publiques aux rénovations énergétiques.",
-            "Les autorités renforcent désormais les contrôles pour éviter de nouvelles fraudes."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Arnaque au faux PV : amende à payer sous 48h via QR code",
-          "bullets": [
-            "Une nouvelle arnaque consiste à envoyer des faux PV avec un QR code pour payer une amende sous 48h.",
-            "Les victimes sont incitées à régler une somme via une plateforme frauduleuse.",
-            "Les autorités alertent sur cette technique de plus en plus utilisée pour escroquer les usagers.",
-            "Il est conseillé de vérifier systématiquement l’authenticité des PV reçus."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Rugby : le XV de France bat l’Afrique du Sud en match historique",
-          "bullets": [
-            "Le XV de France a remporté une victoire héroïque contre l’Afrique du Sud, double championne du monde en titre.",
-            "Ce succès marque la première victoire française contre les Springboks depuis 2022.",
-            "Les Bleus se qualifient pour la finale du Championnat des nations grâce à cette performance.",
-            "Les joueurs comme Bielle-Biarrey et Dupont ont été salués pour leur engagement et leur talent."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Rugby : les Bleus en finale du Championnat des nations après une victoire décisive",
-          "bullets": [
-            "La victoire contre l’Afrique du Sud place le XV de France en position favorable pour la finale.",
-            "Les Bleus doivent maintenant se concentrer sur les prochains matchs pour confirmer leur qualification.",
-            "Les supporters et les médias soulignent l’importance de ce parcours pour la réputation du rugby français.",
-            "Les joueurs ont démontré une unité et une détermination remarquables."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "Black Friday : promotions sur les imprimantes 3D Bambu Lab et Elegoo",
-          "bullets": [
-            "Des offres attractives sont disponibles sur des modèles d’imprimantes 3D populaires pour le Black Friday.",
-            "Les prix sont réduits pour attirer les consommateurs et stimuler les ventes.",
-            "Ces promotions concernent notamment les marques Bambu Lab et Elegoo, leaders du marché.",
-            "Les utilisateurs peuvent profiter de ces réductions pour acquérir du matériel haut de gamme à moindre coût."
-          ],
-          "sources": []
         }
       ]
     },
@@ -278,13 +244,108 @@
       "note": "Rien de significatif à signaler ce matin."
     },
     {
+      "label": "IA & nouvelles technologies",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Arnaque du « crash and cash » : comment fonctionne ce piège qui sévit en France ?",
+          "bullets": [
+            "Des voleurs provoquent volontairement un accident de voiture pour induire la victime en erreur et lui soutirer de l’argent.",
+            "La technique consiste à simuler une collision, puis à exploiter la confusion de la victime pour lui faire signer des documents ou verser des fonds.",
+            "Les gendarmes et la police nationale alertent sur la recrudescence de ces arnaques, notamment dans les zones urbaines.",
+            "Les assurances et les associations de consommateurs conseillent de ne jamais signer de documents sous pression."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Patrons de la métallurgie interpellent les candidats à la présidentielle sur les impôts et les salaires",
+          "bullets": [
+            "Les dirigeants de la métallurgie ont adressé une lettre aux principaux candidats à la présidentielle pour alerter sur les enjeux fiscaux et salariaux.",
+            "Ils demandent des mesures concrètes pour réduire la pression fiscale sur les entreprises et améliorer la compétitivité.",
+            "Les patrons soulignent aussi la nécessité de former les travailleurs aux nouvelles technologies.",
+            "Cette prise de parole s’inscrit dans une dynamique de pression des milieux économiques avant 2027."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Retraitée de Montauban arnaquée de 160 000 € dans une vaste opération de placements frauduleux",
+          "bullets": [
+            "Une femme de 70 ans a perdu 160 000 € dans une arnaque aux placements financiers, via des promesses de rendements mirobolants.",
+            "Les escrocs ont exploité sa méconnaissance des mécanismes financiers et son désir de sécurité financière.",
+            "Les autorités judiciaires enquêtent sur ce réseau criminel, qui cible principalement les retraités vulnérables.",
+            "Les associations de consommateurs rappellent la nécessité de vérifier la légitimité des conseillers financiers."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Mirra Andreeva remporte les WTA Finals 2026 à 19 ans",
+          "bullets": [
+            "La jeune Russe Mirra Andreeva a remporté son premier titre aux WTA Finals après une victoire en finale contre Elina Svitolina.",
+            "Ce succès marque une ascension fulgurante dans le tennis féminin, où elle se positionne comme une future star.",
+            "Andreeva a démontré une maîtrise technique et mentale exceptionnelle lors de la compétition.",
+            "Son titre pourrait influencer les jeunes joueuses et relancer l’intérêt pour le tennis féminin."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Bleus du rugby et du football en tête du Championnat des nations",
+          "bullets": [
+            "Les équipes de France de rugby et de football dominent le classement du Championnat des nations après cinq journées.",
+            "Les Bleus du rugby ont remporté leurs matchs contre l’Italie et l’Écosse, consolidant leur avance.",
+            "En football, l’équipe de France a également progressé grâce à des performances solides en Ligue des nations.",
+            "Ces résultats renforcent l’ambition des deux fédérations pour les compétitions internationales à venir."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Lévézou Ségala remporte le derby contre Decazeville en Nationale 2",
+          "bullets": [
+            "Le club de Lévézou Ségala a remporté le derby contre Decazeville en Nationale 2, marquant un tournant dans la compétition.",
+            "Rodez poursuit sa série sans défaite, tandis que Millau se reprend après une défaite précédente.",
+            "Ces résultats dynamisent le championnat et attirent l’attention des supporters locaux.",
+            "La saison 2026-2027 s’annonce compétitive dans cette division régionale."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Le Mans Sarthe Basket domine l’Asvel en Betclic Élite",
+          "bullets": [
+            "Le Mans Sarthe Basket a écrasé l’Asvel en Betclic Élite, enchaînant une sixième victoire consécutive.",
+            "Cette performance renforce leur position en tête du championnat et suscite l’enthousiasme des supporters.",
+            "Le club s’impose comme un favori pour le titre cette saison.",
+            "Les joueurs et l’entraîneur saluent une dynamique collective et une défense solide."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "label": "Sport — Pittsburgh Steelers",
       "sujets": [
         {
           "title": "les Steelers — prochain match",
           "bullets": [
             "Information indisponible ce matin.",
-            "Classement : 1er de l'AFC Nord (6-2)"
+            "Classement : 2e de l'AFC Nord (6-3)"
           ],
           "sources": []
         }
