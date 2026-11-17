@@ -1,5 +1,5 @@
 {
-  "date_str": "Lundi 16 novembre 2026",
+  "date_str": "Mardi 17 novembre 2026",
   "audio_minutes": 11,
   "read_minutes": 9,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Marguerite, Edmond, Emilion et Gertrude",
+          "title": "Aujourd'hui, on souhaite la fête : Elisabeth, Loélise, Aignan, Hilda et Salomé",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/16/11/2026/16-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/17/11/2026/17-Novembre-2026.html"
             }
           ]
         }
@@ -22,107 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Marine Le Pen annonce la fin des aides françaises à l’Ukraine en 2027",
+          "title": "Fonctionnaires et magistrats appellent à la mobilisation contre les reculs des libertés publiques",
           "bullets": [
-            "La candidate du Rassemblement National (RN) assume publiquement sa volonté de mettre fin aux aides militaires et financières à l’Ukraine si elle est élue en 2027.",
-            "Elle n’a pas répondu à l’invitation du président ukrainien Volodymyr Zelensky mais doit rencontrer l’ambassadeur de Kiev en France, lundi.",
-            "Cette position marque un tournant dans sa stratégie électorale, en ciblant un électorat critique envers l’engagement français en Ukraine depuis 2022.",
-            "Les conséquences pourraient inclure une rupture diplomatique et une remise en cause des alliances européennes sur le conflit."
+            "Une tribune publiée au *Monde* par des hauts fonctionnaires, magistrats et agents publics dénonce une « atteinte grave aux libertés publiques ».",
+            "Les signataires soulignent une « érosion progressive des garde-fous démocratiques » et appellent à une résistance collective.",
+            "Cette mobilisation intervient dans un contexte de tensions sociales et de réformes controversées.",
+            "Les auteurs insistent sur le rôle clé de l’administration dans la protection des droits fondamentaux."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/17/nous-hauts-fonctionnaires-magistrats-et-agents-publics-ne-pouvons-rester-indifferents-a-ce-qui-se-joue-une-atteinte-grave-aux-libertes-publiques_6812907_3232.html"
             }
           ]
         },
         {
-          "title": "Violences lors des manifestations : enquête ouverte pour agressions contre des journalistes à Lyon",
+          "title": "Grève massive dans la fonction publique : mobilisation historique ce 17 novembre",
           "bullets": [
-            "Des journalistes de BFM-TV ont été violemment agressés lors d’une manifestation à Lyon le 14 novembre, avec des coups et des insultes (« Brûlez-le !»).",
-            "Un caméraman a été projeté au sol et roué de coups, nécessitant une intervention médicale.",
-            "Une enquête pour violences en réunion a été ouverte par les autorités judiciaires.",
-            "Cet événement illustre la radicalisation des violences lors des mobilisations sociales en France."
+            "L’intersyndicale (CGT, FO, FSU, etc.) appelle à une grève générale dans la fonction publique pour exiger des augmentations immédiates.",
+            "Les syndicats dénoncent des « réponses insuffisantes du gouvernement » malgré les annonces récentes.",
+            "Les manifestations sont prévues dans plusieurs villes, avec une forte présence des agents publics.",
+            "Les grévistes réclament aussi la revalorisation des salaires et des conditions de travail."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html"
+              "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html"
             }
           ]
         },
         {
-          "title": "Fractures politiques : le RN peine à se « dédiaboliser » avant la présidentielle",
+          "title": "Gaz lacrymogènes : des élus et médecins demandent leur interdiction pour les femmes",
           "bullets": [
-            "Le Rassemblement National (RN) rencontre des difficultés à normaliser son image malgré des années de stratégie médiatique.",
-            "Les convictions de ses électeurs, analysées par la Fondation Jean Jaurès, révèlent un consensus autoritaire, xénophobe et climatosceptique.",
-            "Cette fracture politique s’accentue avec une défiance croissante envers les institutions et les médias traditionnels.",
-            "Les sondages montrent une polarisation accrue de l’électorat, notamment chez les jeunes."
+            "Près de 10 000 femmes ont témoigné des effets dévastateurs des gaz lacrymogènes sur leur santé, notamment pendant les manifestations.",
+            "Des élus et médecins réclament une interdiction ciblée pour protéger les femmes, plus vulnérables aux irritations.",
+            "Les témoignages évoquent des complications gynécologiques et des traumatismes psychologiques.",
+            "Une proposition de loi pourrait être déposée pour encadrer strictement leur usage."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html"
             }
           ]
         },
         {
-          "title": "Élections législatives 2027 : le redécoupage territorial toujours reporté",
+          "title": "Débat présidentiel : impôts, logement et SMIC au cœur des propositions",
           "bullets": [
-            "En cas d’élections législatives en 2027, la carte électorale actuelle, inchangée depuis 2010, serait utilisée.",
-            "Le gouvernement a plusieurs fois repoussé la réforme des circonscriptions pour des raisons techniques et politiques.",
-            "Cette situation pourrait favoriser des déséquilibres territoriaux et des tensions entre partis.",
-            "Les associations et élus locaux appellent à une modernisation urgente du système électoral."
+            "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont échangé sur leurs programmes économiques.",
+            "Les candidats divergent sur la fiscalité (hausse ou baisse des impôts), le logement social et l’augmentation du SMIC.",
+            "Marine Le Pen a défendu une baisse des impôts pour les classes moyennes, tandis que Jean-Luc Mélenchon prône une fiscalité progressive.",
+            "Le logement abordable et la lutte contre la précarité ont été des thèmes récurrents."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html"
             }
           ]
         },
         {
-          "title": "Édouard Philippe accepte une réunion des candidats de droite sans primaire",
+          "title": "Formation environnementale : un atout pour l’épanouissement professionnel des jeunes",
           "bullets": [
-            "Le président du Sénat, Gérard Larcher, a proposé une réunion des candidats de droite et du centre pour trancher sur une méthode de départ commune.",
-            "Édouard Philippe a accepté cette invitation mais maintient son refus d’une primaire ouverte.",
-            "Cette initiative vise à unifier la droite en vue de la présidentielle de 2027.",
-            "Les divisions persistent sur la stratégie à adopter pour affronter Marine Le Pen et Éric Zemmour."
+            "Les diplômés en formations environnementales affichent un meilleur épanouissement professionnel que la moyenne.",
+            "Malgré cette satisfaction, leurs salaires restent inférieurs à ceux des autres diplômés.",
+            "Les employeurs reconnaissent une meilleure employabilité dans les secteurs verts.",
+            "Les pouvoirs publics sont appelés à valoriser davantage ces parcours."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Paysage politique clivé : l’élection présidentielle perçue comme une solution illusoire",
-          "bullets": [
-            "Une enquête Ipsos BVA-CESI révèle que les Français considèrent de moins en moins l’élection présidentielle comme une solution aux crises politiques et sociales.",
-            "Les jeunes et les classes populaires expriment une défiance croissante envers les institutions.",
-            "Cette désillusion s’accompagne d’une montée des abstentionnistes et d’une fragmentation des votes.",
-            "Les partis traditionnels peinent à proposer des alternatives crédibles face à la radicalisation des discours."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Violences lors du 17 octobre : révélateur d’un clivage générationnel profond",
-          "bullets": [
-            "Les manifestations du 17 octobre ont été marquées par des violences et des affrontements entre jeunes et forces de l’ordre.",
-            "Les jeunes manifestants expriment une colère liée aux inégalités sociales et à l’absence de perspectives d’avenir.",
-            "Les analyses sociologiques soulignent une rupture générationnelle dans le rapport au politique.",
-            "Ces tensions pourraient influencer durablement le paysage politique avant 2027."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html"
+              "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/17/il-faut-aider-les-jeunes-a-se-construire-des-parcours-scolaires-et-professionnels-desirables_6812899_6768900.html"
             }
           ]
         }
@@ -132,107 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Miguel Ángel Félix Gallardo, baron de la drogue mexicain, décède en prison après 37 ans d’incarcération",
+          "title": "Procès historique à Paris : un Rwandais jugé pour génocide et crimes contre l’humanité",
           "bullets": [
-            "Le célèbre narcotrafiquant mexicain, surnommé « Le Roi de la cocaïne », est mort à 80 ans dans un hôpital après des années de détention.",
-            "Il purgeait une peine de 77 ans de prison pour trafic de drogue et crimes liés.",
-            "Son empire a marqué l’histoire du crime organisé au Mexique dans les années 1980-1990.",
-            "Sa mort met fin à une ère de la guerre contre les cartels au Mexique."
+            "Madjaliwa Safari, 61 ans, est poursuivi pour sa présumée implication dans les tueries des « barrières » lors du génocide des Tutsi au Rwanda.",
+            "Les faits, qualifiés d’« imprescriptibles », remontent à 1994 et concernent des massacres organisés dans des zones spécifiques.",
+            "La justice française, compétente pour ces crimes, examine les preuves et témoignages recueillis depuis des décennies.",
+            "Ce procès s’inscrit dans une série d’affaires similaires visant à rendre justice aux victimes."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/miguel-angel-felix-gallardo-l-un-des-narcotrafiquants-mexicains-les-plus-reputes-est-mort-apres-trente-sept-ans-passes-en-prison_6811303_3382.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/17/genocide-des-tutsi-devant-la-cour-d-assises-de-paris-le-proces-du-rwandais-madjaliwa-safari-et-des-tueries-aux-barrieres_6812910_3212.html"
             }
           ]
         },
         {
-          "title": "COP31 : qui doit financer la lutte contre le changement climatique ?",
+          "title": "Frappe russe en Ukraine : deux ponts stratégiques de Kiev endommagés",
           "bullets": [
-            "La France insiste sur l’élargissement du cercle des États tenus de contribuer financièrement aux efforts climatiques des pays en développement.",
-            "Les pays riches, historiquement responsables des émissions, sont sous pression pour augmenter leurs engagements.",
-            "Les négociations à la COP31, qui se tient en 2026, pourraient redéfinir les responsabilités internationales en matière de climat.",
-            "Les pays du Sud global réclament une justice climatique et des compensations pour les dégâts déjà causés."
+            "Des frappes russes ont visé et endommagé deux ponts critiques dans la capitale ukrainienne, selon le maire Vitali Klitschko.",
+            "Ces infrastructures, essentielles pour la logistique et les déplacements, pourraient subir des perturbations majeures.",
+            "Kiev dénonce une escalade des attaques ciblant les systèmes d’infrastructures critiques.",
+            "La situation pourrait aggraver les difficultés déjà existantes pour la population et les forces armées."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html"
             }
           ]
         },
         {
-          "title": "Ukraine : utilisation de l’IA en guerre soulève des questions morales et politiques",
+          "title": "Cisjordanie : une femme palestinienne tuée dans une embuscade impliquant des colons",
           "bullets": [
-            "L’Ukraine explore l’utilisation de l’intelligence artificielle pour améliorer ses capacités militaires, notamment en ciblage et analyse de données.",
-            "Des soldats et experts debattent des implications éthiques et des risques de déshumanisation des conflits.",
-            "La 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques, en cours à Genève, aborde ces enjeux.",
-            "Les États-Unis et l’Europe surveillent de près l’évolution de cette technologie dans le contexte du conflit."
+            "Une Palestinienne a été assassinée par un colon israélien après une embuscade tendue par des assaillants palestiniens.",
+            "Cinq autres Palestiniens ont été blessés lors d’un accident impliquant un colon dans le sud de la Cisjordanie.",
+            "Ces incidents s’inscrivent dans un contexte de tensions croissantes et de violences récurrentes dans la région.",
+            "La communauté internationale condamne ces actes et appelle au respect du droit international."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-une-femme-palestinienne-tuee-par-un-colon-apres-une-embuscade-d-assaillants-palestiniens_6812889_3210.html"
             }
           ]
         },
         {
-          "title": "Échec de la fusée Vulcan : Amazon perd 40 satellites dans un lancement raté",
+          "title": "Lobbying européen : les PFAS, polluants éternels, menacés d’interdiction partielle",
           "bullets": [
-            "Le lanceur Vulcan, développé par United Launch Alliance, a subi une anomalie dix minutes après le décollage, entraînant la perte des satellites Amazon.",
-            "Il s’agissait du premier vol opérationnel de la fusée, conçue pour remplacer les Atlas V.",
-            "Amazon, qui investit massivement dans son réseau de satellites Kuiper, subit un coup dur financier et technique.",
-            "Les causes de l’échec sont en cours d’enquête, avec des implications pour le secteur spatial commercial."
+            "Le lobby des fluoropolymères tente d’affaiblir une proposition de restriction européenne sur les PFAS, surnommés « polluants éternels ».",
+            "Ces substances, persistantes dans l’environnement, sont liées à des risques sanitaires majeurs.",
+            "La Commission européenne est critiquée pour ses reculs face aux pressions industrielles.",
+            "Des ONG et scientifiques appellent à une interdiction totale pour protéger la santé publique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html"
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html"
             }
           ]
         },
         {
-          "title": "Amazonie péruvienne : le pape François alerte sur la déforestation et l’abandon des peuples autochtones",
+          "title": "Sommet de la francophonie : report d’un an en raison de tensions diplomatiques",
           "bullets": [
-            "Lors de sa visite en Amazonie péruvienne, le pape François a dénoncé l’accélération de la déforestation et l’abandon des communautés indigènes.",
-            "Il a appelé à une protection renforcée des droits des peuples autochtones et à une transition écologique juste.",
-            "La déforestation en Amazonie atteint des records, avec des conséquences graves pour la biodiversité et le climat mondial.",
-            "Les autorités péruviennes sont critiquées pour leur incapacité à protéger cette région stratégique."
+            "Les 53 États membres de l’Organisation internationale de la francophonie ont reporté la désignation de leur secrétaire général.",
+            "Les divergences politiques, notamment liées à des crises régionales, ont paralysé les négociations.",
+            "Ce report s’ajoute à une série de tensions affectant la coopération francophone.",
+            "La prochaine réunion devrait permettre de trouver un consensus pour éviter un nouveau blocage."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Maroc : Casablanca préserve son patrimoine Art déco sous pression immobilière",
-          "bullets": [
-            "L’État marocain accélère la protection des immeubles Art déco à Casablanca, hérités du protectorat français.",
-            "La pression immobilière menace ces bâtiments historiques, considérés comme des symboles de l’histoire urbaine.",
-            "Des associations locales et internationales appellent à une meilleure préservation du patrimoine architectural.",
-            "Cette initiative s’inscrit dans une politique plus large de valorisation du patrimoine en Afrique du Nord."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/16/au-maroc-casablanca-sous-pression-immobiliere-veut-preserver-ses-immeubles-art-deco_6811171_3212.html"
-            }
-          ]
-        },
-        {
-          "title": "Suisse : inculpation inédite d’un journaliste via la loi sur les banques suscite des inquiétudes",
-          "bullets": [
-            "Le journaliste suisse Lukas Hässig, auteur de révélations sur un scandale bancaire, a été inculpé en octobre via la loi sur les banques.",
-            "Cette mesure, critiquée comme une atteinte à la liberté de la presse, pourrait décourager les enquêtes journalistiques.",
-            "Des organisations internationales, dont Reporters sans frontières, dénoncent une instrumentalisation du droit.",
-            "La Suisse, connue pour sa neutralité et son secret bancaire, voit son image médiatique entachée."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/16/en-suisse-l-inculpation-inedite-d-un-journaliste-via-la-loi-sur-les-banques-nourrit-des-inquietudes_6811403_4355770.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html"
             }
           ]
         }
@@ -241,53 +181,163 @@
     {
       "label": "Actualité locale",
       "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Disparition de la 2G en France : Orange et SFR éteignent leur réseau",
+          "bullets": [
+            "SFR a éteint son réseau 2G dans les grandes agglomérations entre le 15 et le 30 novembre 2026, puis dans le reste de la métropole jusqu’au 15 décembre.",
+            "Orange avait déjà arrêté son réseau 2G en octobre 2026, suivant une tendance européenne d’abandon de cette technologie obsolète.",
+            "Cette suppression vise à libérer des fréquences pour les réseaux 4G et 5G, mais peut impacter certains appareils anciens.",
+            "Les utilisateurs sont invités à mettre à niveau leurs terminaux pour éviter des perturbations."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2375261-entre-orange-en-octobre-et-sfr-en-novembre-la-2g-disparait-de-france-en-quelques-semaines.html"
+            }
+          ]
+        },
+        {
+          "title": "Apple introduit la reconnaissance faciale sur l’iPhone Duo",
+          "bullets": [
+            "La deuxième bêta d’iOS 27.3 ajoute un mode « Déverrouiller avec le visage » pour l’iPhone Duo.",
+            "Cette fonctionnalité, absente initialement, permet un déverrouillage biométrique plus sécurisé et pratique.",
+            "L’iPhone Duo se distingue par ses deux écrans, une particularité qui justifie cette innovation.",
+            "Les utilisateurs pourront tester cette fonctionnalité dès la sortie de la bêta publique."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2374873-apple-change-davis-sur-liphone-duo-la-reconnaissance-faciale-arrive.html"
+            }
+          ]
+        },
+        {
+          "title": "Tesla limite les excès de vitesse avec son FSD en Europe",
+          "bullets": [
+            "Le Full Self-Driving (FSD) de Tesla en Europe ne peut désormais dépasser de 10 % la vitesse autorisée, contre 50 % auparavant.",
+            "Cette restriction vise à améliorer la sécurité routière et à se conformer aux réglementations locales.",
+            "Les conducteurs peuvent toujours désactiver cette limite via les paramètres du véhicule.",
+            "Tesla continue d’affiner son système d’assistance à la conduite pour répondre aux exigences européennes."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2375861-fini-les-exces-de-vitesse-tesla-met-a-jour-son-fsd-pour-leurope.html"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia : une « war room » de la Silicon Valley tente de convaincre Jensen Huang de revenir",
+          "bullets": [
+            "Jensen Huang, PDG démissionnaire de Nvidia, est pressenti pour reprendre son poste après sa démission récente.",
+            "Une coalition d’investisseurs et de partenaires monte une « war room » pour le convaincre de revenir.",
+            "Son retour pourrait stabiliser la direction de l’entreprise face à des défis technologiques et concurrentiels.",
+            "Les rumeurs évoquent une possible réintégration dans les prochaines semaines."
+          ],
+          "sources": [
+            {
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2375527-il-faut-sauver-le-soldat-jensen-huang-une-war-room-de-la-silicon-valley-veut-le-remettre-a-la-tete-de-nvidia.html"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Adobe Firefly devient un studio créatif doté d’un agent IA",
+          "bullets": [
+            "Adobe Firefly, initialement une suite d’outils d’IA générative, évolue en un studio créatif complet avec un agent IA intégré.",
+            "Cet agent permet d’automatiser et d’optimiser les workflows créatifs, comme la retouche photo ou la conception graphique.",
+            "Les utilisateurs peuvent désormais bénéficier d’une assistance intelligente pour leurs projets créatifs.",
+            "Cette innovation positionne Adobe comme un acteur clé dans l’IA créative et collaborative."
+          ],
+          "sources": []
+        },
+        {
+          "title": "SPIE renforce son positionnement dans l’automatisation industrielle via Duflex",
+          "bullets": [
+            "SPIE a acquis Duflex B.V., une entreprise spécialisée dans l’automatisation industrielle et la robotique.",
+            "Cette acquisition vise à élargir les capacités de SPIE dans la digitalisation des processus industriels.",
+            "Duflex apporte des solutions innovantes en matière de robotique et d’intégration de systèmes.",
+            "SPIE mise sur cette synergie pour renforcer sa compétitivité sur le marché européen."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Impression 3D",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "3DCeram lance la CLP50, une imprimante 3D céramique haut de gamme",
+          "bullets": [
+            "3DCeram présente la CLP50, une imprimante 3D céramique utilisant la technologie DLP top-down.",
+            "Ce modèle, positionné à partir de 80 000 €, cible les professionnels et les industries techniques.",
+            "La CLP50 permet de produire des pièces céramiques complexes avec une précision accrue.",
+            "Cette innovation s’inscrit dans la dynamique de développement des matériaux avancés en impression 3D."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/clp50-imprimante-ceramique-3dceram-17112026/"
+            }
+          ]
+        },
+        {
+          "title": "LONGER ePrint : 20 techniques créatives pour personnaliser en bureau",
+          "bullets": [
+            "LONGER ePrint propose plus de 20 techniques de personnalisation pour les imprimantes UV, répondant à une demande croissante de produits uniques.",
+            "Ces méthodes incluent des finitions variées comme le vernis, le tamponnage ou les effets métalliques.",
+            "L’objectif est de satisfaire les consommateurs en quête de produits sur mesure et hautement personnalisés.",
+            "Cette diversification s’adresse aussi bien aux particuliers qu’aux professionnels."
+          ],
+          "sources": [
+            {
+              "name": "3Dnatives",
+              "url": "https://www.3dnatives.com/longer-eprint-imprimante-uv-16112026/"
+            }
+          ]
+        },
+        {
+          "title": "Trafic d’armes démantelé : impression 3D au cœur d’une enquête en Guadeloupe",
+          "bullets": [
+            "Un réseau impliqué dans la fabrication et le trafic d’armes via l’impression 3D a été démantelé à Saint-Domingue (Guadeloupe).",
+            "Les enquêteurs ont saisi des pièces et des plans permettant de produire des armes illégales.",
+            "Cette affaire illustre les risques liés à la démocratisation des technologies d’impression 3D.",
+            "Les autorités renforcent désormais leur surveillance sur ces pratiques illicites."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque du « crash and cash » : comment fonctionne ce piège qui sévit en France ?",
+          "title": "Chèque énergie 2026 : dernière ligne droite pour le réclamer",
           "bullets": [
-            "Des voleurs provoquent volontairement un accident de voiture pour induire la victime en erreur et lui soutirer de l’argent.",
-            "La technique consiste à simuler une collision, puis à exploiter la confusion de la victime pour lui faire signer des documents ou verser des fonds.",
-            "Les gendarmes et la police nationale alertent sur la recrudescence de ces arnaques, notamment dans les zones urbaines.",
-            "Les assurances et les associations de consommateurs conseillent de ne jamais signer de documents sous pression."
+            "Les bénéficiaires du chèque énergie 2026 doivent encore le réclamer avant la fin de la période de dépôt.",
+            "Ce dispositif vise à aider les ménages modestes à payer leurs factures d’énergie.",
+            "Les modalités de réclamation et les délais varient selon les situations individuelles.",
+            "Les impayés ou oublis peuvent entraîner des pénalités ou des refus de prise en charge."
           ],
           "sources": []
         },
         {
-          "title": "Patrons de la métallurgie interpellent les candidats à la présidentielle sur les impôts et les salaires",
+          "title": "Investir dans la tech pour réduire ses impôts : une stratégie légitime",
           "bullets": [
-            "Les dirigeants de la métallurgie ont adressé une lettre aux principaux candidats à la présidentielle pour alerter sur les enjeux fiscaux et salariaux.",
-            "Ils demandent des mesures concrètes pour réduire la pression fiscale sur les entreprises et améliorer la compétitivité.",
-            "Les patrons soulignent aussi la nécessité de former les travailleurs aux nouvelles technologies.",
-            "Cette prise de parole s’inscrit dans une dynamique de pression des milieux économiques avant 2027."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Retraitée de Montauban arnaquée de 160 000 € dans une vaste opération de placements frauduleux",
-          "bullets": [
-            "Une femme de 70 ans a perdu 160 000 € dans une arnaque aux placements financiers, via des promesses de rendements mirobolants.",
-            "Les escrocs ont exploité sa méconnaissance des mécanismes financiers et son désir de sécurité financière.",
-            "Les autorités judiciaires enquêtent sur ce réseau criminel, qui cible principalement les retraités vulnérables.",
-            "Les associations de consommateurs rappellent la nécessité de vérifier la légitimité des conseillers financiers."
+            "Investir dans des startups ou des fonds spécialisés dans la tech peut permettre de bénéficier d’avantage fiscaux.",
+            "Ces dispositifs, comme le statut de Jeune Entreprise Innovante (JEI), offrent des réductions d’impôt significatives.",
+            "Les investisseurs doivent respecter des critères stricts pour en profiter.",
+            "Cette approche encourage l’innovation tout en optimisant la fiscalité personnelle."
           ],
           "sources": []
         }
@@ -297,42 +347,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Mirra Andreeva remporte les WTA Finals 2026 à 19 ans",
+          "title": "Trois espoirs du Stade Rochelais en garde à vue pour violences aggravées",
           "bullets": [
-            "La jeune Russe Mirra Andreeva a remporté son premier titre aux WTA Finals après une victoire en finale contre Elina Svitolina.",
-            "Ce succès marque une ascension fulgurante dans le tennis féminin, où elle se positionne comme une future star.",
-            "Andreeva a démontré une maîtrise technique et mentale exceptionnelle lors de la compétition.",
-            "Son titre pourrait influencer les jeunes joueuses et relancer l’intérêt pour le tennis féminin."
+            "Trois jeunes joueurs du Stade Rochelais sont placés en garde à vue pour violences aggravées après une altercation à la sortie d’une boîte de nuit.",
+            "Les faits remontent à une soirée récente et impliquent des agressions physiques sur des personnes civiles.",
+            "Les enquêteurs examinent les témoignages et les preuves pour établir les responsabilités individuelles.",
+            "Cette affaire pourrait avoir des répercussions sur la carrière des joueurs concernés."
           ],
           "sources": []
         },
         {
-          "title": "Bleus du rugby et du football en tête du Championnat des nations",
+          "title": "La France grimpe à la 3ᵉ place du classement World Rugby",
           "bullets": [
-            "Les équipes de France de rugby et de football dominent le classement du Championnat des nations après cinq journées.",
-            "Les Bleus du rugby ont remporté leurs matchs contre l’Italie et l’Écosse, consolidant leur avance.",
-            "En football, l’équipe de France a également progressé grâce à des performances solides en Ligue des nations.",
-            "Ces résultats renforcent l’ambition des deux fédérations pour les compétitions internationales à venir."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Lévézou Ségala remporte le derby contre Decazeville en Nationale 2",
-          "bullets": [
-            "Le club de Lévézou Ségala a remporté le derby contre Decazeville en Nationale 2, marquant un tournant dans la compétition.",
-            "Rodez poursuit sa série sans défaite, tandis que Millau se reprend après une défaite précédente.",
-            "Ces résultats dynamisent le championnat et attirent l’attention des supporters locaux.",
-            "La saison 2026-2027 s’annonce compétitive dans cette division régionale."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Le Mans Sarthe Basket domine l’Asvel en Betclic Élite",
-          "bullets": [
-            "Le Mans Sarthe Basket a écrasé l’Asvel en Betclic Élite, enchaînant une sixième victoire consécutive.",
-            "Cette performance renforce leur position en tête du championnat et suscite l’enthousiasme des supporters.",
-            "Le club s’impose comme un favori pour le titre cette saison.",
-            "Les joueurs et l’entraîneur saluent une dynamique collective et une défense solide."
+            "Les Bleus ont retrouvé la troisième place du classement mondial de rugby, un résultat historique pour l’équipe de France.",
+            "Cette progression s’explique par des performances récentes et une meilleure cohésion d’équipe.",
+            "Les joueurs visent désormais une place sur le podium lors des prochaines compétitions majeures.",
+            "Cette ascension renforce l’ambition des Bleus pour les prochains tournois internationaux."
           ],
           "sources": []
         }

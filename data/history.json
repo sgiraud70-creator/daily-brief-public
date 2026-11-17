@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
-    "title": "Loi « résilience » : adoption accélérée sans l’article controversé sur les données",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html",
-    "title": "Négociations sociales : Lecornu engage une semaine intensive avec lycéens et fonctionnaires",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html",
-    "title": "Édouard Philippe durcit son discours sur l’immigration pour séduire l’électorat de droite",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-    "title": "Fabien Roussel maintient sa candidature malgré le ralliement de députés communistes à Mélenchon",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/08/mobilisation-sociale-republique-bastille-nation-le-trace-historique-des-manifestations-remis-en-question_6808460_823448.html",
-    "title": "Traçage des manifestations : la Préfecture de Paris conteste le parcours historique « République-Bastille-Nation »",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
-    "title": "La jeunesse lycéenne revendique une place centrale dans le débat politique",
-    "rubrique": "France",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html",
-    "title": "Donald Trump admet que sa politique d’expulsions d’immigrés a été « trop dure »",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-reunion-a-paris-lundi-pour-financer-la-reparation-de-l-arche-de-tchernobyl_6808609_3210.html",
-    "title": "Réunion à Paris pour financer la réparation de l’arche de Tchernobyl",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html",
-    "title": "Le pape François critique le modèle économique de Javier Milei en Argentine",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html",
-    "title": "Débat sur la reconstruction du « nid d’aigle » d’Hitler après son incendie",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html",
-    "title": "Fermeture de « Novaïa Gazeta » : fin d’un symbole de la presse indépendante russe",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
-    "title": "Affaire Jensen Huang : révélations sur une liaison avec une figure suspectée d’espionnage chinois",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
-    "title": "Progrès pour une « architecture de sécurité » en Ukraine après la guerre",
-    "rubrique": "International",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.numerama.com/cyberguerre/2369365-gpt-6-astra-repare-qwen-sans-le-reentrainer-postgresql-19-prend-du-retard-a-cause-de-lia-openai-industrialise-la-chasse-aux-failles-de-linux-on-vous-raconte-la-semaine-cyberguerre.html",
-    "title": "GPT-6 Astra corrige un modèle sans réentraînement : une avancée majeure en IA",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2369811-sony-prepare-votre-ps5-pour-gta-6-avec-son-tv-oled-bravia-de-55-pouces-qui-passe-sous-les-1-000-e.html",
-    "title": "Sony lance un téléviseur OLED Bravia à moins de 1 000 € pour accompagner la sortie de GTA 6",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2369495-ils-soufflent-le-chaud-et-surtout-le-froid-en-bourse-cest-quoi-les-neoclouds.html",
-    "title": "Les néoclouds : une révolution en Bourse pour les infrastructures IA",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-09"
-  },
-  {
     "url": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
     "title": "Mobilisation lycéenne : réunion à Matignon tourne à l’affrontement",
     "rubrique": "France",
@@ -556,5 +460,101 @@
     "title": "Suisse : inculpation inédite d’un journaliste via la loi sur les banques suscite des inquiétudes",
     "rubrique": "International",
     "date": "2026-11-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/idees/article/2026/11/17/nous-hauts-fonctionnaires-magistrats-et-agents-publics-ne-pouvons-rester-indifferents-a-ce-qui-se-joue-une-atteinte-grave-aux-libertes-publiques_6812907_3232.html",
+    "title": "Fonctionnaires et magistrats appellent à la mobilisation contre les reculs des libertés publiques",
+    "rubrique": "France",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html",
+    "title": "Grève massive dans la fonction publique : mobilisation historique ce 17 novembre",
+    "rubrique": "France",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
+    "title": "Gaz lacrymogènes : des élus et médecins demandent leur interdiction pour les femmes",
+    "rubrique": "France",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html",
+    "title": "Débat présidentiel : impôts, logement et SMIC au cœur des propositions",
+    "rubrique": "France",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/17/il-faut-aider-les-jeunes-a-se-construire-des-parcours-scolaires-et-professionnels-desirables_6812899_6768900.html",
+    "title": "Formation environnementale : un atout pour l’épanouissement professionnel des jeunes",
+    "rubrique": "France",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/article/2026/11/17/genocide-des-tutsi-devant-la-cour-d-assises-de-paris-le-proces-du-rwandais-madjaliwa-safari-et-des-tueries-aux-barrieres_6812910_3212.html",
+    "title": "Procès historique à Paris : un Rwandais jugé pour génocide et crimes contre l’humanité",
+    "rubrique": "International",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
+    "title": "Frappe russe en Ukraine : deux ponts stratégiques de Kiev endommagés",
+    "rubrique": "International",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-une-femme-palestinienne-tuee-par-un-colon-apres-une-embuscade-d-assaillants-palestiniens_6812889_3210.html",
+    "title": "Cisjordanie : une femme palestinienne tuée dans une embuscade impliquant des colons",
+    "rubrique": "International",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html",
+    "title": "Lobbying européen : les PFAS, polluants éternels, menacés d’interdiction partielle",
+    "rubrique": "International",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html",
+    "title": "Sommet de la francophonie : report d’un an en raison de tensions diplomatiques",
+    "rubrique": "International",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2375261-entre-orange-en-octobre-et-sfr-en-novembre-la-2g-disparait-de-france-en-quelques-semaines.html",
+    "title": "Disparition de la 2G en France : Orange et SFR éteignent leur réseau",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2374873-apple-change-davis-sur-liphone-duo-la-reconnaissance-faciale-arrive.html",
+    "title": "Apple introduit la reconnaissance faciale sur l’iPhone Duo",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.numerama.com/vroom/2375861-fini-les-exces-de-vitesse-tesla-met-a-jour-son-fsd-pour-leurope.html",
+    "title": "Tesla limite les excès de vitesse avec son FSD en Europe",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2375527-il-faut-sauver-le-soldat-jensen-huang-une-war-room-de-la-silicon-valley-veut-le-remettre-a-la-tete-de-nvidia.html",
+    "title": "Nvidia : une « war room » de la Silicon Valley tente de convaincre Jensen Huang de revenir",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.3dnatives.com/clp50-imprimante-ceramique-3dceram-17112026/",
+    "title": "3DCeram lance la CLP50, une imprimante 3D céramique haut de gamme",
+    "rubrique": "Impression 3D",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.3dnatives.com/longer-eprint-imprimante-uv-16112026/",
+    "title": "LONGER ePrint : 20 techniques créatives pour personnaliser en bureau",
+    "rubrique": "Impression 3D",
+    "date": "2026-11-17"
   }
 ]
