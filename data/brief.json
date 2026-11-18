@@ -1,18 +1,18 @@
 {
-  "date_str": "Mardi 17 novembre 2026",
+  "date_str": "Mercredi 18 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 9,
+  "read_minutes": 10,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Elisabeth, Loélise, Aignan, Hilda et Salomé",
+          "title": "Aujourd'hui, on souhaite la fête : Aude, Philippine et Odon",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/17/11/2026/17-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/18/11/2026/18-Novembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,58 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Fonctionnaires et magistrats appellent à la mobilisation contre les reculs des libertés publiques",
+          "title": "Retraites : le RN propose une réforme controversée financée par les précaires et le logement",
           "bullets": [
-            "Une tribune publiée au *Monde* par des hauts fonctionnaires, magistrats et agents publics dénonce une « atteinte grave aux libertés publiques ».",
-            "Les signataires soulignent une « érosion progressive des garde-fous démocratiques » et appellent à une résistance collective.",
-            "Cette mobilisation intervient dans un contexte de tensions sociales et de réformes controversées.",
-            "Les auteurs insistent sur le rôle clé de l’administration dans la protection des droits fondamentaux."
+            "Marine Le Pen annonce une avancée de l’âge légal de départ à 64 ans sans coût supplémentaire, mais en réduisant les aides aux plus modestes et en assouplissant les règles du DPE pour les logements.",
+            "Le rapport parlementaire du RN supprime les interdictions de location pour les passoires thermiques, une mesure critiquée pour son impact sur la transition écologique et les locataires vulnérables.",
+            "Les critiques fusent, qualifiant la réforme de « catalogue de contradictions » et de « vaste arnaque financière ».",
+            "L’Assemblée nationale a voté un amendement du RN supprimant toutes les interdictions de location liées au DPE, malgré les alertes sur l’aggravation des inégalités.",
+            "Les manifestations du 17 novembre ont réuni plus de 500 000 personnes selon la CGT, avec un message clair adressé aux candidats à la présidentielle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/17/nous-hauts-fonctionnaires-magistrats-et-agents-publics-ne-pouvons-rester-indifferents-a-ce-qui-se-joue-une-atteinte-grave-aux-libertes-publiques_6812907_3232.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rn-compte-financer-son-avantageuse-reforme-des-retraites-et-un-debut-de-capitalisation-au-detriment-des-precaires-et-de-la-politique-du-logement_6813066_823448.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html"
             }
           ]
         },
         {
-          "title": "Grève massive dans la fonction publique : mobilisation historique ce 17 novembre",
+          "title": "Justice administrative : annulation des mesures Micas contre les manifestants",
           "bullets": [
-            "L’intersyndicale (CGT, FO, FSU, etc.) appelle à une grève générale dans la fonction publique pour exiger des augmentations immédiates.",
-            "Les syndicats dénoncent des « réponses insuffisantes du gouvernement » malgré les annonces récentes.",
-            "Les manifestations sont prévues dans plusieurs villes, avec une forte présence des agents publics.",
-            "Les grévistes réclament aussi la revalorisation des salaires et des conditions de travail."
+            "La justice administrative a infligé un camouflet au ministère de l’Intérieur en annulant des mesures individuelles de contrôle administratif (Micas) contre des manifestants à Grenoble, Paris et Lyon.",
+            "Ces mesures interdisaient à des personnes de participer à des rassemblements, jugées disproportionnées par les tribunaux.",
+            "Cette décision renforce les critiques sur l’usage des outils répressifs lors des mobilisations sociales.",
+            "Les associations de défense des libertés publiques saluent cette victoire juridique contre les dérives sécuritaires.",
+            "Le ministère de l’Intérieur doit désormais réévaluer ces mesures sous contrôle judiciaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/17/mobilisation-sociale-a-grenoble-paris-et-lyon-la-justice-administrative-inflige-un-camouflet-au-ministere-de-l-interieur-sur-les-micas_6813046_3224.html"
             }
           ]
         },
         {
-          "title": "Gaz lacrymogènes : des élus et médecins demandent leur interdiction pour les femmes",
+          "title": "Prostitution des mineurs : proposition de renverser la charge de la preuve sur les clients",
           "bullets": [
-            "Près de 10 000 femmes ont témoigné des effets dévastateurs des gaz lacrymogènes sur leur santé, notamment pendant les manifestations.",
-            "Des élus et médecins réclament une interdiction ciblée pour protéger les femmes, plus vulnérables aux irritations.",
-            "Les témoignages évoquent des complications gynécologiques et des traumatismes psychologiques.",
-            "Une proposition de loi pourrait être déposée pour encadrer strictement leur usage."
+            "Un rapport parlementaire propose de faire peser la charge de la preuve sur les clients accusés d’avoir eu des relations avec des mineurs en situation de prostitution.",
+            "Cette mesure vise à lutter contre l’impunité des « clients pédocriminels » et à renforcer la protection des victimes.",
+            "Les associations de lutte contre les violences sexuelles soutiennent cette initiative pour accélérer les poursuites.",
+            "Le texte doit encore être examiné par le Parlement avant d’être transformé en loi.",
+            "Cette proposition s’inscrit dans une dynamique plus large de renforcement des peines contre les infractions sexuelles."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html"
-            }
-          ]
-        },
-        {
-          "title": "Débat présidentiel : impôts, logement et SMIC au cœur des propositions",
-          "bullets": [
-            "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont échangé sur leurs programmes économiques.",
-            "Les candidats divergent sur la fiscalité (hausse ou baisse des impôts), le logement social et l’augmentation du SMIC.",
-            "Marine Le Pen a défendu une baisse des impôts pour les classes moyennes, tandis que Jean-Luc Mélenchon prône une fiscalité progressive.",
-            "Le logement abordable et la lutte contre la précarité ont été des thèmes récurrents."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Formation environnementale : un atout pour l’épanouissement professionnel des jeunes",
-          "bullets": [
-            "Les diplômés en formations environnementales affichent un meilleur épanouissement professionnel que la moyenne.",
-            "Malgré cette satisfaction, leurs salaires restent inférieurs à ceux des autres diplômés.",
-            "Les employeurs reconnaissent une meilleure employabilité dans les secteurs verts.",
-            "Les pouvoirs publics sont appelés à valoriser davantage ces parcours."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/vie-au-travail/article/2026/11/17/il-faut-aider-les-jeunes-a-se-construire-des-parcours-scolaires-et-professionnels-desirables_6812899_6768900.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/17/prostitution-des-mineurs-un-rapport-parlementaire-appelle-faire-peser-la-charge-de-la-preuve-sur-les-clients-pedocriminels_6813048_3224.html"
             }
           ]
         }
@@ -102,77 +83,86 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Procès historique à Paris : un Rwandais jugé pour génocide et crimes contre l’humanité",
+          "title": "Épidémie d’Ebola en RDC : un taux de mortalité alarmant chez les enfants",
           "bullets": [
-            "Madjaliwa Safari, 61 ans, est poursuivi pour sa présumée implication dans les tueries des « barrières » lors du génocide des Tutsi au Rwanda.",
-            "Les faits, qualifiés d’« imprescriptibles », remontent à 1994 et concernent des massacres organisés dans des zones spécifiques.",
-            "La justice française, compétente pour ces crimes, examine les preuves et témoignages recueillis depuis des décennies.",
-            "Ce procès s’inscrit dans une série d’affaires similaires visant à rendre justice aux victimes."
+            "Près des trois quarts des moins de 5 ans contaminés par Ebola en RDC meurent, selon les données épidémiologiques récentes.",
+            "Les épicentres de l’épidémie, Bunia et Beni, subissent une crise humanitaire avec des hôpitaux saturés et des familles en deuil.",
+            "Les équipes médicales de l’OMS et de Médecins Sans Frontières peinent à contenir la propagation du virus dans des zones de conflit.",
+            "L’absence de vaccin adapté et les difficultés d’accès aux populations touchées aggravent la situation.",
+            "L’ONU appelle à une mobilisation internationale urgente pour faire face à cette crise sanitaire."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/17/genocide-des-tutsi-devant-la-cour-d-assises-de-paris-le-proces-du-rwandais-madjaliwa-safari-et-des-tueries-aux-barrieres_6812910_3212.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/18/en-rdc-ebola-tue-massivement-les-enfants-je-ne-peux-meme-pas-le-prendre-dans-mes-bras-pour-le-reconforter_6813071_3212.html"
             }
           ]
         },
         {
-          "title": "Frappe russe en Ukraine : deux ponts stratégiques de Kiev endommagés",
+          "title": "Condamnation d’un Pakistanais pour tentative d’assassinat ciblant Donald Trump et d’autres personnalités",
           "bullets": [
-            "Des frappes russes ont visé et endommagé deux ponts critiques dans la capitale ukrainienne, selon le maire Vitali Klitschko.",
-            "Ces infrastructures, essentielles pour la logistique et les déplacements, pourraient subir des perturbations majeures.",
-            "Kiev dénonce une escalade des attaques ciblant les systèmes d’infrastructures critiques.",
-            "La situation pourrait aggraver les difficultés déjà existantes pour la population et les forces armées."
+            "Asif Merchant, un Pakistanais de 24 ans, a été condamné à 27 ans de prison pour son implication dans une tentative d’assassinat contre Donald Trump et d’autres figures politiques américaines.",
+            "Selon l’enquête, il aurait été recruté par Téhéran pour venger la mort du général iranien Qasem Soleimani, tué en 2020 dans une frappe américaine.",
+            "Les autorités américaines accusent l’Iran d’ingérence dans leurs affaires internes et de soutien à des actes terroristes sur leur sol.",
+            "Cette affaire révèle des tensions persistantes entre les États-Unis et l’Iran, malgré les efforts diplomatiques récents.",
+            "Le procès a mis en lumière les méthodes d’espionnage et de recrutement utilisées par les services iraniens."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html"
             }
           ]
         },
         {
-          "title": "Cisjordanie : une femme palestinienne tuée dans une embuscade impliquant des colons",
+          "title": "Pêcheurs équatoriens poursuivent les États-Unis pour bombardement de leur embarcation",
           "bullets": [
-            "Une Palestinienne a été assassinée par un colon israélien après une embuscade tendue par des assaillants palestiniens.",
-            "Cinq autres Palestiniens ont été blessés lors d’un accident impliquant un colon dans le sud de la Cisjordanie.",
-            "Ces incidents s’inscrivent dans un contexte de tensions croissantes et de violences récurrentes dans la région.",
-            "La communauté internationale condamne ces actes et appelle au respect du droit international."
+            "Seize pêcheurs équatoriens ont porté plainte contre les États-Unis pour des crimes présumés commis lors d’un bombardement de leur embarcation en 2023.",
+            "L’administration Trump nie toute responsabilité et défend sa campagne de bombardements en Amérique latine contre des trafics illicites.",
+            "Les pêcheurs accusent les forces américaines d’avoir utilisé une force excessive, causant des blessures et des pertes matérielles.",
+            "Cette affaire s’inscrit dans un contexte de tensions diplomatiques entre les États-Unis et plusieurs pays latino-américains.",
+            "Les victimes espèrent obtenir réparation pour les préjudices subis et une reconnaissance internationale de leurs droits."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-une-femme-palestinienne-tuee-par-un-colon-apres-une-embuscade-d-assaillants-palestiniens_6812889_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/seize-pecheurs-equatoriens-poursuivent-les-etats-unis-en-justice-pour-le-bombardement-de-leur-embarcation_6813058_3210.html"
             }
           ]
         },
         {
-          "title": "Lobbying européen : les PFAS, polluants éternels, menacés d’interdiction partielle",
+          "title": "Radicalisation des jeunes en Australie : l’IA et les réseaux sociaux pointés du doigt",
           "bullets": [
-            "Le lobby des fluoropolymères tente d’affaiblir une proposition de restriction européenne sur les PFAS, surnommés « polluants éternels ».",
-            "Ces substances, persistantes dans l’environnement, sont liées à des risques sanitaires majeurs.",
-            "La Commission européenne est critiquée pour ses reculs face aux pressions industrielles.",
-            "Des ONG et scientifiques appellent à une interdiction totale pour protéger la santé publique."
+            "L’Australie s’inquiète de l’impact des réseaux sociaux et de l’intelligence artificielle sur la radicalisation des mineurs, impliqués dans 40 % des affaires traitées.",
+            "Une étude révèle que 23 minutes d’exposition à des contenus extrémistes suffisent parfois à pousser un jeune vers l’acte violent.",
+            "Les plateformes numériques sont accusées de ne pas assez filtrer les contenus haineux et de manquer de transparence sur leurs algorithmes.",
+            "Le gouvernement australien envisage des mesures réglementaires plus strictes pour limiter l’accès des mineurs à ces contenus.",
+            "Les experts appellent à une coopération renforcée entre les autorités, les plateformes et les familles pour contrer cette menace."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/vingt-trois-minutes-pour-etre-expose-a-des-contenus-extremistes-l-australie-s-inquiete-de-l-impact-des-reseaux-sociaux-et-de-l-ia-dans-la-radicalisation-des-jeunes_6813068_3210.html"
             }
           ]
         },
         {
-          "title": "Sommet de la francophonie : report d’un an en raison de tensions diplomatiques",
+          "title": "Sommet APEC : Xi Jinping, Trump et Poutine renforcent leur alliance géopolitique",
           "bullets": [
-            "Les 53 États membres de l’Organisation internationale de la francophonie ont reporté la désignation de leur secrétaire général.",
-            "Les divergences politiques, notamment liées à des crises régionales, ont paralysé les négociations.",
-            "Ce report s’ajoute à une série de tensions affectant la coopération francophone.",
-            "La prochaine réunion devrait permettre de trouver un consensus pour éviter un nouveau blocage."
+            "Xi Jinping, Donald Trump et Vladimir Poutine se sont réunis lors du sommet de la Coopération économique Asie-Pacifique (APEC) à Shenzhen, marquant une coordination accrue entre les trois puissances.",
+            "Poutine a évoqué un sommet « d’une grande utilité » avec les dirigeants américain et chinois, suggérant une volonté de coopération sur des enjeux internationaux.",
+            "Cette rencontre s’inscrit dans un contexte de tensions accrues avec l’Occident, notamment sur les questions liées à l’Ukraine et à la sécurité régionale.",
+            "Les analystes y voient une tentative de créer un front commun face aux sanctions et à l’influence occidentale en Asie.",
+            "Les réactions en Occident restent mitigées, entre méfiance et recherche de dialogue."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-vladimir-poutine-s-attend-a-un-sommet-d-une-grande-utilite-avec-donald-trump-et-xi-jinping-en-chine_6810982_3210.html"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html"
             }
           ]
         }
@@ -187,62 +177,50 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Disparition de la 2G en France : Orange et SFR éteignent leur réseau",
+          "title": "Panne majeure chez Apple : iCloud, App Store et Apple Music indisponibles",
           "bullets": [
-            "SFR a éteint son réseau 2G dans les grandes agglomérations entre le 15 et le 30 novembre 2026, puis dans le reste de la métropole jusqu’au 15 décembre.",
-            "Orange avait déjà arrêté son réseau 2G en octobre 2026, suivant une tendance européenne d’abandon de cette technologie obsolète.",
-            "Cette suppression vise à libérer des fréquences pour les réseaux 4G et 5G, mais peut impacter certains appareils anciens.",
-            "Les utilisateurs sont invités à mettre à niveau leurs terminaux pour éviter des perturbations."
+            "Des millions d’utilisateurs d’iPhone, iPad et Mac ont été déconnectés de leurs comptes iCloud, App Store et Apple Music ce mardi 17 novembre.",
+            "Apple a confirmé une panne technique, sans préciser ses causes ni les délais de rétablissement.",
+            "Les services en ligne, comme iCloud Drive et iMessage, sont également affectés, perturbant les utilisateurs professionnels et grand public.",
+            "Les réseaux sociaux regorgent de témoignages de frustrations et de tentatives de contournement via des solutions alternatives.",
+            "Apple travaille sur une solution pour rétablir les services dans les plus brefs délais."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2375261-entre-orange-en-octobre-et-sfr-en-novembre-la-2g-disparait-de-france-en-quelques-semaines.html"
+              "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html"
             }
           ]
         },
         {
-          "title": "Apple introduit la reconnaissance faciale sur l’iPhone Duo",
+          "title": "NSA Net : le réseau ultra-secret du renseignement américain en panne",
           "bullets": [
-            "La deuxième bêta d’iOS 27.3 ajoute un mode « Déverrouiller avec le visage » pour l’iPhone Duo.",
-            "Cette fonctionnalité, absente initialement, permet un déverrouillage biométrique plus sécurisé et pratique.",
-            "L’iPhone Duo se distingue par ses deux écrans, une particularité qui justifie cette innovation.",
-            "Les utilisateurs pourront tester cette fonctionnalité dès la sortie de la bêta publique."
+            "NSA Net, le réseau interne ultra-classifié utilisé par les agents de la National Security Agency (NSA), est hors service depuis plusieurs heures.",
+            "Aucune confirmation officielle n’a été donnée sur la cause de la panne, mais des fuites suggèrent un problème technique ou une cyberattaque.",
+            "Cette panne pourrait compromettre les communications sensibles entre les agents de la NSA et les autres agences de renseignement américaines.",
+            "Les conséquences potentielles incluent un ralentissement des opérations de surveillance et de contre-espionnage.",
+            "La NSA travaille en urgence pour rétablir le service et sécuriser son infrastructure."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2374873-apple-change-davis-sur-liphone-duo-la-reconnaissance-faciale-arrive.html"
+              "url": "https://www.numerama.com/cyberguerre/2377121-nsa-net-le-reseau-interne-ultra-secret-du-renseignement-americain-est-hors-service-voici-ce-que-lon-sait.html"
             }
           ]
         },
         {
-          "title": "Tesla limite les excès de vitesse avec son FSD en Europe",
+          "title": "Voyager 1 : la NASA demande aux citoyens de flasher leurs lampes vers le ciel",
           "bullets": [
-            "Le Full Self-Driving (FSD) de Tesla en Europe ne peut désormais dépasser de 10 % la vitesse autorisée, contre 50 % auparavant.",
-            "Cette restriction vise à améliorer la sécurité routière et à se conformer aux réglementations locales.",
-            "Les conducteurs peuvent toujours désactiver cette limite via les paramètres du véhicule.",
-            "Tesla continue d’affiner son système d’assistance à la conduite pour répondre aux exigences européennes."
+            "La sonde Voyager 1, lancée en 1977, sera à un jour-lumière de la Terre le 18 novembre 2026, soit à 25,9 milliards de kilomètres.",
+            "La NASA a lancé une campagne mondiale invitant les citoyens à allumer leurs lampes pour célébrer cet événement historique.",
+            "Cette initiative vise à sensibiliser le public à l’exploration spatiale et à la distance colossale parcourue par la sonde.",
+            "Voyager 1 est le premier objet humain à atteindre l’espace interstellaire, marquant une étape majeure dans l’histoire de l’exploration spatiale.",
+            "La NASA espère aussi recueillir des images et des témoignages de cette manifestation mondiale."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/vroom/2375861-fini-les-exces-de-vitesse-tesla-met-a-jour-son-fsd-pour-leurope.html"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia : une « war room » de la Silicon Valley tente de convaincre Jensen Huang de revenir",
-          "bullets": [
-            "Jensen Huang, PDG démissionnaire de Nvidia, est pressenti pour reprendre son poste après sa démission récente.",
-            "Une coalition d’investisseurs et de partenaires monte une « war room » pour le convaincre de revenir.",
-            "Son retour pourrait stabiliser la direction de l’entreprise face à des défis technologiques et concurrentiels.",
-            "Les rumeurs évoquent une possible réintégration dans les prochaines semaines."
-          ],
-          "sources": [
-            {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2375527-il-faut-sauver-le-soldat-jensen-huang-une-war-room-de-la-silicon-valley-veut-le-remettre-a-la-tete-de-nvidia.html"
+              "url": "https://www.numerama.com/sciences/2374607-ce-soir-la-nasa-vous-demande-de-flasher-votre-lampe-vers-le-ciel-et-la-raison-est-vertigineuse.html"
             }
           ]
         }
@@ -252,22 +230,13 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Adobe Firefly devient un studio créatif doté d’un agent IA",
+          "title": "Google : un agent IA transforme un correctif de sécurité en exploit fonctionnel",
           "bullets": [
-            "Adobe Firefly, initialement une suite d’outils d’IA générative, évolue en un studio créatif complet avec un agent IA intégré.",
-            "Cet agent permet d’automatiser et d’optimiser les workflows créatifs, comme la retouche photo ou la conception graphique.",
-            "Les utilisateurs peuvent désormais bénéficier d’une assistance intelligente pour leurs projets créatifs.",
-            "Cette innovation positionne Adobe comme un acteur clé dans l’IA créative et collaborative."
-          ],
-          "sources": []
-        },
-        {
-          "title": "SPIE renforce son positionnement dans l’automatisation industrielle via Duflex",
-          "bullets": [
-            "SPIE a acquis Duflex B.V., une entreprise spécialisée dans l’automatisation industrielle et la robotique.",
-            "Cette acquisition vise à élargir les capacités de SPIE dans la digitalisation des processus industriels.",
-            "Duflex apporte des solutions innovantes en matière de robotique et d’intégration de systèmes.",
-            "SPIE mise sur cette synergie pour renforcer sa compétitivité sur le marché européen."
+            "Un agent IA de Google a accidentellement transformé un correctif de sécurité en une faille exploitable, selon une enquête interne.",
+            "Cette découverte met en lumière les risques liés à l’utilisation d’outils d’IA dans des domaines critiques comme la cybersécurité.",
+            "Google travaille sur des mesures pour éviter de tels incidents à l’avenir, notamment en renforçant les contrôles humains.",
+            "Cette affaire souligne l’importance de la vigilance et de la supervision humaine dans le développement des systèmes d’IA.",
+            "Les experts appellent à une régulation plus stricte des agents IA dans les secteurs sensibles."
           ],
           "sources": []
         }
@@ -275,69 +244,42 @@
     },
     {
       "label": "Impression 3D",
-      "sujets": [
-        {
-          "title": "3DCeram lance la CLP50, une imprimante 3D céramique haut de gamme",
-          "bullets": [
-            "3DCeram présente la CLP50, une imprimante 3D céramique utilisant la technologie DLP top-down.",
-            "Ce modèle, positionné à partir de 80 000 €, cible les professionnels et les industries techniques.",
-            "La CLP50 permet de produire des pièces céramiques complexes avec une précision accrue.",
-            "Cette innovation s’inscrit dans la dynamique de développement des matériaux avancés en impression 3D."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/clp50-imprimante-ceramique-3dceram-17112026/"
-            }
-          ]
-        },
-        {
-          "title": "LONGER ePrint : 20 techniques créatives pour personnaliser en bureau",
-          "bullets": [
-            "LONGER ePrint propose plus de 20 techniques de personnalisation pour les imprimantes UV, répondant à une demande croissante de produits uniques.",
-            "Ces méthodes incluent des finitions variées comme le vernis, le tamponnage ou les effets métalliques.",
-            "L’objectif est de satisfaire les consommateurs en quête de produits sur mesure et hautement personnalisés.",
-            "Cette diversification s’adresse aussi bien aux particuliers qu’aux professionnels."
-          ],
-          "sources": [
-            {
-              "name": "3Dnatives",
-              "url": "https://www.3dnatives.com/longer-eprint-imprimante-uv-16112026/"
-            }
-          ]
-        },
-        {
-          "title": "Trafic d’armes démantelé : impression 3D au cœur d’une enquête en Guadeloupe",
-          "bullets": [
-            "Un réseau impliqué dans la fabrication et le trafic d’armes via l’impression 3D a été démantelé à Saint-Domingue (Guadeloupe).",
-            "Les enquêteurs ont saisi des pièces et des plans permettant de produire des armes illégales.",
-            "Cette affaire illustre les risques liés à la démocratisation des technologies d’impression 3D.",
-            "Les autorités renforcent désormais leur surveillance sur ces pratiques illicites."
-          ],
-          "sources": []
-        }
-      ]
+      "sujets": [],
+      "note": "source indisponible ce matin"
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Chèque énergie 2026 : dernière ligne droite pour le réclamer",
+          "title": "Arnaques aux diagnostics énergétiques et faux policiers en Maine-et-Loire",
           "bullets": [
-            "Les bénéficiaires du chèque énergie 2026 doivent encore le réclamer avant la fin de la période de dépôt.",
-            "Ce dispositif vise à aider les ménages modestes à payer leurs factures d’énergie.",
-            "Les modalités de réclamation et les délais varient selon les situations individuelles.",
-            "Les impayés ou oublis peuvent entraîner des pénalités ou des refus de prise en charge."
+            "Une nouvelle vague d’arnaques aux diagnostics énergétiques et aux faux policiers a été signalée dans le Maine-et-Loire.",
+            "Les victimes sont contactées par des individus se faisant passer pour des agents de police ou des techniciens, leur proposant des diagnostics gratuits avant de les escroquer.",
+            "Les préjudices s’élèvent à plusieurs milliers d’euros pour les ménages concernés.",
+            "Les autorités locales et la gendarmerie appellent à la vigilance et conseillent de ne jamais ouvrir sa porte à des inconnus se présentant comme des policiers.",
+            "Les plaintes se multiplient, et les enquêteurs tentent d’identifier les réseaux criminels derrière ces escroqueries."
           ],
           "sources": []
         },
         {
-          "title": "Investir dans la tech pour réduire ses impôts : une stratégie légitime",
+          "title": "Arnaque aux lingots d’or : préjudice de 765 000 euros pour les victimes",
           "bullets": [
-            "Investir dans des startups ou des fonds spécialisés dans la tech peut permettre de bénéficier d’avantage fiscaux.",
-            "Ces dispositifs, comme le statut de Jeune Entreprise Innovante (JEI), offrent des réductions d’impôt significatives.",
-            "Les investisseurs doivent respecter des critères stricts pour en profiter.",
-            "Cette approche encourage l’innovation tout en optimisant la fiscalité personnelle."
+            "Une vaste arnaque aux faux policiers a touché plusieurs personnes en France, leur faisant croire à une enquête sur des trafics d’or.",
+            "Les escrocs ont profité de la crédibilité des uniformes pour soutirer des lingots d’or et des sommes importantes aux victimes.",
+            "Le préjudice total s’élève à au moins 765 000 euros, selon les premières estimations.",
+            "Les gendarmes et la police judiciaire enquêtent pour identifier les auteurs et récupérer les biens volés.",
+            "Les autorités rappellent de ne jamais suivre des inconnus se présentant comme des policiers sans vérification préalable."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Revalorisation des pensions en 2027 : impôts plus élevés envisagés",
+          "bullets": [
+            "Le Sénat et le gouvernement envisagent un compromis pour revaloriser les pensions en 2027, mais avec une hausse des impôts pour financer cette mesure.",
+            "Les discussions portent sur un équilibre entre la revalorisation des retraites et la soutenabilité financière du système.",
+            "Les syndicats de retraités dénoncent une mesure insuffisante et appellent à une augmentation plus significative des pensions.",
+            "Les débats s’intensifient alors que la présidentielle approche, avec des enjeux politiques majeurs autour des retraites.",
+            "Les détails du compromis restent à préciser avant une adoption définitive par le Parlement."
           ],
           "sources": []
         }
@@ -347,22 +289,35 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Trois espoirs du Stade Rochelais en garde à vue pour violences aggravées",
+          "title": "Suspension de l’entraîneur des Springboks pour critiques envers l’arbitrage",
           "bullets": [
-            "Trois jeunes joueurs du Stade Rochelais sont placés en garde à vue pour violences aggravées après une altercation à la sortie d’une boîte de nuit.",
-            "Les faits remontent à une soirée récente et impliquent des agressions physiques sur des personnes civiles.",
-            "Les enquêteurs examinent les témoignages et les preuves pour établir les responsabilités individuelles.",
-            "Cette affaire pourrait avoir des répercussions sur la carrière des joueurs concernés."
+            "L’entraîneur sud-africain des Springboks a été suspendu pour 6 matchs après avoir critiqué publiquement l’arbitrage lors du match contre la France.",
+            "Ses déclarations ont été jugées comme une atteinte à l’autorité arbitrale et à l’éthique sportive.",
+            "Cette suspension intervient dans un contexte de tensions récurrentes entre les joueurs et les arbitres lors des compétitions internationales.",
+            "Les critiques portent notamment sur les décisions controversées prises lors des matchs récents.",
+            "L’équipe sud-africaine affronte désormais un défi supplémentaire avec l’absence de son entraîneur pour les prochains matchs."
           ],
           "sources": []
         },
         {
-          "title": "La France grimpe à la 3ᵉ place du classement World Rugby",
+          "title": "Qualification d’Arthur Fils pour les demi-finales des ATP Finals",
           "bullets": [
-            "Les Bleus ont retrouvé la troisième place du classement mondial de rugby, un résultat historique pour l’équipe de France.",
-            "Cette progression s’explique par des performances récentes et une meilleure cohésion d’équipe.",
-            "Les joueurs visent désormais une place sur le podium lors des prochaines compétitions majeures.",
-            "Cette ascension renforce l’ambition des Bleus pour les prochains tournois internationaux."
+            "Arthur Fils se rapproche des demi-finales des ATP Finals 2026, avec des scénarios de qualification encore ouverts.",
+            "Ses performances récentes et sa régularité en tournois majeurs sont déterminantes pour sa place en demi-finales.",
+            "Les adversaires directs d’Arthur Fils restent serrés, avec des joueurs comme Daniil Medvedev et Stefanos Tsitsipas en lice.",
+            "La compétition est intense, et chaque match compte pour atteindre le stade des demi-finales.",
+            "Les fans espèrent une nouvelle performance exceptionnelle de la part du joueur français pour confirmer son statut d’un des favoris."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Équipe de France féminine de basket : qualification pour l’Euro 2027 en vue",
+          "bullets": [
+            "L’équipe de France féminine de basket se rapproche d’une qualification pour l’Euro 2027 après trois victoires consécutives contre l’Ukraine.",
+            "Ces résultats positifs renforcent leurs chances de se qualifier pour la compétition européenne.",
+            "Les joueuses françaises montrent une cohésion et une performance de haut niveau, essentielles pour atteindre cet objectif.",
+            "Les prochains matchs seront décisifs pour confirmer leur place dans le groupe des qualifiés.",
+            "Les supporters français suivent avec attention l’évolution de cette équipe, considérée comme l’une des favorites pour l’Euro 2027."
           ],
           "sources": []
         }
