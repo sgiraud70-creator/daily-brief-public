@@ -1,18 +1,18 @@
 {
-  "date_str": "Mercredi 18 novembre 2026",
+  "date_str": "Jeudi 19 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 10,
+  "read_minutes": 6,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Aude, Philippine et Odon",
+          "title": "Aujourd'hui, on souhaite la fête : Haude, Tanguy, Eudes et Mechtilde",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/18/11/2026/18-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/19/11/2026/19-Novembre-2026.html"
             }
           ]
         }
@@ -22,58 +22,32 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Retraites : le RN propose une réforme controversée financée par les précaires et le logement",
+          "title": "GTA VI : les partis politiques multiplient les clins d’œil à la sortie du jeu vidéo",
           "bullets": [
-            "Marine Le Pen annonce une avancée de l’âge légal de départ à 64 ans sans coût supplémentaire, mais en réduisant les aides aux plus modestes et en assouplissant les règles du DPE pour les logements.",
-            "Le rapport parlementaire du RN supprime les interdictions de location pour les passoires thermiques, une mesure critiquée pour son impact sur la transition écologique et les locataires vulnérables.",
-            "Les critiques fusent, qualifiant la réforme de « catalogue de contradictions » et de « vaste arnaque financière ».",
-            "L’Assemblée nationale a voté un amendement du RN supprimant toutes les interdictions de location liées au DPE, malgré les alertes sur l’aggravation des inégalités.",
-            "Les manifestations du 17 novembre ont réuni plus de 500 000 personnes selon la CGT, avec un message clair adressé aux candidats à la présidentielle."
+            "Les partis politiques français, de gauche comme de droite, ont utilisé des références à GTA VI pour commenter l’actualité.",
+            "Certains candidats ont évoqué des scènes du jeu pour illustrer des propos politiques, parfois de manière détournée.",
+            "Cette tendance interroge sur la frontière entre humour et instrumentalisation médiatique.",
+            "Le jeu vidéo, phénomène culturel, devient un sujet de débat politique en France."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/18/le-rn-compte-financer-son-avantageuse-reforme-des-retraites-et-un-debut-de-capitalisation-au-detriment-des-precaires-et-de-la-politique-du-logement_6813066_823448.html"
-            },
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html"
-            },
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html"
             }
           ]
         },
         {
-          "title": "Justice administrative : annulation des mesures Micas contre les manifestants",
+          "title": "Mayotte : panne d’électricité généralisée après des pluies intenses",
           "bullets": [
-            "La justice administrative a infligé un camouflet au ministère de l’Intérieur en annulant des mesures individuelles de contrôle administratif (Micas) contre des manifestants à Grenoble, Paris et Lyon.",
-            "Ces mesures interdisaient à des personnes de participer à des rassemblements, jugées disproportionnées par les tribunaux.",
-            "Cette décision renforce les critiques sur l’usage des outils répressifs lors des mobilisations sociales.",
-            "Les associations de défense des libertés publiques saluent cette victoire juridique contre les dérives sécuritaires.",
-            "Le ministère de l’Intérieur doit désormais réévaluer ces mesures sous contrôle judiciaire."
+            "Une panne d’électricité massive a touché Mayotte après un épisode de fortes pluies.",
+            "L’opérateur Electricité de Mayotte indique que 98 % des foyers sont réalimentés, avec des équipes toujours en manœuvre.",
+            "Les intempéries ont perturbé les infrastructures électriques et les réseaux de distribution.",
+            "Les autorités locales surveillent les risques de nouvelles coupures en cas de nouvelles averses."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/17/mobilisation-sociale-a-grenoble-paris-et-lyon-la-justice-administrative-inflige-un-camouflet-au-ministere-de-l-interieur-sur-les-micas_6813046_3224.html"
-            }
-          ]
-        },
-        {
-          "title": "Prostitution des mineurs : proposition de renverser la charge de la preuve sur les clients",
-          "bullets": [
-            "Un rapport parlementaire propose de faire peser la charge de la preuve sur les clients accusés d’avoir eu des relations avec des mineurs en situation de prostitution.",
-            "Cette mesure vise à lutter contre l’impunité des « clients pédocriminels » et à renforcer la protection des victimes.",
-            "Les associations de lutte contre les violences sexuelles soutiennent cette initiative pour accélérer les poursuites.",
-            "Le texte doit encore être examiné par le Parlement avant d’être transformé en loi.",
-            "Cette proposition s’inscrit dans une dynamique plus large de renforcement des peines contre les infractions sexuelles."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/17/prostitution-des-mineurs-un-rapport-parlementaire-appelle-faire-peser-la-charge-de-la-preuve-sur-les-clients-pedocriminels_6813048_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html"
             }
           ]
         }
@@ -83,203 +57,152 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Épidémie d’Ebola en RDC : un taux de mortalité alarmant chez les enfants",
+          "title": "Crise du détroit d’Ormuz : convergence entre sécurité énergétique et objectifs climatiques",
           "bullets": [
-            "Près des trois quarts des moins de 5 ans contaminés par Ebola en RDC meurent, selon les données épidémiologiques récentes.",
-            "Les épicentres de l’épidémie, Bunia et Beni, subissent une crise humanitaire avec des hôpitaux saturés et des familles en deuil.",
-            "Les équipes médicales de l’OMS et de Médecins Sans Frontières peinent à contenir la propagation du virus dans des zones de conflit.",
-            "L’absence de vaccin adapté et les difficultés d’accès aux populations touchées aggravent la situation.",
-            "L’ONU appelle à une mobilisation internationale urgente pour faire face à cette crise sanitaire."
+            "Le directeur de l’AIE, Fatih Birol, souligne une convergence entre enjeux énergétiques et transition climatique.",
+            "La crise dans le détroit d’Ormuz, point de passage stratégique pour le pétrole, renforce les tensions géopolitiques.",
+            "L’AIE publie un rapport annuel mettant en lumière les défis liés à la stabilité des approvisionnements énergétiques.",
+            "Les pays dépendants des importations pétrolières doivent réévaluer leurs stratégies face à cette instabilité."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/18/en-rdc-ebola-tue-massivement-les-enfants-je-ne-peux-meme-pas-le-prendre-dans-mes-bras-pour-le-reconforter_6813071_3212.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html"
             }
           ]
         },
         {
-          "title": "Condamnation d’un Pakistanais pour tentative d’assassinat ciblant Donald Trump et d’autres personnalités",
+          "title": "Assassinat du président haïtien Jovenel Moïse : un pasteur américain condamné pour son implication",
           "bullets": [
-            "Asif Merchant, un Pakistanais de 24 ans, a été condamné à 27 ans de prison pour son implication dans une tentative d’assassinat contre Donald Trump et d’autres figures politiques américaines.",
-            "Selon l’enquête, il aurait été recruté par Téhéran pour venger la mort du général iranien Qasem Soleimani, tué en 2020 dans une frappe américaine.",
-            "Les autorités américaines accusent l’Iran d’ingérence dans leurs affaires internes et de soutien à des actes terroristes sur leur sol.",
-            "Cette affaire révèle des tensions persistantes entre les États-Unis et l’Iran, malgré les efforts diplomatiques récents.",
-            "Le procès a mis en lumière les méthodes d’espionnage et de recrutement utilisées par les services iraniens."
+            "Christian Sanon, pasteur américano-haïtien, a été reconnu coupable aux États-Unis pour sa participation à l’assassinat de Jovenel Moïse en 2021.",
+            "Il était accusé de complot et de complaisance dans un projet visant à prendre le pouvoir en Haïti.",
+            "Ce procès marque une étape dans la justice internationale pour un crime politique majeur en Haïti.",
+            "Les conséquences de ce verdict pourraient influencer la stabilité politique et sécuritaire du pays."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/assassinat-du-president-haitien-jovenel-moise-un-pasteur-americano-haitien-reconnu-coupable-aux-etats-unis-d-implication_6813218_3210.html"
             }
           ]
         },
         {
-          "title": "Pêcheurs équatoriens poursuivent les États-Unis pour bombardement de leur embarcation",
+          "title": "Pont de Crimée endommagé à nouveau par des frappes ukrainiennes",
           "bullets": [
-            "Seize pêcheurs équatoriens ont porté plainte contre les États-Unis pour des crimes présumés commis lors d’un bombardement de leur embarcation en 2023.",
-            "L’administration Trump nie toute responsabilité et défend sa campagne de bombardements en Amérique latine contre des trafics illicites.",
-            "Les pêcheurs accusent les forces américaines d’avoir utilisé une force excessive, causant des blessures et des pertes matérielles.",
-            "Cette affaire s’inscrit dans un contexte de tensions diplomatiques entre les États-Unis et plusieurs pays latino-américains.",
-            "Les victimes espèrent obtenir réparation pour les préjudices subis et une reconnaissance internationale de leurs droits."
+            "Le pont de Crimée, reliant la péninsule à la Russie, a été à nouveau touché par des frappes ukrainiennes.",
+            "Les autorités russes confirment une interruption temporaire de la circulation sur cette infrastructure stratégique.",
+            "Ce pont, symbole de l’annexion de la Crimée par la Russie, est une cible récurrente depuis le début de la guerre.",
+            "Les frappes visent à perturber les approvisionnements militaires et logistiques russes en Crimée."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/seize-pecheurs-equatoriens-poursuivent-les-etats-unis-en-justice-pour-le-bombardement-de-leur-embarcation_6813058_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html"
             }
           ]
         },
         {
-          "title": "Radicalisation des jeunes en Australie : l’IA et les réseaux sociaux pointés du doigt",
+          "title": "Interdiction du commerce avec les colonies israéliennes : une proposition de loi française en débat",
           "bullets": [
-            "L’Australie s’inquiète de l’impact des réseaux sociaux et de l’intelligence artificielle sur la radicalisation des mineurs, impliqués dans 40 % des affaires traitées.",
-            "Une étude révèle que 23 minutes d’exposition à des contenus extrémistes suffisent parfois à pousser un jeune vers l’acte violent.",
-            "Les plateformes numériques sont accusées de ne pas assez filtrer les contenus haineux et de manquer de transparence sur leurs algorithmes.",
-            "Le gouvernement australien envisage des mesures réglementaires plus strictes pour limiter l’accès des mineurs à ces contenus.",
-            "Les experts appellent à une coopération renforcée entre les autorités, les plateformes et les familles pour contrer cette menace."
+            "Une proposition de loi socialiste vise à interdire le commerce avec les colonies israéliennes en Cisjordanie.",
+            "Cette mesure pourrait placer la France face à des tensions diplomatiques avec Israël.",
+            "Les députés examinent cette proposition pour aligner la politique française sur ses engagements internationaux.",
+            "Les colonies israéliennes sont considérées comme illégales selon le droit international."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/vingt-trois-minutes-pour-etre-expose-a-des-contenus-extremistes-l-australie-s-inquiete-de-l-impact-des-reseaux-sociaux-et-de-l-ia-dans-la-radicalisation-des-jeunes_6813068_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html"
             }
           ]
         },
         {
-          "title": "Sommet APEC : Xi Jinping, Trump et Poutine renforcent leur alliance géopolitique",
+          "title": "Espagne : les candidats font campagne auprès des créateurs de contenu YouTube",
           "bullets": [
-            "Xi Jinping, Donald Trump et Vladimir Poutine se sont réunis lors du sommet de la Coopération économique Asie-Pacifique (APEC) à Shenzhen, marquant une coordination accrue entre les trois puissances.",
-            "Poutine a évoqué un sommet « d’une grande utilité » avec les dirigeants américain et chinois, suggérant une volonté de coopération sur des enjeux internationaux.",
-            "Cette rencontre s’inscrit dans un contexte de tensions accrues avec l’Occident, notamment sur les questions liées à l’Ukraine et à la sécurité régionale.",
-            "Les analystes y voient une tentative de créer un front commun face aux sanctions et à l’influence occidentale en Asie.",
-            "Les réactions en Occident restent mitigées, entre méfiance et recherche de dialogue."
+            "À l’approche des élections législatives espagnoles du 29 novembre, les principaux candidats multiplient les interviews sur YouTube.",
+            "Cette stratégie vise à toucher les jeunes électeurs et à moderniser l’image des partis politiques.",
+            "Les plateformes numériques deviennent un espace clé pour la communication politique en Espagne.",
+            "Les débats sur les réseaux sociaux influencent de plus en plus les décisions électorales."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-vladimir-poutine-s-attend-a-un-sommet-d-une-grande-utilite-avec-donald-trump-et-xi-jinping-en-chine_6810982_3210.html"
-            },
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/en-espagne-les-candidats-font-campagne-chez-les-youtubeurs_6813223_3210.html"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Actualité locale",
-      "sujets": [],
-      "note": "source indisponible ce matin"
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Panne majeure chez Apple : iCloud, App Store et Apple Music indisponibles",
+          "title": "GTA 6 : les critiques soulignent des imperfections malgré des notes élevées",
           "bullets": [
-            "Des millions d’utilisateurs d’iPhone, iPad et Mac ont été déconnectés de leurs comptes iCloud, App Store et Apple Music ce mardi 17 novembre.",
-            "Apple a confirmé une panne technique, sans préciser ses causes ni les délais de rétablissement.",
-            "Les services en ligne, comme iCloud Drive et iMessage, sont également affectés, perturbant les utilisateurs professionnels et grand public.",
-            "Les réseaux sociaux regorgent de témoignages de frustrations et de tentatives de contournement via des solutions alternatives.",
-            "Apple travaille sur une solution pour rétablir les services dans les plus brefs délais."
+            "Malgré des notes globalement positives, certains médias pointent des défauts dans GTA 6.",
+            "Les tests les plus sévères évoquent des problèmes de gameplay et de cohérence narrative.",
+            "Le jeu, attendu depuis plusieurs années, suscite des attentes élevées parmi les fans.",
+            "Les développeurs devront répondre aux critiques pour améliorer la version finale."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html"
             }
           ]
         },
         {
-          "title": "NSA Net : le réseau ultra-secret du renseignement américain en panne",
+          "title": "Amazon Family : partage gratuit de Prime entre adultes d’un même foyer",
           "bullets": [
-            "NSA Net, le réseau interne ultra-classifié utilisé par les agents de la National Security Agency (NSA), est hors service depuis plusieurs heures.",
-            "Aucune confirmation officielle n’a été donnée sur la cause de la panne, mais des fuites suggèrent un problème technique ou une cyberattaque.",
-            "Cette panne pourrait compromettre les communications sensibles entre les agents de la NSA et les autres agences de renseignement américaines.",
-            "Les conséquences potentielles incluent un ralentissement des opérations de surveillance et de contre-espionnage.",
-            "La NSA travaille en urgence pour rétablir le service et sécuriser son infrastructure."
+            "Amazon Family permet désormais de partager gratuitement une partie des avantages Prime avec un adulte du même foyer.",
+            "Cette fonctionnalité supprime la nécessité de partager un mot de passe et évite des frais supplémentaires.",
+            "Cette initiative vise à élargir l’accès aux services Prime pour les familles.",
+            "Les utilisateurs peuvent désormais bénéficier de réductions et de livraisons prioritaires sans frais."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/cyberguerre/2377121-nsa-net-le-reseau-interne-ultra-secret-du-renseignement-americain-est-hors-service-voici-ce-que-lon-sait.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2377467-amazon-family-arrive-en-france-partager-prime-avec-un-adulte-de-son-foyer-sans-supplement-ni-partage-de-mot-de-passe.html"
             }
           ]
         },
         {
-          "title": "Voyager 1 : la NASA demande aux citoyens de flasher leurs lampes vers le ciel",
+          "title": "CNIL : une entreprise identifiée pour avoir stocké des mots de passe clients en clair",
           "bullets": [
-            "La sonde Voyager 1, lancée en 1977, sera à un jour-lumière de la Terre le 18 novembre 2026, soit à 25,9 milliards de kilomètres.",
-            "La NASA a lancé une campagne mondiale invitant les citoyens à allumer leurs lampes pour célébrer cet événement historique.",
-            "Cette initiative vise à sensibiliser le public à l’exploration spatiale et à la distance colossale parcourue par la sonde.",
-            "Voyager 1 est le premier objet humain à atteindre l’espace interstellaire, marquant une étape majeure dans l’histoire de l’exploration spatiale.",
-            "La NASA espère aussi recueillir des images et des témoignages de cette manifestation mondiale."
+            "La CNIL a infligé une amende de 5 millions d’euros à une entreprise pour avoir conservé des mots de passe en clair.",
+            "Le nom de l’entreprise a été révélé par un tiers, après que la CNIL avait initialement choisi de ne pas le divulguer.",
+            "Cette pratique viole les réglementations sur la protection des données personnelles.",
+            "Les entreprises doivent renforcer leurs mesures de sécurité pour protéger les informations sensibles des clients."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/sciences/2374607-ce-soir-la-nasa-vous-demande-de-flasher-votre-lampe-vers-le-ciel-et-la-raison-est-vertigineuse.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [
-        {
-          "title": "Google : un agent IA transforme un correctif de sécurité en exploit fonctionnel",
-          "bullets": [
-            "Un agent IA de Google a accidentellement transformé un correctif de sécurité en une faille exploitable, selon une enquête interne.",
-            "Cette découverte met en lumière les risques liés à l’utilisation d’outils d’IA dans des domaines critiques comme la cybersécurité.",
-            "Google travaille sur des mesures pour éviter de tels incidents à l’avenir, notamment en renforçant les contrôles humains.",
-            "Cette affaire souligne l’importance de la vigilance et de la supervision humaine dans le développement des systèmes d’IA.",
-            "Les experts appellent à une régulation plus stricte des agents IA dans les secteurs sensibles."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Impression 3D",
-      "sujets": [],
-      "note": "source indisponible ce matin"
     },
     {
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaques aux diagnostics énergétiques et faux policiers en Maine-et-Loire",
+          "title": "Chèque énergie 2027 : ouverture du guichet le 14 janvier pour 4,7 millions de bénéficiaires",
           "bullets": [
-            "Une nouvelle vague d’arnaques aux diagnostics énergétiques et aux faux policiers a été signalée dans le Maine-et-Loire.",
-            "Les victimes sont contactées par des individus se faisant passer pour des agents de police ou des techniciens, leur proposant des diagnostics gratuits avant de les escroquer.",
-            "Les préjudices s’élèvent à plusieurs milliers d’euros pour les ménages concernés.",
-            "Les autorités locales et la gendarmerie appellent à la vigilance et conseillent de ne jamais ouvrir sa porte à des inconnus se présentant comme des policiers.",
-            "Les plaintes se multiplient, et les enquêteurs tentent d’identifier les réseaux criminels derrière ces escroqueries."
+            "Le guichet pour le chèque énergie 2027 ouvrira le 14 janvier 2027.",
+            "4,7 millions de bénéficiaires recevront automatiquement leur chèque énergie.",
+            "Cette aide vise à soutenir les ménages face à la hausse des factures d’énergie.",
+            "Les modalités de demande et de versement sont précisées pour faciliter l’accès aux aides."
           ],
           "sources": []
         },
         {
-          "title": "Arnaque aux lingots d’or : préjudice de 765 000 euros pour les victimes",
+          "title": "Chèque énergie : le numéro du compteur devient un critère décisif pour 2027",
           "bullets": [
-            "Une vaste arnaque aux faux policiers a touché plusieurs personnes en France, leur faisant croire à une enquête sur des trafics d’or.",
-            "Les escrocs ont profité de la crédibilité des uniformes pour soutirer des lingots d’or et des sommes importantes aux victimes.",
-            "Le préjudice total s’élève à au moins 765 000 euros, selon les premières estimations.",
-            "Les gendarmes et la police judiciaire enquêtent pour identifier les auteurs et récupérer les biens volés.",
-            "Les autorités rappellent de ne jamais suivre des inconnus se présentant comme des policiers sans vérification préalable."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Revalorisation des pensions en 2027 : impôts plus élevés envisagés",
-          "bullets": [
-            "Le Sénat et le gouvernement envisagent un compromis pour revaloriser les pensions en 2027, mais avec une hausse des impôts pour financer cette mesure.",
-            "Les discussions portent sur un équilibre entre la revalorisation des retraites et la soutenabilité financière du système.",
-            "Les syndicats de retraités dénoncent une mesure insuffisante et appellent à une augmentation plus significative des pensions.",
-            "Les débats s’intensifient alors que la présidentielle approche, avec des enjeux politiques majeurs autour des retraites.",
-            "Les détails du compromis restent à préciser avant une adoption définitive par le Parlement."
+            "Le numéro du compteur électrique est désormais un critère clé pour le versement du chèque énergie en 2027.",
+            "Cette mesure vise à éviter les erreurs de versement et à mieux cibler les bénéficiaires.",
+            "Les ménages doivent vérifier que leurs informations sont à jour auprès de leur fournisseur d’énergie.",
+            "Les autorités encouragent les usagers à signaler toute anomalie dans leurs données."
           ],
           "sources": []
         }
@@ -289,39 +212,51 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Suspension de l’entraîneur des Springboks pour critiques envers l’arbitrage",
+          "title": "Carlos Alcaraz directement qualifié pour le dernier carré des ATP Finals",
           "bullets": [
-            "L’entraîneur sud-africain des Springboks a été suspendu pour 6 matchs après avoir critiqué publiquement l’arbitrage lors du match contre la France.",
-            "Ses déclarations ont été jugées comme une atteinte à l’autorité arbitrale et à l’éthique sportive.",
-            "Cette suspension intervient dans un contexte de tensions récurrentes entre les joueurs et les arbitres lors des compétitions internationales.",
-            "Les critiques portent notamment sur les décisions controversées prises lors des matchs récents.",
-            "L’équipe sud-africaine affronte désormais un défi supplémentaire avec l’absence de son entraîneur pour les prochains matchs."
+            "Carlos Alcaraz a remporté son match contre Flavio Cobolli, assurant sa qualification pour le dernier carré des ATP Finals.",
+            "Frances Tiafoe a également maîtrisé son adversaire, Flavio Cobolli, pour atteindre les demi-finales.",
+            "Les ATP Finals, qui se déroulent à Turin, regroupent les meilleurs joueurs de tennis de la saison.",
+            "Ces performances renforcent la domination des jeunes talents dans le circuit professionnel."
           ],
           "sources": []
         },
         {
-          "title": "Qualification d’Arthur Fils pour les demi-finales des ATP Finals",
+          "title": "Ex-compagne d’Alexander Zverev dépose une nouvelle plainte contre lui",
           "bullets": [
-            "Arthur Fils se rapproche des demi-finales des ATP Finals 2026, avec des scénarios de qualification encore ouverts.",
-            "Ses performances récentes et sa régularité en tournois majeurs sont déterminantes pour sa place en demi-finales.",
-            "Les adversaires directs d’Arthur Fils restent serrés, avec des joueurs comme Daniil Medvedev et Stefanos Tsitsipas en lice.",
-            "La compétition est intense, et chaque match compte pour atteindre le stade des demi-finales.",
-            "Les fans espèrent une nouvelle performance exceptionnelle de la part du joueur français pour confirmer son statut d’un des favoris."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Équipe de France féminine de basket : qualification pour l’Euro 2027 en vue",
-          "bullets": [
-            "L’équipe de France féminine de basket se rapproche d’une qualification pour l’Euro 2027 après trois victoires consécutives contre l’Ukraine.",
-            "Ces résultats positifs renforcent leurs chances de se qualifier pour la compétition européenne.",
-            "Les joueuses françaises montrent une cohésion et une performance de haut niveau, essentielles pour atteindre cet objectif.",
-            "Les prochains matchs seront décisifs pour confirmer leur place dans le groupe des qualifiés.",
-            "Les supporters français suivent avec attention l’évolution de cette équipe, considérée comme l’une des favorites pour l’Euro 2027."
+            "L’ex-compagne d’Alexander Zverev, numéro 1 mondial, a déposé une nouvelle plainte contre lui.",
+            "Les accusations portent sur des violences et des comportements abusifs présumés.",
+            "Cette plainte s’ajoute à une série de procédures judiciaires déjà en cours.",
+            "Les conséquences de ces accusations pourraient affecter la carrière sportive et personnelle de Zverev."
           ],
           "sources": []
         }
       ]
+    },
+    {
+      "label": "Applications · no-code · automatisation",
+      "sujets": [
+        {
+          "title": "Dubaï approuve un agent IA pour coordonner les services publics",
+          "bullets": [
+            "Dubaï a approuvé l’utilisation d’un agent IA pour gérer et coordonner les services publics de la ville.",
+            "Cette technologie vise à améliorer l’efficacité et la réactivité des services municipaux.",
+            "L’IA sera utilisée pour traiter les demandes des citoyens et optimiser les ressources disponibles.",
+            "Cette initiative s’inscrit dans une stratégie plus large d’innovation technologique pour Dubaï."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Impression 3D",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Sport — Pittsburgh Steelers",
