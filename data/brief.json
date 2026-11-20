@@ -1,18 +1,18 @@
 {
-  "date_str": "Jeudi 19 novembre 2026",
+  "date_str": "Vendredi 20 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 6,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Haude, Tanguy, Eudes et Mechtilde",
+          "title": "Aujourd'hui, on souhaite la fête : Edmond, Bernward et Octave",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/19/11/2026/19-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/20/11/2026/20-Novembre-2026.html"
             }
           ]
         }
@@ -22,32 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "GTA VI : les partis politiques multiplient les clins d’œil à la sortie du jeu vidéo",
+          "title": "Jean-Luc Mélenchon attire les jeunes (18-24 ans) par son discours radical sur les crises sociale et climatique",
           "bullets": [
-            "Les partis politiques français, de gauche comme de droite, ont utilisé des références à GTA VI pour commenter l’actualité.",
-            "Certains candidats ont évoqué des scènes du jeu pour illustrer des propos politiques, parfois de manière détournée.",
-            "Cette tendance interroge sur la frontière entre humour et instrumentalisation médiatique.",
-            "Le jeu vidéo, phénomène culturel, devient un sujet de débat politique en France."
+            "Les jeunes électeurs de 18 à 24 ans se tournent massivement vers La France Insoumise, perçue comme la seule alternative crédible face aux défis actuels.",
+            "Le programme de Mélenchon, axé sur la justice sociale et l’urgence écologique, séduit particulièrement cette tranche d’âge.",
+            "Les sondages révèlent une préférence marquée pour un candidat proposant des solutions radicales plutôt que des compromis traditionnels.",
+            "Cette tendance reflète une méfiance croissante envers les partis établis et les politiques économiques jugées inefficaces."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html"
             }
           ]
         },
         {
-          "title": "Mayotte : panne d’électricité généralisée après des pluies intenses",
+          "title": "Débat sur la présomption de légitime défense pour les forces de l’ordre : vote reporté au Sénat",
           "bullets": [
-            "Une panne d’électricité massive a touché Mayotte après un épisode de fortes pluies.",
-            "L’opérateur Electricité de Mayotte indique que 98 % des foyers sont réalimentés, avec des équipes toujours en manœuvre.",
-            "Les intempéries ont perturbé les infrastructures électriques et les réseaux de distribution.",
-            "Les autorités locales surveillent les risques de nouvelles coupures en cas de nouvelles averses."
+            "La loi controversée, soutenue par le gouvernement et le RN, vise à inverser la charge de la preuve en cas de légitime défense pour les policiers et gendarmes.",
+            "La gauche et les associations de défense des droits humains dénoncent une menace pour l’État de droit et les libertés individuelles.",
+            "Le vote, initialement prévu pour jeudi, a été reporté à vendredi en raison des tensions politiques et des débats houleux.",
+            "Cette mesure pourrait modifier profondément les procédures judiciaires en cas de recours à la force par les forces de l’ordre."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Adoption d’une mesure contre la vie chère en outre-mer : une avancée limitée",
+          "bullets": [
+            "L’Assemblée nationale a adopté à l’unanimité une proposition de loi visant à réduire le coût de la vie dans les territoires ultramarins.",
+            "Cette mesure, portée par Victorin Lurel et Christian Baptiste, concerne notamment les prix de l’énergie et des produits de première nécessité.",
+            "Les députés reconnaissent cependant que les solutions proposées restent insuffisantes face à l’ampleur des difficultés économiques locales.",
+            "Les associations et élus locaux appellent à des actions plus ambitieuses pour soutenir les populations ultramarines."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Échec du projet de coalition entre socialistes et écologistes avant la présidentielle 2027",
+          "bullets": [
+            "Le Parti socialiste a stoppé les discussions avec Europe Écologie-Les Verts après le ralliement de Yannick Jadot à Jean-Luc Mélenchon.",
+            "Raphaël Glucksmann, candidat du PS, accuse la direction écologiste de manquer de cohérence et de stratégie claire.",
+            "Cette rupture affaiblit les perspectives d’une alliance de gauche unie face à la droite et à l’extrême droite.",
+            "Les écologistes et les socialistes doivent désormais clarifier leurs positions respectives avant les élections de 2027."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "L’agonie du quartier Rosa-Parks à Paris : dix ans après sa rénovation, le crack ravage le secteur",
+          "bullets": [
+            "Dix ans après sa réhabilitation, le quartier autour de la gare de RER et du canal Saint-Denis dans le 19ᵉ arrondissement s’effondre.",
+            "La montée du trafic de crack et la désertification des commerces ont transformé le secteur en zone de non-droit.",
+            "Les habitants et associations dénoncent l’échec des politiques publiques et appellent à une relance urgente des investissements.",
+            "Les autorités locales peinent à inverser la tendance malgré les promesses initiales de revitalisation."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html"
             }
           ]
         }
@@ -57,179 +102,149 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Crise du détroit d’Ormuz : convergence entre sécurité énergétique et objectifs climatiques",
+          "title": "Frappe russe sur Kiev : trois morts et deux ponts endommagés",
           "bullets": [
-            "Le directeur de l’AIE, Fatih Birol, souligne une convergence entre enjeux énergétiques et transition climatique.",
-            "La crise dans le détroit d’Ormuz, point de passage stratégique pour le pétrole, renforce les tensions géopolitiques.",
-            "L’AIE publie un rapport annuel mettant en lumière les défis liés à la stabilité des approvisionnements énergétiques.",
-            "Les pays dépendants des importations pétrolières doivent réévaluer leurs stratégies face à cette instabilité."
+            "Des frappes russes ont visé la capitale ukrainienne, faisant trois morts et endommageant deux ponts stratégiques.",
+            "Les autorités ukrainiennes accusent la Russie d’attaques ciblées contre les infrastructures civiles et militaires.",
+            "Ces frappes surviennent après des frappes ukrainiennes contre le pont de Crimée reliant la Russie à la péninsule.",
+            "La situation humanitaire et sécuritaire à Kiev reste tendue, avec des risques accrus pour les civils."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-des-frappes-russes-sur-kiev-endommagent-deux-ponts_6810982_3210.html"
             }
           ]
         },
         {
-          "title": "Assassinat du président haïtien Jovenel Moïse : un pasteur américain condamné pour son implication",
+          "title": "Réunion des alliés de Kiev à Berlin : engagement renforcé en faveur de l’aide militaire à l’Ukraine",
           "bullets": [
-            "Christian Sanon, pasteur américano-haïtien, a été reconnu coupable aux États-Unis pour sa participation à l’assassinat de Jovenel Moïse en 2021.",
-            "Il était accusé de complot et de complaisance dans un projet visant à prendre le pouvoir en Haïti.",
-            "Ce procès marque une étape dans la justice internationale pour un crime politique majeur en Haïti.",
-            "Les conséquences de ce verdict pourraient influencer la stabilité politique et sécuritaire du pays."
+            "Les membres de la coalition des volontaires se sont réunis à Berlin pour réaffirmer leur soutien à l’Ukraine.",
+            "Ils ont promis de maintenir l’intégralité de l’aide militaire promise en 2026 et d’envisager des livraisons supplémentaires.",
+            "Cette réunion contraste avec la rencontre de Shenzhen entre Vladimir Poutine, Donald Trump et Xi Jinping, perçue comme un miroir inversé.",
+            "L’Ukraine continue de compter sur le soutien international pour faire face à l’offensive russe."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/assassinat-du-president-haitien-jovenel-moise-un-pasteur-americano-haitien-reconnu-coupable-aux-etats-unis-d-implication_6813218_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html"
             }
           ]
         },
         {
-          "title": "Pont de Crimée endommagé à nouveau par des frappes ukrainiennes",
+          "title": "Salvador : Nayib Bukele se présente à un troisième mandat après une réforme constitutionnelle",
           "bullets": [
-            "Le pont de Crimée, reliant la péninsule à la Russie, a été à nouveau touché par des frappes ukrainiennes.",
-            "Les autorités russes confirment une interruption temporaire de la circulation sur cette infrastructure stratégique.",
-            "Ce pont, symbole de l’annexion de la Crimée par la Russie, est une cible récurrente depuis le début de la guerre.",
-            "Les frappes visent à perturber les approvisionnements militaires et logistiques russes en Crimée."
+            "Le président salvadorien Nayib Bukele a officialisé sa candidature pour un troisième mandat après avoir fait modifier la Constitution en 2025.",
+            "Cette réforme a permis de lever la limite des deux mandats présidentiels, suscitant des critiques sur la dérive autoritaire.",
+            "Bukele, connu pour son approche sécuritaire et son contrôle strict des institutions, pourrait renforcer son emprise sur le pays.",
+            "L’opposition dénonce une manipulation démocratique et appelle à des élections libres et équitables."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/20/salvador-le-president-bukele-profite-de-sa-reforme-constitutionnelle-pour-se-presenter-a-un-troisieme-mandat_6813581_3210.html"
             }
           ]
         },
         {
-          "title": "Interdiction du commerce avec les colonies israéliennes : une proposition de loi française en débat",
+          "title": "Californie : montée des eaux et disparition des plages menacent les villes côtières",
           "bullets": [
-            "Une proposition de loi socialiste vise à interdire le commerce avec les colonies israéliennes en Cisjordanie.",
-            "Cette mesure pourrait placer la France face à des tensions diplomatiques avec Israël.",
-            "Les députés examinent cette proposition pour aligner la politique française sur ses engagements internationaux.",
-            "Les colonies israéliennes sont considérées comme illégales selon le droit international."
+            "Les villes côtières de Californie subissent des dégâts majeurs dus à la montée des eaux et à l’érosion des plages.",
+            "Maisons endommagées, inondations et glissements de terrain perturbent la vie quotidienne des habitants.",
+            "Ce phénomène s’aggrave avec un « El Niño » particulièrement puissant en 2026, exacerbant les risques climatiques.",
+            "Les autorités locales et fédérales doivent urgemment renforcer les protections côtières et adapter les infrastructures."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html"
             }
           ]
         },
         {
-          "title": "Espagne : les candidats font campagne auprès des créateurs de contenu YouTube",
+          "title": "Brésil : découverte d’une ethnie autochtone non contactée, menacée d’extinction",
           "bullets": [
-            "À l’approche des élections législatives espagnoles du 29 novembre, les principaux candidats multiplient les interviews sur YouTube.",
-            "Cette stratégie vise à toucher les jeunes électeurs et à moderniser l’image des partis politiques.",
-            "Les plateformes numériques deviennent un espace clé pour la communication politique en Espagne.",
-            "Les débats sur les réseaux sociaux influencent de plus en plus les décisions électorales."
+            "Des membres de l’ethnie Awa-Guaja ont brièvement émergé de leur isolement, révélant leur présence après au moins cinquante ans d’anonymat.",
+            "Les chercheurs craignent pour leur survie face à la déforestation et aux pressions des activités humaines.",
+            "Cette découverte souligne l’urgence de protéger les peuples autochtones isolés et leurs territoires.",
+            "Le gouvernement brésilien et les ONG doivent agir pour préserver ces communautés vulnérables."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/en-espagne-les-candidats-font-campagne-chez-les-youtubeurs_6813223_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html"
+            }
+          ]
+        },
+        {
+          "title": "Texas : exécution ratée de Christa Pike relancé par la mise à mort de Reinaldo Dennes",
+          "bullets": [
+            "Deux mois après l’échec de l’exécution de Christa Pike, un détenu de 70 ans, Reinaldo Dennes, a été exécuté au Texas après une longue procédure judiciaire.",
+            "Cette exécution soulève de nouveau des questions sur la peine de mort aux États-Unis et les conditions de son application.",
+            "Les critiques dénoncent des erreurs médicales et des procédures inhumaines lors des exécutions.",
+            "Les défenseurs des droits humains appellent à une réforme ou à l’abolition de la peine capitale dans l’État."
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/20/deux-mois-apres-l-execution-ratee-de-christa-pike-la-longue-mise-a-mort-de-reinaldo-dennes-au-texas_6813583_3210.html"
             }
           ]
         }
       ]
+    },
+    {
+      "label": "Actualité locale",
+      "sujets": [],
+      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "GTA 6 : les critiques soulignent des imperfections malgré des notes élevées",
+          "title": "Google pulvérise un record avec une puce quantique à 98,3 % de victoires",
           "bullets": [
-            "Malgré des notes globalement positives, certains médias pointent des défauts dans GTA 6.",
-            "Les tests les plus sévères évoquent des problèmes de gameplay et de cohérence narrative.",
-            "Le jeu, attendu depuis plusieurs années, suscite des attentes élevées parmi les fans.",
-            "Les développeurs devront répondre aux critiques pour améliorer la version finale."
+            "Google Quantum AI a démontré la « contextualité quantique » avec une précision inédite de 98,3 % dans une expérience publiée dans la revue *Science*.",
+            "Cette avancée pourrait révolutionner les calculs complexes et accélérer les recherches en informatique quantique.",
+            "La démonstration met en lumière les capacités supérieures des processeurs quantiques face aux systèmes classiques.",
+            "Les implications pour l’IA, la cryptographie et la modélisation scientifique sont majeures."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html"
             }
           ]
         },
         {
-          "title": "Amazon Family : partage gratuit de Prime entre adultes d’un même foyer",
+          "title": "GTA 6 : être furry interdit à Leonida et les chasseurs tirent à vue",
           "bullets": [
-            "Amazon Family permet désormais de partager gratuitement une partie des avantages Prime avec un adulte du même foyer.",
-            "Cette fonctionnalité supprime la nécessité de partager un mot de passe et évite des frais supplémentaires.",
-            "Cette initiative vise à élargir l’accès aux services Prime pour les familles.",
-            "Les utilisateurs peuvent désormais bénéficier de réductions et de livraisons prioritaires sans frais."
+            "Dans GTA 6, le jeu interdit aux joueurs d’être des *furries* dans la ville de Leonida, sous peine de sanctions.",
+            "Les chasseurs de la ville ont été programmés pour tirer immédiatement sur les personnages suspectés d’être des *furries*.",
+            "Cette décision a suscité des réactions mitigées parmi les joueurs, certains y voyant une restriction absurde.",
+            "Rockstar Games n’a pas commenté cette particularité du jeu, sorti le 19 novembre 2026."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2377467-amazon-family-arrive-en-france-partager-prime-avec-un-adulte-de-son-foyer-sans-supplement-ni-partage-de-mot-de-passe.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2379191-gta-6-etre-un-furry-est-strictement-illegal-a-leonida-et-les-chasseurs-tirent-a-vue.html"
             }
           ]
         },
         {
-          "title": "CNIL : une entreprise identifiée pour avoir stocké des mots de passe clients en clair",
+          "title": "L’Europe développe une arme orbitale pour frapper n’importe quelle cible depuis l’espace",
           "bullets": [
-            "La CNIL a infligé une amende de 5 millions d’euros à une entreprise pour avoir conservé des mots de passe en clair.",
-            "Le nom de l’entreprise a été révélé par un tiers, après que la CNIL avait initialement choisi de ne pas le divulguer.",
-            "Cette pratique viole les réglementations sur la protection des données personnelles.",
-            "Les entreprises doivent renforcer leurs mesures de sécurité pour protéger les informations sensibles des clients."
+            "MBDA Deutschland et Atmos Space Cargo collaborent pour créer une capacité de frappe orbitale depuis l’espace.",
+            "Ce projet vise à permettre des frappes précises et rapides sur des cibles terrestres ou maritimes.",
+            "L’initiative s’inscrit dans une course technologique entre grandes puissances pour maîtriser les armes spatiales.",
+            "Les implications géopolitiques et les risques d’escalade militaire suscitent des débats internationaux."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/tech/2378535-frapper-nimporte-quelle-cible-depuis-lespace-leurope-a-desormais-son-projet-darme-orbitale.html"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Chèque énergie 2027 : ouverture du guichet le 14 janvier pour 4,7 millions de bénéficiaires",
-          "bullets": [
-            "Le guichet pour le chèque énergie 2027 ouvrira le 14 janvier 2027.",
-            "4,7 millions de bénéficiaires recevront automatiquement leur chèque énergie.",
-            "Cette aide vise à soutenir les ménages face à la hausse des factures d’énergie.",
-            "Les modalités de demande et de versement sont précisées pour faciliter l’accès aux aides."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie : le numéro du compteur devient un critère décisif pour 2027",
-          "bullets": [
-            "Le numéro du compteur électrique est désormais un critère clé pour le versement du chèque énergie en 2027.",
-            "Cette mesure vise à éviter les erreurs de versement et à mieux cibler les bénéficiaires.",
-            "Les ménages doivent vérifier que leurs informations sont à jour auprès de leur fournisseur d’énergie.",
-            "Les autorités encouragent les usagers à signaler toute anomalie dans leurs données."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Carlos Alcaraz directement qualifié pour le dernier carré des ATP Finals",
-          "bullets": [
-            "Carlos Alcaraz a remporté son match contre Flavio Cobolli, assurant sa qualification pour le dernier carré des ATP Finals.",
-            "Frances Tiafoe a également maîtrisé son adversaire, Flavio Cobolli, pour atteindre les demi-finales.",
-            "Les ATP Finals, qui se déroulent à Turin, regroupent les meilleurs joueurs de tennis de la saison.",
-            "Ces performances renforcent la domination des jeunes talents dans le circuit professionnel."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Ex-compagne d’Alexander Zverev dépose une nouvelle plainte contre lui",
-          "bullets": [
-            "L’ex-compagne d’Alexander Zverev, numéro 1 mondial, a déposé une nouvelle plainte contre lui.",
-            "Les accusations portent sur des violences et des comportements abusifs présumés.",
-            "Cette plainte s’ajoute à une série de procédures judiciaires déjà en cours.",
-            "Les conséquences de ces accusations pourraient affecter la carrière sportive et personnelle de Zverev."
-          ],
-          "sources": []
         }
       ]
     },
@@ -237,12 +252,22 @@
       "label": "Applications · no-code · automatisation",
       "sujets": [
         {
-          "title": "Dubaï approuve un agent IA pour coordonner les services publics",
+          "title": "Apple développe un agent IA capable d’utiliser des applications et de naviguer sur le web",
           "bullets": [
-            "Dubaï a approuvé l’utilisation d’un agent IA pour gérer et coordonner les services publics de la ville.",
-            "Cette technologie vise à améliorer l’efficacité et la réactivité des services municipaux.",
-            "L’IA sera utilisée pour traiter les demandes des citoyens et optimiser les ressources disponibles.",
-            "Cette initiative s’inscrit dans une stratégie plus large d’innovation technologique pour Dubaï."
+            "Apple travaille sur un agent IA capable d’interagir avec des applications et de naviguer sur le web de manière autonome.",
+            "Cette technologie vise à simplifier les tâches quotidiennes des utilisateurs en automatisant des processus complexes.",
+            "Les recrutements en cours montrent l’engagement d’Apple à intégrer cette innovation dans ses futurs produits.",
+            "Les enjeux de confidentialité et de sécurité soulèvent des questions sur l’utilisation de cette IA."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Meta lance Muse, un agent IA controversé pour sa violation potentielle de la vie privée",
+          "bullets": [
+            "Meta a développé Muse, un agent IA capable d’automatiser des tâches complexes et d’accéder à des données sensibles des utilisateurs.",
+            "Les employés de Meta expriment des inquiétudes majeures concernant les risques pour la vie privée et la sécurité des données.",
+            "Cette technologie pourrait transformer les interactions sur les réseaux sociaux, mais soulève des questions éthiques et juridiques.",
+            "Les régulateurs et associations de défense des droits numériques surveillent de près ce projet."
           ],
           "sources": []
         }
@@ -254,9 +279,54 @@
       "note": "Rien de significatif à signaler ce matin."
     },
     {
-      "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "label": "À savoir · vie pratique",
+      "sujets": [
+        {
+          "title": "Campagne du chèque énergie 2027 : demande anticipée dès janvier 2027 pour certains ménages",
+          "bullets": [
+            "La campagne du chèque énergie 2027 débutera plus tôt que prévu, avec une première vague de demandes dès le 14 janvier 2027.",
+            "Les ménages éligibles devront faire leur demande en ligne ou par courrier pour percevoir cette aide financière.",
+            "Cette anticipation vise à faciliter l’accès à l’énergie pour les foyers modestes et précaires.",
+            "Les critères d’éligibilité restent les mêmes que pour les années précédentes."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arnaque aux camping-cars en Dordogne : victimes organisent une manifestation devant le tribunal",
+          "bullets": [
+            "Des victimes d’arnaques liées à l’achat de camping-cars en Dordogne se mobilisent pour dénoncer les pratiques frauduleuses.",
+            "Une manifestation est prévue devant le tribunal pour exiger justice et des mesures contre les escrocs.",
+            "Les autorités locales et les associations de consommateurs appellent à une vigilance accrue face à ces pratiques.",
+            "Cette affaire illustre les risques liés aux achats en ligne et aux transactions sans garantie."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "label": "Sport général",
+      "sujets": [
+        {
+          "title": "Défaite historique du leader de ProD2 : FC Grenoble Rugby bat Provence Rugby",
+          "bullets": [
+            "Le FC Grenoble Rugby a infligé sa première défaite de la saison au leader de ProD2, Provence Rugby, lors d’un match serré.",
+            "Cette victoire marque un tournant dans la saison pour l’équipe grenobloise, qui affiche désormais un bilan positif.",
+            "Les supporters et joueurs célèbrent cette performance, considérée comme un signe de progression pour l’équipe.",
+            "Provence Rugby devra maintenant ajuster sa stratégie pour éviter d’autres revers en fin de saison."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Arthur Fils éliminé du Masters après sa défaite contre Alexander Zverev",
+          "bullets": [
+            "Arthur Fils a été éliminé du Masters de tennis après sa défaite face à Alexander Zverev en huitièmes de finale.",
+            "Ce revers marque la fin d’une saison prometteuse pour le Français, qui avait montré des performances remarquables cette année.",
+            "Zverev, numéro 1 mondial, a confirmé sa domination en battant Fils sur le score de 6-4, 6-3, 6-4.",
+            "Fils devra maintenant se concentrer sur sa préparation pour la saison 2027."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "Sport — Pittsburgh Steelers",
