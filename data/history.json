@@ -1,59 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html",
-    "title": "Mobilisation lycéenne : le numérique au cœur des nouvelles formes d’organisation",
-    "rubrique": "France",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html",
-    "title": "Marine Le Pen renforce son offensive illibérale contre les contre-pouvoirs",
-    "rubrique": "France",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html",
-    "title": "Menaces contre la presse : les sociétés de journalistes dénoncent une liberté d’information fragilisée",
-    "rubrique": "France",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/disparitions/article/2026/11/12/jean-puech-ancien-ministre-de-l-agriculture-est-mort-a-l-age-de-84-ans_6809154_3382.html",
-    "title": "Décès de Jean Puech, ancien ministre de l’Agriculture et président de l’Aveyron",
-    "rubrique": "France",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
-    "title": "Suppression de postes de fonctionnaires : la surenchère des partis avant la présidentielle 2027",
-    "rubrique": "France",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
-    "title": "Guerre en Ukraine : les Européens enfin associés aux négociations de paix",
-    "rubrique": "International",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
-    "title": "Turquie : une radio associative brise l’isolement sur les enjeux écologiques",
-    "rubrique": "International",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/13/au-bresil-le-beau-gosse-de-la-paulista-redonne-a-la-gauche-son-pouvoir-de-seduction_6809261_3210.html",
-    "title": "Brésil : la gauche séduit à nouveau avec un candidat charismatique",
-    "rubrique": "International",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/13/l-interminable-combat-pour-obtenir-justice-des-trois-fils-de-daphne-caruana-galizia-la-journaliste-maltaise-assassinee-en-2017_6809271_4500055.html",
-    "title": "Justice pour Daphne Caruana Galizia : les fils de la journaliste maltaise persistent dans leur combat",
-    "rubrique": "International",
-    "date": "2026-11-13"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html",
     "title": "Crise sociale : tensions persistantes avec la CFDT et blocages dans la fonction publique",
     "rubrique": "France",
@@ -532,5 +478,53 @@
     "title": "L’Europe développe une arme orbitale pour frapper n’importe quelle cible depuis l’espace",
     "rubrique": "IA & nouvelles technologies",
     "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.lemonde.fr/campus/article/2026/11/21/on-est-devenus-street-medics-parce-qu-on-se-sentait-impuissants-face-aux-violences-a-la-rencontre-des-benevoles-qui-secourent-les-manifestants-blesses_6813927_4401467.html",
+    "title": "Secouristes de rue : des bénévoles face aux blessures liées aux violences policières",
+    "rubrique": "France",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
+    "title": "Mobilisations contre la vie chère : sixième samedi de manifestations dans un contexte de baisse de participation",
+    "rubrique": "France",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+    "title": "Dominique de Villepin officialise sa candidature à la présidentielle 2027",
+    "rubrique": "France",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/video/2026/11/20/un-square-aux-noms-de-zyed-et-bouna-bientot-sur-la-place-de-la-nation_6813701_823448.html",
+    "title": "Place de la Nation : un square dédié aux noms de Zyed et Bouna inauguré",
+    "rubrique": "France",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
+    "title": "Adoption définitive de la loi sur la présomption de légitime défense pour les forces de l’ordre",
+    "rubrique": "France",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
+    "title": "Frappe russe en Ukraine : deux morts et 47 blessés à Kryvy Rih, ville natale de Zelensky",
+    "rubrique": "International",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html",
+    "title": "Manifestations massives en Italie contre la vie chère et les politiques gouvernementales",
+    "rubrique": "International",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html",
+    "title": "Donald Trump défend sa proximité avec Poutine et Xi Jinping lors de son retour d’Asie",
+    "rubrique": "International",
+    "date": "2026-11-21"
   }
 ]
