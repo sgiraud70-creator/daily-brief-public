@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html",
-    "title": "Crise sociale : tensions persistantes avec la CFDT et blocages dans la fonction publique",
-    "rubrique": "France",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html",
-    "title": "Prime de risque : proposition jugée insuffisante par les syndicats",
-    "rubrique": "France",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html",
-    "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
-    "rubrique": "France",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html",
-    "title": "Féminisme et extrême droite : instrumentalisation d’un discours anti-féministe",
-    "rubrique": "France",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
-    "title": "Affaire Nvidia : crise politique pour Donald Trump aux États-Unis",
-    "rubrique": "International",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
-    "title": "Rencontre trilatérale Trump-Poutine-Xi : désarmement nucléaire au menu",
-    "rubrique": "International",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html",
-    "title": "Iran et Russie renforcent leurs liens face à Israël et aux États-Unis",
-    "rubrique": "International",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
-    "title": "Suspension des vols aux États-Unis : panne des télécommunications et reprise du trafic",
-    "rubrique": "International",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html",
-    "title": "Francophonie : sommet de Phnom Penh perturbé par la guerre dans les Grands Lacs",
-    "rubrique": "International",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2374491-starship-spacex-reussit-le-decollage-de-sa-fusee-geante-mais-bute-encore-sur-le-retour-du-booster-qui-est-tombe-a-leau.html",
-    "title": "Starship : SpaceX réussit son 15e vol d’essai mais échoue à récupérer le booster",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
-    "title": "Découverte de Nāpōwawāʻenakaulua, un couple de quasars parmi les plus anciens de l’Univers",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html",
-    "title": "Galaxy Z Fold8 à moitié prix sur Amazon pour le Black Friday",
-    "rubrique": "IA & nouvelles technologies",
-    "date": "2026-11-14"
-  },
-  {
     "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html",
     "title": "Marine Le Pen annonce la fin des aides françaises à l’Ukraine en 2027",
     "rubrique": "France",
@@ -526,5 +454,83 @@
     "title": "Donald Trump défend sa proximité avec Poutine et Xi Jinping lors de son retour d’Asie",
     "rubrique": "International",
     "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html",
+    "title": "« Racisme anti-Blancs » : une matrice idéologique exploitée par l’extrême droite",
+    "rubrique": "France",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/22/mouvement-lyceen-inquiets-fiers-en-soutien-ou-en-colere-les-dechirements-des-parents-d-eleves-touches-par-la-mobilisation_6814146_3224.html",
+    "title": "Mobilisations lycéennes : les parents divisés entre soutien et rejet",
+    "rubrique": "France",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html",
+    "title": "Présidentielle 2027 : David Lisnard prône une primaire de la droite pour exclure les macronistes",
+    "rubrique": "France",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html",
+    "title": "François Ruffin renonce à sa candidature présidentielle face à la montée de l’extrême droite",
+    "rubrique": "France",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+    "title": "Affaire des fuites de Beauvau : le préfet Moutouh mis en retrait après soupçons de complicité avec le RN",
+    "rubrique": "France",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/22/en-colombie-dix-ans-apres-la-signature-de-l-accord-historique-le-bilan-amer-de-la-paix-avec-les-farc_6814189_3210.html",
+    "title": "Colombie : dix ans après l’accord de paix avec les FARC, un bilan mitigé et des défis persistants",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-attaque-en-mer-baltique-des-drones-ukrainiens-produits-au-royaume-uni-les-dernieres-informations_6814183_3210.html",
+    "title": "Guerre en Ukraine : attaque d’un cargo russe en mer Baltique et livraisons de drones britanniques",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html",
+    "title": "États-Unis : témoignages accablants sur les conditions de détention dans les centres de l’ICE",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
+    "title": "Post-partum aux États-Unis : des milliers de mères négligées et en détresse psychologique",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/22/a-londres-une-eglise-ethiopienne-orthodoxe-devenue-le-refuge-d-une-communaute-exilee-par-la-guerre_6814174_6038514.html",
+    "title": "Londres : une église éthiopienne orthodoxe devient refuge pour les exilés de la guerre",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
+    "title": "Data centers : la défiance grandit face à leur expansion mondiale",
+    "rubrique": "International",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html",
+    "title": "Robots tueurs autonomes : où en est l’armée dans leur déploiement ?",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.numerama.com/pop-culture/2380577-gta-6-ca-commence-accuse-detre-woke-le-jeu-se-fait-torpiller-par-des-milliers-davis-negatifs.html",
+    "title": "GTA 6 : polémique autour de son approche « woke » et avalanche de critiques négatives",
+    "rubrique": "IA & nouvelles technologies",
+    "date": "2026-11-22"
   }
 ]
