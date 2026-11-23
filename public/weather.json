@@ -122,11 +122,6 @@
     }
   ],
   "source": "Exemple",
-  "vigilance": {
-    "level": "jaune",
-    "phenomenes": [
-      "pluie-inondation"
-    ]
-  },
+  "vigilance": null,
   "place": "Loulans-Verchamp"
 }

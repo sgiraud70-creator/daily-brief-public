@@ -1,18 +1,18 @@
 {
-  "date_str": "Dimanche 22 novembre 2026",
+  "date_str": "Lundi 23 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 8,
+  "read_minutes": 7,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Cécile, Céline, Selah et Philémon",
+          "title": "Aujourd'hui, on souhaite la fête : Clément, Séverin et Colomban",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/22/11/2026/22-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/23/11/2026/23-Novembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "« Racisme anti-Blancs » : une matrice idéologique exploitée par l’extrême droite",
+          "title": "Mobilisations sociales : les jeunes réclament la réalisation des promesses des Lumières",
           "bullets": [
-            "Le concept de « racisme anti-Blancs » est utilisé par une frange de l’extrême droite pour inverser les rapports de domination traditionnels.",
-            "Cette stratégie vise à mobiliser une partie de l’électorat en jouant sur les peurs et les tensions identitaires.",
-            "Les experts soulignent que cette rhétorique s’inspire de mouvements identitaires étrangers, notamment américains.",
-            "Le débat s’intensifie à l’approche de la présidentielle 2027, où cette thématique pourrait servir de levier politique."
+            "L’historien Antoine Lilti souligne une demande croissante de justice sociale et d’égalité parmi les jeunes mobilisés.",
+            "Les manifestations actuelles révèlent un rejet des inégalités et une attente forte envers les institutions pour tenir leurs engagements historiques.",
+            "Ce mouvement interroge la capacité des pouvoirs publics à répondre aux aspirations contemporaines inspirées des idéaux des Lumières.",
+            "Les débats portent sur la conciliation entre héritage républicain et réalités socio-économiques actuelles."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html"
             }
           ]
         },
         {
-          "title": "Mobilisations lycéennes : les parents divisés entre soutien et rejet",
+          "title": "Crise de la Sécurité sociale en Guadeloupe : des milliers de bénéficiaires en difficulté",
           "bullets": [
-            "Les parents d’élèves mobilisés depuis deux mois expriment des opinions contrastées face aux grèves et manifestations.",
-            "Certains soutiennent activement les lycéens, fiers de leur engagement, tandis que d’autres dénoncent les perturbations scolaires.",
-            "Les témoignages révèlent des tensions au sein des familles, entre inquiétude pour la scolarité des enfants et adhésion aux revendications.",
-            "Les lycéens réclament notamment une réforme du système éducatif et une meilleure prise en compte de leurs conditions de vie."
+            "Retards dans le traitement des dossiers de retraite et non-indemnisation des arrêts maladie signalés par la Cour des comptes.",
+            "La Caisse de Sécurité sociale locale fait face à des dysfonctionnements majeurs, affectant des milliers de Guadeloupéens.",
+            "Les conséquences incluent des retards de paiement et une précarisation accrue des assurés.",
+            "Le rapport de la Cour des comptes, publié le 10 novembre, met en lumière des failles structurelles dans le système."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/22/mouvement-lyceen-inquiets-fiers-en-soutien-ou-en-colere-les-dechirements-des-parents-d-eleves-touches-par-la-mobilisation_6814146_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html"
             }
           ]
         },
         {
-          "title": "Présidentielle 2027 : David Lisnard prône une primaire de la droite pour exclure les macronistes",
+          "title": "Cyberattaque majeure au CHU de Guadeloupe : le plan blanc déclenché",
           "bullets": [
-            "David Lisnard, candidat de Nouvelle Énergie, défend l’idée d’une primaire élargie à la droite et au centre pour la présidentielle 2027.",
-            "Il considère que cette mesure permettrait d’écarter les candidats proches d’Emmanuel Macron, jugés indésirables par une partie de l’électorat de droite.",
-            "Cette proposition s’inscrit dans une stratégie pour unifier la droite en vue du scrutin de 2027.",
-            "Les réactions des autres candidats, notamment Éric Zemmour et Édouard Philippe, restent à préciser."
+            "Une cyberattaque de grande ampleur a paralysé les systèmes d’information et la téléphonie du CHU de Guadeloupe.",
+            "Le plan blanc a été activé, entraînant une déprogrammation des activités médicales pour la semaine à venir.",
+            "Les conséquences incluent des perturbations graves dans les soins et les urgences.",
+            "Les autorités sanitaires enquêtent pour identifier les responsables et restaurer les services."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html"
+              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html"
             }
           ]
         },
         {
-          "title": "François Ruffin renonce à sa candidature présidentielle face à la montée de l’extrême droite",
+          "title": "Conflit identitaire à Angers : affrontements entre militants d’extrême droite et antifascistes",
           "bullets": [
-            "Le député de la Somme François Ruffin annonce renoncer à sa candidature à la présidentielle 2027.",
-            "Il justifie sa décision par la crainte d’une victoire de l’extrême droite, qu’il juge dangereuse pour la démocratie.",
-            "Ruffin appelle les autres candidats de gauche à s’unir pour contrer cette menace, sans apporter son soutien à l’un d’eux.",
-            "Cette annonce intervient dans un contexte de polarisation politique croissante en France."
+            "Des affrontements ont eu lieu lors d’un rassemblement interdit contre le « racisme anti-Blancs » à Angers.",
+            "Environ 200 activistes de l’ultradroite identitaire et des antifascistes se sont affrontés en marge de l’événement.",
+            "Trois étudiants ont été agressés le 2 octobre sur une terrasse de bar, déclenchant ces mobilisations.",
+            "Les forces de l’ordre ont été sollicitées pour rétablir l’ordre et disperser les groupes en présence."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html"
             }
           ]
         },
         {
-          "title": "Affaire des fuites de Beauvau : le préfet Moutouh mis en retrait après soupçons de complicité avec le RN",
+          "title": "Hugues Moutouh, ex-bras droit de Claude Guéant, soupçonné d’être une « taupe » du RN",
           "bullets": [
-            "Hugues Moutouh, préfet de la région Centre-Val de Loire, a demandé sa mise en retrait après des soupçons de fuites d’informations sensibles vers le Rassemblement National (RN).",
-            "Un email trouvé au domicile d’un proche de Marine Le Pen a relancé l’enquête sur ces fuites, initialement liées à des documents internes au ministère de l’Intérieur.",
-            "Cette affaire soulève des questions sur la transparence et l’indépendance de la haute fonction publique.",
-            "L’enquête se poursuit pour déterminer l’étendue des responsabilités et les éventuels acteurs impliqués."
+            "Ce haut fonctionnaire, connu pour son style autoritaire, est sous le feu des soupçons d’avoir servi les intérêts du Rassemblement National (RN).",
+            "Ancien collaborateur de Claude Guéant, il a demandé à être relevé de ses fonctions.",
+            "Son parcours et ses méthodes de travail ont été critiqués, notamment pour des manquements présumés à ses devoirs.",
+            "Les investigations en cours pourraient avoir des répercussions sur sa carrière et son image institutionnelle."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html"
             }
           ]
         }
@@ -102,92 +102,72 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Colombie : dix ans après l’accord de paix avec les FARC, un bilan mitigé et des défis persistants",
+          "title": "Guerre en Ukraine : frappes russes dans la région de Kiev font au moins 14 morts",
           "bullets": [
-            "Signé en 2016, l’accord de paix entre la Colombie et les Forces armées révolutionnaires de Colombie (FARC) visait une réinsertion des ex-combattants et des réformes structurelles.",
-            "Dix ans plus tard, le pays fait face à une recrudescence des violences, notamment dans les zones rurales où les ex-FARC et d’autres groupes armés s’affrontent.",
-            "Les victimes de la guerre civile peinent à obtenir réparation, et la redistribution des terres promise reste incomplète.",
-            "Les tensions politiques actuelles et l’instabilité économique compliquent la mise en œuvre des mesures prévues par l’accord."
+            "Selon un bilan provisoire, dix personnes ont été tuées dans une frappe russe ayant touché un immeuble résidentiel à Dymer.",
+            "Deux navires, dont au moins un russe, ont été attaqués en Libye, ajoutant à l’instabilité régionale.",
+            "Les frappes russes visent à affaiblir les infrastructures civiles et militaires dans la région de Kiev.",
+            "La communauté internationale observe avec préoccupation l’escalade des tensions et les pertes civiles."
+          ],
+          "sources": []
+        },
+        {
+          "title": "RDC : atrocités commises par les ADF, groupe armé affilié à l’État islamique",
+          "bullets": [
+            "Les Forces démocratiques alliées (ADF) commettent des atrocités dans l’Est de la RDC, notamment des mutilations et des meurtres.",
+            "Les témoignages rapportent des cas de familles découpées et des enfants enlevés pour servir de « recruteurs » ou de victimes.",
+            "Les autorités locales et internationales peinent à contenir l’avancée de ce groupe armé, malgré les interventions militaires.",
+            "La situation humanitaire dans la région est critique, avec des milliers de déplacés et des besoins accrus en assistance."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/en-colombie-dix-ans-apres-la-signature-de-l-accord-historique-le-bilan-amer-de-la-paix-avec-les-farc_6814189_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/23/maman-les-gens-qui-t-ont-decoupee-sont-revenus-nous-chercher-dans-l-est-de-la-rdc-la-guerre-impossible-contre-les-adf-groupe-arme-affilie-a-l-etat-islamique_6814346_3212.html"
             }
           ]
         },
         {
-          "title": "Guerre en Ukraine : attaque d’un cargo russe en mer Baltique et livraisons de drones britanniques",
+          "title": "Manifestations en Turquie : dénonciation de la tutelle étatique sur les médias d’opposition",
           "bullets": [
-            "Un cargo russe a été attaqué en mer Baltique, selon des informations rapportées par le ministère ukrainien de la Défense.",
-            "L’Ukraine et le Royaume-Uni ont signé de nouveaux accords pour la production de drones ukrainiens sur le sol britannique.",
-            "Ces drones, fabriqués localement, renforcent l’arsenal ukrainien face aux frappes russes.",
-            "La mer Baltique devient un théâtre de tensions accrues, avec des risques de conflits indirects entre puissances occidentales et russes."
+            "Des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’État turc.",
+            "La chaîne d’opposition *Cihan* et d’autres médias indépendants sont sous pression depuis plusieurs mois.",
+            "Les manifestants, organisés par le Yeni Parti, réclament le respect des libertés de la presse et de l’expression.",
+            "Les autorités turques sont accusées de restreindre l’accès à l’information et de museler la critique."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-attaque-en-mer-baltique-des-drones-ukrainiens-produits-au-royaume-uni-les-dernieres-informations_6814183_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html"
             }
           ]
         },
         {
-          "title": "États-Unis : témoignages accablants sur les conditions de détention dans les centres de l’ICE",
+          "title": "Roumanie : des criminels et Russes sous sanctions utilisent des papiers d’identité frauduleux",
           "bullets": [
-            "ProPublica a recueilli plus de 500 témoignages de détenus américains retenus dans les centres de détention de l’Immigration and Customs Enforcement (ICE).",
-            "Les récits décrivent des conditions inhumaines, incluant des privations de soins médicaux, des violences et des conditions sanitaires déplorables.",
-            "Ces révélations s’ajoutent aux critiques persistantes sur la gestion de l’immigration aux États-Unis.",
-            "Les autorités fédérales font face à des pressions croissantes pour réformer ces centres de détention."
+            "La justice roumaine enquête sur des centaines de cas d’obtention frauduleuse de la citoyenneté roumaine.",
+            "Ces documents sont utilisés par des criminels et des Russes sous sanctions pour se déplacer librement en Europe.",
+            "La fraude aux papiers d’identité met en lumière des failles dans les systèmes de vérification et de sécurité.",
+            "Les autorités roumaines et européennes collaborent pour renforcer les contrôles et identifier les responsables."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/23/des-criminels-et-des-russes-sous-sanction-ont-pu-agir-en-europe-grace-a-des-papiers-d-identite-roumains-frauduleux_6814344_3210.html"
             }
           ]
         },
         {
-          "title": "Post-partum aux États-Unis : des milliers de mères négligées et en détresse psychologique",
+          "title": "Inde : précarité des jeunes et fonction publique comme dernier recours",
           "bullets": [
-            "Aux États-Unis, des mères souffrant de troubles post-partum rapportent des négligences médicales graves, allant jusqu’à des pensées suicidaires.",
-            "Les témoignages révèlent un manque de suivi médical et psychologique, ainsi qu’un système de santé fragmenté.",
-            "Les associations de santé publique appellent à une réforme urgente pour mieux prendre en charge les femmes après l’accouchement.",
-            "Cette crise sanitaire touche particulièrement les populations défavorisées et les minorités ethniques."
+            "Près de 40 % des jeunes Indiens sont sans emploi, poussant de nombreux diplômés à postuler à des postes dans la fonction publique.",
+            "La fonction publique est souvent perçue comme un havre de sécurité face à l’instabilité économique.",
+            "Les jeunes en quête d’emploi font face à une concurrence féroce et à des conditions de travail précaires.",
+            "Les inégalités sociales et économiques aggravent la situation, avec des perspectives limitées pour les jeunes générations."
           ],
           "sources": [
             {
               "name": "Le Monde",
-              "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html"
-            }
-          ]
-        },
-        {
-          "title": "Londres : une église éthiopienne orthodoxe devient refuge pour les exilés de la guerre",
-          "bullets": [
-            "Une paroisse éthiopienne orthodoxe à Londres accueille des centaines d’exilés fuyant les conflits en Éthiopie.",
-            "Cette communauté, dispersée depuis des années, trouve dans l’église un lieu de soutien spirituel et logistique.",
-            "Les membres de la paroisse organisent des distributions de nourriture, des cours de langue et un accompagnement juridique.",
-            "L’église illustre le rôle croissant des lieux de culte dans l’accueil des réfugiés en Europe."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/22/a-londres-une-eglise-ethiopienne-orthodoxe-devenue-le-refuge-d-une-communaute-exilee-par-la-guerre_6814174_6038514.html"
-            }
-          ]
-        },
-        {
-          "title": "Data centers : la défiance grandit face à leur expansion mondiale",
-          "bullets": [
-            "Les data centers suscitent des oppositions croissantes dans plusieurs pays, de l’Inde au Chili en passant par l’Irlande et le Japon.",
-            "Les habitants dénoncent leur impact environnemental, leur consommation d’énergie et leur contribution aux émissions de CO₂.",
-            "Les gouvernements tentent de réguler leur implantation, mais les géants du numérique résistent souvent aux restrictions.",
-            "Cette crise révèle les tensions entre innovation technologique et préservation de l’environnement."
-          ],
-          "sources": [
-            {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/23/puja-kumar-23-ans-si-vous-etes-ne-pauvre-en-inde-mieux-vaut-ne-pas-etre-ne-du-tout_6814353_3210.html"
             }
           ]
         }
@@ -202,32 +182,32 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Robots tueurs autonomes : où en est l’armée dans leur déploiement ?",
+          "title": "Quad9 coupe ses services en France à partir du 24 novembre : vérifiez votre configuration DNS",
           "bullets": [
-            "Une conférence de l’ONU sur les armes autonomes a mis en lumière les avancées technologiques dans ce domaine.",
-            "Les armées intègrent déjà des robots autonomes pour des missions de reconnaissance, de désamorçage d’engins explosifs et de soutien logistique.",
-            "Les débats portent sur l’éthique et la responsabilité en cas d’usage de ces armes, ainsi que sur les risques de dérives.",
-            "Certains pays, comme les États-Unis et la Chine, testent activement ces technologies, tandis que d’autres appellent à un moratoire."
+            "Le service DNS gratuit Quad9 cessera de fonctionner pour les utilisateurs situés en France à partir du 24 novembre 2026.",
+            "Les internautes utilisant Quad9 comme résolveur DNS devront configurer une alternative pour éviter des perturbations d’accès à Internet.",
+            "Cette décision pourrait impacter les utilisateurs dépendants de ce service pour leur navigation en ligne.",
+            "Les autorités françaises n’ont pas précisé les raisons de cette coupure, mais des questions sur la conformité aux réglementations locales sont soulevées."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html"
+              "url": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html"
             }
           ]
         },
         {
-          "title": "GTA 6 : polémique autour de son approche « woke » et avalanche de critiques négatives",
+          "title": "Stryx AI : la start-up française qui vise à intercepter les drones",
           "bullets": [
-            "GTA 6, sorti récemment, fait face à une vague de critiques en ligne, accusé d’être trop politiquement correct (« woke »).",
-            "Les joueurs dénoncent des changements dans l’univers du jeu, notamment une représentation plus diverse des personnages et des thèmes sociaux.",
-            "Malgré des notes globalement positives, le jeu subit une campagne de désinformation et de harcèlement en ligne.",
-            "Rockstar Games doit gérer cette controverse tout en défendant sa vision artistique et narrative."
+            "Stryx AI, fondée en 2025 par Armand Thiberge, développe des drones capables d’intercepter et de neutraliser d’autres drones.",
+            "Cette technologie vise à répondre aux enjeux de sécurité publique et militaire face à la prolifération des drones.",
+            "La start-up française se positionne comme un acteur innovant dans le domaine de la cybersécurité aérienne.",
+            "Les applications potentielles incluent la protection des infrastructures critiques et la lutte contre les usages malveillants des drones."
           ],
           "sources": [
             {
               "name": "Numerama",
-              "url": "https://www.numerama.com/pop-culture/2380577-gta-6-ca-commence-accuse-detre-woke-le-jeu-se-fait-torpiller-par-des-milliers-davis-negatifs.html"
+              "url": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html"
             }
           ]
         }
@@ -242,12 +222,12 @@
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "Impression 3D : une imprimante transformée en machine capable de créer des structures vivantes",
+          "title": "Imprimante 3D à 450 dollars capable de fabriquer des structures vivantes de plus de 100 couches",
           "bullets": [
-            "Des chercheurs ont adapté une imprimante 3D classique pour produire des structures biologiques composées de plus de 100 couches.",
-            "Cette innovation pourrait révolutionner la bio-impression et la médecine régénérative, en permettant de créer des tissus humains fonctionnels.",
-            "Le coût de cette technologie reste abordable, avec un investissement initial de seulement 450 dollars.",
-            "Les applications potentielles incluent la fabrication de greffons ou de modèles pour la recherche médicale."
+            "Des chercheurs ont transformé une imprimante 3D classique en machine capable de fabriquer des structures vivantes à partir de bio-encres.",
+            "Cette innovation permet de créer des tissus biologiques complexes, ouvrant des perspectives en médecine régénérative.",
+            "Le coût réduit de 450 dollars rend cette technologie plus accessible pour les laboratoires et les recherches académiques.",
+            "Les applications potentielles incluent la fabrication de greffes tissulaires et d’organoïdes pour la recherche médicale."
           ],
           "sources": []
         }
@@ -257,32 +237,22 @@
       "label": "À savoir · vie pratique",
       "sujets": [
         {
-          "title": "Arnaque aux stations-service : comment se protéger après un plein par carte bancaire ?",
+          "title": "Chèque énergie : ouverture anticipée du guichet en 2027",
           "bullets": [
-            "Des clients ont été victimes de fraudes après avoir effectué un plein à la pompe avec leur carte bancaire.",
-            "Les arnaqueurs copient les données de la carte et effectuent des prélèvements frauduleux sur les comptes des victimes.",
-            "Les banques et les associations de consommateurs conseillent de vérifier régulièrement ses relevés et de signaler toute transaction suspecte.",
-            "En cas de fraude avérée, il est possible de porter plainte et de demander un remboursement via sa banque."
+            "Le guichet du chèque énergie ouvrira plus tôt en 2027, avant la date initialement prévue.",
+            "Les bénéficiaires pourront faire leur demande dès une date à préciser, permettant une distribution anticipée des aides.",
+            "Cette mesure vise à soulager les ménages en difficulté financière avant l’hiver.",
+            "Les modalités précises de cette avancée seront communiquées par les autorités compétentes."
           ],
           "sources": []
         },
         {
-          "title": "Déclaration des loyers aux impôts : obligations et risques pour les bailleurs dès 2027",
+          "title": "Impôts 2027 : avantages fiscaux pour les seniors nés avant 1962",
           "bullets": [
-            "À partir de 2027, les propriétaires devront déclarer les loyers perçus, avec ou sans charges, dans leur déclaration fiscale.",
-            "Cette mesure vise à lutter contre l’évasion fiscale et à mieux contrôler les revenus du secteur immobilier.",
-            "Les bailleurs qui ne respecteront pas cette obligation risquent des sanctions, allant de pénalités à des poursuites judiciaires.",
-            "Les associations de propriétaires appellent à une meilleure information et à des outils simplifiés pour faciliter cette déclaration."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Chèque énergie 2027 : qui devra faire une demande à partir du 14 janvier ?",
-          "bullets": [
-            "À partir du 14 janvier 2027, les bénéficiaires du chèque énergie devront faire une demande annuelle pour en bénéficier.",
-            "Cette mesure concerne les ménages aux revenus modestes, aidant à couvrir les dépenses énergétiques.",
-            "Les foyers éligibles recevront une notification par courrier ou en ligne pour effectuer leur demande.",
-            "Les modalités précises et les critères d’éligibilité seront communiqués par les services fiscaux."
+            "Les seniors nés avant 1962 bénéficient de dispositifs fiscaux spécifiques pour atténuer leur charge d’impôt.",
+            "Ces avantages incluent des réductions ou crédits d’impôt liés à des dépenses particulières ou à des revenus spécifiques.",
+            "Les mesures visent à soutenir les ménages âgés face à des situations économiques plus précaires.",
+            "Les détails des avantages et les conditions d’éligibilité sont disponibles sur les sites officiels des impôts."
           ],
           "sources": []
         }
@@ -292,12 +262,22 @@
       "label": "Sport général",
       "sujets": [
         {
-          "title": "Championnat des nations : le XV de France affronte l’Afrique du Sud en finale après une victoire écrasante contre l’Argentine",
+          "title": "Carlos Alcaraz remporte son premier Masters à l’ATP Finals",
           "bullets": [
-            "Le XV de France a remporté une large victoire contre l’Argentine lors de la sixième journée du Championnat des nations.",
-            "Cette performance qualifie les Bleus pour la finale, où ils affronteront l’Afrique du Sud.",
-            "Le match a été marqué par plusieurs essais et une domination physique et technique des Français.",
-            "Cette victoire renforce les espoirs de succès pour le XV de France dans ce tournoi prestigieux."
+            "Le joueur espagnol Carlos Alcaraz a dominé Alexander Zverev en finale pour remporter son premier titre de Masters.",
+            "Cette victoire marque une étape majeure dans sa carrière et renforce sa position parmi les meilleurs joueurs de tennis.",
+            "Alcaraz a démontré une performance exceptionnelle tout au long du tournoi, consolidant son statut de leader du circuit ATP.",
+            "Ce succès pourrait influencer les attentes pour les prochains grands tournois, notamment le Grand Chelem."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Équipe de France de tennis : défaite en barrage contre l’Australie en Billie Jean King Cup",
+          "bullets": [
+            "L’équipe de France a été battue en barrage par l’Australie lors de la Billie Jean King Cup.",
+            "Cette défaite maintient la France en deuxième division de la compétition internationale de tennis féminin.",
+            "Les joueuses françaises ont été corrigées par leurs adversaires australiennes, qui ont démontré une supériorité technique et tactique.",
+            "La France devra se renforcer pour espérer retrouver l’élite lors des prochaines éditions."
           ],
           "sources": []
         }
@@ -310,7 +290,7 @@
           "title": "les Steelers — prochain match",
           "bullets": [
             "Information indisponible ce matin.",
-            "Classement : 2e de l'AFC Nord (6-3)"
+            "Classement : 3e de l'AFC Nord (6-4)"
           ],
           "sources": []
         }
