@@ -1,18 +1,18 @@
 {
-  "date_str": "Lundi 23 novembre 2026",
+  "date_str": "Mardi 24 novembre 2026",
   "audio_minutes": 11,
-  "read_minutes": 7,
+  "read_minutes": 9,
   "rubriques": [
     {
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Clément, Séverin et Colomban",
+          "title": "Aujourd'hui, on souhaite la fête : Flora et Kenan",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/23/11/2026/23-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/24/11/2026/24-Novembre-2026.html"
             }
           ]
         }
@@ -22,77 +22,107 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Mobilisations sociales : les jeunes réclament la réalisation des promesses des Lumières",
+          "title": "Menaces de mort contre six députés LFI : enquête en cours",
           "bullets": [
-            "L’historien Antoine Lilti souligne une demande croissante de justice sociale et d’égalité parmi les jeunes mobilisés.",
-            "Les manifestations actuelles révèlent un rejet des inégalités et une attente forte envers les institutions pour tenir leurs engagements historiques.",
-            "Ce mouvement interroge la capacité des pouvoirs publics à répondre aux aspirations contemporaines inspirées des idéaux des Lumières.",
-            "Les débats portent sur la conciliation entre héritage républicain et réalités socio-économiques actuelles."
+            "Six députés de La France insoumise (LFI) ont porté plainte pour des courriers haineux contenant des croix gammées.",
+            "Les élus dénoncent une inaction des autorités face à ces menaces répétées.",
+            "Les auteurs restent inconnus, mais les services de police renforcent la surveillance des cibles potentielles.",
+            "Ce phénomène s’inscrit dans une montée des violences politiques en France ces derniers mois."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
             }
           ]
         },
         {
-          "title": "Crise de la Sécurité sociale en Guadeloupe : des milliers de bénéficiaires en difficulté",
+          "title": "RN : Laure Lavalette accusée d’avoir cautionné des écrits antisémites dans les années 1990",
           "bullets": [
-            "Retards dans le traitement des dossiers de retraite et non-indemnisation des arrêts maladie signalés par la Cour des comptes.",
-            "La Caisse de Sécurité sociale locale fait face à des dysfonctionnements majeurs, affectant des milliers de Guadeloupéens.",
-            "Les conséquences incluent des retards de paiement et une précarisation accrue des assurés.",
-            "Le rapport de la Cour des comptes, publié le 10 novembre, met en lumière des failles structurelles dans le système."
+            "Jordan Bardella, président du Rassemblement national (RN), a critiqué la porte-parole de campagne de Marine Le Pen.",
+            "Des articles publiés dans les années 1990 par Laure Lavalette seraient jugés antisémites par des historiens.",
+            "Le RN maintient qu’elle n’a pas été au courant de ces écrits à l’époque.",
+            "Cette affaire relance le débat sur les responsabilités des figures politiques face à leur passé."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/23/jordan-bardella-deplore-la-faute-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_6814453_823448.html"
             }
           ]
         },
         {
-          "title": "Cyberattaque majeure au CHU de Guadeloupe : le plan blanc déclenché",
+          "title": "Budget 2027 : Lecornu appelle à un compromis entre majorité et opposition",
           "bullets": [
-            "Une cyberattaque de grande ampleur a paralysé les systèmes d’information et la téléphonie du CHU de Guadeloupe.",
-            "Le plan blanc a été activé, entraînant une déprogrammation des activités médicales pour la semaine à venir.",
-            "Les conséquences incluent des perturbations graves dans les soins et les urgences.",
-            "Les autorités sanitaires enquêtent pour identifier les responsables et restaurer les services."
+            "Sébastien Lecornu, ministre de la Transition écologique, a envoyé une lettre aux parlementaires pour relancer les discussions budgétaires.",
+            "Les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale.",
+            "Priorités évoquées : transition écologique, pouvoir d’achat et investissements dans les infrastructures.",
+            "Le gouvernement mise sur des négociations pour éviter un blocage définitif."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html"
             }
           ]
         },
         {
-          "title": "Conflit identitaire à Angers : affrontements entre militants d’extrême droite et antifascistes",
+          "title": "Retraites : la Cour des comptes propose de limiter les départs anticipés",
           "bullets": [
-            "Des affrontements ont eu lieu lors d’un rassemblement interdit contre le « racisme anti-Blancs » à Angers.",
-            "Environ 200 activistes de l’ultradroite identitaire et des antifascistes se sont affrontés en marge de l’événement.",
-            "Trois étudiants ont été agressés le 2 octobre sur une terrasse de bar, déclenchant ces mobilisations.",
-            "Les forces de l’ordre ont été sollicitées pour rétablir l’ordre et disperser les groupes en présence."
+            "La Cour des comptes recommande une restriction des dispositifs permettant des départs anticipés pour préserver la soutenabilité financière du système.",
+            "Elle suggère aussi une réforme des règles de calcul des pensions pour les travailleurs précaires.",
+            "Ces propositions pourraient impacter les débats sur la réforme des retraites en 2027.",
+            "Le gouvernement étudie ces pistes pour équilibrer les comptes sans alourdir la charge pour les actifs."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html"
             }
           ]
         },
         {
-          "title": "Hugues Moutouh, ex-bras droit de Claude Guéant, soupçonné d’être une « taupe » du RN",
+          "title": "Scission chez Europe Écologie Les Verts : Jadot et Iordanoff lancent un nouveau parti",
           "bullets": [
-            "Ce haut fonctionnaire, connu pour son style autoritaire, est sous le feu des soupçons d’avoir servi les intérêts du Rassemblement National (RN).",
-            "Ancien collaborateur de Claude Guéant, il a demandé à être relevé de ses fonctions.",
-            "Son parcours et ses méthodes de travail ont été critiqués, notamment pour des manquements présumés à ses devoirs.",
-            "Les investigations en cours pourraient avoir des répercussions sur sa carrière et son image institutionnelle."
+            "Yannick Jadot et Jérémie Iordanoff, transfuges d’Europe Écologie Les Verts (EELV), créent un nouveau parti écologiste.",
+            "Marine Tondelier, présidente d’EELV, dénonce une « trahison » et une « division inutile ».",
+            "Les cinq fondateurs incluent des figures comme Solène Mesnager et Alexis Braud.",
+            "Cette scission pourrait redessiner le paysage politique de la gauche écologiste avant 2027."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/23/yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste_6814435_823448.html"
+            }
+          ]
+        },
+        {
+          "title": "Submersion lexicale : l’extrême droite influence le débat public",
+          "bullets": [
+            "Des termes comme « Français de papier », « anti-France » ou « submersion migratoire » gagnent en popularité dans le discours politique.",
+            "Ces expressions, historiquement associées à l’extrême droite, sont désormais reprises par d’autres partis.",
+            "Analyse des médias : une normalisation progressive de certains arguments identitaires.",
+            "Les débats sur l’immigration et l’identité nationale s’en trouvent intensifiés."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/24/submersion-lexicale-comment-les-mots-de-l-extreme-droite-ont-peu-a-peu-contamine-le-debat-public_6814606_4355770.html"
+            }
+          ]
+        },
+        {
+          "title": "Présidentielle 2027 : le centre en jeu face à la montée du RN",
+          "bullets": [
+            "Edouard Philippe et Raphaël Glucksmann sont présentés comme les principaux candidats du centre pour contrer Marine Le Pen.",
+            "Un second tour Mélenchon-Le Pen relancerait le clivage gauche-droite, selon les analystes politiques.",
+            "Les sondages montrent une polarisation croissante des électeurs autour de ces deux extrêmes.",
+            "La capacité des candidats centristes à mobiliser leur électorat sera décisive."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-face-au-rn-beaucoup-va-se-jouer-sur-la-capacite-d-edouard-philippe-ou-de-raphael-glucksmann-a-s-imposer-au-centre_6814705_3232.html"
             }
           ]
         }
@@ -102,72 +132,111 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Guerre en Ukraine : frappes russes dans la région de Kiev font au moins 14 morts",
+          "title": "Donald Trump exige la peine de mort pour les meurtriers d’enfants aux États-Unis",
           "bullets": [
-            "Selon un bilan provisoire, dix personnes ont été tuées dans une frappe russe ayant touché un immeuble résidentiel à Dymer.",
-            "Deux navires, dont au moins un russe, ont été attaqués en Libye, ajoutant à l’instabilité régionale.",
-            "Les frappes russes visent à affaiblir les infrastructures civiles et militaires dans la région de Kiev.",
-            "La communauté internationale observe avec préoccupation l’escalade des tensions et les pertes civiles."
-          ],
-          "sources": []
-        },
-        {
-          "title": "RDC : atrocités commises par les ADF, groupe armé affilié à l’État islamique",
-          "bullets": [
-            "Les Forces démocratiques alliées (ADF) commettent des atrocités dans l’Est de la RDC, notamment des mutilations et des meurtres.",
-            "Les témoignages rapportent des cas de familles découpées et des enfants enlevés pour servir de « recruteurs » ou de victimes.",
-            "Les autorités locales et internationales peinent à contenir l’avancée de ce groupe armé, malgré les interventions militaires.",
-            "La situation humanitaire dans la région est critique, avec des milliers de déplacés et des besoins accrus en assistance."
+            "Le président américain demande au ministère de la Justice d’appliquer la peine capitale pour les crimes contre des mineurs.",
+            "Cette mesure s’étend également aux violeurs et trafiquants d’êtres humains ayant tué leurs victimes.",
+            "Trump souligne une volonté de « fermeté » face à ces crimes, en pleine campagne électorale.",
+            "Les associations de défense des droits humains critiquent cette mesure comme une « vengeance » plutôt qu’une justice."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/23/maman-les-gens-qui-t-ont-decoupee-sont-revenus-nous-chercher-dans-l-est-de-la-rdc-la-guerre-impossible-contre-les-adf-groupe-arme-affilie-a-l-etat-islamique_6814346_3212.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html"
             }
           ]
         },
         {
-          "title": "Manifestations en Turquie : dénonciation de la tutelle étatique sur les médias d’opposition",
+          "title": "Nvidia : Jensen Huang réintégré après son départ controversé",
           "bullets": [
-            "Des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’État turc.",
-            "La chaîne d’opposition *Cihan* et d’autres médias indépendants sont sous pression depuis plusieurs mois.",
-            "Les manifestants, organisés par le Yeni Parti, réclament le respect des libertés de la presse et de l’expression.",
-            "Les autorités turques sont accusées de restreindre l’accès à l’information et de museler la critique."
+            "Jensen Huang, PDG de Nvidia, est réintégré après avoir été écarté pour une relation extraconjugale suspectée de fuites d’informations.",
+            "Son retour est salué par les salariés et les marchés financiers, avec une hausse des actions.",
+            "Donald Trump a soutenu sa réintégration, soulignant son rôle clé dans l’innovation technologique.",
+            "Cette affaire illustre les tensions entre vie privée et responsabilité professionnelle dans le secteur tech."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-come-back-spectaculaire-de-jensen-huang-a-la-tete-de-nvidia-sous-la-pression-de-donald-trump-et-des-marches-financiers_6814669_3234.html"
+            },
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
             }
           ]
         },
         {
-          "title": "Roumanie : des criminels et Russes sous sanctions utilisent des papiers d’identité frauduleux",
+          "title": "Libye : tensions après des frappes ukrainiennes près de Benghazi",
           "bullets": [
-            "La justice roumaine enquête sur des centaines de cas d’obtention frauduleuse de la citoyenneté roumaine.",
-            "Ces documents sont utilisés par des criminels et des Russes sous sanctions pour se déplacer librement en Europe.",
-            "La fraude aux papiers d’identité met en lumière des failles dans les systèmes de vérification et de sécurité.",
-            "Les autorités roumaines et européennes collaborent pour renforcer les contrôles et identifier les responsables."
+            "La Libye réclame des explications à Kiev après des attaques contre des navires russes près de ses côtes.",
+            "Les autorités libyennes ont déposé une plainte auprès des Nations unies, estimant que ces frappes constituent une violation de leur souveraineté.",
+            "L’Ukraine nie toute responsabilité directe, mais les tensions régionales s’intensifient.",
+            "Cette crise pourrait aggraver les divisions au sein de la communauté internationale sur le soutien à l’Ukraine."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/23/des-criminels-et-des-russes-sous-sanction-ont-pu-agir-en-europe-grace-a-des-papiers-d-identite-roumains-frauduleux_6814344_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-la-libye-reclame-des-explications-a-kiev-apres-les-attaques-contre-des-navires-russes-pres-de-benghazi_6814183_3210.html"
             }
           ]
         },
         {
-          "title": "Inde : précarité des jeunes et fonction publique comme dernier recours",
+          "title": "Inde : inégalités sociales entre une jeunesse dorée et des millions de jeunes précaires",
           "bullets": [
-            "Près de 40 % des jeunes Indiens sont sans emploi, poussant de nombreux diplômés à postuler à des postes dans la fonction publique.",
-            "La fonction publique est souvent perçue comme un havre de sécurité face à l’instabilité économique.",
-            "Les jeunes en quête d’emploi font face à une concurrence féroce et à des conditions de travail précaires.",
-            "Les inégalités sociales et économiques aggravent la situation, avec des perspectives limitées pour les jeunes générations."
+            "Une partie de la jeunesse indienne, issue de milieux aisés, profite de privilèges (éducation, emploi, loisirs).",
+            "À l’inverse, des millions de jeunes souffrent de l’absence de perspectives économiques et sociales.",
+            "Ce fossé creuse les tensions politiques et sociales dans le pays.",
+            "Les inégalités s’aggravent avec la croissance démographique et la concentration des richesses."
           ],
           "sources": [
             {
-              "name": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/23/puja-kumar-23-ans-si-vous-etes-ne-pauvre-en-inde-mieux-vaut-ne-pas-etre-ne-du-tout_6814353_3210.html"
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/je-suis-une-enfant-gatee-c-est-sur-en-inde-la-jeunesse-doree-profite-de-ses-privileges_6814709_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Chili : les concierges, acteurs clés face à l’insécurité urbaine",
+          "bullets": [
+            "Les concierges jouent un rôle croissant dans la gestion de la sécurité et du quotidien des immeubles au Chili.",
+            "Ils agissent comme des intermédiaires entre résidents et autorités, souvent en première ligne face aux crimes.",
+            "Leur profession évolue pour répondre aux besoins d’une société de plus en plus insécurisée.",
+            "Ce métier, historiquement sous-estimé, gagne en reconnaissance et en responsabilité."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/au-chili-mon-concierge-bien-aime-a-la-fois-tour-de-controle-et-confident_6814570_3210.html"
+            }
+          ]
+        },
+        {
+          "title": "Rejet croissant des projets autoritaires dans plusieurs pays",
+          "bullets": [
+            "Larry Diamond, politiste américain, souligne une tendance mondiale au rejet des régimes populistes et illibéraux.",
+            "Aux États-Unis, au Brésil et en Serbie, les candidats autoritaires ont été défaits lors de récents scrutins.",
+            "Cette dynamique pourrait marquer un tournant dans les relations internationales.",
+            "Cependant, des contre-exemples persistent dans d’autres régions du monde."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/24/larry-diamond-politiste-americain-en-plusieurs-endroits-du-monde-nous-assistons-a-un-rejet-croissant-des-projets-autoritaires_6814707_3232.html"
+            }
+          ]
+        },
+        {
+          "title": "Préparation de la présidentielle américaine de 2028 : les démocrates en quête de candidat unificateur",
+          "bullets": [
+            "Les démocrates cherchent à désigner un candidat capable de rassembler une large coalition avant les élections de 2028.",
+            "Plusieurs figures politiques sont en lice, mais aucune ne s’impose clairement pour l’instant.",
+            "Les midterms ont révélé des divisions au sein du parti, nécessitant une stratégie de réconciliation.",
+            "Le choix du candidat pourrait influencer l’issue de la course à la Maison-Blanche."
+          ],
+          "sources": [
+            {
+              "name": "lemonde.fr",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/election-presidentielle-americaine-de-2028-chez-les-democrates-un-casting-tres-riche-pour-un-premier-role_6814712_3210.html"
             }
           ]
         }
@@ -175,109 +244,154 @@
     },
     {
       "label": "Actualité locale",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
+      "sujets": [
+        {
+          "title": "Vesoul : la venue d’Éric Zemmour à la foire de la Sainte-Catherine divise la population",
+          "bullets": [
+            "La présence d’Éric Zemmour à Vesoul lors de la foire de la Sainte-Catherine suscite des débats et des critiques.",
+            "Des opposants dénoncent une « vitrine politique » et une normalisation de ses propos controversés.",
+            "Les organisateurs défendent l’événement comme un espace de débat démocratique.",
+            "La municipalité reste neutre, mais la polémique persiste dans la région."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Haute-Saône : équipement des collèges en ordinateurs individuels",
+          "bullets": [
+            "2 400 ordinateurs ont été distribués aux élèves des 23 collèges du département de la Haute-Saône.",
+            "Cette initiative vise à améliorer l’accès au numérique et à moderniser les outils pédagogiques.",
+            "Les collèges bénéficient d’un équipement adapté aux besoins des élèves et des enseignants.",
+            "Un investissement de 1,2 million d’euros pour réduire les inégalités d’accès à la technologie."
+          ],
+          "sources": []
+        },
+        {
+          "title": "Haute-Saône : port du casque et gilet rétro-réfléchissant obligatoire sur les EDPM",
+          "bullets": [
+            "Le port du casque et du gilet rétro-réfléchissant devient obligatoire pour les usagers des engins de déplacement personnel motorisés (EDPM).",
+            "Cette mesure vise à renforcer la sécurité des usagers sur les voies publiques.",
+            "Les contrevenants s’exposent à des amendes et à des sanctions administratives.",
+            "Une campagne de sensibilisation est lancée pour informer les citoyens."
+          ],
+          "sources": []
+        }
+      ]
     },
     {
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Quad9 coupe ses services en France à partir du 24 novembre : vérifiez votre configuration DNS",
+          "title": "Anthropic lance Claude Ship pour automatiser la validation du code informatique",
           "bullets": [
-            "Le service DNS gratuit Quad9 cessera de fonctionner pour les utilisateurs situés en France à partir du 24 novembre 2026.",
-            "Les internautes utilisant Quad9 comme résolveur DNS devront configurer une alternative pour éviter des perturbations d’accès à Internet.",
-            "Cette décision pourrait impacter les utilisateurs dépendants de ce service pour leur navigation en ligne.",
-            "Les autorités françaises n’ont pas précisé les raisons de cette coupure, mais des questions sur la conformité aux réglementations locales sont soulevées."
+            "Claude Ship, développé par Anthropic, permet de relire, corriger et valider du code avant sa mise en ligne.",
+            "Cet outil vise à remplacer partiellement les revues de code manuelles par des agents IA.",
+            "Il pourrait améliorer l’efficacité des équipes de développement tout en réduisant les erreurs.",
+            "Disponible pour les entreprises, il s’intègre dans les workflows de développement logiciel."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html"
             }
           ]
         },
         {
-          "title": "Stryx AI : la start-up française qui vise à intercepter les drones",
+          "title": "GTA 6 : mise à jour majeure après son lancement, avec quelles nouveautés ?",
           "bullets": [
-            "Stryx AI, fondée en 2025 par Armand Thiberge, développe des drones capables d’intercepter et de neutraliser d’autres drones.",
-            "Cette technologie vise à répondre aux enjeux de sécurité publique et militaire face à la prolifération des drones.",
-            "La start-up française se positionne comme un acteur innovant dans le domaine de la cybersécurité aérienne.",
-            "Les applications potentielles incluent la protection des infrastructures critiques et la lutte contre les usages malveillants des drones."
+            "Moins d’une semaine après sa sortie, GTA 6 reçoit sa première mise à jour sur PS5, Xbox Series S et X.",
+            "Les joueurs bénéficient de corrections de bugs et d’améliorations techniques.",
+            "Aucune nouvelle fonctionnalité majeure n’est annoncée pour cette première itération.",
+            "Rockstar Studios continue d’affiner l’expérience utilisateur et la stabilité du jeu."
           ],
           "sources": [
             {
-              "name": "Numerama",
-              "url": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html"
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html"
             }
           ]
+        },
+        {
+          "title": "GTA 6 : un ornithologue explore les 60 espèces d’oiseaux du jeu",
+          "bullets": [
+            "Un ornithologue amateur a documenté les 60 espèces d’oiseaux présentes dans GTA 6.",
+            "Son travail révèle une attention particulière portée à la faune locale dans le jeu.",
+            "Les oiseaux jouent un rôle dans l’immersion et l’ambiance du monde ouvert de GTA 6.",
+            "Cette initiative montre l’effort de détail des développeurs pour enrichir l’univers du jeu."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/pop-culture/2382919-gta-6-nudistes-klaxons-et-pelicans-un-ornithologue-raconte-sa-traque-des-60-especes-doiseaux.html"
+            }
+          ]
+        },
+        {
+          "title": "L’IA s’attaque à l’énigme mathématique P vs NP, une récompense d’un million de dollars en jeu",
+          "bullets": [
+            "Un mathématicien d’Anthropic a annoncé avoir démontré l’hypothèse de Riemann avec l’aide de l’IA Claude.",
+            "Cette énigme, l’une des plus célèbres en mathématiques, pourrait ouvrir la voie à des avancées majeures en cryptographie.",
+            "La résolution de P vs NP, une autre énigme majeure, pourrait valoir un million de dollars à son résolveur.",
+            "L’IA devient un outil clé pour résoudre des problèmes mathématiques complexes."
+          ],
+          "sources": [
+            {
+              "name": "numerama.com",
+              "url": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html"
+            }
+          ]
+        },
+        {
+          "title": "Apple prépare un agent IA pour automatiser les tâches sur Mac",
+          "bullets": [
+            "Apple travaille sur un agent IA capable d’effectuer des tâches automatisées sur les appareils Mac.",
+            "Cet outil pourrait gérer des actions complexes comme la gestion de fichiers ou la planification.",
+            "Les détails techniques restent flous, mais les premiers tests sont en cours.",
+            "Cette innovation pourrait concurrencer des outils comme Siri ou des assistants tiers."
+          ],
+          "sources": []
         }
       ]
-    },
-    {
-      "label": "Applications · no-code · automatisation",
-      "sujets": [],
-      "note": "Rien de significatif à signaler ce matin."
     },
     {
       "label": "Impression 3D",
       "sujets": [
         {
-          "title": "Imprimante 3D à 450 dollars capable de fabriquer des structures vivantes de plus de 100 couches",
+          "title": "Formnext 2026 : l’impression 3D se démocratise et s’industrialise",
           "bullets": [
-            "Des chercheurs ont transformé une imprimante 3D classique en machine capable de fabriquer des structures vivantes à partir de bio-encres.",
-            "Cette innovation permet de créer des tissus biologiques complexes, ouvrant des perspectives en médecine régénérative.",
-            "Le coût réduit de 450 dollars rend cette technologie plus accessible pour les laboratoires et les recherches académiques.",
-            "Les applications potentielles incluent la fabrication de greffes tissulaires et d’organoïdes pour la recherche médicale."
+            "L’événement Formnext 2026 a réuni 38 447 visiteurs et 765 exposants, illustrant la croissance du secteur.",
+            "Les innovations portent sur la démocratisation et l’industrialisation de l’impression 3D.",
+            "Des solutions plus accessibles et performantes sont présentées pour les entreprises et les particuliers.",
+            "L’impression 3D devient un outil clé pour la production et la prototypage."
           ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "À savoir · vie pratique",
-      "sujets": [
-        {
-          "title": "Chèque énergie : ouverture anticipée du guichet en 2027",
-          "bullets": [
-            "Le guichet du chèque énergie ouvrira plus tôt en 2027, avant la date initialement prévue.",
-            "Les bénéficiaires pourront faire leur demande dès une date à préciser, permettant une distribution anticipée des aides.",
-            "Cette mesure vise à soulager les ménages en difficulté financière avant l’hiver.",
-            "Les modalités précises de cette avancée seront communiquées par les autorités compétentes."
-          ],
-          "sources": []
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/formnext-2026-tendances-24112026/"
+            }
+          ]
         },
         {
-          "title": "Impôts 2027 : avantages fiscaux pour les seniors nés avant 1962",
+          "title": "AXILOOP MC8 : une imprimante 3D modulaire conçue pour la durabilité",
           "bullets": [
-            "Les seniors nés avant 1962 bénéficient de dispositifs fiscaux spécifiques pour atténuer leur charge d’impôt.",
-            "Ces avantages incluent des réductions ou crédits d’impôt liés à des dépenses particulières ou à des revenus spécifiques.",
-            "Les mesures visent à soutenir les ménages âgés face à des situations économiques plus précaires.",
-            "Les détails des avantages et les conditions d’éligibilité sont disponibles sur les sites officiels des impôts."
+            "L’imprimante AXILOOP MC8 se distingue par sa modularité et sa facilité de réparation.",
+            "Conçue pour durer, elle s’adresse aux professionnels et aux makers cherchant une solution robuste.",
+            "Les composants interchangeables réduisent les coûts de maintenance et prolongent la durée de vie.",
+            "Un pas vers une impression 3D plus durable et moins polluante."
           ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "label": "Sport général",
-      "sujets": [
-        {
-          "title": "Carlos Alcaraz remporte son premier Masters à l’ATP Finals",
-          "bullets": [
-            "Le joueur espagnol Carlos Alcaraz a dominé Alexander Zverev en finale pour remporter son premier titre de Masters.",
-            "Cette victoire marque une étape majeure dans sa carrière et renforce sa position parmi les meilleurs joueurs de tennis.",
-            "Alcaraz a démontré une performance exceptionnelle tout au long du tournoi, consolidant son statut de leader du circuit ATP.",
-            "Ce succès pourrait influencer les attentes pour les prochains grands tournois, notamment le Grand Chelem."
-          ],
-          "sources": []
+          "sources": [
+            {
+              "name": "3dnatives.com",
+              "url": "https://www.3dnatives.com/axiloop-mc8-imprimante-3d/"
+            }
+          ]
         },
         {
-          "title": "Équipe de France de tennis : défaite en barrage contre l’Australie en Billie Jean King Cup",
+          "title": "Imprimante 3D à 450 dollars capable de fabriquer de la matière vivante",
           "bullets": [
-            "L’équipe de France a été battue en barrage par l’Australie lors de la Billie Jean King Cup.",
-            "Cette défaite maintient la France en deuxième division de la compétition internationale de tennis féminin.",
-            "Les joueuses françaises ont été corrigées par leurs adversaires australiennes, qui ont démontré une supériorité technique et tactique.",
-            "La France devra se renforcer pour espérer retrouver l’élite lors des prochaines éditions."
+            "Une imprimante 3D à bas coût permet de créer des structures biologiques à partir de cellules vivantes.",
+            "Cette technologie ouvre des perspectives en médecine régénérative et en biologie synthétique.",
+            "Les applications potentielles incluent la fabrication de tissus humains ou de bio-matériaux.",
+            "Un pas significatif vers une bio-impression plus accessible et innovante."
           ],
           "sources": []
         }
