@@ -1,5 +1,5 @@
 {
-  "date_str": "Mardi 24 novembre 2026",
+  "date_str": "Mercredi 25 novembre 2026",
   "audio_minutes": 11,
   "read_minutes": 9,
   "rubriques": [
@@ -7,12 +7,12 @@
       "label": "Fête du jour",
       "sujets": [
         {
-          "title": "Aujourd'hui, on souhaite la fête : Flora et Kenan",
+          "title": "Aujourd'hui, on souhaite la fête : Catherine et Béatrice",
           "bullets": [],
           "sources": [
             {
               "name": "Nominis",
-              "url": "https://nominis.cef.fr/contenus/fetes/24/11/2026/24-Novembre-2026.html"
+              "url": "https://nominis.cef.fr/contenus/fetes/25/11/2026/25-Novembre-2026.html"
             }
           ]
         }
@@ -22,107 +22,77 @@
       "label": "France",
       "sujets": [
         {
-          "title": "Menaces de mort contre six députés LFI : enquête en cours",
+          "title": "Réforme des retraites du RN : Zemmour critique l'absence de retour à 62 ans et d'assurance à 64 ans",
           "bullets": [
-            "Six députés de La France insoumise (LFI) ont porté plainte pour des courriers haineux contenant des croix gammées.",
-            "Les élus dénoncent une inaction des autorités face à ces menaces répétées.",
-            "Les auteurs restent inconnus, mais les services de police renforcent la surveillance des cibles potentielles.",
-            "Ce phénomène s’inscrit dans une montée des violences politiques en France ces derniers mois."
+            "L'économiste Michaël Zemmour souligne que la réforme proposée par le Rassemblement National (RN) ne garantit pas un départ à 62 ans ni un droit automatique à 64 ans.",
+            "Les jeunes, travailleurs peu qualifiés et à temps partiel seraient les plus affectés par cette réforme.",
+            "Le RN prévoit de financer cette réforme par des mesures ciblées sur le logement et les précaires.",
+            "Cette analyse intervient dans un contexte de préparation à la présidentielle 2027 où le RN se positionne comme une alternative aux réformes actuelles."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/25/michael-zemmour-economiste-la-reforme-des-retraites-proposee-par-le-rn-ne-retablit-pas-un-depart-a-62-ans-et-n-en-garantit-pas-le-droit-a-64-ans_6815038_3232.html"
             }
           ]
         },
         {
-          "title": "RN : Laure Lavalette accusée d’avoir cautionné des écrits antisémites dans les années 1990",
+          "title": "LFI attire les électeurs de gauche en vue de la présidentielle 2027",
           "bullets": [
-            "Jordan Bardella, président du Rassemblement national (RN), a critiqué la porte-parole de campagne de Marine Le Pen.",
-            "Des articles publiés dans les années 1990 par Laure Lavalette seraient jugés antisémites par des historiens.",
-            "Le RN maintient qu’elle n’a pas été au courant de ces écrits à l’époque.",
-            "Cette affaire relance le débat sur les responsabilités des figures politiques face à leur passé."
+            "La France Insoumise (LFI) se positionne comme une force d’attraction à gauche après des gains récents, notamment avec la majorité du groupe communiste à l’Assemblée nationale.",
+            "Marine Tondelier, secrétaire nationale des Écologistes, et d’autres figures de gauche expriment leur soutien ou leur intérêt pour une alliance avec LFI.",
+            "Ce positionnement vise à contrer la montée de l’extrême droite et à rassembler les forces progressistes en vue des élections présidentielles de 2027.",
+            "LFI mise sur un discours radical sur les questions sociales et climatiques pour séduire les jeunes électeurs."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/23/jordan-bardella-deplore-la-faute-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_6814453_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html"
             }
           ]
         },
         {
-          "title": "Budget 2027 : Lecornu appelle à un compromis entre majorité et opposition",
+          "title": "Maires inquiets : le « ras-le-bol général » des électeurs avant la présidentielle 2027",
           "bullets": [
-            "Sébastien Lecornu, ministre de la Transition écologique, a envoyé une lettre aux parlementaires pour relancer les discussions budgétaires.",
-            "Les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale.",
-            "Priorités évoquées : transition écologique, pouvoir d’achat et investissements dans les infrastructures.",
-            "Le gouvernement mise sur des négociations pour éviter un blocage définitif."
+            "Le congrès de l’Association des maires de France met en lumière une méfiance croissante des électeurs envers les institutions.",
+            "Les maires soulignent une lassitude face aux politiques publiques et une demande croissante de solutions locales et concrètes.",
+            "Cette inquiétude reflète un contexte social tendu et une défiance envers les partis traditionnels.",
+            "Les maires appellent à des réformes pour répondre aux attentes des citoyens et éviter une abstention massive."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html"
             }
           ]
         },
         {
-          "title": "Retraites : la Cour des comptes propose de limiter les départs anticipés",
+          "title": "Marine Le Pen promet plus de « liberté » pour les communes et une réforme du « millefeuille territorial »",
           "bullets": [
-            "La Cour des comptes recommande une restriction des dispositifs permettant des départs anticipés pour préserver la soutenabilité financière du système.",
-            "Elle suggère aussi une réforme des règles de calcul des pensions pour les travailleurs précaires.",
-            "Ces propositions pourraient impacter les débats sur la réforme des retraites en 2027.",
-            "Le gouvernement étudie ces pistes pour équilibrer les comptes sans alourdir la charge pour les actifs."
+            "Lors du congrès des maires de France, Marine Le Pen a réaffirmé son intention de réduire les contraintes administratives pour les communes.",
+            "Elle propose de simplifier et de décentraliser les compétences territoriales pour renforcer l’autonomie des collectivités locales.",
+            "Cette annonce vise à séduire les maires et les électeurs locaux en promettant une meilleure gestion des ressources et des services publics.",
+            "Le RN mise sur cette réforme pour se positionner comme un parti favorable à la décentralisation et à la proximité."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html"
             }
           ]
         },
         {
-          "title": "Scission chez Europe Écologie Les Verts : Jadot et Iordanoff lancent un nouveau parti",
+          "title": "Budget 2027 : adoption d’un premier texte, mais compromis incertain",
           "bullets": [
-            "Yannick Jadot et Jérémie Iordanoff, transfuges d’Europe Écologie Les Verts (EELV), créent un nouveau parti écologiste.",
-            "Marine Tondelier, présidente d’EELV, dénonce une « trahison » et une « division inutile ».",
-            "Les cinq fondateurs incluent des figures comme Solène Mesnager et Alexis Braud.",
-            "Cette scission pourrait redessiner le paysage politique de la gauche écologiste avant 2027."
+            "La loi de fin de gestion pour 2026 a été validée par le Parlement, mais l’accord sur le budget 2027 reste incertain.",
+            "Sébastien Lecornu, ministre de l’Agriculture, appelle à un compromis pour éviter des tensions budgétaires.",
+            "Les négociations entre majorité et opposition s’annoncent difficiles, notamment sur les dépenses publiques et les recettes.",
+            "Le gouvernement doit trouver un équilibre pour éviter un rejet par la Commission européenne."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/23/yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste_6814435_823448.html"
-            }
-          ]
-        },
-        {
-          "title": "Submersion lexicale : l’extrême droite influence le débat public",
-          "bullets": [
-            "Des termes comme « Français de papier », « anti-France » ou « submersion migratoire » gagnent en popularité dans le discours politique.",
-            "Ces expressions, historiquement associées à l’extrême droite, sont désormais reprises par d’autres partis.",
-            "Analyse des médias : une normalisation progressive de certains arguments identitaires.",
-            "Les débats sur l’immigration et l’identité nationale s’en trouvent intensifiés."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/24/submersion-lexicale-comment-les-mots-de-l-extreme-droite-ont-peu-a-peu-contamine-le-debat-public_6814606_4355770.html"
-            }
-          ]
-        },
-        {
-          "title": "Présidentielle 2027 : le centre en jeu face à la montée du RN",
-          "bullets": [
-            "Edouard Philippe et Raphaël Glucksmann sont présentés comme les principaux candidats du centre pour contrer Marine Le Pen.",
-            "Un second tour Mélenchon-Le Pen relancerait le clivage gauche-droite, selon les analystes politiques.",
-            "Les sondages montrent une polarisation croissante des électeurs autour de ces deux extrêmes.",
-            "La capacité des candidats centristes à mobiliser leur électorat sera décisive."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-face-au-rn-beaucoup-va-se-jouer-sur-la-capacite-d-edouard-philippe-ou-de-raphael-glucksmann-a-s-imposer-au-centre_6814705_3232.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html"
             }
           ]
         }
@@ -132,111 +102,77 @@
       "label": "International",
       "sujets": [
         {
-          "title": "Donald Trump exige la peine de mort pour les meurtriers d’enfants aux États-Unis",
+          "title": "Guerre en Ukraine : frappes revendiquées par Kiev contre des navires russes en Libye, deux militaires libyens tués",
           "bullets": [
-            "Le président américain demande au ministère de la Justice d’appliquer la peine capitale pour les crimes contre des mineurs.",
-            "Cette mesure s’étend également aux violeurs et trafiquants d’êtres humains ayant tué leurs victimes.",
-            "Trump souligne une volonté de « fermeté » face à ces crimes, en pleine campagne électorale.",
-            "Les associations de défense des droits humains critiquent cette mesure comme une « vengeance » plutôt qu’une justice."
+            "Kiev revendique des frappes contre des navires russes à Benghazi, en Libye, causant la mort de deux militaires libyens.",
+            "Le commandant en chef adjoint des Forces armées arabes libyennes dénonce une « attaque criminelle » contre la base navale de Benghazi.",
+            "Cette action s’inscrit dans le cadre des tensions géopolitiques autour de la guerre en Ukraine et des soutiens extérieurs à la Russie.",
+            "La Libye, pays en crise, voit son territoire instrumentalisé dans les conflits indirects liés à la guerre en Ukraine."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-deux-militaires-libyens-succombent-a-leurs-blessures-apres-les-frappes-revendiquees-par-kiev-contre-des-navires-russes-a-benghazi_6814183_3210.html"
             }
           ]
         },
         {
-          "title": "Nvidia : Jensen Huang réintégré après son départ controversé",
+          "title": "Bangladesh : revalorisation du salaire minimum pour les ouvriers du textile",
           "bullets": [
-            "Jensen Huang, PDG de Nvidia, est réintégré après avoir été écarté pour une relation extraconjugale suspectée de fuites d’informations.",
-            "Son retour est salué par les salariés et les marchés financiers, avec une hausse des actions.",
-            "Donald Trump a soutenu sa réintégration, soulignant son rôle clé dans l’innovation technologique.",
-            "Cette affaire illustre les tensions entre vie privée et responsabilité professionnelle dans le secteur tech."
+            "Les ouvriers du textile, secteur clé de l’économie bangladaise, obtiennent une revalorisation de leur salaire minimum après des manifestations.",
+            "Cette hausse répond à des revendications salariales portées par les travailleurs depuis plusieurs mois.",
+            "Le secteur du textile, très dépendant des exportations, subit des pressions pour améliorer les conditions de travail et les revenus.",
+            "Cette décision pourrait influencer d’autres pays producteurs de vêtements à revaloriser les salaires dans le secteur."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-come-back-spectaculaire-de-jensen-huang-a-la-tete-de-nvidia-sous-la-pression-de-donald-trump-et-des-marches-financiers_6814669_3234.html"
-            },
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/25/au-bangladesh-les-ouvriers-du-textile-secteur-cle-de-l-economie-nationale-obtiennent-une-revalorisation-du-salaire-minimum_6815049_3210.html"
             }
           ]
         },
         {
-          "title": "Libye : tensions après des frappes ukrainiennes près de Benghazi",
+          "title": "Nouvelle-Zélande : technologie pour réduire les émissions de méthane du bétail",
           "bullets": [
-            "La Libye réclame des explications à Kiev après des attaques contre des navires russes près de ses côtes.",
-            "Les autorités libyennes ont déposé une plainte auprès des Nations unies, estimant que ces frappes constituent une violation de leur souveraineté.",
-            "L’Ukraine nie toute responsabilité directe, mais les tensions régionales s’intensifient.",
-            "Cette crise pourrait aggraver les divisions au sein de la communauté internationale sur le soutien à l’Ukraine."
+            "La Nouvelle-Zélande mise sur des solutions technologiques pour réduire les émissions de méthane liées à son élevage, responsable de 53 % de ses émissions de gaz à effet de serre.",
+            "Les autorités abandonnent les approches traditionnelles pour privilégier des innovations comme les additifs alimentaires et les vaccins.",
+            "Ce virage technologique vise à atteindre les objectifs climatiques du pays tout en préservant son secteur agricole.",
+            "La Nouvelle-Zélande cherche à se positionner comme un leader dans la lutte contre le changement climatique via l’innovation."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-la-libye-reclame-des-explications-a-kiev-apres-les-attaques-contre-des-navires-russes-pres-de-benghazi_6814183_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/11/25/pour-reduire-les-emissions-de-methane-de-son-betail-la-nouvelle-zelande-s-en-remet-entierement-a-la-technologie_6815047_3244.html"
             }
           ]
         },
         {
-          "title": "Inde : inégalités sociales entre une jeunesse dorée et des millions de jeunes précaires",
+          "title": "Colombie : prise d’otages en cours dans un supermarché à Carthagène",
           "bullets": [
-            "Une partie de la jeunesse indienne, issue de milieux aisés, profite de privilèges (éducation, emploi, loisirs).",
-            "À l’inverse, des millions de jeunes souffrent de l’absence de perspectives économiques et sociales.",
-            "Ce fossé creuse les tensions politiques et sociales dans le pays.",
-            "Les inégalités s’aggravent avec la croissance démographique et la concentration des richesses."
+            "Le président colombien et l’armée se rendent à Carthagène pour gérer une prise d’otages en cours dans un supermarché.",
+            "Le chef de l’État, Abelardo de la Espriella, qualifie cette prise d’otages de « criminalité de droit commun », excluant toute implication de groupes armés.",
+            "Les forces de sécurité tentent de négocier la libération des otages tout en sécurisant la zone.",
+            "Cette situation s’inscrit dans un contexte de criminalité persistante malgré les efforts de pacification du pays."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/je-suis-une-enfant-gatee-c-est-sur-en-inde-la-jeunesse-doree-profite-de-ses-privileges_6814709_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/25/en-colombie-le-president-et-l-armee-a-carthagenes-pour-une-prise-d-otages-en-cours-dans-un-supermarche_6814815_3211.html"
             }
           ]
         },
         {
-          "title": "Chili : les concierges, acteurs clés face à l’insécurité urbaine",
+          "title": "Inde : montée des extrémistes hindous et thèses conspirationnistes",
           "bullets": [
-            "Les concierges jouent un rôle croissant dans la gestion de la sécurité et du quotidien des immeubles au Chili.",
-            "Ils agissent comme des intermédiaires entre résidents et autorités, souvent en première ligne face aux crimes.",
-            "Leur profession évolue pour répondre aux besoins d’une société de plus en plus insécurisée.",
-            "Ce métier, historiquement sous-estimé, gagne en reconnaissance et en responsabilité."
+            "En Inde, les jeunes extrémistes hindous se radicalisent autour de la protection de l’identité hindoue et rejettent les minorités, notamment musulmanes.",
+            "Kartik Hindu, 25 ans, illustre cette tendance avec des discours conspirationnistes et une vision polarisée de la société indienne.",
+            "Ce phénomène s’accompagne d’une instrumentalisation des réseaux sociaux pour diffuser ces idées.",
+            "Les autorités indiennes doivent faire face à cette radicalisation croissante et à ses conséquences sociales."
           ],
           "sources": [
             {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/au-chili-mon-concierge-bien-aime-a-la-fois-tour-de-controle-et-confident_6814570_3210.html"
-            }
-          ]
-        },
-        {
-          "title": "Rejet croissant des projets autoritaires dans plusieurs pays",
-          "bullets": [
-            "Larry Diamond, politiste américain, souligne une tendance mondiale au rejet des régimes populistes et illibéraux.",
-            "Aux États-Unis, au Brésil et en Serbie, les candidats autoritaires ont été défaits lors de récents scrutins.",
-            "Cette dynamique pourrait marquer un tournant dans les relations internationales.",
-            "Cependant, des contre-exemples persistent dans d’autres régions du monde."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/idees/article/2026/11/24/larry-diamond-politiste-americain-en-plusieurs-endroits-du-monde-nous-assistons-a-un-rejet-croissant-des-projets-autoritaires_6814707_3232.html"
-            }
-          ]
-        },
-        {
-          "title": "Préparation de la présidentielle américaine de 2028 : les démocrates en quête de candidat unificateur",
-          "bullets": [
-            "Les démocrates cherchent à désigner un candidat capable de rassembler une large coalition avant les élections de 2028.",
-            "Plusieurs figures politiques sont en lice, mais aucune ne s’impose clairement pour l’instant.",
-            "Les midterms ont révélé des divisions au sein du parti, nécessitant une stratégie de réconciliation.",
-            "Le choix du candidat pourrait influencer l’issue de la course à la Maison-Blanche."
-          ],
-          "sources": [
-            {
-              "name": "lemonde.fr",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/election-presidentielle-americaine-de-2028-chez-les-democrates-un-casting-tres-riche-pour-un-premier-role_6814712_3210.html"
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/25/je-suis-avant-tout-un-protecteur-de-l-identite-hindoue-en-inde-les-jeunes-extremistes-baignent-dans-les-theses-conspirationnistes_6815040_3210.html"
             }
           ]
         }
@@ -246,32 +182,22 @@
       "label": "Actualité locale",
       "sujets": [
         {
-          "title": "Vesoul : la venue d’Éric Zemmour à la foire de la Sainte-Catherine divise la population",
+          "title": "Sécheresse en Haute-Saône et Jura : 42 communes reconnues en catastrophe naturelle",
           "bullets": [
-            "La présence d’Éric Zemmour à Vesoul lors de la foire de la Sainte-Catherine suscite des débats et des critiques.",
-            "Des opposants dénoncent une « vitrine politique » et une normalisation de ses propos controversés.",
-            "Les organisateurs défendent l’événement comme un espace de débat démocratique.",
-            "La municipalité reste neutre, mais la polémique persiste dans la région."
+            "La sécheresse en Haute-Saône et dans le Jura a conduit à la reconnaissance de la catastrophe naturelle pour 42 communes, dont Gray et Luxeuil-les-Bains.",
+            "Les mesures d’urgence doivent être prises avant le 21 décembre pour bénéficier des aides financières.",
+            "Les restrictions d’eau sont allégées mais restent en vigueur dans certaines zones critiques.",
+            "Les habitants et les collectivités locales doivent se préparer à des mesures supplémentaires en cas d’aggravation de la situation."
           ],
           "sources": []
         },
         {
-          "title": "Haute-Saône : équipement des collèges en ordinateurs individuels",
+          "title": "Eric Zemmour seul candidat à la présidentielle présent à la Sainte-Catherine de Vesoul",
           "bullets": [
-            "2 400 ordinateurs ont été distribués aux élèves des 23 collèges du département de la Haute-Saône.",
-            "Cette initiative vise à améliorer l’accès au numérique et à moderniser les outils pédagogiques.",
-            "Les collèges bénéficient d’un équipement adapté aux besoins des élèves et des enseignants.",
-            "Un investissement de 1,2 million d’euros pour réduire les inégalités d’accès à la technologie."
-          ],
-          "sources": []
-        },
-        {
-          "title": "Haute-Saône : port du casque et gilet rétro-réfléchissant obligatoire sur les EDPM",
-          "bullets": [
-            "Le port du casque et du gilet rétro-réfléchissant devient obligatoire pour les usagers des engins de déplacement personnel motorisés (EDPM).",
-            "Cette mesure vise à renforcer la sécurité des usagers sur les voies publiques.",
-            "Les contrevenants s’exposent à des amendes et à des sanctions administratives.",
-            "Une campagne de sensibilisation est lancée pour informer les citoyens."
+            "Eric Zemmour est le seul candidat à la présidentielle 2027 présent à la Sainte-Catherine de Vesoul, une foire historique.",
+            "Cette présence médiatique vise à renforcer son image et à mobiliser ses soutiens locaux avant les élections.",
+            "La Sainte-Catherine, avec 40 000 visiteurs attendus, offre une vitrine importante pour les candidats.",
+            "Les autres candidats se concentrent sur d’autres événements pour toucher les électeurs."
           ],
           "sources": []
         }
@@ -281,117 +207,107 @@
       "label": "IA & nouvelles technologies",
       "sujets": [
         {
-          "title": "Anthropic lance Claude Ship pour automatiser la validation du code informatique",
+          "title": "Porsche 718 Boxster électrique : 0 à 100 km/h en moins de 3 secondes et faux son de 6 cylindres",
           "bullets": [
-            "Claude Ship, développé par Anthropic, permet de relire, corriger et valider du code avant sa mise en ligne.",
-            "Cet outil vise à remplacer partiellement les revues de code manuelles par des agents IA.",
-            "Il pourrait améliorer l’efficacité des équipes de développement tout en réduisant les erreurs.",
-            "Disponible pour les entreprises, il s’intègre dans les workflows de développement logiciel."
+            "La Porsche 718 Boxster électrique affiche un temps de 0 à 100 km/h inférieur à 3 secondes, rivalisant avec les modèles thermiques.",
+            "Le faux son de 6 cylindres ajoute une dimension immersive pour une expérience de conduite plus authentique.",
+            "Cette performance technique vise à séduire les amateurs de sport automobile tout en promouvant l’électrification.",
+            "Porsche mise sur l’innovation technologique pour maintenir son leadership dans le segment des sportives."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2383907-moins-de-3-secondes-de-0-a-100-km-h-et-faux-son-de-6-cylindres-la-porsche-718-boxster-electrique-promet-des-sensations-fortes.html"
             }
           ]
         },
         {
-          "title": "GTA 6 : mise à jour majeure après son lancement, avec quelles nouveautés ?",
+          "title": "GTA 6 : découverte d’un portail secret par les joueurs",
           "bullets": [
-            "Moins d’une semaine après sa sortie, GTA 6 reçoit sa première mise à jour sur PS5, Xbox Series S et X.",
-            "Les joueurs bénéficient de corrections de bugs et d’améliorations techniques.",
-            "Aucune nouvelle fonctionnalité majeure n’est annoncée pour cette première itération.",
-            "Rockstar Studios continue d’affiner l’expérience utilisateur et la stabilité du jeu."
+            "Les joueurs de GTA 6 ont découvert un portail secret caché dans le jeu, ajoutant une couche de mystère et de contenu supplémentaire.",
+            "Ce secret renforce l’immersion et satisfait les fans des jeux de la série Vice City.",
+            "Rockstar Games continue de surprendre les joueurs avec des détails inattendus après la sortie du jeu.",
+            "Cette découverte illustre l’attention portée aux détails et à l’expérience utilisateur dans GTA 6."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/pop-culture/2383323-gta-6-rockstar-a-cache-un-portail-secret-qui-plaira-aux-fans-des-vieux-gta.html"
             }
           ]
         },
         {
-          "title": "GTA 6 : un ornithologue explore les 60 espèces d’oiseaux du jeu",
+          "title": "BYD envisage un rachat de l’usine Ineos en Moselle pour produire des véhicules en France",
           "bullets": [
-            "Un ornithologue amateur a documenté les 60 espèces d’oiseaux présentes dans GTA 6.",
-            "Son travail révèle une attention particulière portée à la faune locale dans le jeu.",
-            "Les oiseaux jouent un rôle dans l’immersion et l’ambiance du monde ouvert de GTA 6.",
-            "Cette initiative montre l’effort de détail des développeurs pour enrichir l’univers du jeu."
+            "BYD, géant chinois de l’automobile, est en négociations exclusives pour racheter l’usine de Hambach en Moselle, propriété d’Ineos Automotive.",
+            "Cette acquisition permettrait à BYD de produire des véhicules électriques en France et de renforcer sa présence sur le marché européen.",
+            "L’usine, inaugurée en 1997, est spécialisée dans la fabrication de 4x4 et pourrait être adaptée à la production de modèles BYD.",
+            "Ce projet s’inscrit dans une stratégie globale de BYD pour diversifier ses chaînes d’approvisionnement et réduire sa dépendance aux marchés asiatiques."
           ],
           "sources": [
             {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/pop-culture/2382919-gta-6-nudistes-klaxons-et-pelicans-un-ornithologue-raconte-sa-traque-des-60-especes-doiseaux.html"
+              "name": "Numerama",
+              "url": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "À savoir · vie pratique",
+      "sujets": [
         {
-          "title": "L’IA s’attaque à l’énigme mathématique P vs NP, une récompense d’un million de dollars en jeu",
+          "title": "Arnaque aux sentiments : la Caisse d’Épargne n’est pas tenue de rembourser la victime",
           "bullets": [
-            "Un mathématicien d’Anthropic a annoncé avoir démontré l’hypothèse de Riemann avec l’aide de l’IA Claude.",
-            "Cette énigme, l’une des plus célèbres en mathématiques, pourrait ouvrir la voie à des avancées majeures en cryptographie.",
-            "La résolution de P vs NP, une autre énigme majeure, pourrait valoir un million de dollars à son résolveur.",
-            "L’IA devient un outil clé pour résoudre des problèmes mathématiques complexes."
+            "La Caisse d’Épargne n’a pas l’obligation légale de rembourser les victimes d’arnaques aux sentiments, selon une décision récente.",
+            "Les victimes sont souvent confrontées à des difficultés pour récupérer leurs économies après avoir été manipulées par des escrocs.",
+            "Les banques peuvent refuser de rembourser sous prétexte de fraude ou de négligence de la part de la victime.",
+            "Les associations de consommateurs et les régulateurs appellent à une meilleure protection des victimes et à des mécanismes de remboursement plus efficaces."
           ],
-          "sources": [
-            {
-              "name": "numerama.com",
-              "url": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Apple prépare un agent IA pour automatiser les tâches sur Mac",
+          "title": "Black Friday 2026 : conseils pour éviter les arnaques en ligne",
           "bullets": [
-            "Apple travaille sur un agent IA capable d’effectuer des tâches automatisées sur les appareils Mac.",
-            "Cet outil pourrait gérer des actions complexes comme la gestion de fichiers ou la planification.",
-            "Les détails techniques restent flous, mais les premiers tests sont en cours.",
-            "Cette innovation pourrait concurrencer des outils comme Siri ou des assistants tiers."
+            "Le Black Friday est propice aux arnaques, avec des fausses promotions, des contrefaçons et des sites frauduleux.",
+            "Les consommateurs sont invités à vérifier l’authenticité des offres et à utiliser des plateformes sécurisées.",
+            "Les autorités alertent sur les risques liés aux achats impulsifs et aux paiements non sécurisés.",
+            "Des conseils pratiques sont partagés pour distinguer les bonnes affaires des arnaques et protéger ses données personnelles."
           ],
           "sources": []
         }
       ]
     },
     {
-      "label": "Impression 3D",
+      "label": "Sport général",
       "sujets": [
         {
-          "title": "Formnext 2026 : l’impression 3D se démocratise et s’industrialise",
+          "title": "Rugby : finale du Championnat des nations France vs Springboks diffusée au Grand Rex à Paris",
           "bullets": [
-            "L’événement Formnext 2026 a réuni 38 447 visiteurs et 765 exposants, illustrant la croissance du secteur.",
-            "Les innovations portent sur la démocratisation et l’industrialisation de l’impression 3D.",
-            "Des solutions plus accessibles et performantes sont présentées pour les entreprises et les particuliers.",
-            "L’impression 3D devient un outil clé pour la production et la prototypage."
+            "La finale du Championnat des nations entre la France et les Springboks sera diffusée exceptionnellement au Grand Rex à Paris.",
+            "Cet événement marque une première pour le rugby français, offrant une expérience unique aux fans.",
+            "La France affronte les Springboks, champions du monde en titre, dans un match haut en enjeux sportifs et médiatiques.",
+            "Cette diffusion spectaculaire vise à renforcer l’attrait du rugby en France et à mobiliser un large public."
           ],
-          "sources": [
-            {
-              "name": "3dnatives.com",
-              "url": "https://www.3dnatives.com/formnext-2026-tendances-24112026/"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "AXILOOP MC8 : une imprimante 3D modulaire conçue pour la durabilité",
+          "title": "Paris Basketball : septième victoire consécutive en Euroligue",
           "bullets": [
-            "L’imprimante AXILOOP MC8 se distingue par sa modularité et sa facilité de réparation.",
-            "Conçue pour durer, elle s’adresse aux professionnels et aux makers cherchant une solution robuste.",
-            "Les composants interchangeables réduisent les coûts de maintenance et prolongent la durée de vie.",
-            "Un pas vers une impression 3D plus durable et moins polluante."
+            "Le Paris Basketball remporte une septième victoire consécutive en Euroligue, battant Besiktas sur son parquet.",
+            "Cette série de succès renforce la position du club parisien dans la compétition européenne.",
+            "Le Paris Basketball se distingue par son jeu offensif et sa cohésion d’équipe.",
+            "Cette performance illustre l’ambition du club de rester compétitif dans l’élite européenne du basket-ball."
           ],
-          "sources": [
-            {
-              "name": "3dnatives.com",
-              "url": "https://www.3dnatives.com/axiloop-mc8-imprimante-3d/"
-            }
-          ]
+          "sources": []
         },
         {
-          "title": "Imprimante 3D à 450 dollars capable de fabriquer de la matière vivante",
+          "title": "Gilbert Bauvin, légende du cyclisme français, est décédé",
           "bullets": [
-            "Une imprimante 3D à bas coût permet de créer des structures biologiques à partir de cellules vivantes.",
-            "Cette technologie ouvre des perspectives en médecine régénérative et en biologie synthétique.",
-            "Les applications potentielles incluent la fabrication de tissus humains ou de bio-matériaux.",
-            "Un pas significatif vers une bio-impression plus accessible et innovante."
+            "Gilbert Bauvin, ancien coureur cycliste français et légende du sport, est décédé à 86 ans.",
+            "Il a marqué l’histoire du cyclisme par ses performances et son engagement dans le sport amateur.",
+            "Gilbert Bauvin était connu pour son professionnalisme et son esprit de compétition.",
+            "Sa disparition est un hommage à une époque dorée du cyclisme français et à une carrière exemplaire."
           ],
           "sources": []
         }
@@ -421,7 +337,7 @@
             "Stade : Parc des Princes",
             "Diffusion : Canal+",
             "Classement : 1er de Ligue 1 — 26 pts en 11 matchs",
-            "Ligue des champions : 1er de la phase de ligue (12 pts)",
+            "Ligue des champions : 2e de la phase de ligue (12 pts)",
             "AS Monaco — Stade : Stade Louis-II · Capacité : 16 500 places · Entraîneur : Filipe Luís"
           ],
           "sources": [
